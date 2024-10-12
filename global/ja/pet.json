@@ -1,0 +1,2630 @@
+{
+	"FightPet_1": {
+		"name": "カカ",
+		"description": "ケートス島のDr.クレアが研究開発した初期型のAIサーバント。新たな作戦に対応すべく、AIサーバント協力戦闘機能が試験的に搭載されている",
+		"PetElementType": "Physics",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_018.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_1.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_1.webp"
+		},
+		"skills": [
+			{
+				"name": "カカタックル",
+				"description": "カカは前方に向かって突撃し、敵に攻撃力×**765% / 1147% / 1147%**のダメージを与える。さらに自身の攻撃力+**10%**、8秒間持続",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_018_act01.webp"
+			},
+			{
+				"name": "カカフラッシュ",
+				"description": "カカは力を一定時間蓄え、前方に向かってレーザー砲を放つ。敵に攻撃力×**1613% / 1613% / 1613%**のダメージを与え、さらにマスターのHPをカカ自身の攻撃力×**1613% / 1613% / 1613%**ぶん回復させる",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_018_act02.webp"
+			},
+			{
+				"name": "カカパンチ",
+				"description": "カカは左右の拳を前へと突き出し、前方の敵にパンチを2発繰り出す。1発ごとに攻撃力×**496% / 496% / 744%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_018_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\nカカタックルのダメージが**1147%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_1",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\nカカパンチの1発ごとのダメージが**744%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_1",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\nカカフラッシュのダメージが**2420%**まで UP、HPの回復量は**140%**まで UP。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_1",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "赤鉱",
+					"description": "九域の珍しい鉱石。鮮血を注いだような赤色をしている",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・火鼠を撃破",
+						"火州・牛鬼を撃破",
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_1"
+	},
+	"FightPet_2": {
+		"name": "虚無の天使",
+		"description": "旧連邦時代には既に存在した多目的AIサーバント。様々な場面で広く利用されていたが、新たな作戦に対応すべく、AIサーバント協力戦闘機能が試験的に搭載されている",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_025.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_2.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_2.webp"
+		},
+		"skills": [
+			{
+				"name": "火炎弾",
+				"description": "虚無の天使は右腕を持ち上げ、敵に火炎弾を4発放つ。火炎弾は1発ごとに攻撃力×**413% / 413% / 413%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_025_act01.webp"
+			},
+			{
+				"name": "火炎噴流",
+				"description": "虚無の天使は両腕を水平に持ち上げ炎を放射し、前方にいる敵に4発の炎攻撃を行う。1発ごとに攻撃力×**78% / 118% / 118%**のダメージを与え、さらに攻撃力×**78% / 118% / 118%**の燃焼効果を付与する、5秒間持続。燃焼効果を受けている敵の回復効果-50%",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_025_act02.webp"
+			},
+			{
+				"name": "天使の怒り",
+				"description": "虚無の天使は両腕を高く持ち上げ、頭上で火の球を作り前方にいる敵に投球する。敵に攻撃力×**600% / 600% / 901%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_025_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\n火炎噴流の1発ごとのダメージが**118%**まで UP、燃焼ダメージが**90%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_2",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\n天使の怒りのダメージが**901%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_2",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\n火炎弾の1発ごとのダメージが**619%**まで UP。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_2",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "赤鉱",
+					"description": "九域の珍しい鉱石。鮮血を注いだような赤色をしている",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・火鼠を撃破",
+						"火州・牛鬼を撃破",
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_2"
+	},
+	"FightPet_3": {
+		"name": "アンジェラ",
+		"description": "旧連邦時代には既に存在した攻撃型AIサーバント。本来は娯楽用に使用されていたが、新たな作戦に対応すべく、AIサーバント協力戦闘機能が試験的に搭載されている。",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_027.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_3.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_3.webp"
+		},
+		"skills": [
+			{
+				"name": "アイスバースト",
+				"description": "アンジェラは両腕を持ち上げ、敵がいる位置に氷爆を1回行う。敵に攻撃力×**987% / 987% / 1481%**のダメージを与え、さらに敵を凍傷状態にする。6秒間持続。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_027_act01.webp"
+			},
+			{
+				"name": "アイをアナタに！",
+				"description": "アンジェラは両腕を高く持ち上げ、頭上で氷の球を作り前方にいる敵に投球する。敵に攻撃力×**1112% / 1112% / 1112%**のダメージを与え、さらに敵を凍傷状態にする。6秒間持続",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_027_act02.webp"
+			},
+			{
+				"name": "スカイキック",
+				"description": "アンジェラは一定距離を飛んだあと降下しながら蹴りを放ち、軌道上の敵に攻撃力×**1068% / 1602% / 1602%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_027_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\nスカイキックのダメージが**1602%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_3",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\nアイスバーストのダメージが**1481%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_3",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\nアイをアナタに！のダメージが**1668%**まで UP。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_3",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "赤鉱",
+					"description": "九域の珍しい鉱石。鮮血を注いだような赤色をしている",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・火鼠を撃破",
+						"火州・牛鬼を撃破",
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_3"
+	},
+	"FightPet_4": {
+		"name": "月うさぎ",
+		"description": "ベンジス重工が製造したアシスタント用のAIサーバント。新たな作戦に対応すべく、AIサーバント協力戦闘機能が試験的に搭載されている。",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_015.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_4.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_4.webp"
+		},
+		"skills": [
+			{
+				"name": "月面電来",
+				"description": "月うさぎは回転しながら前方に向かって突進し、雷を帯びた両腕で周りの敵に6発の雷攻撃を行う。1発ごとに攻撃力×**163% / 244% / 244%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_015_act01.webp"
+			},
+			{
+				"name": "月兎射撃",
+				"description": "月うさぎは両腕の先から大きな雷の弾丸を放ち、前方にいる敵に3発の雷攻撃を行う。1発ごとに攻撃力×**382% / 382% / 573%**のダメージを与え、マスターに月うさぎ自身の攻撃力×**382% / 382% / 573%**のHPシールドを付与する。シールドは5秒間持続",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_015_act02.webp"
+			},
+			{
+				"name": "雷霆降臨",
+				"description": "月うさぎは自身の周りに雷霆を落とし、周囲の敵に雷攻撃を6発放つ。1発ごとに攻撃力×**348% / 348% / 348%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_015_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\n月面電来の1発ごとのダメージが**244%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_4",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\n月兎射撃の1発ごとのダメージが**573%**まで UP、HPシールド値が**120%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_4",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\n雷霆降臨の1発ごとのダメージが**522%**まで UP。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_4",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "赤鉱",
+					"description": "九域の珍しい鉱石。鮮血を注いだような赤色をしている",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・火鼠を撃破",
+						"火州・牛鬼を撃破",
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_4"
+	},
+	"FightPet_5": {
+		"name": "Flame Sparrow",
+		"description": "聆巧が九域の焔々団雀を参考にして製造した新型AIサーバント。新たな作戦に対応すべく、協力戦闘機能が試験的に搭載されている",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Preview_BattleRobot_001.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_BattleRobot_001.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_5.webp"
+		},
+		"skills": [
+			{
+				"name": "火炎吐息",
+				"description": "火羽雀が敵に向かって3連続で炎を放射し、1発ごとに攻撃力×**489% / 489% / 733%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_001_act01.webp"
+			},
+			{
+				"name": "火炎爆弾",
+				"description": "火羽雀が鉤爪に火炎爆弾を1つ装填し、一定時間飛行したあと敵に向かって投下。敵に攻撃力×**815% / 1222% / 1222%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_001_act02.webp"
+			},
+			{
+				"name": "熱炎疾走",
+				"description": "火羽雀が全力で一定距離を飛んだあと、鳳凰に姿を変え、敵へと降下。敵に攻撃力×**1351% / 1351% / 1351%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_001_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\n火炎爆弾のダメージが**1222%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_5",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\n火炎吐息の1発ごとのダメージが**733%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_5",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\n熱炎疾走のダメージが**2026%**まで UP。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_5",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "赤鉱",
+					"description": "九域の珍しい鉱石。鮮血を注いだような赤色をしている",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・火鼠を撃破",
+						"火州・牛鬼を撃破",
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_5"
+	},
+	"FightPet_6": {
+		"name": "Mi-a戦闘相棒",
+		"description": "アストラシェルターでシャーリーに紹介された最初のAIサーバント。喋るのは得意ではないが、面倒見がいい。協力戦闘機能を追加された",
+		"PetElementType": "Superpower",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_mia.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_6.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_6.webp"
+		},
+		"skills": [
+			{
+				"name": "バブル砲弾",
+				"description": "Mi-aの探索者用飲み物はエネルギー弾の補充にも使用できる。エナジー弾が敵に命中すると攻撃力×**817% / 817% / 1225%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_004_act01.webp"
+			},
+			{
+				"name": "Mi-a信号砲",
+				"description": "Mi-aがエネルギーを束状に凝縮し、チャージして攻撃を行う。敵に命中すると攻撃力×**725% / 1088% / 1088%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_004_act02.webp"
+			},
+			{
+				"name": "丹精",
+				"description": "Mi-aの料理用のまな板から、一時的なエナジー板が生成されて攻撃を行う。敵に命中すると攻撃力×**876% / 876% / 876%**のダメージを与え、さらに移動速度-20%。2秒間持続",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_004_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\nMi-a信号砲のダメージが**1088%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_6",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\nバブル砲弾のダメージが**1225%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_6",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\n丹精のダメージが**1314%**まで UP。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_6",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "赤鉱",
+					"description": "九域の珍しい鉱石。鮮血を注いだような赤色をしている",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・火鼠を撃破",
+						"火州・牛鬼を撃破",
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_6"
+	},
+	"FightPet_7": {
+		"name": "東雲",
+		"description": "天章閣と九域重機の共同プロジェクトによって誕生した渾身の商品。青龍様のペットを九域全土に普及させるという戦略のもと開発されたという",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_003.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_003.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_7.webp"
+		},
+		"skills": [
+			{
+				"name": "遊龍戯玉",
+				"description": "東雲は自身の雷の力を凝縮した雷の玉を作り出し、敵を攻撃する。命中時に大量の雷を解き放ち、範囲内の敵に攻撃力×**1661% / 2491% / 2491%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_003_act01.webp"
+			},
+			{
+				"name": "御雷",
+				"description": "東雲が雷を呼び寄せ、前方の敵を攻撃する。攻撃力×**545% / 545% / 545%**のダメージを5回与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_003_act02.webp"
+			},
+			{
+				"name": "雷霆円環",
+				"description": "東雲が雷の力を操り、しっぽに雷霆円環を2つ作って敵に向かって放つ。雷霆円環1つにつき攻撃力×**1053% / 1053% / 1579%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_003_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\n遊龍戯玉によるダメージが**2491%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_7",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\n雷霆円環の1発ごとのダメージが**1579%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_7",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\n御雷の1発ごとのダメージが**817%**まで UP。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_7",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_7"
+	},
+	"FightPet_8": {
+		"name": "レイヤ",
+		"description": "「セシリン共同株式会社がお届けする『最終兵器』シリーズ(型番γ1O-A)。当社セシリン社はハガード・九域AIサーバント連盟の一員として、ハガード向けにAIサーバントを提供する世界唯一のメーカーです。会社設立からわずかひと月足らずで量産型AIサーバントを市場に投入した当社は、今世紀最高のエンジニア・セシリー氏と聆巧氏によって設立されました。現在、AIサーバントやその関連商品、フィギュアなど周辺グッズの開発で知られる当社ですが、今後はニッチ市場の開拓やアルティメット戦士など有名コンテンツとのコラボレーションも視野に入れ、新たなビジネス・エコシステムの創造へと邁進してまいります。当社への投資をお考えの方はお気軽にお問い合わせください。電話番号***-********\r\n新たな作戦に対応するため、AIサーバント協力戦闘機能が試験的に搭載されています。",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_002.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_002.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_8.webp"
+		},
+		"skills": [
+			{
+				"name": "氷爪",
+				"description": "レイヤが一対の氷爪を交互に投げ、ターゲットに攻撃力×**568% / 852% / 852%**のダメージを2発与える。次に、交わる爪痕を発射し、攻撃力×**568% / 852% / 852%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_002_skill1.webp"
+			},
+			{
+				"name": "Frozen Wing",
+				"description": "レイヤが氷を凝結した双翼で敵を切り裂き、攻撃力×**765% / 765% / 1147%**のダメージを2回与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_002_skill2.webp"
+			},
+			{
+				"name": "寒氷嵐",
+				"description": "レイヤがターゲットの位置に5秒間持続する寒氷嵐を呼び寄せ、0.5秒ごとに攻撃力×**447% / 447% / 447%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_002_skill3.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。\r\n動源吸収レベル+1",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\n氷爪の1撃ごとのダメージが**852%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_8",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\n霜刃の1撃ごとのダメージが**1147%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_8",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\n寒氷嵐の1撃ごとのダメージが**670%**まで UP。\r\nモジュールスロット数は**4**、負荷値は**15**。\r\n動源吸収レベル+1",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_8",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "赤鉱",
+					"description": "九域の珍しい鉱石。鮮血を注いだような赤色をしている",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・火鼠を撃破",
+						"火州・牛鬼を撃破",
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_8"
+	},
+	"FightPet_9": {
+		"name": "Aurawolf",
+		"description": "聆巧が九域に伝わる神話を参考にして製造した新型AIサーバント。新たな作戦に対応すべく、協力戦闘機能が試験的に搭載されている",
+		"PetElementType": "Physics",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Preview_BattleRobot_005.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_9.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_9.webp"
+		},
+		"skills": [
+			{
+				"name": "チャージパルスキャノン",
+				"description": "金狼が口を開いて砲口を構える。エネルギーを溜めた後に強力な光線を発射し、命中したターゲットに対し攻撃力×**1012% / 1518% / 1518%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_005_act01.webp"
+			},
+			{
+				"name": "フレンジークロー",
+				"description": "金狼は両手の爪を連続で素早く振り、計6回の爪攻撃を繰り出す。各爪攻撃は命中したターゲットに対し攻撃力×**214% / 214% / 214%**のダメージを与える。その後、少し力を蓄え、前方に向かって強力な爪攻撃を2回繰り出し、命中したターゲットに対し攻撃力×**214% / 214% / 214%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_005_act02.webp"
+			},
+			{
+				"name": "トリプルストライク",
+				"description": "金狼は前方に向かって全力の爪攻撃を2回繰り出し、各爪攻撃ごとに攻撃力×**347% / 347% / 520%**のダメージを与える。その後、背中の推進器で前方に向かって回転しながらしっぽで敵を叩き、同時にエネルギー・ブレードを発射する。しっぽ攻撃が命中すると攻撃力×**347% / 347% / 520%**のダメージを与え、エネルギー・ブレードが命中すると攻撃力×**347% / 347% / 520%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_005_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\nチャージパルスキャノンのダメージが**1518%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_9",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\nトリプルストライクの1発ごとのダメージが**520%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_9",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\nフレンジークローの1~6段目のダメージが**321%**まで UPし、そのあとの2段のダメージが**618%**まで UPする。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_9",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "動力コア",
+					"description": "機械を稼働し続けることができる、貴重なエナジーコア",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_030.webp",
+					"type": "GIFT",
+					"source": [
+						"水州・偵察兵を撃破",
+						"水州・溶炉を撃破",
+						"水州・英招を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_030"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "機械用ボルト",
+					"description": "一般的な機械パーツ。サイズは小さく、用途は広く",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_031.webp",
+					"type": "GIFT",
+					"source": [
+						"水州・偵察兵を撃破",
+						"水州・溶炉を撃破",
+						"水州・英招を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_031"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "赤鉱",
+					"description": "九域の珍しい鉱石。鮮血を注いだような赤色をしている",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・火鼠を撃破",
+						"火州・牛鬼を撃破",
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_9"
+	},
+	"FightPet_10": {
+		"name": "雪絨",
+		"description": "虎をモチーフに設計された次世代AIサーバント。雪絨が駆けた道には細やかな氷の結晶が残る。新たな作戦に対応すべく、AIサーバント協力戦闘機能が試験的に搭載されている",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Preview_BattleRobot_008.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_008.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_10.webp"
+		},
+		"skills": [
+			{
+				"name": "寒氷の矢",
+				"description": "雪絨が手を叩くと、6本の氷のトゲを自身の周囲に集め、両手を振りながら氷のトゲを2回に分けて打ち出す。命中したターゲットに対し1本ごとに攻撃力×**242% / 242% / 363%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_008_act01.webp"
+			},
+			{
+				"name": "アークティック",
+				"description": "雪絨は高く飛び上がり、ターゲットがいる位置に氷柱を生成し、命中したターゲットに対し攻撃力×**995% / 995% / 995%**のダメージを与える。その後氷柱は砕け散り、命中したターゲットに対し攻撃力×**995% / 995% / 995%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_008_act02.webp"
+			},
+			{
+				"name": "あっち行けー！",
+				"description": "雪絨は両手を掲げ、頭上に巨大な雪玉を集めてターゲットに投げつける。命中したターゲットに対し攻撃力×**1273% / 1909% / 1909%**のダメージを与える",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_008_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\nあっち行けー！のダメージが**1909%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_10",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\n寒氷の矢の1発ごとのダメージが**363%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_10",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\n深寒極地の1発ごとのダメージが**1492%**まで UP。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_10",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "赤鉱",
+					"description": "九域の珍しい鉱石。鮮血を注いだような赤色をしている",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・火鼠を撃破",
+						"火州・牛鬼を撃破",
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_10"
+	},
+	"FightPet_11": {
+		"name": "ペンペン",
+		"description": "葛城ミサトが飼っているペットで、いつも彼女のアパートの専用冷蔵庫に住んでいる。お風呂が大好きで、翼の先でボタンを押すことができる。人間のように寝たり、お風呂に入ったり、新聞を読んだりすることができる。シンジたちがミラポリスの星ノ海アパートに滞在している時も、そこの冷蔵庫から現れた",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Preview_BattleRobot_011.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_011.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_11.webp"
+		},
+		"skills": [
+			{
+				"name": "煙幕ダッシュ",
+				"description": "ペンペンが敵の付近まで突進し、一面の煙を放つ。煙の範囲内の敵は毎秒攻撃力×**351% / 526% / 526%**のダメージと減速を受ける。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_011_act01.webp"
+			},
+			{
+				"name": "缶爆弾",
+				"description": "ペンペンが大量の缶を前方に向かって投げる。缶は炸裂するたび、敵に攻撃力×**412% / 412% / 618%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_011_act02.webp"
+			},
+			{
+				"name": "ペンペン応援",
+				"description": "ペンペンが翼をパタパタさせて、同行プレイヤーを励ます。励まされたプレイヤーは攻撃力×**220% / 220% / 220%**のHPを回復する。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_011_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**4%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**6%**まで UP。\r\n煙幕の1撃ごとのダメージが**526%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_11",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**8%**まで UP。\r\n缶攻撃の1発ごとのダメージが**618%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_11",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**10%**まで UP。\r\n回復量が**330%**まで UP。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_11",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "ペット用行動制限モジュール",
+					"description": "ペンペンのジェットパックをレベルアップできる。ペンギンでも操作しやすい機能が盛りだくさん",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/penpen_harvest.webp",
+					"type": "GIFT",
+					"source": [
+						"イベント「絶対防衛ライン」で獲得"
+					],
+					"id": "PENPEN_Harvest"
+				},
+				"exp": 60
+			}
+		],
+		"id": "FightPet_11"
+	},
+	"FightPet_12": {
+		"name": "ガブ",
+		"description": "ジークがシャーリーのために手作りした、猫耳をつけた不思議な子グマのおもちゃ。少し稚拙な見た目だが、兄の妹への純粋な愛情が込められている",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Preview_BattleRobot_010.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_010.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_010.webp"
+		},
+		"skills": [
+			{
+				"name": "電磁爆弾",
+				"description": "ガブが電磁爆弾を投げつけ、爆発すると範囲内の敵に攻撃力×**1621% / 1621% / 2431%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_010_act01.webp"
+			},
+			{
+				"name": "パルス電界",
+				"description": "ガブがチャージを始め、目の前にいる広範囲の敵に攻撃力×**1361% / 2041% / 2041%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_010_act02.webp"
+			},
+			{
+				"name": "磁雷的槍",
+				"description": "ガブが2本の雷槍を敵に投げつけ、それぞれ攻撃力×**876% / 876% / 876%**のダメージを与えたのち、さらに巨大雷槍を1本投げ、攻撃力×**876% / 876% / 876%**のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_010_act03.webp"
+			}
+		],
+		"properties": "AIサーバントの攻撃力はマスターの炎、氷、雷、物理の基礎攻撃力の平均値の**12%**を引き継いだ値となる(基本ステータスをもとに計算)。\r\nモジュールスロット数は**1**、負荷値は**5**。",
+		"advancements": [
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**18%**まで UP。\r\nパルス電界によるダメージが**2041%**まで UP。\r\nモジュールスロット数は**2**、負荷値は**8**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_12",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**24%**まで UP。\r\n電磁爆弾のダメージが**2431%**まで UP。\r\nモジュールスロット数は**3**、負荷値は**11**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_12",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "攻撃力として引き継ぐ際の割合が**30%**まで UP。\r\n磁雷的槍のダメージが**1314%**まで UPし、そのあとの巨大雷槍ダメージが**2146%**まで UPする。\r\nモジュールスロット数は**4**、負荷値は**15**。",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_12",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "周りに付着しているエネルギー体は、捕食した生物の残留エネルギーによって形成されたものだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・饕餮を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "武器許可の割符",
+					"description": "武器の使用権限の付与に用いられる鍵",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"雷州・闇鬼-龍驤を撃破",
+						"雷州・呪甲を撃破",
+						"水州・闇鬼-鉄亀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "鱗鎧",
+					"description": "一般的な小型の防具だが、その防護性能はなかなかのもの",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・闇鬼-雀尾を撃破",
+						"火州・闇鬼-火州域衛を撃破",
+						"火州・闇鬼-雷州域衛を撃破",
+						"水州・闇鬼-水州域衛を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "烏の羽",
+					"description": "飛んでいる時の、ヒューヒューという音が聞こえてきそうだ",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-烏を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "朱厭の鱗",
+					"description": "鱗のようにぎっしり詰まったこしらえから、高度に発達した文明により製造されたことが分かる",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・朱厭を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "九域の珍しい鉱石で、合金装置の製造に必須の素材",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・瞑闇-連星を撃破",
+						"火州・瞑闇-獅子を撃破",
+						"火州・瞑闇-小吏を撃破",
+						"火州・瞑闇-吏目を撃破",
+						"火州・瞑闇-石狼を撃破",
+						"火州・瞑闇-凶狼を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "九域の珍しい鉱石。陽光を反射してキラキラと輝く",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・四足雀を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "九域の珍しい鉱石。不思議な色をしているのは、希少物質が含まれているためだ",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・三尾を撃破",
+						"火州・鎧鹿を撃破",
+						"火州・鎧熊を撃破"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "紫水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で紫色の光を反射しやすい構造になっていることから名付けられた。少量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・魘魅を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "黄水精",
+					"description": "地脈から地表に放出される動源によって形成される結晶。地質の影響で黄色の光を反射しやすい構造になっていることから名付けられた。大量の動源が得られる",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"火州・霊霧峰",
+						"火州・豊翼を撃破"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_12"
+	}
+}

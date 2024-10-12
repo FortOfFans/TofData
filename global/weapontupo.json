@@ -1,0 +1,197 @@
+{
+	"Chainsaw_physic": {
+		"name": "Mini Hurricane",
+		"mats": "physic_ssr_tupo_AC",
+		"id": "Chainsaw_physic"
+	},
+	"digger_thunder": {
+		"name": "Thunderblades",
+		"mats": "thunder_ssr_tupo_AD",
+		"id": "digger_thunder"
+	},
+	"bigsword_ice": {
+		"name": "Rosy Edge",
+		"mats": "ice_ssr_tupo_AC",
+		"id": "bigsword_ice"
+	},
+	"bow_ice": {
+		"name": "Icewind Arrow",
+		"mats": "ice_ssr_tupo_AD",
+		"id": "bow_ice"
+	},
+	"stave_ice": {
+		"name": "Absolute Zero",
+		"mats": "ice_ssr_tupo_BC",
+		"id": "stave_ice"
+	},
+	"sickle_fire": {
+		"name": "Scythe of the Crow",
+		"mats": "fire_ssr_tupo_BD",
+		"id": "sickle_fire"
+	},
+	"gun_fire": {
+		"name": "Flaming Revolver",
+		"mats": "fire_ssr_tupo_AC",
+		"id": "gun_fire"
+	},
+	"sword_physic": {
+		"name": "Guren Blade",
+		"mats": "physic_ssr_tupo_AD",
+		"id": "sword_physic"
+	},
+	"darts_physic": {
+		"name": "Chakram of the Seas",
+		"mats": "physic_ssr_tupo_BC",
+		"id": "darts_physic"
+	},
+	"cube_fire": {
+		"name": "Negating Cube",
+		"mats": "fire_ssr_tupo_BD",
+		"id": "cube_fire"
+	},
+	"dgun_thunder": {
+		"name": "Dual EM Stars",
+		"mats": "thunder_ssr_tupo_AC",
+		"id": "dgun_thunder"
+	},
+	"ShieldAxe_Fire": {
+		"name": "Molten Shield V2",
+		"mats": "fire_ssr_tupo_BD",
+		"id": "ShieldAxe_Fire"
+	},
+	"mimi_thunder": {
+		"name": "Azure Dragon",
+		"mats": "thunder_ssr_tupo_BD",
+		"id": "mimi_thunder"
+	},
+	"Nanyin_superpower": {
+		"name": "Purple Bamboo",
+		"mats": "superpower_ssr_tupo_BD",
+		"id": "Nanyin_superpower"
+	},
+	"Paradox_fire": {
+		"name": "EP-7000 Skyfire",
+		"mats": "fire_ssr_tupo_BD",
+		"id": "Paradox_fire"
+	},
+	"Linghan_ice": {
+		"name": "Alabaster Tiger",
+		"mats": "ice_ssr_tupo_BD",
+		"id": "Linghan_ice"
+	},
+	"Suspension_thunder": {
+		"name": "Venus",
+		"mats": "thunder_ssr_tupo_BD",
+		"id": "Suspension_thunder"
+	},
+	"Frigg_ice": {
+		"name": "Balmung",
+		"mats": "ice_ssr_tupo_AC",
+		"id": "Frigg_ice"
+	},
+	"funnel_fire": {
+		"name": "Spark",
+		"mats": "fire_ssr_tupo_BD",
+		"id": "funnel_fire"
+	},
+	"Dkatana_ice": {
+		"name": "Heartstream",
+		"mats": "ice_ssr_tupo_AC",
+		"id": "Dkatana_ice"
+	},
+	"fan_superpower": {
+		"name": "Shadoweave",
+		"mats": "superpower_ssr_tupo_BD",
+		"id": "fan_superpower"
+	},
+	"tianlang_thunder": {
+		"name": "Thunderbreaker",
+		"mats": "thunder_ssr_tupo_BD",
+		"id": "tianlang_thunder"
+	},
+	"arm_physic": {
+		"name": "Vesper",
+		"mats": "physic_ssr_tupo_AC",
+		"id": "arm_physic"
+	},
+	"Rubilia_thunder": {
+		"name": "Lost Art",
+		"mats": "thunder_ssr_tupo_BD",
+		"id": "Rubilia_thunder"
+	},
+	"iceblade_ice": {
+		"name": "Unyielding Wing",
+		"mats": "ice_ssr_tupo_BD",
+		"id": "iceblade_ice"
+	},
+	"Killknife_physic": {
+		"name": "Equilibrium",
+		"mats": "physic_ssr_tupo_AC",
+		"id": "Killknife_physic"
+	},
+	"Lances_Ice": {
+		"name": "Wicked",
+		"mats": "ice_ssr_tupo_BD",
+		"id": "Lances_Ice"
+	},
+	"Blevi_thunder": {
+		"name": "Pactcrest ☆ Metz",
+		"mats": "thunder_ssr_tupo_BD",
+		"id": "Blevi_thunder"
+	},
+	"Snipe_fire": {
+		"name": "Clover Cross",
+		"mats": "fire_ssr_tupo_AC",
+		"id": "Snipe_fire"
+	},
+	"Asuka_physic": {
+		"name": "Spear of Longinus",
+		"mats": "physic_ssr_tupo_AC",
+		"id": "Asuka_physic"
+	},
+	"brush_fire": {
+		"name": "Pine Comet",
+		"mats": "fire_ssr_tupo_AC",
+		"id": "brush_fire"
+	},
+	"Whip_physic": {
+		"name": "Mobius",
+		"mats": "physic_ssr_tupo_AC",
+		"id": "Whip_physic"
+	},
+	"feise_fire": {
+		"name": "Endless Bloom",
+		"mats": "fire_ssr_tupo_AC",
+		"id": "feise_fire"
+	},
+	"fenrir_thunder": {
+		"name": "Gleipnir",
+		"mats": "thunder_ssr_tupo_BD",
+		"id": "fenrir_thunder"
+	},
+	"umbrella_fire": {
+		"name": "Vermilion Bird",
+		"mats": "fire_ssr_tupo_AC",
+		"id": "umbrella_fire"
+	},
+	"Yoyo_ice": {
+		"name": "Precious One",
+		"mats": "ice_ssr_tupo_BD",
+		"id": "Yoyo_ice"
+	},
+	"yulan_ice": {
+		"name": "Unity",
+		"mats": "ice_ssr_tupo_BD",
+		"id": "yulan_ice"
+	},
+	"Zeke_physic": {
+		"name": "Onyx Tortoise",
+		"mats": "physic_ssr_tupo_AC",
+		"id": "Zeke_physic"
+	},
+	"queen_superpower": {
+		"name": "Moonstar Bracelet",
+		"mats": "superpower_ssr_tupo_AC",
+		"id": "queen_superpower"
+	}
+}

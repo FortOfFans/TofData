@@ -1,0 +1,2630 @@
+{
+	"FightPet_1": {
+		"name": "Kalka",
+		"description": "Smart Servant generasi awal yang dikembangkan oleh Dr. Claire dari Pulau Cetus. Modul tempur baru telah diuji pada Smart Servant ini agar bisa memenuhi syarat pertempuran terbaru.",
+		"PetElementType": "Physics",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_018.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_1.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_1.webp"
+		},
+		"skills": [
+			{
+				"name": "Kalka Impact",
+				"description": "Kalka menerjang ke depan, menimpakan DMG sebesar **765% / 1147% / 1147%** ATK kepada terget di depan dan meningkatkan ATK sendiri sebesar **10%** selama 8 detik.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_018_act01.webp"
+			},
+			{
+				"name": "Kalka Laser",
+				"description": "Kalka mulai mengisi tenaga, lalu menembakkan pancaran laser ke depan, menimpakan DMG sebesar **1613% / 1613% / 1613%** ATK kepada target di depan dan memulihkan HP pemiliknya sebesar **1613% / 1613% / 1613%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_018_act02.webp"
+			},
+			{
+				"name": "Kalka Fist",
+				"description": "Kalka meninju ke depan dengan tangan kiri dan kanannya secara berturut-turut, melancarkan 2 pukulan kepada musuh di depannya. Setiap serangan yang kena menimpakan DMG sebesar **496% / 496% / 744%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_018_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **6%**.\r\nDMG Kalka Impact meningkat menjadi **1.147%**.\r\nMemerlukan **2** slot modul dan **8** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_1",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG Kalka Fist tiap putaran meningkat menjadi **744%**.\r\nMemerlukan **3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_1",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **10%**.\r\nDMG Kalka Laser meningkat menjadi **2.420%** dan pemulihan HP meningkat menjadi **140%** ATK.\r\nMemerlukan **4** slot modul dan **15** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_1",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Red Ore",
+					"description": "Bijih aneh dari Domain 9. Warna merahnya yang cerah mengingatkan kita pada darah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Firerat",
+						"Ignisville - Kalahkan Cyox",
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_1"
+	},
+	"FightPet_2": {
+		"name": "Void Angel",
+		"description": "Smart Servant serbaguna yang berasal dari zaman Federasi Lama ini bisa digunakan dalam berbagai situasi. Modul tempur baru telah diuji pada Smart Servant ini agar bisa memenuhi syarat pertempuran terbaru.",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_025.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_2.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_2.webp"
+		},
+		"skills": [
+			{
+				"name": "Firebomb",
+				"description": "Void Angel mengangkat tangan kanannya, menembakkan 4 Firebomb ke musuh. Setiap Firebomb menimbulkan DMG sebesar **413% / 413% / 413%** ATK kepada musuh yang kena.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_025_act01.webp"
+			},
+			{
+				"name": "Flame Jet",
+				"description": "Void Angel mengangkat kedua tangannya dan melontarkan kobaran api, melancarkan serangan Flame selama 4 tahap kepada musuh di depan. Setiap serangan yang kena akan menimpakan DMG sebesar **78% / 118% / 118%** ATK dan membakar musuh dengan DMG sebesar **78% / 118% / 118%** ATK selama 5 detik. Saat terbakar, efek penyembuhan target berkurang 50%.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_025_act02.webp"
+			},
+			{
+				"name": "Angel's Wrath",
+				"description": "Angela mengangkat kedua tangannya, menciptakan bola api di atas kepalanya, lalu melemparkannya ke musuh di depan, menimpakan DMG sebesar **600% / 600% / 901%** ATK kepada musuh yang kena.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_025_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **6%**.\r\nDMG Flame Jet tiap putaran meningkat menjadi **118%**, dan DMG efek Burn tiap putaran meningkat menjadi **90%**.\r\nMemerlukan **2** slot modul dan **8** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_2",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG Angel Wrath meningkat menjadi **901%**.\r\nMemerlukan **3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_2",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **10%**.\r\nDMG Firebomb tiap putaran meningkat menjadi **619%**.\r\nMemerlukan **4** slot modul dan **15** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_2",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "Red Ore",
+					"description": "Bijih aneh dari Domain 9. Warna merahnya yang cerah mengingatkan kita pada darah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Firerat",
+						"Ignisville - Kalahkan Cyox",
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_2"
+	},
+	"FightPet_3": {
+		"name": "Angela",
+		"description": "Smart Servant yang berasal dari zaman Federasi Lama ini pada awalnya digunakan sebagai penampil hiburan. Modul tempur baru telah diuji pada Smart Servant ini agar bisa memenuhi syarat pertempuran terbaru.",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_027.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_3.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_3.webp"
+		},
+		"skills": [
+			{
+				"name": "Frozen Burst",
+				"description": "Angela mengangkat kedua tangannya, lalu memicu ledakan es di lokasi musuh, menimpakan DMG sebesar **987% / 987% / 1481%** ATK kepada musuh yang kena dan menerapkan Frostbite selama 6 detik.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_027_act01.webp"
+			},
+			{
+				"name": "Angela Loves You!",
+				"description": "Angela mengangkat kedua tangannya, menciptakan bola es di atas kepalanya, lalu melemparkannya ke musuh di depan, menimpakan DMG sebesar **1112% / 1112% / 1112%** ATK kepada musuh yang kena dan menerapkan Frostbite selama 6 detik.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_027_act02.webp"
+			},
+			{
+				"name": "Flying Kick Angela",
+				"description": "Angela terbang hingga mencapai ketinggian tertentu, lalu menerjang ke bawah sambil menendang, menimpakan DMG sebesar **1068% / 1602% / 1602%** ATK kepada musuh di sepanjang jalan.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_027_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **6%**.\r\nDMG Angela Flying Kick meningkat menjadi **1.602%**.\r\nMemerlukan **2** slot modul dan **8** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_3",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG Frozen Burst meningkat menjadi **1.481%**.\r\nMemerlukan **3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_3",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **10%**.\r\nDMG Angela Loves You! meningkat menjadi **1.668%**.\r\nMemerlukan **4** slot modul dan **15** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_3",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Red Ore",
+					"description": "Bijih aneh dari Domain 9. Warna merahnya yang cerah mengingatkan kita pada darah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Firerat",
+						"Ignisville - Kalahkan Cyox",
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_3"
+	},
+	"FightPet_4": {
+		"name": "Moonrabbit",
+		"description": "Smart Servant robot asisten ciptaan Banges Tech. Modul tempur Smart Servant baru telah diuji agar bisa memenuhi syarat pertempuran terbaru.",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_015.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_4.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_4.webp"
+		},
+		"skills": [
+			{
+				"name": "Moonrabbit Flurry",
+				"description": "Moonrabbit mulai berputar dan melesat maju, menggunakan lengannya yang dialiri listrik untuk melancarkan serangan Volt sebanyak 6 tahap kepada musuh di sekitar. Setiap serangan yang kena menimpakan DMG sebesar **163% / 244% / 244%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_015_act01.webp"
+			},
+			{
+				"name": "Moonrabbit Shot",
+				"description": "Moonrabbit menembakkan proyektil listrik besar dari lengannya, melancarkan serangan Volt ke musuh di depan dalam 3 tahap. Setiap serangan menimpakan DMG sebesar **382% / 382% / 573%** ATK dan memberikan perisai sebesar **382% / 382% / 573%** ATK kepada pemiliknya selama 5 detik.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_015_act02.webp"
+			},
+			{
+				"name": "Furious Rage",
+				"description": "Moonrabbit memunculkan sambaran guntur dan petir di sekelilingnya, melancarkan serangan Volt dalam 6 tahap ke musuh di sekitarnya. Setiap serangan menimpakan DMG sebesar **348% / 348% / 348%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_015_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **6%**.\r\nDMG Moonrabbit Flurry tiap putaran meningkat menjadi **244%**.\r\nMemerlukan **2** slot modul dan **8** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_4",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG Moonrabbit Shot tiap putaran meningkat menjadi **573%** dan Perisai HP meningkat menjadi **120%** ATK.\r\nMemerlukan **3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_4",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **10%**.\r\nDMG Furious Rage tiap putaran meningkat menjadi **522%**.\r\nMemerlukan **4** slot modul dan **15** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_4",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Red Ore",
+					"description": "Bijih aneh dari Domain 9. Warna merahnya yang cerah mengingatkan kita pada darah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Firerat",
+						"Ignisville - Kalahkan Cyox",
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_4"
+	},
+	"FightPet_5": {
+		"name": "Flame Sparrow",
+		"description": "Smart Servant generasi terbaru ciptaan Ling Qiao. Modelnya terinspirasi dari legenda Flaming Finch setempat. Modul tempurnya telah diuji agar bisa memenuhi syarat pertempuran terbaru.",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Preview_BattleRobot_001.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_BattleRobot_001.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_5.webp"
+		},
+		"skills": [
+			{
+				"name": "Flame Breath",
+				"description": "Flame Sparrow menyemburkan api ke arah musuh sebanyak 3 kali. Tiap semburannya menimpakan DMG sebesar **489% / 489% / 733%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_001_act01.webp"
+			},
+			{
+				"name": "Flame Bomb",
+				"description": "Flame Sparrow terbang selama beberapa saat, lalu menjatuhkan Firebomb yang dicengkeramnya ke arah musuh, menimpakan DMG sebesar **815% / 1222% / 1222%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_001_act02.webp"
+			},
+			{
+				"name": "Flame Dive",
+				"description": "Flame Sparrow terbang hingga mencapai ketinggian tertentu, lalu berubah menjadi Phoenix dan menerjang ke bawah, menimpakan DMG sebesar **1351% / 1351% / 1351%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_001_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **6%**.\r\nDMG Flame Bomb meningkat menjadi **1.222%**.\r\nMemerlukan **2** slot modul dan **8** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_5",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG Flame Breath tiap putaran meningkat menjadi **733%**.\r\nMemerlukan **3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_5",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **10%**.\r\nDMG Flame Dive meningkat menjadi **2.026%**.\r\nMemerlukan **4** slot modul dan **15** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_5",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "Red Ore",
+					"description": "Bijih aneh dari Domain 9. Warna merahnya yang cerah mengingatkan kita pada darah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Firerat",
+						"Ignisville - Kalahkan Cyox",
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_5"
+	},
+	"FightPet_6": {
+		"name": "Mi-a: Bantuan",
+		"description": "Smart Servant yang pertama kali diperkenalkan oleh Shirli di Shelter Astra. Robot pendiam yang sangat pandai merawat orang. Modul tempur Smart Servant baru telah diuji untuknya.",
+		"PetElementType": "Superpower",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_mia.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_6.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_6.webp"
+		},
+		"skills": [
+			{
+				"name": "Pop Cannon",
+				"description": "Minuman yang dibawa Mi-a tidak hanya dapat digunakan untuk memberi makan Wanderer, tapi juga dapat digunakan untuk mengisi ulang Peluru Energi. Saat menghantam musuh, Peluru Energi dapat menimpakan DMG sebesar **817% / 817% / 1225%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_004_act01.webp"
+			},
+			{
+				"name": "Mi-a Flare",
+				"description": "Mi-a mengumpulkan energi menjadi sebuah sinar yang menimpakan DMG sebesar **725% / 1088% / 1088%** ATK begitu menghantam musuh.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_004_act02.webp"
+			},
+			{
+				"name": "Chopping Board",
+				"description": "Mi-a menciptakan sebuah alas potong yang dipelajarinya dari kebiasaan memasak sehari-hari dan menggunakannya sebagai Papan Energi untuk menghantam musuh, menimpakan DMG sebesar **876% / 876% / 876%** ATK saat menghantam musuh dan mengurangi kecepatan musuh sebesar 20% selama 2 detik.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/SkillIcon_pet_004_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **6%**.\r\nDMG Mi-a Flare meningkat menjadi **1.088%**.\r\nMemerlukan **2** slot modul dan **8** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_6",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG Pop Cannon meningkat menjadi **1.225%**.\r\nMemerlukan **3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_6",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **10%**.\r\nDMG Chopping Board meningkat menjadi **1.314%**.\r\nMemerlukan **4** slot modul dan **15** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_6",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Red Ore",
+					"description": "Bijih aneh dari Domain 9. Warna merahnya yang cerah mengingatkan kita pada darah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Firerat",
+						"Ignisville - Kalahkan Cyox",
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_6"
+	},
+	"FightPet_7": {
+		"name": "Zongyun",
+		"description": "Produk unggulan yang diciptakan melalui kolaborasi antara Paviliun Tianzhang dan Alat Berat Niners. Tujuan utamanya adalah menginvestasikan R&D untuk universalisasi peliharaan mitra Madam Qinglong.",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_003.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_003.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_7.webp"
+		},
+		"skills": [
+			{
+				"name": "Dragon Bead",
+				"description": "Zongyun memfokuskan kekuatan petirnya ke dalam sebuah orb untuk menyerang lawan. Setelah mendaratkan serangan, orb tersebut melepaskan petir dalam jumlah besar, menimpakan DMG sebesar **1661% / 2491% / 2491%** ATK kepada lawan di area tersebut.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_003_act01.webp"
+			},
+			{
+				"name": "Thundercaller",
+				"description": "Zongyun memanggil petir untuk menyambar lawan di depan, menimpakan DMG sebesar **545% / 545% / 545%** ATK 5 kali.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_003_act02.webp"
+			},
+			{
+				"name": "Rings of Thunder",
+				"description": "Zongyun membuat dua cincin petir di ekornya dan melemparkannya kepada lawan. Tiap cincin menimpakan DMG sebesar **1053% / 1053% / 1579%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_003_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **6%**.\r\nDMG Dragon Bead meningkat menjadi **2.491%**.\r\nMemiliki **2** slot modul dan **8** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_7",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG Ring of Thunder meningkat menjadi **1.579%**.\r\nMemiliki **3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_7",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **10%**.\r\nDMG Thundercaller meningkat menjadi **817%**.\r\nMemiliki **4** slot modul dan **15** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_7",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_7"
+	},
+	"FightPet_8": {
+		"name": "Leia",
+		"description": "\"Seri 'Senjata Ultima' yang diproduksi oleh Xiling Alliance Co. Ltd, model γ1O-A. Xiling adalah satu-satunya pemasok Smart Servant untuk Hykros dan merupakan bagian dari Komite Smart Servant Hykros-Domain 9. Didirikan oleh Nona Shelly dan Nona Ling Qiao, dua insinyur wanita terhebat abad ini, perusahaan ini meluncurkan Smart Servant pertama yang diproduksi secara massal dalam jumlah kecil hanya dalam waktu satu bulan setelah didirikan. Perusahaan ini dikenal terutama karena penelitian dan produksi Smart Servant, produk-produk terkait, dan merchandise-nya. Seiring dengan perkembangannya, perusahaan ini lebih berfokus pada integrasi vertikal dengan membentuk hubungan yang mendalam dengan merek-merek terkenal, seperti Ultimate Warrior, dan menciptakan kompleks komersial yang orisinil. Jika tertarik untuk berinvestasi, silakan hubungi kami di * * * - * * * *.\r\nUntuk memenuhi kebutuhan baru dalam pertempuran, uji coba Modul Tempur Smart Servant telah dilaksanakan.\"",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Pet_Preview_002.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_002.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_8.webp"
+		},
+		"skills": [
+			{
+				"name": "Frost Talon",
+				"description": "Leia melemparkan sejumlah Frost Talon, mendaratkan 2 serangan yang masing-masing menimpakan DMG sebesar **568% / 852% / 852%** ATK. Lalu, dia menembakkan gelombang cakar yang saling bertautan dan menimpakan DMG sebesar **568% / 852% / 852%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_002_skill1.webp"
+			},
+			{
+				"name": "Frozen Wing",
+				"description": "Leia menebas musuh dengan sayap yang terbuat dari es tebal, menimpakan DMG sebesar **765% / 765% / 1147%** ATK sebanyak 2 kali.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_002_skill2.webp"
+			},
+			{
+				"name": "Ice Cyclone",
+				"description": "Leia memunculkan Ice Cyclone di posisi musuh dan aktif selama 5 detik, menimpakan DMG sebesar **447% / 447% / 447%** ATK setiap 0,5 detik.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_002_skill3.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemiliki **1** slot modul dan **5** beban.\r\nLevel penyerapan Energi Field +1.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **6%**.\r\nDMG tiap hantaman Frost Talon meningkat menjadi **852%**.\r\nMemiliki **2** slot modul dan **8** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_8",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG tiap hantaman Frozen Wing meningkat menjadi **1.147%**.\r\nMemiliki **3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_8",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **10%**.\r\nDMG tiap hantaman Ice Cyclone meningkat menjadi **670%**.\r\nMemiliki **4** slot modul dan **15** beban.\r\nLevel penyerapan Energi Field +1.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_8",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Red Ore",
+					"description": "Bijih aneh dari Domain 9. Warna merahnya yang cerah mengingatkan kita pada darah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Firerat",
+						"Ignisville - Kalahkan Cyox",
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_8"
+	},
+	"FightPet_9": {
+		"name": "Aurawolf",
+		"description": "Smart Servant generasi terbaru ciptaan Ling Qiao. Modelnya terinspirasi dari legenda Domain 9. Modul tempurnya telah diuji agar bisa memenuhi syarat pertempuran terbaru.",
+		"PetElementType": "Physics",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Preview_BattleRobot_005.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_9.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_9.webp"
+		},
+		"skills": [
+			{
+				"name": "Charged Pulse Cannon",
+				"description": "Aurawolf membuka mulutnya, memperlihatkan meriam laser di dalamnya. Setelah mengumpulkan tenaga, ia menembakkan laser energi yang kuat, menimpakan DMG sebesar **1012% / 1518% / 1518%** ATK ke musuh yang terhantam.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_005_act01.webp"
+			},
+			{
+				"name": "Frenzied Claw",
+				"description": "Aurawolf mengibaskan cakarnya dengan cepat, melancarkan total enam tebasan dalam sekejap, setiap tebasan menimpakan DMG sebesar **214% / 214% / 214%** ATK. Setelah mengumpulkan tenaga selama beberapa saat, melancarkan dua tebasan yang sangat kuat ke depan, masing-masing menimpakan DMG sebesar **214% / 214% / 214%** ATK ke musuh yang terhantam.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_005_act02.webp"
+			},
+			{
+				"name": "Triple Swipe",
+				"description": "Aurawolf mengibaskan dan melancarkan dua tebasan ke depan, masing-masing menimpakan DMG sebesar **347% / 347% / 520%** ATK. Setelah itu, ia mengaktifkan mesin pendorongnya untuk melakukan putaran ke depan, menyerang musuh dengan ekornya sambil melontarkan sabetan energi tajam, masing-masing menimpakan DMG sebesar **347% / 347% / 520%** dan **347% / 347% / 520%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_005_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan akan meningkat menjadi **6%**.\r\nDMG dari Charged Pulse Cannon akan meningkat menjadi **1.518%**.\r\n**2** slot modul dan **8** muatan.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_9",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG tiap stage Triple Swipe meningkat menjadi **520%**.\r\n**3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_9",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "Pewarisan ATK meningkat **10%**.\r\nDMG 6 hantaman pertama Frenzied Claw meningkat menjadi **321%** dan DMG 2 hantaman terakhir meningkat menjadi **618%**.\r\n**4** slot modul dan **15** bobot.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_9",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Power Core",
+					"description": "Power Core berharga yang menjadi sumber energi permesinan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_030.webp",
+					"type": "GIFT",
+					"source": [
+						"Aquaville: Kalahkan Sentry",
+						"Aquaville: Kalahkan Furnace",
+						"Aquaville: Kalahkan Ying Zhao"
+					],
+					"id": "Item_Jiuyu_Harvest_030"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Baut Mech",
+					"description": "Komponen mekanik biasa, kecil tapi berguna.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_031.webp",
+					"type": "GIFT",
+					"source": [
+						"Aquaville: Kalahkan Sentry",
+						"Aquaville: Kalahkan Furnace",
+						"Aquaville: Kalahkan Ying Zhao"
+					],
+					"id": "Item_Jiuyu_Harvest_031"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Red Ore",
+					"description": "Bijih aneh dari Domain 9. Warna merahnya yang cerah mengingatkan kita pada darah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Firerat",
+						"Ignisville - Kalahkan Cyox",
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_9"
+	},
+	"FightPet_10": {
+		"name": "Snowy",
+		"description": "Smart Servant berwujud harimau ini membuat jalan yang dilaluinya diselimuti kristal es. Modul tempurnya telah diuji agar bisa memenuhi syarat pertempuran terbaru.",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Preview_BattleRobot_008.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_008.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_10.webp"
+		},
+		"skills": [
+			{
+				"name": "Frost Spike",
+				"description": "Snowy mengatupkan tangannya, mengumpulkan enam duri es di sekitarnya, lalu mengayunkan tangannya, melontarkan duri es sebanyak dua kali. Setiap duri es menimpakan DMG sebesar **242% / 242% / 363%** ATK pada lawan yang terkena.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_008_act01.webp"
+			},
+			{
+				"name": "Extreme Cold",
+				"description": "Snowy terbang melesat ke atas, menciptakan kerucut es di lokasi musuh yang menimpakan DMG sebesar **995% / 995% / 995%** ATK. Setelah beberapa saat, kerucut es akan meledak, menimpakan DMG sebesar **995% / 995% / 995%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_008_act02.webp"
+			},
+			{
+				"name": "Leave Snowy Alone!",
+				"description": "Snowy mengangkat tangannya, lalu melemparkan bola es raksasa dari atas kepalanya ke musuh, menimpakan DMG sebesar **1273% / 1909% / 1909%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_008_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **6%**.\r\nDMG Leave Snowy Alone! meningkat menjadi **1.909%**.\r\nMemiliki **2** slot modul dan **8** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_10",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG Frost Spike tiap putaran meningkat menjadi **363%**.\r\nMemerlukan **3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_10",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **10%**.\r\nDMG Extreme Cold tiap putaran meningkat menjadi **1.492%**.\r\nMemiliki **4** slot modul dan **15** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_10",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Red Ore",
+					"description": "Bijih aneh dari Domain 9. Warna merahnya yang cerah mengingatkan kita pada darah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_008.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Firerat",
+						"Ignisville - Kalahkan Cyox",
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_008"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_10"
+	},
+	"FightPet_11": {
+		"name": "Pen Pen",
+		"description": "Hewan peliharaan Misato, biasanya ditempatkan di freezer khusus di apartemen Misato Katsuragi. Dia suka berendam air panas dan bisa menekan tombol dengan ujung sayapnya dengan cerdik. Selain mengadopsi kebiasaan manusia tidur dan mandi, dia bahkan menikmati membaca koran. Namun, entah bagaimana dia bisa masuk ke dalam kulkas ketika Shinji dan yang lainnya pindah ke Apartemen Bintang di Mirroria.",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Preview_BattleRobot_011.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_011.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_11.webp"
+		},
+		"skills": [
+			{
+				"name": "Dampak Asap",
+				"description": "Pen Pen meningkatkan daya dorongnya, menerjang ke arah musuh, dan melepaskan asap ketika tiba, menimbulkan DMG sebesar **351% / 526% / 526%** ATK setiap detik kepada musuh yang terkena asap dan memperlambat mereka.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_011_act01.webp"
+			},
+			{
+				"name": "Barrage Kaleng Bir",
+				"description": "Pen Pen melemparkan hujan kaleng bir ke depan, masing-masing menimbulkan DMG sebesar **412% / 412% / 618%** ATK kepada musuh di sekitarnya saat meledak.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_011_act02.webp"
+			},
+			{
+				"name": "Inspirasi dari Pen Pen",
+				"description": "Pen Pen mengibaskan sayapnya dengan lembut untuk memberi semangat pada Wanderer yang diikutinya, memulihkan HP sebesar **220% / 220% / 220%** dari ATK untuk Wanderer yang terinspirasi.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_011_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **4%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **6%**.\r\nDMG smokescreen yang dilepaskan tiap putaran meningkat menjadi **526%**.\r\n**2** slot modul dan **8** muatan.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_11",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **8%**.\r\nDMG kaleng bir tiap putaran meningkat menjadi **618%**.\r\n**3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_11",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "Pewarisan ATK meningkat **10%**.\r\nPenyembuhan dari Inspiration of Pen Pen meningkat menjadi **330%**.\r\nMemerlukan **4** slot modul dan **15** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_11",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Modul Kontrol Hewan Peliharaan",
+					"description": "Modul kontrol yang digunakan untuk meng-upgrade jetpack Pen Pen. Sistem kontrolnya lebih cocok untuk Pen Pen.",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/penpen_harvest.webp",
+					"type": "GIFT",
+					"source": [
+						"Didapatkan dari event Lini Pertahanan Absolut."
+					],
+					"id": "PENPEN_Harvest"
+				},
+				"exp": 60
+			}
+		],
+		"id": "FightPet_11"
+	},
+	"FightPet_12": {
+		"name": "Lil Cubby",
+		"description": "Sebuah boneka beruang kecil yang lucu dengan telinga kucing, dibuat oleh Zeke sebagai hadiah untuk Shirli. Di balik penampilan boneka yang canggung ini terletak kasih sayang seorang kakak kepada adik perempuannya.",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": 5,
+		"assets": {
+			"PetIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/BP_Preview_BattleRobot_010.webp",
+			"PetActivatedIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PetFight/icon/LH_FightPet_010.webp",
+			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/FightPet/FightPet_010.webp"
+		},
+		"skills": [
+			{
+				"name": "EMP Bomb",
+				"description": "Cubby menemukan kemudian melempar EMP Bomb, menimpakan DMG area sebesar **1621% / 1621% / 2431%** ATK kepada musuh dalam jangkauan.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_010_act01.webp"
+			},
+			{
+				"name": "Pulse Electric Field",
+				"description": "Cubby mulai mengisi daya kemudian menimpakan DMG sebesar **1361% / 2041% / 2041%** ATK kepada semua musuh di area luas di depannya.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_010_act02.webp"
+			},
+			{
+				"name": "Magnetic Thunder Spear",
+				"description": "Cubby melemparkan 2 Thunder Spear ke arah musuh, tiap tombak menimpakan DMG sebesar **876% / 876% / 876%** ATK, diikuti oleh 1 Thunder Spear besar yang menimpakan DMG sebesar **876% / 876% / 876%** ATK.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/BattleRobotSkill/BattleRobot_010_act03.webp"
+			}
+		],
+		"properties": "Mewarisi **12%** dari nilai rata-rata ATK dasar Flame, Frost, Volt, dan Physical pemiliknya.\r\nMemerlukan **1** slot modul dan **5** beban.",
+		"advancements": [
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **18%**.\r\nDMG Pulse Electric Field meningkat menjadi **2,041%**.\r\nMemerlukan **2** slot modul dan **8** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_12",
+						"mat_amount": 30
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **24%**.\r\nDMG EMP Bomb meningkat menjadi **2,431%**.\r\nMemerlukan **3** slot modul dan **11** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_12",
+						"mat_amount": 40
+					}
+				]
+			},
+			{
+				"description": "ATK yang diwariskan meningkat menjadi **30%**.\r\nDMG tiap hantaman Magnetic Thunder Spear meningkat menjadi **1,314%** dan DMG besar dari Thunder Spear Magnetik meningkat menjadi **2,146%**.\r\nMemiliki **4** slot modul dan **15** beban.",
+				"mats": [
+					{
+						"mat_id": "fragment_FightPet_12",
+						"mat_amount": 60
+					}
+				]
+			}
+		],
+		"PetUpgradeItemMap": [
+			{
+				"material": {
+					"name": "Taotie Essence Pellet",
+					"description": "Tubuh energi yang melekat itu konon terbentuk dari sisa energi organisme yang dimakan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_029.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Taotie"
+					],
+					"id": "Item_Jiuyu_Harvest_029"
+				},
+				"exp": 40
+			},
+			{
+				"material": {
+					"name": "Lisensi Senjata",
+					"description": "Sistem kunci yang memberikan akses penggunaan senjata.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_028.webp",
+					"type": "GIFT",
+					"source": [
+						"Joltville: Kalahkan Dark Wretch Longxiang",
+						"Joltville: Kalahkan Cursed Armor",
+						"Aquaville: Kalahkan Dark Wretch Tie Yuan"
+					],
+					"id": "Item_Jiuyu_Harvest_028"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Zirah Pipih Standar",
+					"description": "Zirah pipih model standar ukuran kecil ini memberikan pertahanan yang cukup baik.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_011.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Sparrotail Dark Wretch",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Ignisville",
+						"Ignisville: Kalahkan Dark Wretch Pengawal Joltville",
+						"Aquaville: Kalahkan Dark Wretch Pengawal Aquaville"
+					],
+					"id": "Item_Jiuyu_Harvest_011"
+				},
+				"exp": 20
+			},
+			{
+				"material": {
+					"name": "Bulu Black Crow",
+					"description": "Suara dari desiran angin yang melewatinya akan terdengar jika kamu perhatikan.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_005.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Black Crow"
+					],
+					"id": "Item_Jiuyu_Harvest_005"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Zirah Zhuyan",
+					"description": "Pola di zirah ini menunjukkan bahwa pembuatnya bukanlah peradaban biasa.",
+					"rarity": 4,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_006.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Zhuyan"
+					],
+					"id": "Item_Jiuyu_Harvest_006"
+				},
+				"exp": 10
+			},
+			{
+				"material": {
+					"name": "Graystone",
+					"description": "Bijih aneh dari Domain 9. Material penting yang digunakan dalam produksi perangkat paduan tertentu.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_007.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Darkness: Starlink",
+						"Ignisville: Kalahkan Darkness: Hornmane",
+						"Ignisville: Kalahkan Darkness: Trooper",
+						"Ignisville: Kalahkan Darkness: Leader",
+						"Ignisville - Kalahkan Darkness: Rockhound",
+						"Ignisville - Kalahkan Darkness: Fearwolf"
+					],
+					"id": "Item_Jiuyu_Harvest_007"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Sky Crystal",
+					"description": "Bijih aneh dari Domain 9. Tampilannya yang sebening kristal berkilau cerah di bawah sinar matahari.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_009.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Archeagle"
+					],
+					"id": "Item_Jiuyu_Harvest_009"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Umbra Rock",
+					"description": "Bijih aneh dari Domain 9. Teksturnya yang tidak biasa membuat warnanya tampak aneh.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Harvest_010.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Kalahkan Tricoon",
+						"Ignisville: Kalahkan Antewing",
+						"Ignisville: Kalahkan Terribear"
+					],
+					"id": "Item_Jiuyu_Harvest_010"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Dark Essence",
+					"description": "Kristal yang terbentuk di permukaan ini berasal dari energi yang bocor di situs-situs sejarah yang membentuk garis lurus. Akibat terpengaruh oleh lingkungan, serat kristal ini cenderung memantulkan lebih banyak cahaya ungu, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas rendah.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_01.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville - Kalahkan Nightmare Scourge"
+					],
+					"id": "Item_Jiuyu_Mine_01"
+				},
+				"exp": 5
+			},
+			{
+				"material": {
+					"name": "Ginger Essence",
+					"description": "Kristal yang terbentuk dari energi yang bocor ke permukaan dari garis antara situs-situs sejarah. Kristal ini mudah terpengaruh oleh lingkungan dan menghasilkan kisi-kisi yang memantulkan lebih banyak cahaya kuning, itulah asal-usul namanya. Kristal ini merupakan sumber energi yang berkapasitas tinggi.",
+					"rarity": 3,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Jiuyu_Mine_02.webp",
+					"type": "GIFT",
+					"source": [
+						"Ignisville: Puncak Lingyan",
+						"Ignisville: Kalahkan Hornfeather"
+					],
+					"id": "Item_Jiuyu_Mine_02"
+				},
+				"exp": 5
+			}
+		],
+		"id": "FightPet_12"
+	}
+}

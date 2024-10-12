@@ -1,0 +1,1611 @@
+{
+	"ace_physic": {
+		"name": "跳跳糖",
+		"avatar": "安可",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponAce_Phy_SSR",
+		"id": "ace_physic"
+	},
+	"ace_physic_fashion": {
+		"name": "跳跳糖",
+		"avatar": "安可",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponAce_Phy_SSR_fashion",
+		"id": "ace_physic_fashion"
+	},
+	"ace_physic_fashion_2": {
+		"name": "跳跳糖",
+		"avatar": "安可",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponAce_Phy_SSR_fashion_swim",
+		"id": "ace_physic_fashion_2"
+	},
+	"ace_physic_level3": {
+		"name": "跳跳糖",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponAce_Phy_SSR_Level3",
+		"id": "ace_physic_level3"
+	},
+	"weapon_exp_n": {
+		"name": "武器能量池Ⅰ",
+		"meshPath": "/Game/Resources/CoreBlueprints/SceneItem/CookPot/FoodHarvest/Item_activity_cooking",
+		"id": "weapon_exp_n"
+	},
+	"weapon_exp_r": {
+		"name": "武器能量池Ⅱ",
+		"meshPath": "/Game/Resources/CoreBlueprints/SceneItem/CookPot/FoodHarvest/Item_activity_cooking",
+		"id": "weapon_exp_r"
+	},
+	"weapon_exp_sr": {
+		"name": "武器能量池Ⅲ",
+		"meshPath": "/Game/Resources/CoreBlueprints/SceneItem/CookPot/FoodHarvest/Item_activity_cooking",
+		"id": "weapon_exp_sr"
+	},
+	"weapon_exp_ssr": {
+		"name": "武器能量池Ⅳ",
+		"meshPath": "/Game/Resources/CoreBlueprints/SceneItem/CookPot/FoodHarvest/Item_activity_cooking",
+		"id": "weapon_exp_ssr"
+	},
+	"spear_ice": {
+		"name": "霜冻长枪",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/R/WeaponSpear_Ice_R",
+		"id": "spear_ice"
+	},
+	"digger_physic": {
+		"name": "格斗刀",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/R/WeaponDs_Phy_R",
+		"id": "digger_physic"
+	},
+	"sword_thunder": {
+		"name": "电磁刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/R/WeaponSword_Thu_R",
+		"id": "sword_thunder"
+	},
+	"bow_fire": {
+		"name": "复合弓",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SR/WeaponBow_Fire_SR",
+		"id": "bow_fire"
+	},
+	"stave_thunder": {
+		"name": "圣痕权杖",
+		"avatar": "佩·佩",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SR/WeaponStaves_Thu_SR_OS",
+		"id": "stave_thunder"
+	},
+	"cannon_ice": {
+		"name": "终结者",
+		"avatar": "希尔达",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SR/WeaponCannon_Ice_SR_OS",
+		"id": "cannon_ice"
+	},
+	"chainsaw_physic": {
+		"name": "小小飓风",
+		"avatar": "格诺诺",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponChainSaw_Phy_SSR",
+		"id": "chainsaw_physic"
+	},
+	"chainsaw_physic_lv3": {
+		"name": "小小飓风",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponChainSaw_Phy_SSR_Level3",
+		"id": "chainsaw_physic_lv3"
+	},
+	"hammer_ice": {
+		"name": "初动重击",
+		"avatar": "烯",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SR/WeaponHammer_Ice_SR_OS",
+		"id": "hammer_ice"
+	},
+	"bow_physic": {
+		"name": "夜雀之羽",
+		"avatar": "白伶",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SR/WeaponBow_Phy_R_OS",
+		"id": "bow_physic"
+	},
+	"breakfate_weapon_n_asuka_physic": {
+		"name": "朗基努斯之枪",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponAsuka_Phy_SSR_BreakFate",
+		"id": "breakfate_weapon_n_asuka_physic"
+	},
+	"breakfate_weapon_n_ayanamirei_thunder": {
+		"name": "救赎",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponAyanami_Thu_SSR_BreakFate",
+		"id": "breakfate_weapon_n_ayanamirei_thunder"
+	},
+	"spear_thunder": {
+		"name": "雷霆战戟",
+		"avatar": "爱歌",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SR/WeaponSpear_Thu_SSR_OS",
+		"id": "spear_thunder"
+	},
+	"digger_thunder": {
+		"name": "疾雷双刃",
+		"avatar": "乌丸",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/WeaponDs_Thu_SSR_OS",
+		"id": "digger_thunder"
+	},
+	"bigsword_ice": {
+		"name": "蔷薇之锋",
+		"avatar": "梅丽尔",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/Weapon_BigSword_Ice_SSR_OS",
+		"id": "bigsword_ice"
+	},
+	"bow_ice": {
+		"name": "冰风之矢",
+		"avatar": "四枫院羽",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/WeaponBow_Ice_SSR_OS",
+		"id": "bow_ice"
+	},
+	"stave_ice": {
+		"name": "零度指针",
+		"avatar": "可可丽特",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/WeaponStaves_Ice_SSR_OS",
+		"id": "stave_ice"
+	},
+	"sickle_fire": {
+		"name": "黑鸦冥镰",
+		"avatar": "King",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/WeaponSickle_Fire_SSR_OS",
+		"id": "sickle_fire"
+	},
+	"gun_fire": {
+		"name": "炽焰左轮",
+		"avatar": "钴蓝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/WeaponGun_Fire_SSR_OS",
+		"id": "gun_fire"
+	},
+	"sword_physic": {
+		"name": "红莲刃",
+		"avatar": "克劳迪娅",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/WeaponSword_Phy_SSR_OS",
+		"id": "sword_physic"
+	},
+	"darts_physic": {
+		"name": "环海轮刃",
+		"avatar": "西萝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/Weapon_darts_SSR_OS",
+		"id": "darts_physic"
+	},
+	"cube_fire": {
+		"name": "否决立方",
+		"avatar": "零",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/WeaponCubeFire_SSR_OS",
+		"id": "cube_fire"
+	},
+	"dgun_thunder": {
+		"name": "超电磁双星",
+		"avatar": "赛弥尔",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/Weapon_Dgun_Thu_SSR_OS",
+		"id": "dgun_thunder"
+	},
+	"shieldaxe_fire": {
+		"name": "V2熔驱盾",
+		"avatar": "修玛",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/Weapon_Shield_Fire_SSR_OS",
+		"id": "shieldaxe_fire"
+	},
+	"mimi_thunder": {
+		"name": "孟章",
+		"avatar": "篁",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponMiMi_Thu_SSR",
+		"id": "mimi_thunder"
+	},
+	"mimi_thunder_fashion": {
+		"name": "孟章",
+		"avatar": "篁",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponMiMi_Thu_SSR_fashion",
+		"id": "mimi_thunder_fashion"
+	},
+	"mimi_thunder_fashion_ui": {
+		"name": "孟章",
+		"avatar": "篁",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponMiMi_Thu_SSR_fashion_Invisible",
+		"id": "mimi_thunder_fashion_ui"
+	},
+	"mimi_thunder_lv3": {
+		"name": "孟章",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponMiMi_Thu_SSR_Level3",
+		"id": "mimi_thunder_lv3"
+	},
+	"nanyin_superpower": {
+		"name": "紫竹",
+		"avatar": "南音",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponNanYin_SuperPower_SSR",
+		"id": "nanyin_superpower"
+	},
+	"nanyin_superpower_fashion": {
+		"name": "紫竹",
+		"avatar": "南音",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponNanYin_SuperPower_SSR_Fashion",
+		"id": "nanyin_superpower_fashion"
+	},
+	"nanyin_superpower_lv3": {
+		"name": "孟章",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponNanYin_SuperPower_SSR_Level3",
+		"id": "nanyin_superpower_lv3"
+	},
+	"nora_superpower": {
+		"name": "噪音",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponNora_SuperPower_SSR",
+		"id": "nora_superpower"
+	},
+	"nora_superpower_fashion": {
+		"name": "噪音",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponNora_SuperPower_SSR_fashion",
+		"id": "nora_superpower_fashion"
+	},
+	"nora_superpower_level3": {
+		"name": "噪音",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponNora_SuperPower_SSR_Level3",
+		"id": "nora_superpower_level3"
+	},
+	"paradox_fire": {
+		"name": "EP-7000天火",
+		"avatar": "帕洛蒂",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Paradox_Fire_SSR",
+		"id": "paradox_fire"
+	},
+	"paradox_fire_fashion": {
+		"name": "EP-7000天火",
+		"avatar": "帕洛蒂",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Paradox_ThuIce_SSR_fashion",
+		"id": "paradox_fire_fashion"
+	},
+	"paradox_fire_fashion_imitationui": {
+		"name": "EP-7000天火",
+		"avatar": "帕洛蒂",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/Weapon_Paradox_Fire_SSR_fashion_ImitatonUI",
+		"id": "paradox_fire_fashion_imitationui"
+	},
+	"paradox_fire_imitationui": {
+		"name": "EP-7000天火",
+		"avatar": "帕洛蒂",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/Weapon_Paradox_Fire_SSR_fashion_ImitatonUI",
+		"id": "paradox_fire_imitationui"
+	},
+	"paradox_fire_imitationui_level3": {
+		"name": "EP-7000天火",
+		"avatar": "帕洛蒂",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/Weapon_Paradox_ThuIce_SSR_ImitationUI_Level3",
+		"id": "paradox_fire_imitationui_level3"
+	},
+	"paradox_fire_lv3": {
+		"name": "EP-7000天火",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_Paradox_Fire_SSR_Level3",
+		"id": "paradox_fire_lv3"
+	},
+	"linghan_ice": {
+		"name": "监兵",
+		"avatar": "凌寒",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponLinghan_Ice_SSR",
+		"id": "linghan_ice"
+	},
+	"linghan_ice_fashion": {
+		"name": "监兵",
+		"avatar": "凌寒",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponLinghan_Ice_SSR_Fashion",
+		"id": "linghan_ice_fashion"
+	},
+	"linghan_ice_level3": {
+		"name": "执明",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponLinghan_Ice_SSR_Level3",
+		"id": "linghan_ice_level3"
+	},
+	"loslyn_ice": {
+		"name": "静澜",
+		"avatar": "洛斯琳",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponLoslyn_Ice_SSR",
+		"id": "loslyn_ice"
+	},
+	"loslyn_ice_fashion": {
+		"name": "静澜",
+		"avatar": "洛斯琳",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponLoslyn_Ice_SSR_Fashion",
+		"id": "loslyn_ice_fashion"
+	},
+	"loslyn_ice_level3": {
+		"name": "静澜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponLoslyn_Ice_SSR_Level3",
+		"id": "loslyn_ice_level3"
+	},
+	"suspension_thunder": {
+		"name": "启明星",
+		"avatar": "奈美西斯",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/Weapon_Suspension_Thu_SSR_OS",
+		"id": "suspension_thunder"
+	},
+	"frigg_ice": {
+		"name": "巴尔蒙克",
+		"avatar": "弗丽嘉",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/OverSeas/SSR/WeaponFrigg_Ice_SSR_OS",
+		"id": "frigg_ice"
+	},
+	"funnel_fire": {
+		"name": "斯帕克",
+		"avatar": "蕾贝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponFunnel_Fire_SSR",
+		"id": "funnel_fire"
+	},
+	"dkatana_ice": {
+		"name": "流泉彻心",
+		"avatar": "不破咲",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "dkatana_ice"
+	},
+	"fan_superpower": {
+		"name": "影织",
+		"avatar": "凛夜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Fan_SuperPower_SSR",
+		"id": "fan_superpower"
+	},
+	"fan_superpower_fashion": {
+		"name": "影织",
+		"avatar": "凛夜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Fan_SuperPower_SSR_Fashion",
+		"id": "fan_superpower_fashion"
+	},
+	"tianlang_thunder": {
+		"name": "破钧",
+		"avatar": "天琅",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponTianLang_Thu_SSR",
+		"id": "tianlang_thunder"
+	},
+	"arm_physic": {
+		"name": "晚祷",
+		"avatar": "星寰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Arm_Phy_SSR",
+		"id": "arm_physic"
+	},
+	"arm_physic_imitation": {
+		"name": "晚祷",
+		"avatar": "星寰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/Weapon_Arm_Phy_SSR_Imitation",
+		"id": "arm_physic_imitation"
+	},
+	"arm_physic_imitationlv3": {
+		"name": "晚祷",
+		"avatar": "星寰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/Weapon_Arm_Phy_SSR_ImitationLV3",
+		"id": "arm_physic_imitationlv3"
+	},
+	"teststavesice": {
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/Weapon_staves01BPIce",
+		"id": "teststavesice"
+	},
+	"teststavesthu": {
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/Weapon_staves01BPThu",
+		"id": "teststavesthu"
+	},
+	"rideattackweapon": {
+		"name": "格斗刀",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/Weapon_RideAttack",
+		"id": "rideattackweapon"
+	},
+	"rubilia_thunder": {
+		"name": "绝响",
+		"avatar": "蕾比莉亚",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponRubilia_Thu_SSR",
+		"id": "rubilia_thunder"
+	},
+	"rubilia_thunder_fashion": {
+		"name": "绝响",
+		"avatar": "蕾比莉亚",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponRubilia_Thu_SSR_fashion_2",
+		"id": "rubilia_thunder_fashion"
+	},
+	"rubilia_thunder_level3": {
+		"name": "破钧",
+		"avatar": "蕾比莉亚",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponRubilia_Thu_SSR_Level3",
+		"id": "rubilia_thunder_level3"
+	},
+	"testcube": {
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/Weapon_cube01BP",
+		"id": "testcube"
+	},
+	"testdgun": {
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Dgun_Thu_Test",
+		"id": "testdgun"
+	},
+	"testaxe": {
+		"avatar": "奈美西斯",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Axe_Fire_SSR",
+		"id": "testaxe"
+	},
+	"testsuspension": {
+		"avatar": "奈美西斯",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Suspension_Thu_SSR",
+		"id": "testsuspension"
+	},
+	"cubefireimitation1": {
+		"name": "否决立方",
+		"avatar": "零",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponCubeFire_SSR",
+		"id": "cubefireimitation1"
+	},
+	"hammericeimitation2": {
+		"name": "初动重击",
+		"avatar": "烯",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SR/UIshow/WeaponHammer_Ice_SR_UI",
+		"id": "hammericeimitation2"
+	},
+	"iceblade_ice": {
+		"name": "不灭之翼",
+		"avatar": "艾莉丝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponIceBlade_SSR",
+		"id": "iceblade_ice"
+	},
+	"iceblade_ice_fashion": {
+		"name": "不灭之翼",
+		"avatar": "艾莉丝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponIceBlade_SSR_Fashion",
+		"id": "iceblade_ice_fashion"
+	},
+	"iceblade_ice_lv3": {
+		"name": "不灭之翼",
+		"avatar": "艾莉丝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponIceBlade_SSR_Level3",
+		"id": "iceblade_ice_lv3"
+	},
+	"killknife_physic": {
+		"name": "规衡",
+		"avatar": "烟渺",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponKillKnife_Phy_SSR",
+		"id": "killknife_physic"
+	},
+	"killknife_physic_lv3": {
+		"name": "规衡",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponKillknife_Phy_SSR_Level3",
+		"id": "killknife_physic_lv3"
+	},
+	"lances_ice_lv3": {
+		"name": "坏家伙",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponLances_Ice_SSR_Level3",
+		"id": "lances_ice_lv3"
+	},
+	"lances_ice": {
+		"name": "坏家伙",
+		"avatar": "雅诺",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponLances_Ice_SSR",
+		"id": "lances_ice"
+	},
+	"shieldaxe_fireimitation": {
+		"name": "V2熔驱盾",
+		"avatar": "修玛",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/Weapon_Shield_Fire_SSR_ImitationUI",
+		"id": "shieldaxe_fireimitation"
+	},
+	"frigg_iceimitation": {
+		"name": "巴尔蒙克",
+		"avatar": "弗丽嘉",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/WeaponFrigg_Ice_SSR_ImitationUI",
+		"id": "frigg_iceimitation"
+	},
+	"frigg_iceimitationlv3": {
+		"name": "巴尔蒙克",
+		"avatar": "弗丽嘉",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/WeaponFrigg_Ice_SSR_Level3_ImitationUI",
+		"id": "frigg_iceimitationlv3"
+	},
+	"shieldaxe_firelv3": {
+		"name": "V2熔驱盾",
+		"avatar": "修玛",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_Shield_Fire_SSR_Level3",
+		"id": "shieldaxe_firelv3"
+	},
+	"bigsword_icelv3": {
+		"name": "蔷薇之锋",
+		"avatar": "梅丽尔",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_BigSword_Ice_SSR_Level3",
+		"id": "bigsword_icelv3"
+	},
+	"blevi_thunder": {
+		"name": "契约徽章玫茨",
+		"avatar": "布勒薇",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Blevi_ThuIce_SSR",
+		"id": "blevi_thunder"
+	},
+	"blevi_thunder_fashion": {
+		"name": "契约徽章玫茨",
+		"avatar": "布勒薇",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Blevi_ThuIce_SSR_fashion",
+		"id": "blevi_thunder_fashion"
+	},
+	"blevi_thunder_fashion_imitationui": {
+		"name": "契约徽章玫茨",
+		"avatar": "布勒薇",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Blevi_ThuIce_SSR_fashion_ImitationUI",
+		"id": "blevi_thunder_fashion_imitationui"
+	},
+	"blevi_thunder_imitationui": {
+		"name": "契约徽章玫茨",
+		"avatar": "布勒薇",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/Weapon_Blevi_ThuIce_SSR_ImitationUI",
+		"id": "blevi_thunder_imitationui"
+	},
+	"blevi_thunder_imitationui_level3": {
+		"name": "契约徽章玫茨",
+		"avatar": "布勒薇",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/Weapon_Blevi_ThuIce_SSR_ImitationUI_Level3",
+		"id": "blevi_thunder_imitationui_level3"
+	},
+	"blevi_thunder_level3": {
+		"name": "契约徽章玫茨",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_Blevi_ThuIce_SSR_Level3",
+		"id": "blevi_thunder_level3"
+	},
+	"darts_physiclv3": {
+		"name": "环海轮刃",
+		"avatar": "西萝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_darts_SSR_Level3",
+		"id": "darts_physiclv3"
+	},
+	"dfishchess_fire": {
+		"name": "纵横",
+		"avatar": "姬玉",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDFishChess_Fire_SSR",
+		"id": "dfishchess_fire"
+	},
+	"dfishchess_fire_fashion": {
+		"name": "纵横",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponDFishChess_Fire_SSR_Fashion",
+		"id": "dfishchess_fire_fashion"
+	},
+	"dfishchess_fire_fashion_2": {
+		"name": "纵横",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponDFishChess_Fire_SSR_L1_W",
+		"id": "dfishchess_fire_fashion_2"
+	},
+	"dfishchess_fire_level3": {
+		"name": "纵横",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponDFishChess_Fire_SSR_Level3",
+		"id": "dfishchess_fire_level3"
+	},
+	"dgun_thunderlv3": {
+		"name": "超电磁双星",
+		"avatar": "赛弥尔",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/OverSeas/Weapon_Dgun_Thu_SSR_Level3_OS",
+		"id": "dgun_thunderlv3"
+	},
+	"bow_icelv3": {
+		"name": "冰风之矢",
+		"avatar": "四枫院羽",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponBow_Ice_SSR_Level3",
+		"id": "bow_icelv3"
+	},
+	"cube_firelv3": {
+		"name": "否决立方",
+		"avatar": "零",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponCubeFire_SSR_Level3",
+		"id": "cube_firelv3"
+	},
+	"digger_thunderlv3": {
+		"name": "疾雷双刃",
+		"avatar": "乌丸",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponDs_Thu_SSR_Level3",
+		"id": "digger_thunderlv3"
+	},
+	"gun_firelv3": {
+		"name": "炽焰左轮",
+		"avatar": "钴蓝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/OverSeas/WeaponGun_Fire_SSR_Level3_OS",
+		"id": "gun_firelv3"
+	},
+	"sickle_firelv3": {
+		"name": "黑鸦冥镰",
+		"avatar": "King",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponSickle_Fire_SSR_Level3",
+		"id": "sickle_firelv3"
+	},
+	"snipe_fire": {
+		"name": "四叶十字",
+		"avatar": "安娜贝拉",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Snipe_Fire_SSR",
+		"id": "snipe_fire"
+	},
+	"snipe_fire_fashion_imitationui": {
+		"name": "四叶十字",
+		"avatar": "安娜贝拉",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Snipe_Fire_SSR_Fashion_2",
+		"id": "snipe_fire_fashion_imitationui"
+	},
+	"snipe_fire_imitationlv3": {
+		"name": "四叶十字",
+		"avatar": "安娜贝拉",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/Weapon_Snipe_Fire_SSR_Level3_ImitationUI",
+		"id": "snipe_fire_imitationlv3"
+	},
+	"stave_icelv3": {
+		"name": "零度指针",
+		"avatar": "可可丽特",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponStaves_Ice_SSR_Level3",
+		"id": "stave_icelv3"
+	},
+	"sword_physiclv3": {
+		"name": "红莲刃",
+		"avatar": "克劳迪娅",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/OverSeas/WeaponSword_Phy_SSR_Level3_OS",
+		"id": "sword_physiclv3"
+	},
+	"shieldaxe_fireimitationlv3": {
+		"name": "V2熔驱盾",
+		"avatar": "修玛",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/Weapon_Shield_Fire_SSRLV3_ImitationUI",
+		"id": "shieldaxe_fireimitationlv3"
+	},
+	"frigg_icelv3": {
+		"name": "巴尔蒙克",
+		"avatar": "弗丽嘉",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponFrigg_Ice_SSR_Level3",
+		"id": "frigg_icelv3"
+	},
+	"arm_physiclv3": {
+		"name": "晚祷",
+		"avatar": "星寰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_Arm_Phy_SSR_Level3",
+		"id": "arm_physiclv3"
+	},
+	"asuka_physic": {
+		"name": "朗基努斯之枪",
+		"avatar": "明日香",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponAsuka_Phy_SSR",
+		"id": "asuka_physic"
+	},
+	"asuka_physic_fashion": {
+		"name": "朗基努斯之枪",
+		"avatar": "明日香",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponAsuka_Phy_SSR_fashion",
+		"id": "asuka_physic_fashion"
+	},
+	"asuka_physic_level3": {
+		"name": "朗基努斯之枪",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponAsuka_Phy_SSR_Level3",
+		"id": "asuka_physic_level3"
+	},
+	"ayanamirei_thunder": {
+		"name": "救赎",
+		"avatar": "零",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponAyanami_Thu_SSR",
+		"id": "ayanamirei_thunder"
+	},
+	"ayanamirei_thunder_fashion": {
+		"name": "救赎",
+		"avatar": "零",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponAyanami_Thu_SSR_Fashion",
+		"id": "ayanamirei_thunder_fashion"
+	},
+	"ayanamirei_thunder_show": {
+		"name": "救赎",
+		"avatar": "零",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Show/WeaponAyanami_Thu_SSR_Show",
+		"id": "ayanamirei_thunder_show"
+	},
+	"testmark": {
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponMark_Phy_SSR",
+		"id": "testmark"
+	},
+	"breakfate_weapon_ssr_stave_thunder": {
+		"name": "圣痕权杖",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SR/WeaponStaves_Thu_SR",
+		"id": "breakfate_weapon_ssr_stave_thunder"
+	},
+	"breakfate_weapon_ssr_suspension_thunder": {
+		"name": "启明星",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Suspension_Thu_SSR",
+		"id": "breakfate_weapon_ssr_suspension_thunder"
+	},
+	"breakfate_weapon_sr_stave_thunder": {
+		"name": "圣痕权杖",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SR/WeaponStaves_Thu_SR",
+		"id": "breakfate_weapon_sr_stave_thunder"
+	},
+	"breakfate_weapon_sr_suspension_thunder": {
+		"name": "启明星",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Suspension_Thu_SSR",
+		"id": "breakfate_weapon_sr_suspension_thunder"
+	},
+	"breakfate_weapon_r_stave_thunder": {
+		"name": "圣痕权杖",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SR/WeaponStaves_Thu_SR",
+		"id": "breakfate_weapon_r_stave_thunder"
+	},
+	"breakfate_weapon_r_suspension_thunder": {
+		"name": "启明星",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Suspension_Thu_SSR",
+		"id": "breakfate_weapon_r_suspension_thunder"
+	},
+	"breakfate_weapon_n_stave_thunder": {
+		"name": "圣痕权杖",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SR/WeaponStaves_Thu_SR",
+		"id": "breakfate_weapon_n_stave_thunder"
+	},
+	"breakfate_weapon_n_suspension_thunder": {
+		"name": "启明星",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Suspension_Thu_SSR",
+		"id": "breakfate_weapon_n_suspension_thunder"
+	},
+	"breakfate_weapon_ssr_cannon_ice": {
+		"name": "终结者",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/WeaponSR/New_CannonIce/BreakFate/WeaponCannon_Ice_SR_BreakFate",
+		"id": "breakfate_weapon_ssr_cannon_ice"
+	},
+	"breakfate_weapon_ssr_chainsaw_physic": {
+		"name": "小小飓风",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponChainSaw_Phy_SSR_BreakFate",
+		"id": "breakfate_weapon_ssr_chainsaw_physic"
+	},
+	"breakfate_weapon_sr_cannon_ice": {
+		"name": "终结者",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/WeaponSR/New_CannonIce/BreakFate/WeaponCannon_Ice_SR_BreakFate",
+		"id": "breakfate_weapon_sr_cannon_ice"
+	},
+	"breakfate_weapon_sr_chainsaw_physic": {
+		"name": "小小飓风",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponChainSaw_Phy_SSR_BreakFate",
+		"id": "breakfate_weapon_sr_chainsaw_physic"
+	},
+	"breakfate_weapon_r_cannon_ice": {
+		"name": "终结者",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/WeaponSR/New_CannonIce/BreakFate/WeaponCannon_Ice_SR_BreakFate",
+		"id": "breakfate_weapon_r_cannon_ice"
+	},
+	"breakfate_weapon_r_chainsaw_physic": {
+		"name": "小小飓风",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponChainSaw_Phy_SSR_BreakFate",
+		"id": "breakfate_weapon_r_chainsaw_physic"
+	},
+	"breakfate_weapon_n_cannon_ice": {
+		"name": "终结者",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/WeaponSR/New_CannonIce/BreakFate/WeaponCannon_Ice_SR_BreakFate",
+		"id": "breakfate_weapon_n_cannon_ice"
+	},
+	"breakfate_weapon_n_chainsaw_physic": {
+		"name": "小小飓风",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponChainSaw_Phy_SSR_BreakFate",
+		"id": "breakfate_weapon_n_chainsaw_physic"
+	},
+	"breakfate_weapon_ssr_hammer_ice": {
+		"name": "初动重击",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SR/WeaponHammer_Ice_SR",
+		"id": "breakfate_weapon_ssr_hammer_ice"
+	},
+	"breakfate_weapon_sr_hammer_ice": {
+		"name": "初动重击",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SR/WeaponHammer_Ice_SR",
+		"id": "breakfate_weapon_sr_hammer_ice"
+	},
+	"breakfate_weapon_r_hammer_ice": {
+		"name": "初动重击",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SR/WeaponHammer_Ice_SR",
+		"id": "breakfate_weapon_r_hammer_ice"
+	},
+	"breakfate_weapon_n_hammer_ice": {
+		"name": "初动重击",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SR/WeaponHammer_Ice_SR",
+		"id": "breakfate_weapon_n_hammer_ice"
+	},
+	"breakfate_weapon_ssr_bow_physic": {
+		"name": "夜雀之羽",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/R/WeaponBow_Phy_R",
+		"id": "breakfate_weapon_ssr_bow_physic"
+	},
+	"breakfate_weapon_sr_bow_physic": {
+		"name": "夜雀之羽",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/R/WeaponBow_Phy_R",
+		"id": "breakfate_weapon_sr_bow_physic"
+	},
+	"breakfate_weapon_r_bow_physic": {
+		"name": "夜雀之羽",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/R/WeaponBow_Phy_R",
+		"id": "breakfate_weapon_r_bow_physic"
+	},
+	"breakfate_weapon_n_bow_physic": {
+		"name": "夜雀之羽",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/R/WeaponBow_Phy_R",
+		"id": "breakfate_weapon_n_bow_physic"
+	},
+	"breakfate_weapon_ssr_spear_thunder": {
+		"name": "雷霆战戟",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponSpear_Thu_SSR",
+		"id": "breakfate_weapon_ssr_spear_thunder"
+	},
+	"breakfate_weapon_sr_spear_thunder": {
+		"name": "雷霆战戟",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponSpear_Thu_SSR",
+		"id": "breakfate_weapon_sr_spear_thunder"
+	},
+	"breakfate_weapon_r_spear_thunder": {
+		"name": "雷霆战戟",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponSpear_Thu_SSR",
+		"id": "breakfate_weapon_r_spear_thunder"
+	},
+	"breakfate_weapon_n_spear_thunder": {
+		"name": "雷霆战戟",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponSpear_Thu_SSR",
+		"id": "breakfate_weapon_n_spear_thunder"
+	},
+	"breakfate_weapon_ssr_digger_thunder": {
+		"name": "疾雷双刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDs_Thu_SSR",
+		"id": "breakfate_weapon_ssr_digger_thunder"
+	},
+	"breakfate_weapon_ssr_dkatana_ice": {
+		"name": "流泉彻心",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "breakfate_weapon_ssr_dkatana_ice"
+	},
+	"breakfate_weapon_ssr_frigg_ice": {
+		"name": "巴尔蒙克",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponFrigg_Ice_SSR_BreakFate",
+		"id": "breakfate_weapon_ssr_frigg_ice"
+	},
+	"breakfate_weapon_sr_digger_thunder": {
+		"name": "疾雷双刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDs_Thu_SSR",
+		"id": "breakfate_weapon_sr_digger_thunder"
+	},
+	"breakfate_weapon_sr_dkatana_ice": {
+		"name": "流泉彻心",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "breakfate_weapon_sr_dkatana_ice"
+	},
+	"breakfate_weapon_sr_frigg_ice": {
+		"name": "巴尔蒙克",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponFrigg_Ice_SSR_BreakFate",
+		"id": "breakfate_weapon_sr_frigg_ice"
+	},
+	"breakfate_weapon_r_digger_thunder": {
+		"name": "疾雷双刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDs_Thu_SSR",
+		"id": "breakfate_weapon_r_digger_thunder"
+	},
+	"breakfate_weapon_r_dkatana_ice": {
+		"name": "流泉彻心",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "breakfate_weapon_r_dkatana_ice"
+	},
+	"breakfate_weapon_r_frigg_ice": {
+		"name": "巴尔蒙克",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponFrigg_Ice_SSR_BreakFate",
+		"id": "breakfate_weapon_r_frigg_ice"
+	},
+	"breakfate_weapon_n_digger_thunder": {
+		"name": "疾雷双刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDs_Thu_SSR",
+		"id": "breakfate_weapon_n_digger_thunder"
+	},
+	"breakfate_weapon_n_dkatana_ice": {
+		"name": "流泉彻心",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "breakfate_weapon_n_dkatana_ice"
+	},
+	"breakfate_weapon_n_frigg_ice": {
+		"name": "巴尔蒙克",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponFrigg_Ice_SSR_BreakFate",
+		"id": "breakfate_weapon_n_frigg_ice"
+	},
+	"breakfate_weapon_ssr_bigsword_ice": {
+		"name": "蔷薇之锋",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/Weapon_BigSword_Ice_BreakFate",
+		"id": "breakfate_weapon_ssr_bigsword_ice"
+	},
+	"breakfate_weapon_sr_bigsword_ice": {
+		"name": "蔷薇之锋",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/Weapon_BigSword_Ice_BreakFate",
+		"id": "breakfate_weapon_sr_bigsword_ice"
+	},
+	"breakfate_weapon_r_bigsword_ice": {
+		"name": "蔷薇之锋",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/Weapon_BigSword_Ice_BreakFate",
+		"id": "breakfate_weapon_r_bigsword_ice"
+	},
+	"breakfate_weapon_n_bigsword_ice": {
+		"name": "蔷薇之锋",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/Weapon_BigSword_Ice_BreakFate",
+		"id": "breakfate_weapon_n_bigsword_ice"
+	},
+	"breakfate_weapon_ssr_bow_ice": {
+		"name": "冰风之矢",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponBow_Ice_BreakFate",
+		"id": "breakfate_weapon_ssr_bow_ice"
+	},
+	"breakfate_weapon_sr_bow_ice": {
+		"name": "冰风之矢",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponBow_Ice_BreakFate",
+		"id": "breakfate_weapon_sr_bow_ice"
+	},
+	"breakfate_weapon_r_bow_ice": {
+		"name": "冰风之矢",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponBow_Ice_BreakFate",
+		"id": "breakfate_weapon_r_bow_ice"
+	},
+	"breakfate_weapon_n_bow_ice": {
+		"name": "冰风之矢",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponBow_Ice_BreakFate",
+		"id": "breakfate_weapon_n_bow_ice"
+	},
+	"breakfate_weapon_ssr_stave_ice": {
+		"name": "零度指针",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponStaves_Ice_SSR",
+		"id": "breakfate_weapon_ssr_stave_ice"
+	},
+	"breakfate_weapon_sr_stave_ice": {
+		"name": "零度指针",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponStaves_Ice_SSR",
+		"id": "breakfate_weapon_sr_stave_ice"
+	},
+	"breakfate_weapon_r_stave_ice": {
+		"name": "零度指针",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponStaves_Ice_SSR",
+		"id": "breakfate_weapon_r_stave_ice"
+	},
+	"breakfate_weapon_n_stave_ice": {
+		"name": "零度指针",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponStaves_Ice_SSR",
+		"id": "breakfate_weapon_n_stave_ice"
+	},
+	"breakfate_weapon_ssr_sickle_fire": {
+		"name": "黑鸦冥镰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponSickle_Fire_SSR",
+		"id": "breakfate_weapon_ssr_sickle_fire"
+	},
+	"breakfate_weapon_ssr_snipe_fire": {
+		"name": "四叶十字",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/Weapon_Snipe_Fire_SSR_BreakFate",
+		"id": "breakfate_weapon_ssr_snipe_fire"
+	},
+	"breakfate_weapon_sr_sickle_fire": {
+		"name": "黑鸦冥镰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponSickle_Fire_SSR",
+		"id": "breakfate_weapon_sr_sickle_fire"
+	},
+	"breakfate_weapon_sr_snipe_fire": {
+		"name": "四叶十字",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/Weapon_Snipe_Fire_SSR_BreakFate",
+		"id": "breakfate_weapon_sr_snipe_fire"
+	},
+	"breakfate_weapon_r_sickle_fire": {
+		"name": "黑鸦冥镰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponSickle_Fire_SSR",
+		"id": "breakfate_weapon_r_sickle_fire"
+	},
+	"breakfate_weapon_r_snipe_fire": {
+		"name": "四叶十字",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/Weapon_Snipe_Fire_SSR_BreakFate",
+		"id": "breakfate_weapon_r_snipe_fire"
+	},
+	"breakfate_weapon_n_sickle_fire": {
+		"name": "黑鸦冥镰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponSickle_Fire_SSR",
+		"id": "breakfate_weapon_n_sickle_fire"
+	},
+	"breakfate_weapon_n_snipe_fire": {
+		"name": "四叶十字",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/Weapon_Snipe_Fire_SSR_BreakFate",
+		"id": "breakfate_weapon_n_snipe_fire"
+	},
+	"breakfate_weapon_ssr_gun_fire": {
+		"name": "炽焰左轮",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponGun_Fire_SSR",
+		"id": "breakfate_weapon_ssr_gun_fire"
+	},
+	"breakfate_weapon_sr_gun_fire": {
+		"name": "炽焰左轮",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponGun_Fire_SSR",
+		"id": "breakfate_weapon_sr_gun_fire"
+	},
+	"breakfate_weapon_r_gun_fire": {
+		"name": "炽焰左轮",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponGun_Fire_SSR",
+		"id": "breakfate_weapon_r_gun_fire"
+	},
+	"breakfate_weapon_n_gun_fire": {
+		"name": "炽焰左轮",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponGun_Fire_SSR",
+		"id": "breakfate_weapon_n_gun_fire"
+	},
+	"breakfate_weapon_ssr_sword_physic": {
+		"name": "红莲刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponSword_Phy_BreakFate",
+		"id": "breakfate_weapon_ssr_sword_physic"
+	},
+	"breakfate_weapon_ssr_umbrella_fire": {
+		"name": "陵光",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponUmbrella_Fire_SSR",
+		"id": "breakfate_weapon_ssr_umbrella_fire"
+	},
+	"brush_fire": {
+		"name": "松彗",
+		"avatar": "榴火",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponBrush_Fire_SSR",
+		"id": "brush_fire"
+	},
+	"brush_fire_fashion": {
+		"name": "松彗",
+		"avatar": "榴火",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponBrush_Fire_SSR_Fashion_2",
+		"id": "brush_fire_fashion"
+	},
+	"brush_fire_lv3": {
+		"name": "松彗",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponBrush_Fire_SSR_Level3",
+		"id": "brush_fire_lv3"
+	},
+	"breakfate_weapon_sr_sword_physic": {
+		"name": "红莲刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponSword_Phy_BreakFate",
+		"id": "breakfate_weapon_sr_sword_physic"
+	},
+	"breakfate_weapon_sr_umbrella_fire": {
+		"name": "陵光",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponUmbrella_Fire_SSR",
+		"id": "breakfate_weapon_sr_umbrella_fire"
+	},
+	"breakfate_weapon_ssr_asuka_physic": {
+		"name": "朗基努斯之枪",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponAsuka_Phy_SSR_BreakFate",
+		"id": "breakfate_weapon_ssr_asuka_physic"
+	},
+	"breakfate_weapon_ssr_ayanamirei_thunder": {
+		"name": "救赎",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponAyanami_Thu_SSR_BreakFate",
+		"id": "breakfate_weapon_ssr_ayanamirei_thunder"
+	},
+	"breakfate_weapon_r_sword_physic": {
+		"name": "红莲刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponSword_Phy_BreakFate",
+		"id": "breakfate_weapon_r_sword_physic"
+	},
+	"breakfate_weapon_r_umbrella_fire": {
+		"name": "陵光",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponUmbrella_Fire_SSR",
+		"id": "breakfate_weapon_r_umbrella_fire"
+	},
+	"breakfate_weapon_sr_asuka_physic": {
+		"name": "朗基努斯之枪",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponAsuka_Phy_SSR_BreakFate",
+		"id": "breakfate_weapon_sr_asuka_physic"
+	},
+	"breakfate_weapon_sr_ayanamirei_thunder": {
+		"name": "救赎",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponAyanami_Thu_SSR_BreakFate",
+		"id": "breakfate_weapon_sr_ayanamirei_thunder"
+	},
+	"breakfate_weapon_n_sword_physic": {
+		"name": "红莲刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponSword_Phy_BreakFate",
+		"id": "breakfate_weapon_n_sword_physic"
+	},
+	"breakfate_weapon_n_umbrella_fire": {
+		"name": "陵光",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponUmbrella_Fire_SSR",
+		"id": "breakfate_weapon_n_umbrella_fire"
+	},
+	"breakfate_weapon_r_asuka_physic": {
+		"name": "朗基努斯之枪",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponAsuka_Phy_SSR_BreakFate",
+		"id": "breakfate_weapon_r_asuka_physic"
+	},
+	"breakfate_weapon_r_ayanamirei_thunder": {
+		"name": "救赎",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponAyanami_Thu_SSR_BreakFate",
+		"id": "breakfate_weapon_r_ayanamirei_thunder"
+	},
+	"breakfate_weapon_ssr_darts_physic": {
+		"name": "环海轮刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_darts_SSR",
+		"id": "breakfate_weapon_ssr_darts_physic"
+	},
+	"breakfate_weapon_sr_darts_physic": {
+		"name": "环海轮刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_darts_SSR",
+		"id": "breakfate_weapon_sr_darts_physic"
+	},
+	"breakfate_weapon_r_darts_physic": {
+		"name": "环海轮刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_darts_SSR",
+		"id": "breakfate_weapon_r_darts_physic"
+	},
+	"breakfate_weapon_n_darts_physic": {
+		"name": "环海轮刃",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_darts_SSR",
+		"id": "breakfate_weapon_n_darts_physic"
+	},
+	"breakfate_weapon_ssr_cube_fire": {
+		"name": "否决立方",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponCubeFire_SSR_BreakFate",
+		"id": "breakfate_weapon_ssr_cube_fire"
+	},
+	"breakfate_weapon_sr_cube_fire": {
+		"name": "否决立方",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponCubeFire_SSR_BreakFate",
+		"id": "breakfate_weapon_sr_cube_fire"
+	},
+	"breakfate_weapon_r_cube_fire": {
+		"name": "否决立方",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponCubeFire_SSR_BreakFate",
+		"id": "breakfate_weapon_r_cube_fire"
+	},
+	"breakfate_weapon_n_cube_fire": {
+		"name": "否决立方",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/BreakFate/WeaponCubeFire_SSR_BreakFate",
+		"id": "breakfate_weapon_n_cube_fire"
+	},
+	"breakfate_weapon_ssr_dgun_thunder": {
+		"name": "超电磁双星",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Dgun_Thu_SSR",
+		"id": "breakfate_weapon_ssr_dgun_thunder"
+	},
+	"breakfate_weapon_sr_dgun_thunder": {
+		"name": "超电磁双星",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Dgun_Thu_SSR",
+		"id": "breakfate_weapon_sr_dgun_thunder"
+	},
+	"breakfate_weapon_r_dgun_thunder": {
+		"name": "超电磁双星",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Dgun_Thu_SSR",
+		"id": "breakfate_weapon_r_dgun_thunder"
+	},
+	"breakfate_weapon_n_dgun_thunder": {
+		"name": "超电磁双星",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Dgun_Thu_SSR",
+		"id": "breakfate_weapon_n_dgun_thunder"
+	},
+	"breakfate_weapon_ssr_shieldaxe_fire": {
+		"name": "V2熔驱盾",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Shield_Fire_SSR",
+		"id": "breakfate_weapon_ssr_shieldaxe_fire"
+	},
+	"breakfate_weapon_sr_shieldaxe_fire": {
+		"name": "V2熔驱盾",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Shield_Fire_SSR",
+		"id": "breakfate_weapon_sr_shieldaxe_fire"
+	},
+	"breakfate_weapon_r_shieldaxe_fire": {
+		"name": "V2熔驱盾",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Shield_Fire_SSR",
+		"id": "breakfate_weapon_r_shieldaxe_fire"
+	},
+	"breakfate_weapon_n_shieldaxe_fire": {
+		"name": "V2熔驱盾",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Shield_Fire_SSR",
+		"id": "breakfate_weapon_n_shieldaxe_fire"
+	},
+	"testmark_imitation": {
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/WeaponMark_Phy_SSR_Imitation",
+		"id": "testmark_imitation"
+	},
+	"testnewweapon": {
+		"name": "流泉彻心",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponUmbrella_Fire_SSR",
+		"id": "testnewweapon"
+	},
+	"testsnipe_erjie": {
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Snipe_Fire_SSR",
+		"id": "testsnipe_erjie"
+	},
+	"bigsword_ice_test": {
+		"name": "蔷薇之锋",
+		"avatar": "梅丽尔",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_BigSword_Ice_SSR_test",
+		"id": "bigsword_ice_test"
+	},
+	"testfrigg_ice": {
+		"avatar": "弗丽嘉",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponFrigg_Ice_SSR",
+		"id": "testfrigg_ice"
+	},
+	"testfunnel": {
+		"name": "斯帕克",
+		"avatar": "蕾贝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponFunnel_Fire_SSR",
+		"id": "testfunnel"
+	},
+	"testdkatana": {
+		"avatar": "不破咲",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "testdkatana"
+	},
+	"testtianlang": {
+		"avatar": "天琅",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponTianLang_Thu_SSR",
+		"id": "testtianlang"
+	},
+	"testumbrella": {
+		"name": "流泉彻心",
+		"avatar": "岚",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponUmbrella_Fire_SSR",
+		"id": "testumbrella"
+	},
+	"testwumi": {
+		"avatar": "乌米",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponWhip_Phy_SSR",
+		"id": "testwumi"
+	},
+	"test2": {
+		"avatar": "凛夜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponFunnel_Fire_SSR",
+		"id": "test2"
+	},
+	"test3": {
+		"avatar": "星寰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponFunnel_Fire_SSR",
+		"id": "test3"
+	},
+	"test36": {
+		"name": "格莱普尼",
+		"avatar": "菲欧娜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "test36"
+	},
+	"test37": {
+		"name": "格莱普尼",
+		"avatar": "榴火",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "test37"
+	},
+	"test38": {
+		"name": "格莱普尼",
+		"avatar": "玉兰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "test38"
+	},
+	"test39": {
+		"name": "格莱普尼",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "test39"
+	},
+	"test4": {
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponFunnel_Fire_SSR",
+		"id": "test4"
+	},
+	"test42": {
+		"name": "格莱普尼",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "test42"
+	},
+	"test43": {
+		"name": "格莱普尼",
+		"avatar": "蕾比莉亚",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "test43"
+	},
+	"test44": {
+		"name": "格莱普尼",
+		"avatar": "南音",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "test44"
+	},
+	"test45": {
+		"name": "格莱普尼",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "test45"
+	},
+	"test46": {
+		"name": "格莱普尼",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponDkatana_Ice_SSR",
+		"id": "test46"
+	},
+	"test5": {
+		"avatar": "安娜贝拉",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponFunnel_Fire_SSR",
+		"id": "test5"
+	},
+	"testals": {
+		"name": "流泉彻心",
+		"avatar": "艾莉丝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponIceBlade_SSR",
+		"id": "testals"
+	},
+	"testals_lv3": {
+		"name": "流泉彻心",
+		"avatar": "艾莉丝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponIceBlade_SSR",
+		"id": "testals_lv3"
+	},
+	"testfan": {
+		"avatar": "凛夜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Fan_SuperPower_SSR",
+		"id": "testfan"
+	},
+	"testfll": {
+		"avatar": "芬璃尔",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Snipe_Fire_SSR",
+		"id": "testfll"
+	},
+	"testfll_erjie": {
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Snipe_Fire_SSR",
+		"id": "testfll_erjie"
+	},
+	"funnel_imitationshow": {
+		"avatar": "蕾贝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/WeaponFunnel_Fire_SSR_Imitation",
+		"id": "funnel_imitationshow"
+	},
+	"funnel_fire_level3": {
+		"name": "斯帕克",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponFunnel_Fire_SSR_Level3",
+		"id": "funnel_fire_level3"
+	},
+	"funnel_imitationshow_level3": {
+		"avatar": "蕾贝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/WeaponFunnel_Fire_SSR_Imitation_Level3",
+		"id": "funnel_imitationshow_level3"
+	},
+	"funnel_fire_fashion": {
+		"name": "斯帕克",
+		"avatar": "蕾贝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponFunnel_Fire_SSR_Fashion",
+		"id": "funnel_fire_fashion"
+	},
+	"gun_fire_fashion": {
+		"name": "炽焰左轮",
+		"avatar": "钴蓝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponGun_Fire_SSR_Fashion",
+		"id": "gun_fire_fashion"
+	},
+	"cubefireimitation3": {
+		"name": "否决立方",
+		"avatar": "零",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponCubeFire_SSR_Level3",
+		"id": "cubefireimitation3"
+	},
+	"dkatana_ice_level3": {
+		"name": "流泉彻心",
+		"avatar": "不破咲",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponDkatana_Ice_SSR_Level3",
+		"id": "dkatana_ice_level3"
+	},
+	"dkatana_ice_fashion": {
+		"name": "流泉彻心",
+		"avatar": "不破咲",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponDkatana_Ice_SSR_Fashion",
+		"id": "dkatana_ice_fashion"
+	},
+	"dkatana_ice_level3_imitationui": {
+		"name": "流泉彻心",
+		"avatar": "不破咲",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/WeaponDkatana_Ice_SSR_L3_ImitationUI",
+		"id": "dkatana_ice_level3_imitationui"
+	},
+	"dwsk_weapon_snipe_fire_ssr": {
+		"name": "四叶十字",
+		"avatar": "安娜贝拉",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/Level/CB/DWSK/Weapon/DWSK_Weapon_Snipe_Fire_SSR",
+		"id": "dwsk_weapon_snipe_fire_ssr"
+	},
+	"dwsk_weapon_snipe_fire_ssr_up": {
+		"name": "四叶十字「UP」",
+		"avatar": "安娜贝拉",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/Level/CB/DWSK/Weapon/DWSK_Weapon_Snipe_Fire_SSR_Up",
+		"id": "dwsk_weapon_snipe_fire_ssr_up"
+	},
+	"dkatana_ice_fashion_imitationui": {
+		"name": "流泉彻心",
+		"avatar": "不破咲",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/CubeShow/WeaponDkatana_Ice_SSR_Fashion_ImitationUI",
+		"id": "dkatana_ice_fashion_imitationui"
+	},
+	"tianlang_thunder_level3": {
+		"name": "破钧",
+		"avatar": "天琅",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponTianLang_Thu_SSR_Level3",
+		"id": "tianlang_thunder_level3"
+	},
+	"suspension_thunder_fashion": {
+		"name": "启明星",
+		"avatar": "奈美西斯",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Suspension_Thu_SSR_Fashion",
+		"id": "suspension_thunder_fashion"
+	},
+	"weapon_handbp": {
+		"name": "空手",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_Shield_Fire_SSR_Level3",
+		"id": "weapon_handbp"
+	},
+	"whip_physic": {
+		"name": "莫比乌斯",
+		"avatar": "乌米",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponWhip_Phy_SSR",
+		"id": "whip_physic"
+	},
+	"whip_physic_fashion": {
+		"name": "莫比乌斯",
+		"avatar": "乌米",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponWhip_Phy_SSR_Fashion",
+		"id": "whip_physic_fashion"
+	},
+	"whip_physic_lv3": {
+		"name": "莫比乌斯",
+		"avatar": "乌米",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponWhip_Phy_SSR_Level3",
+		"id": "whip_physic_lv3"
+	},
+	"fan_superpower_level3": {
+		"name": "影织",
+		"avatar": "凛夜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_Fan_SuperPower_SSR_Level3",
+		"id": "fan_superpower_level3"
+	},
+	"fan_superpower_outbreak": {
+		"name": "影织",
+		"avatar": "凛夜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Fan_SuperPower_SSR_Outbreak",
+		"id": "fan_superpower_outbreak"
+	},
+	"feise_fire": {
+		"name": "重蕊",
+		"avatar": "妃色",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponFeise_Fire_SSR",
+		"id": "feise_fire"
+	},
+	"feise_fire_lv3": {
+		"name": "重蕊",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponFeise_Fire_SSR_Level3",
+		"id": "feise_fire_lv3"
+	},
+	"fenrir_thunder": {
+		"name": "格莱普尼",
+		"avatar": "芬璃尔",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Fenrir_Thu_SSR",
+		"id": "fenrir_thunder"
+	},
+	"fenrir_thunder_fashion": {
+		"name": "格莱普尼",
+		"avatar": "芬璃尔",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Fenrir_Thu_SSR_Fashion",
+		"id": "fenrir_thunder_fashion"
+	},
+	"fenrir_thunder_lv3": {
+		"name": "格莱普尼",
+		"avatar": "芬璃尔",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_Fenrir_Thu_SSR_Level3",
+		"id": "fenrir_thunder_lv3"
+	},
+	"fan_fashion_imitation23_uishow": {
+		"name": "影织",
+		"avatar": "凛夜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Fan_SuperPower_SSR_Fashion_UIshow2",
+		"id": "fan_fashion_imitation23_uishow"
+	},
+	"fan_fashion_imitation23_uishow2": {
+		"name": "影织",
+		"avatar": "凛夜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Show/Weapon_Fan_SuperPower_SSR_show2",
+		"id": "fan_fashion_imitation23_uishow2"
+	},
+	"dwsk_weaponbow_ice_ssr": {
+		"name": "冰风之矢",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/Level/CB/DWSK/Weapon/DWSK_WeaponBow_Ice_SSR",
+		"id": "dwsk_weaponbow_ice_ssr"
+	},
+	"dwsk_weaponbow_ice_ssr_up": {
+		"name": "冰风之矢「UP」",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/Level/CB/DWSK/Weapon/DWSK_WeaponBow_Ice_SSR_Up",
+		"id": "dwsk_weaponbow_ice_ssr_up"
+	},
+	"dwsk_weaponcannon_ice_sr": {
+		"name": "终结者",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/Level/CB/DWSK/Weapon/DWSK_WeaponCannon_Ice_SR",
+		"id": "dwsk_weaponcannon_ice_sr"
+	},
+	"dwsk_weaponcannon_ice_sr_up": {
+		"name": "终结者「UP」",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/Level/CB/DWSK/Weapon/DWSK_WeaponCannon_Ice_SR_Up",
+		"id": "dwsk_weaponcannon_ice_sr_up"
+	},
+	"dwsk_weaponfunnel_fire_ssr": {
+		"name": "斯帕克",
+		"avatar": "蕾贝",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/Level/CB/DWSK/Weapon/DWSK_WeaponFunnel_Fire_SSR",
+		"id": "dwsk_weaponfunnel_fire_ssr"
+	},
+	"dwsk_weaponfunnel_fire_ssr_up": {
+		"name": "斯帕克「UP」",
+		"avatar": "蕾贝",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/Level/CB/DWSK/Weapon/DWSK_WeaponFunnel_Fire_SSR_Up",
+		"id": "dwsk_weaponfunnel_fire_ssr_up"
+	},
+	"dwsk_weapongun_fire_ssr": {
+		"name": "炽焰左轮",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/Level/CB/DWSK/Weapon/DWSK_WeaponGun_Fire_SSR",
+		"id": "dwsk_weapongun_fire_ssr"
+	},
+	"dwsk_weapongun_fire_ssr_up": {
+		"name": "炽焰左轮「UP」",
+		"meshPath": "/Game/Resources/Abilities/Buff/Player/Level/CB/DWSK/Weapon/DWSK_WeaponGun_Fire_SSR_Up",
+		"id": "dwsk_weapongun_fire_ssr_up"
+	},
+	"umbrella_fire": {
+		"name": "陵光",
+		"avatar": "岚",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponUmbrella_Fire_SSR",
+		"id": "umbrella_fire"
+	},
+	"umbrella_fire_fashion": {
+		"name": "陵光",
+		"avatar": "岚",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponUmbrella_Fire_SSR_Fashion",
+		"id": "umbrella_fire_fashion"
+	},
+	"umbrella_fire_fashion_imitationui": {
+		"name": "陵光",
+		"avatar": "岚",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponUmbrella_Fire_SSR_Fashion_show",
+		"id": "umbrella_fire_fashion_imitationui"
+	},
+	"umbrella_fire_lv3": {
+		"name": "陵光",
+		"avatar": "岚",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponUmbrella_Fire_SSR_Level3",
+		"id": "umbrella_fire_lv3"
+	},
+	"umbrellafire_show": {
+		"avatar": "蕾贝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponUmbrella_Fire_SSR_UIShow",
+		"id": "umbrellafire_show"
+	},
+	"umbrellafire_show_lv3": {
+		"avatar": "蕾贝",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponUmbrella_Fire_SSR_UIShow_Lv3",
+		"id": "umbrellafire_show_lv3"
+	},
+	"yoyo_ice": {
+		"name": "片光零羽",
+		"avatar": "伊卡洛斯",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponYoYo_Ice_SSR",
+		"id": "yoyo_ice"
+	},
+	"yoyo_ice_level3": {
+		"name": "流泉彻心",
+		"avatar": "伊卡洛斯",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponYoYo_Ice_SSR_Level3",
+		"id": "yoyo_ice_level3"
+	},
+	"yulan_ice": {
+		"name": "骈臻",
+		"avatar": "玉兰",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponYulan_Ice_SSR",
+		"id": "yulan_ice"
+	},
+	"yulan_ice_lv3": {
+		"name": "骈臻",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponYulan_Ice_SSR_Level3",
+		"id": "yulan_ice_lv3"
+	},
+	"zeke_physic": {
+		"name": "执明",
+		"avatar": "明景",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Zeke_Phy_SSR",
+		"id": "zeke_physic"
+	},
+	"zeke_physic_fashion": {
+		"name": "执明",
+		"avatar": "明景",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Zeke_Phy_SSR",
+		"id": "zeke_physic_fashion"
+	},
+	"zeke_physic_fashion_ui": {
+		"name": "执明",
+		"avatar": "明景",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Zeke_Phy_SSR_Fashion_2",
+		"id": "zeke_physic_fashion_ui"
+	},
+	"zeke_physic_level3": {
+		"name": "执明",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_Zeke_Phy_SSR_Level3",
+		"id": "zeke_physic_level3"
+	},
+	"queen_superpower": {
+		"name": "月星钏",
+		"avatar": "菲欧娜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Weapon_Queen_SuperPower_SSR",
+		"id": "queen_superpower"
+	},
+	"queen_superpower_fashion": {
+		"name": "月星钏",
+		"avatar": "菲欧娜",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/Weapon_Queen_SuperPower_SSR_fashion_2",
+		"id": "queen_superpower_fashion"
+	},
+	"queen_superpower_lv3": {
+		"name": "月星钏",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/Weapon_Queen_SuperPower_SSR_Level3",
+		"id": "queen_superpower_lv3"
+	}
+}
