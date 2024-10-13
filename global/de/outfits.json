@@ -1,8 +1,25 @@
 {
+	"fashion_dress_73": {
+		"name": "Untätige Momente",
+		"description": "Unterbrechen Sie alle Arbeits- und Studienaktivitäten. Es ist Zeit für eine Pause. Machen wir eine Pause für … ein Jahrhundert!",
+		"type": "Dress",
+		"source": "Aus Events",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"id": "fashion_dress_73"
+	},
+	"fashion_dress_74": {
+		"name": "Klare Himmelsblüten",
+		"description": "Ein Vogel schießt durch den klaren Himmel, Federn spiralen mit den fallenden Blüten herunter und wecken den unter dem Baum dösenden Reisenden auf.",
+		"type": "Dress",
+		"source": "Für begrenzte Zeit über den aufgerüsteten Pass erhältlich",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"id": "fashion_dress_74"
+	},
 	"fashion_dress_72": {
 		"name": "Sommer-Spezial",
-		"description": "Wie ist dein Eindruck vom Sommer: süß oder pikant? Ist es heiß und sonnig oder entspannt wie eine Meeresbrise? Es ist schwer zu definieren, also warum nicht all diese Gefühle zusammenmischen, sie in rosa Blasen verwandeln und alles hinunterschlucken?",
+		"description": "Wie ist dein Eindruck vom Sommer: süß oder pikant? Ist es heiß und sonnig oder entspannt wie eine Meeresbrise? Es ist schwer zu definieren, also warum nicht all diese Gefühle zusammenmischen, sie sich in rosa Blasen verwandeln lassen und alles hinunterschlucken?",
 		"type": "Dress",
+		"source": "Erhältlich im „Sommer-Spezial“-Gashapon-Event.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_Swim_2024.webp",
 		"id": "fashion_dress_72"
 	},
@@ -1266,9 +1283,17 @@
 		"name": "Neon-Mechflügel",
 		"description": "Breite deine Flügel aus und schwebe frei umher. Ein Regenbogen durchbricht die regnerische Nacht und kündet vom König der Stadt.",
 		"type": "Glider",
-		"source": "Limitierte Auflage des 2. Jubiläums",
+		"source": "Erhältlich beim 2. Jubiläum",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"id": "fashion_glider_5"
+	},
+	"fashion_glider_SP": {
+		"name": "Nachtbogen",
+		"description": "Die neueste urbane Legende, ein Regenbogen, der nur nachts erscheint, ist tatsächlich die Schöpfung dieses Jetpacks. Wer dahinter steckt … das bleibt ein Rätsel.",
+		"type": "Glider",
+		"source": "Aus Events",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"id": "fashion_glider_SP"
 	},
 	"fashion_skateboard_1": {
 		"name": "Jetboard 2",

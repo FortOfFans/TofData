@@ -8014,8 +8014,8 @@
 			],
 			"skill": [
 				{
-					"name": "Explosive Energy",
-					"description": "Enter Superspeed Mode for the Wanderer to gain temporary invincibility and deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets, and apply a <shuzhi>3</>-second <shuzhi>65%</> delay to the targets (ineffective against bosses in team play).\r\nDuring Superspeed Mode, gain hyperbody, and at the same time, each attack of <shuzhi>Windrider</> and <shuzhi>Cloud Riding</> has Supersound, additionally dealing damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</> (counts as passive damage). At the same time, each attack landed grants <shuzhi>1</> stack of Overload, up to <shuzhi>6</> stacks (up to <shuzhi>1</> stack every <shuzhi>0.65</> seconds).\r\nAfter entering Superspeed Mode for <shuzhi>5</> seconds, gain the new skill <shuzhi>Flash Rider</> (can be used during Superspeed Mode). Switching weapons during this time will prevent the Wanderer from using <shuzhi>Flash Rider</>.\r\n\r\n<shuzhi>Passive: Superspeed Reform</>\r\n<shuzhi>Rumble</> has 5 elemental types. Activate up to <shuzhi>1</> of them via the Skills - Settings page. Unable to switch types while in combat.\r\nBased on <shuzhi>Rumble's</> elemental type, using Violent Energy to land a hit on a target will carry a different corresponding <shuzhi>weapon trait</> and provide a different effect.\r\n\r\n<red>Frost-Volt</>: Receive <shuzhi>28</> seconds of Superspeed Mode. During that time, every time <shuzhi>Rumble</> lands a hit with normal attack or every time the Wanderer receives non-excess healing, receive 1 stack of <shuzhi>Thermal Convergence</>, stacking up to <shuzhi>10</> stacks. After Superspeed Mode has ended for <shuzhi>3</> seconds, remove all Thermal Convergence that has not been transformed. Cooldown: <shuzhi>30</> seconds (this is not affected by other cooldown clearing, resetting, or changing effects).\r\n\r\n<red>Flame-Physical</>: Receive <shuzhi>23/> seconds of Superspeed Mode. When entering Superspeed Mode, consume all <shuzhi>Sparks</>. For every stack consumed, receive <shuzhi>2,200</> base flame ATK (this flame ATK will not be reflected on the Wanderer's stats and is unavailable in Apex League) and increase <shuzhi>Rumble's</> final damage by <shuzhi>22%</>. During Superspeed Mode, gain Flame Pursuit. When dealing flame damage, deal damage equal to <shuzhi>1,520%</> of ATK to nearby targets, triggering up to <shuzhi>1</> time every <shuzhi>2</> seconds. Cooldown: <shuzhi>25</> seconds (unaffected by cooldown resetting or reduction effects).\r\n\r\n<red>Volt-Frost</>: Receive <shuzhi>18</> seconds of Superspeed Mode. During Superspeed Mode, increase volt damage by <shuzhi>30%</>. When landing a hit with normal attack while <shuzhi>Rumble</> is in the main slot, receive <shuzhi>1</> stack of <shuzhi>Thunderclap</>, up to <shuzhi>18</> stacks. At full stacks, consume all stacks and deal additional damage equal to <shuzhi>6,000%</> of ATK to nearby targets (counts as skill damage). At the same time, receive a <shuzhi>10</>-second Shield equal to <shuzhi>30%</> of Max HP (this effect does not stack). The Thunderclap additional effect can trigger up to <shuzhi>5</> times each time the Wanderer enters Superspeed Mode. If <shuzhi>Linked Slashes</> consumes <shuzhi>6</> stacks of <shuzhi>Overload</>, additionally deal damage equal to <shuzhi>11,000%</> of ATK to nearby targets. This damage counts as skill damage. Cooldown: <shuzhi>20</> seconds (unaffected by cooldown resetting or reduction effects).\r\n\r\n<red>Physical-Flame</>: Receive <shuzhi>19</> seconds of Superspeed Mode. During Superspeed Mode, deal damage equal to <shuzhi>2,900%</> of physical ATK to nearby targets every second. Every time this damage hits a target, it grants the Wanderer a <shuzhi>10</>-second Shield equal to <shuzhi>5%</> of Max HP, up to <shuzhi>10%</> being added at a time. This Shield's maximum will not exceed <shuzhi>50%</> of the Wanderer's HP. Cooldown: <shuzhi>21</> seconds (unaffected by cooldown resetting or reduction effects).\r\n\r\n<red>Altered</>: Receive <shuzhi>23</> seconds of Superspeed Mode. During Superspeed Mode, increase Max HP by <shuzhi>100%</>. At the same time, each attack landed by <shuzhi>Windrider</> and <shuzhi>Cloud Riding</> additionally deals damage equal to <shuzhi>1,400%</> of Max HP, not exceeding <shuzhi>240</> times of the Wanderer's ATK. This damage counts as skill damage and is unaffected by damage-boosting effects. Cooldown: <shuzhi>25</> seconds (unaffected by cooldown resetting or reduction effects).",
+					"name": "Violent Energy",
+					"description": "Enter Superspeed Mode for the Wanderer to gain temporary invincibility and deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets, and apply a <shuzhi>3</>-second <shuzhi>65%</> delay to the targets (ineffective against bosses in team play).\r\nDuring Superspeed Mode, gain hyperbody, and at the same time, each attack of <shuzhi>Windrider</> and <shuzhi>Cloud Riding</> has Supersound, additionally dealing damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</> (counts as passive damage). At the same time, each attack landed grants <shuzhi>1</> stack of Overload, up to <shuzhi>6</> stacks (up to <shuzhi>1</> stack every <shuzhi>0.65</> seconds).\r\nAfter entering Superspeed Mode for <shuzhi>5</> seconds, gain the new skill <shuzhi>Flash Rider</> (can be used during Superspeed Mode). Switching weapons during this time will prevent the Wanderer from using <shuzhi>Flash Rider</>.\r\n\r\n<shuzhi>Passive: Superspeed Reform</>\r\n<shuzhi>Rumble</> has 5 elemental types. Activate up to <shuzhi>1</> of them via the Skills - Settings page. Unable to switch types while in combat.\r\nBased on <shuzhi>Rumble's</> elemental type, using Violent Energy to land a hit on a target will carry a different corresponding <shuzhi>weapon trait</> and provide a different effect.\r\n\r\n<red>Frost-Volt</>: Receive <shuzhi>28</> seconds of Superspeed Mode. During that time, every time <shuzhi>Rumble</> lands a hit with normal attack or every time the Wanderer receives non-excess healing, receive 1 stack of <shuzhi>Thermal Convergence</>, stacking up to <shuzhi>10</> stacks. After Superspeed Mode has ended for <shuzhi>3</> seconds, remove all Thermal Convergence that has not been transformed. Cooldown: <shuzhi>30</> seconds (this is not affected by other cooldown clearing, resetting, or changing effects).\r\n\r\n<red>Flame-Physical</>: Receive <shuzhi>23</> seconds of Superspeed Mode. When entering Superspeed Mode, consume all <shuzhi>Sparks</>. For every stack consumed, receive <shuzhi>600</> base flame ATK (this flame ATK will not be reflected on the Wanderer's stats and is unavailable in Apex League) and increase <shuzhi>Rumble's</> final damage by <shuzhi>6%</>. During Superspeed Mode, gain Flame Pursuit. When dealing flame damage, deal damage equal to <shuzhi>500%</> of ATK to nearby targets, triggering up to <shuzhi>1</> time every <shuzhi>2</> seconds. Cooldown: <shuzhi>25</> seconds (unaffected by cooldown resetting or reduction effects).\r\n\r\n<red>Volt-Frost</>: Receive <shuzhi>18</> seconds of Superspeed Mode. During Superspeed Mode, increase volt damage by <shuzhi>12%</>. When landing a hit with normal attack while <shuzhi>Rumble</> is in the main slot, receive <shuzhi>1</> stack of <shuzhi>Thunderclap</>, up to <shuzhi>18</> stacks. At full stacks, consume all stacks and deal additional damage equal to <shuzhi>2,000%</> of ATK to nearby targets (counts as skill damage). At the same time, receive a <shuzhi>10</>-second Shield equal to <shuzhi>30%</> of Max HP (this effect does not stack). The Thunderclap additional effect can trigger up to <shuzhi>5</> times each time the Wanderer enters Superspeed Mode. If <shuzhi>Linked Slashes</> consumes <shuzhi>6</> stacks of <shuzhi>Overload</>, additionally deal damage equal to <shuzhi>3,500%</> of ATK to nearby targets. This damage counts as skill damage. Cooldown: <shuzhi>20</> seconds (unaffected by cooldown resetting or reduction effects).\r\n\r\n<red>Physical-Flame</>: Receive <shuzhi>19</> seconds of Superspeed Mode. During Superspeed Mode, deal damage equal to <shuzhi>700%</> of ATK to nearby targets every second. Every time this damage hits a target, it grants the Wanderer a <shuzhi>10</>-second Shield equal to <shuzhi>5%</> of Max HP, up to <shuzhi>10%</> being added at a time. This Shield's maximum will not exceed <shuzhi>50%</> of the Wanderer's HP. Cooldown: <shuzhi>21</> seconds (unaffected by cooldown resetting or reduction effects).\r\n\r\n<red>Altered</>: Receive <shuzhi>23</> seconds of Superspeed Mode. During Superspeed Mode, increase Max HP by <shuzhi>100%</>. At the same time, each attack landed by <shuzhi>Windrider</> and <shuzhi>Cloud Riding</> additionally deals damage equal to <shuzhi>166%</> of Max HP, not exceeding <shuzhi>30</> times of the Wanderer's ATK. This damage counts as skill damage and is unaffected by damage-boosting effects. Cooldown: <shuzhi>25</> seconds (unaffected by cooldown resetting or reduction effects).",
 					"operations": [],
 					"tags": [
 						"Damage",
@@ -8026,7 +8026,7 @@
 				},
 				{
 					"name": "Flash Rider",
-					"description": "Can be triggered during Superspeed Mode to deal multiple-phased linked slashes to nearby targets, dealing damage totalling to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</>. Superspeed Mode ends after using this skill.\r\n\r\n<shuzhi>Passive: Superspeed Inertia</>\r\nBased on <shuzhi>Rumble's</> element, use <shuzhi>Flash Rider</> to provide an additional effect.\r\n\r\n<red>Frost-Volt</>: Consume all <shuzhi>Thermal Convergence</> stacks and gain Deepfreeze, which increases frost damage boost by <shuzhi>1.4%</> of <shuzhi>Thermal Convergence</> stack count. At the same time, deal frost damage equal to <shuzhi>1,400%</> of ATK plus <shuzhi>Thermal Convergence</> stack count times <shuzhi>240%</> of ATK to nearby targets. This damage counts as passive damage and lasts for <shuzhi>30</> seconds.\r\n\r\n<red>Altered</>: Deal damage equal to <shuzhi>50,000%</> of the Wanderer's Max HP to nearby targets. This damage does not exceed <shuzhi>8,000</> times of the Wanderer's ATK, counts as skill damage, and is unaffected by damage-boosting effects.",
+					"description": "Can be triggered during Superspeed Mode to deal multiple-phased linked slashes to nearby targets, dealing damage totalling to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</>. Superspeed Mode ends after using this skill.\r\n\r\n<shuzhi>Passive: Superspeed Inertia</>\r\nBased on <shuzhi>Rumble's</> element, use Flash Rider to provide an additional effect.\r\n\r\n<red>Frost-Volt</>: Consume all <shuzhi>Thermal Convergence</> stacks and gain Deepfreeze, which increases frost damage boost by <shuzhi>0.6%</> of <shuzhi>Thermal Convergence</> stack count. At the same time, deal frost damage equal to <shuzhi>500%</> of ATK plus <shuzhi>Thermal Convergence</> stack count times <shuzhi>50%</> of ATK to nearby targets. This damage counts as passive damage and lasts for <shuzhi>30</> seconds.\r\n\r\n<red>Altered</>: Deal damage equal to <shuzhi>6,250%</> of the Wanderer's Max HP to nearby targets. This damage does not exceed <shuzhi>1,000</> times of the Wanderer's ATK, counts as skill damage, and is unaffected by damage-boosting effects.",
 					"operations": [],
 					"tags": [
 						"Damage",
@@ -9346,6 +9346,448 @@
 		"limited": true,
 		"id": "loslyn_ice"
 	},
+	"merylx_thunder": {
+		"name": "Siege Edge",
+		"description": "Developed by Hykros, this transformable weapon boasts remarkable design and performance, though it's hard to mass-produce due to its complexity. \"One strike is all it takes to breach a fortress.\"—commented its designer.",
+		"assets": {
+			"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Icon/item_Weapon_SSR_meilierkai.webp",
+			"weaponIconForMatrix": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/icon_yizhi/yizhi_SSR_meilierkai.webp",
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/meilierkai2.webp"
+		},
+		"rarity": 5,
+		"element": "Thunder",
+		"type": "Merylx",
+		"weaponUpgradeId": "thunder_ssr_tupo_BD",
+		"wc": "Tank",
+		"advanceID": "MerylX_thunder_ssr_star",
+		"avatar": "imitation_61",
+		"stats": [
+			{
+				"stat": {
+					"name": "Attack",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/AttributeIcon/icon_atk.webp",
+					"multiplier": 2,
+					"flat": false,
+					"id": "CommonAtkAdded"
+				},
+				"value": 16.571905
+			},
+			{
+				"stat": {
+					"name": "HP",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/AttributeIcon/icon_hp.webp",
+					"multiplier": 0.025,
+					"flat": false,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1010.0971
+			},
+			{
+				"stat": {
+					"name": "Crit",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/AttributeIcon/icon_baoji.webp",
+					"multiplier": 0.4,
+					"flat": false,
+					"id": "CritAdded"
+				},
+				"value": 11.837075
+			}
+		],
+		"upgradeProps": [
+			[
+				3.15534,
+				194.17476,
+				2.427185
+			]
+		],
+		"effects": [
+			{
+				"title": "**Fusion of Volt and Frost**",
+				"description": "When the weapon deals damage, damage is calculated using the highest equipped volt/frost base ATK, the highest equipped volt/frost ATK percentage, and the highest equipped volt/frost damage boost, and the weapon is considered both a volt and frost weapon."
+			},
+			{
+				"title": "**Volt Resonance**",
+				"description": "Increase volt ATK by **15%** and volt resistance by **25%**. Activate by equipping **2** or more volt weapons. This set effect works in the off-hand slot. Cannot stack with other Volt Resonance or Volt Reaction effects, with Volt Resonance taking precedence."
+			},
+			{
+				"title": "**Frost Resonance**",
+				"description": "Increase frost ATK by **15%** and frost resistance by **25%**. Activate by equipping **2** or more frost weapons. This set effect works in the off-hand slot. Cannot stack with other Frost Resonance or Frost Reaction effects, with Frost Resonance taking precedence."
+			},
+			{
+				"title": "**Electroblade: Swift Cut**",
+				"description": "When equipped with **Siege Edge**, weapon discharge skills deal damage equal to **0.97%** of Max HP plus **73.2%** of volt ATK plus **36.6%** of the sum of all the Wanderer's resistance types plus **134.3%** of crit to nearby targets. While in combat, after every **0.5** seconds, the next Swift Cut damage will be increased by an additional **1** time, up to a maximum of **30** times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Swift Cut damage counts as discharge damage. If any physical or flame weapon is equipped, volt damage is multiplied by **1.3**. In addition, volt damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects."
+			},
+			{
+				"title": "**Sensory Transformation**",
+				"description": "When attacking with **Siege Edge** equipped, it has greatsword and longsword forms. Greatsword form attacks provide a shield equal to **2%** of Max HP, lasting for **5** seconds and stacking up to **5** times. Longsword form attacks provide Electroblade stacks; upon **5** stacks, gain Electroblade Enhancement, increasing damage of the next skill by **100%**. Electroblade and Electroblade Enhancement are cleared after exiting battle."
+			}
+		],
+		"elementEffects": {
+			"title": "**Volt**",
+			"description": "When the weapon is fully charged, the next attack will **strongly paralyze** targets for **1** second and electrify them for **6** seconds, removing all their buffs and dealing damage equal to **144.00%** of ATK. Electrified targets can't receive any buffs for the next **6** seconds."
+		},
+		"attributes": [
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			}
+		],
+		"advancements": [
+			{
+				"description": "When **Siege Edge** is in the main slot, **Chain Static** has a **25%** chance to trigger Magnetic Tempest, dealing 500% of ATK as damage (this is counted as skill damage). This effect can only be triggered 1 time every **2** seconds.\r\nWhen **Siege Edge** is switched to the off-hand slot when in the **Electromagnetic Disruption** state, triggers a charge effect that lasts for **4** seconds, granting **100** weapon charge every second.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 1.166667
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.166667
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.166667
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.166667
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Increase the current weapon's base ATK growth by **16%**.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 1.493333
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.333333
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.333333
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.333333
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Any volt weapon skill or discharge, **Solar Shot**, **Step-Back Shot**, and **Magnetoelectric Artillery** can give special energy. When fully charged, using **Magnetic Ray Cannon** will consume all special energy and enhance **Electromagnetic Disruption**: Chance of triggering **Chain Static** and **Magnetic Tempest** is increased to **100%**.\r\nGives full special energy upon entering combat state.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 1.66
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.5
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.5
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.5
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Increase the current weapon's base ATK growth by **32%**.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 2.146667
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.666667
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.666667
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.666667
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Increase final damage by **30%**. This effect also works in the off-hand slot.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 2.313333
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.833333
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.833333
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.833333
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "In enhanced **Electromagnetic Disruption** state, increase damage multiplier of **Chain Static** and **Magnetic Tempest** by **100%**.\r\nWhen **Fortitude Resonance** is triggered, using **Cosmic Thunder** while **Electroblade Enhancement** is in effect provides the user and nearby teammates with **20%** damage reduction that lasts for **20** seconds and a shield equal to **20%** of the user's Max HP that lasts for **20** seconds.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 2.48
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 2
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 2
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 2
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			}
+		],
+		"skills": {
+			"normals": [
+				{
+					"name": "Frequency Chain",
+					"description": "While on the ground, use normal attack to launch 5 consecutive attacks.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> and knock the target back.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</> and knock the target back. \r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK plus <shuzhi>{5}</> and knock the target back.\r\nFourth Attack: Deal damage up to <shuzhi>{6}%</> of ATK plus <shuzhi>{7}</> and knock the target back.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK plus <shuzhi>{9}</> and knock the target back.",
+					"operations": [
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_melee.webp",
+					"id": "GA_FPlayerMerylXMelee_Melee"
+				},
+				{
+					"name": "Leaping Slashes",
+					"description": "While the Wanderer is airborne, use normal attack to launch 5 consecutive attacks in the air, consuming endurance.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> and knock the target back.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</> and knock the target back. \r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK plus <shuzhi>{5}</> and knock the target back.\r\nFourth Attack: Deal damage up to <shuzhi>{6}%</> of ATK plus <shuzhi>{7}</> and knock the target back.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK plus <shuzhi>{9}</> and knock the target back.",
+					"operations": [
+						"Jump",
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_airattack.webp",
+					"id": "GA_FPlayerMerylXMelee_AirAttack"
+				},
+				{
+					"name": "Thunderous Cutter",
+					"description": "While using normal attack on the ground, tap and hold normal attack when using the first or second normal attacks to trigger Thunderous Cutter.\r\nSwing Siege Edge and perform downward slashes in front, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets.",
+					"operations": [
+						"Attack",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch.webp",
+					"id": "GA_FPlayerMerylXMelee_Branch"
+				},
+				{
+					"name": "Lightning Thrust",
+					"description": "While using normal attack on the ground, tap and hold normal attack when using the third to fourth normal attacks to trigger Lightning Thrust.\r\nPerform a swift upward attack, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets.",
+					"operations": [
+						"Attack",
+						"Attack",
+						"Attack",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch1.webp",
+					"id": "GA_FPlayerMerylXMelee_Branch1"
+				},
+				{
+					"name": "Solar Shot",
+					"description": "While on the ground, tap and hold normal attack to trigger Solar Shot.\r\nFire a charged shot at the target, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to the target upon hit.",
+					"operations": [
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_aimattack.webp",
+					"id": "GA_FPlayerMerylXMelee_PowerAttack"
+				},
+				{
+					"name": "Electrified Flicker",
+					"description": "Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using a Jetpack to trigger Electrified Flicker.\r\nFall down from mid-air. During the course of landing, each hit on an enemy deals damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</>. After landing, deal damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</> to nearby targets.",
+					"operations": [
+						"Jump",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_jumpattack.webp",
+					"id": "GA_FPlayerMerylXMelee_JumpAttack"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Dodge",
+					"description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.",
+					"operations": [
+						"Movement",
+						"Dash"
+					],
+					"tags": [],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/common_evade.webp",
+					"id": "GA_FPlayerMerylXEvade_Evade"
+				},
+				{
+					"name": "Pulsing Whirl",
+					"description": "Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Pulsing Whirl, dealing damage up to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to targets ahead.",
+					"operations": [
+						"Movement",
+						"Dash",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_fevadeattack.webp",
+					"id": "GA_FPlayerMerylXEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "Step-Back Shot",
+					"description": "Use normal attack during the short period after dodging to trigger Step-Back Shot, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to the hit target.",
+					"operations": [
+						"Dash",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_bevadeattack.webp",
+					"id": "GA_FPlayerMerylXEvadeAttack_BackAttack"
+				},
+				{
+					"name": "Magnetoelectric Artillery",
+					"description": "Tap and hold normal attack right after dodging to trigger Magnetoelectric Artillery, which has three strengths according to the length of time charged: deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</>, <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</>, or <shuzhi>{4}%</> of ATK plus <shuzhi>{5}</> to targets ahead. Max charge can execute non-boss targets (other than Wanderers) with up to 30% of Max HP remaining.",
+					"operations": [
+						"Dash",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_evadepowerattack.webp",
+					"id": "GA_FPlayerMerylXEvadeAttack_PowerAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "Cosmic Thunder",
+					"description": "Switch Siege Edge to longsword form, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> (this does not accumulate <shuzhi>Electroblade</>). This skill has a cooldown of <shuzhi>20</> seconds (this is not affected by other cooldown clearing, resetting, or changing effects).\r\nWhen <shuzhi>Fortitude Resonance</> is triggered: Using Cosmic Thunder provides nearby teammates with hyperbody for <shuzhi>10</> seconds; using Cosmic Thunder while <shuzhi>Electroblade Enhancement</> is in effect draws in nearby enemies and inflicts them with resistance reduction of <shuzhi>10%</> for <shuzhi>20</> seconds.",
+					"operations": [],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_skill.webp",
+					"id": "GA_FPlayerMerylXSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Magnetic Ray Cannon",
+					"description": "When <red>weapon charge is full</> or <red>Phantasia</> is triggered, upon switching to this weapon, <shuzhi>remove all debuffs from the Wanderer</>. Siege Edge changes to EM Blaster form and unleashes a powerful blast, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to targets ahead. When unleashing this blast, immune to damage for <shuzhi>1.5</> seconds (unavailable in Apex League).\r\nAfter using Magnetic Ray Cannon, increase the Wanderer's volt attack by <shuzhi>10%</> for <shuzhi>20</> seconds and enter Electromagnetic Disruption for <shuzhi>22</> seconds: During this time, the Wanderer gains hyperbody; using any volt weapon skill gives an additional <shuzhi>500</> weapon charge; volt damage has a <shuzhi>25%</> chance to trigger Chain Static, dealing damage equal to <shuzhi>50%</> of ATK to up to <shuzhi>7</> targets (this is counted as normal attack damage but does not trigger normal attack effects), and this effect can be triggered up to 1 time every <shuzhi>0.5</> seconds; defeating a target triggers Chain Static again, and this effect can be triggered up to 1 time every <shuzhi>0.1</> seconds.\r\nWhen <shuzhi>Fortitude Resonance</> is triggered:\r\nIn Electromagnetic Disruption state, taunt nearby enemies every <shuzhi>2</> seconds and provide the Wanderer with a shield equal to <shuzhi>20%</> of Max HP that lasts for <shuzhi>2</> seconds.\r\nWhen <shuzhi>Fortitude Resonance is not</> triggered:\r\nIn Electromagnetic Disruption state, <shuzhi>Siege Edge</> attacks inflict Static to targets upon hit, reducing their speed by <shuzhi>30%</> for <shuzhi>20</> seconds.",
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_changeskill.webp",
+					"id": "GA_FPlayerMerylXChangeSkill_Success"
+				}
+			]
+		},
+		"fashion": [
+			{
+				"outfit": {
+					"name": "Everlasting Summer",
+					"description": "It's a long summer day. Miss Meryl, currently on vacation, is picking out a swimsuit at a swimwear shop.",
+					"rarity": 5,
+					"source": "From events",
+					"simulacrumId": "imitation_61",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX_Lock.webp"
+					},
+					"weaponId": "Paradox_fire_fashion_imitationUI",
+					"id": "imitation_fashion_61"
+				},
+				"weapon": {
+					"name": "Frozen Treats",
+					"description": "Mission or vacation? For Agent Meryl, why not both?",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex_weapon.webp",
+					"type": "CONSUMABLE",
+					"source": [
+						"Available from the Everlasting Summer gachapon event."
+					],
+					"id": "imitation_fashion_61_w"
+				}
+			}
+		],
+		"version": "CN-Only",
+		"limited": true,
+		"id": "merylx_thunder"
+	},
 	"suspension_thunder": {
 		"name": "Venus",
 		"description": "Its designer is unknown. The special hovering EM Blaster's prototype's blueprint has been lost. It contains a unique electrical saving process in its interior. It's extremely troublesome to repair when it gets worn out, but Cobalt-B of Banges Tech seems to be able to do it. ",
@@ -9706,7 +10148,7 @@
 		"fashion": [
 			{
 				"outfit": {
-					"name": "Shirli",
+					"name": "Shirli!",
 					"description": "It's an image extracted from memories... It's just an illusion.",
 					"rarity": 5,
 					"source": "From events",
@@ -12425,7 +12867,7 @@
 			}
 		],
 		"version": "2.5",
-		"limited": true,
+		"limited": false,
 		"id": "rubilia_thunder"
 	},
 	"iceblade_ice": {
@@ -16150,7 +16592,7 @@
 			}
 		],
 		"version": "3.0",
-		"limited": true,
+		"limited": false,
 		"id": "brush_fire"
 	},
 	"whip_physic": {
@@ -18608,7 +19050,7 @@
 		},
 		"fashion": [],
 		"version": "3.0",
-		"limited": true,
+		"limited": false,
 		"id": "yulan_ice"
 	},
 	"zeke_physic": {

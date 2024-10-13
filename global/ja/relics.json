@@ -659,6 +659,39 @@
 		"version": "3.7",
 		"id": "artifact_ssr_023"
 	},
+	"artifact_ssr_024": {
+		"name": "バフフィールド",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "",
+		"source": "",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"rarity": 5,
+		"AttributeID": "artifact_adv_048",
+		"advancement": [
+			{
+				"description": "防御形態時、ダメージ軽減効果+**20%**",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "攻撃形態では、ダメージUP効果が**11%**まで上昇。",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "防御形態では、致死効果をブロックする効果の発動時間が**120**秒ごとに1回のみの発動に短縮される。",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "異能耐性+**2%**。セットしていなくても有効、トップリーグでは無効。",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "攻撃形態では、ダメージUP効果が**16%**まで上昇。",
+				"id": "artifact_adv_048"
+			}
+		],
+		"version": "CN-Only",
+		"id": "artifact_ssr_024"
+	},
 	"artifact_sr_001": {
 		"name": "フロスト砲",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -702,7 +735,7 @@
 		"AttributeID": "artifact_adv_015",
 		"advancement": [
 			{
-				"description": "**100**秒ごとにエナジー注入を1回回復する。滑空はスタミナを消費しない",
+				"description": "**20**秒ごとに、エナジー注入が1回回復。グライダーはスタミナを消費しない",
 				"id": "artifact_adv_015"
 			},
 			{
@@ -710,7 +743,7 @@
 				"id": "artifact_adv_015"
 			},
 			{
-				"description": "**60**秒ごとにエナジー注入を1回回復する",
+				"description": "**15**秒ごとに、エナジー注入が1回回復",
 				"id": "artifact_adv_015"
 			},
 			{

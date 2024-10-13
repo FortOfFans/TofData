@@ -8994,11 +8994,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305101"
@@ -9023,11 +9023,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305102"
@@ -9052,11 +9052,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305103"
@@ -9168,11 +9168,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305201"
@@ -9197,11 +9197,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305202"
@@ -9226,11 +9226,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305203"
@@ -9342,11 +9342,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305301"
@@ -9371,11 +9371,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305302"
@@ -9400,11 +9400,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305303"
@@ -9516,11 +9516,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305401"
@@ -9545,11 +9545,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305402"
@@ -9574,11 +9574,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305403"
@@ -9690,11 +9690,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305501"
@@ -9719,11 +9719,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305502"
@@ -9748,11 +9748,11 @@
 			{
 				"name": "Cristalithe d'énergie",
 				"description": "Cristaux d'énergie miniatures générés lors de l'utilisation d'un suppresseur. Possède de légères propriétés de récupération.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305503"
@@ -22266,7 +22266,7 @@
 	"904061": {
 		"name": "Edaphos",
 		"amount": 1,
-		"description": "",
+		"description": "Vaincre Edaphos\r\nLieu: Terrain d'essai d'Edaphos",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Combat",
 		"section2": "Boss",
@@ -22290,8 +22290,9 @@
 		"id": "904061"
 	},
 	"904062": {
+		"name": "Porté par le vent - Jill",
 		"amount": 1,
-		"description": "",
+		"description": "Atteignez le niveau dimensionnel 100 ou plus\r\nVaincre Windborne - Jill\r\nLieu: Grande île du nord-est de la Côte d'azur",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Combat",
 		"section2": "Le Monstre",
@@ -22308,8 +22309,9 @@
 		"id": "904062"
 	},
 	"904063": {
+		"name": "Porte-lumière - Las",
 		"amount": 1,
-		"description": "",
+		"description": "Atteignez le niveau dimensionnel 100 ou plus\r\nVaincre Lightbringer - Las\r\nEmplacement: Petite île du nord-est de la Côte d'azur",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Combat",
 		"section2": "Le Monstre",
@@ -22326,8 +22328,9 @@
 		"id": "904063"
 	},
 	"904064": {
+		"name": "Vecteur - Dustin",
 		"amount": 1,
-		"description": "",
+		"description": "Atteignez le niveau dimensionnel 100 ou plus\nVaincre le vecteur - Dustin\nEmplacement : Petite île du nord-est de la Côte d'azur",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Combat",
 		"section2": "Le Monstre",
@@ -22344,8 +22347,9 @@
 		"id": "904064"
 	},
 	"904065": {
+		"name": "Fermœil - Dylan",
 		"amount": 1,
-		"description": "",
+		"description": "Atteignez le niveau dimensionnel 100 ou plus\r\nVaincre Deadeye - Dylan\r\nEmplacement: Côté nord du Centre de recherche Braudel",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Combat",
 		"section2": "Le Monstre",
@@ -22362,8 +22366,9 @@
 		"id": "904065"
 	},
 	"904066": {
+		"name": "Mire - Elvin",
 		"amount": 1,
-		"description": "",
+		"description": "Atteignez le niveau dimensionnel 100 ou plus\r\nVaincre Mire - Elvin\r\nLieu: Forteresse du sud de la Côte d'azur",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Combat",
 		"section2": "Le Monstre",
@@ -22380,8 +22385,9 @@
 		"id": "904066"
 	},
 	"904067": {
+		"name": "Redbolt - Gris",
 		"amount": 1,
-		"description": "",
+		"description": "Atteignez le niveau dimensionnel 100 ou plus\r\nVaincre Redbolt - Gris\r\nEmplacement: Forteresse sud de la Côte d'azur",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Combat",
 		"section2": "Le Monstre",
@@ -22398,8 +22404,9 @@
 		"id": "904067"
 	},
 	"904068": {
+		"name": "Fureur de sang - Karan",
 		"amount": 1,
-		"description": "",
+		"description": "Atteignez le niveau dimensionnel 100 ou plus\r\nVaincre Bloodfury - Karan\r\nLieu: Sous TOLLYWOOD",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Combat",
 		"section2": "Le Monstre",

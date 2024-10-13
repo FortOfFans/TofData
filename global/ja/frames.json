@@ -811,6 +811,10 @@
 		"name": "一緒に花火を",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_157.webp"
 	},
+	"AvatarFrame_158": {
+		"name": "色褪せる太陽",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_158.webp"
+	},
 	"AvatarFrame_159": {
 		"name": "深海の奥義",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_159.webp"
@@ -830,6 +834,14 @@
 	"AvatarFrame_163": {
 		"name": "前進する者",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_163.webp"
+	},
+	"AvatarFrame_164": {
+		"name": "青い心",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_164.webp"
+	},
+	"AvatarFrame_165": {
+		"name": "ミャウミャウウィンク",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_165.webp"
 	},
 	"AvatarFrame_txcreatos_06": {
 		"name": "千灯の祭典",
@@ -936,7 +948,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_10.webp"
 	},
 	"AvatarFrame_PlayStation_03": {
-		"name": "N/A",
+		"name": "愛に感謝",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_PlayStation_03.webp"
 	},
 	"AvatarFrame_tencent_11": {
@@ -944,15 +956,19 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_11.webp"
 	},
 	"AvatarFrame_tencent_12": {
-		"name": "N/A",
+		"name": "ハート泥棒",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_12.webp"
 	},
 	"AvatarFrame_tencent_13": {
-		"name": "N/A",
+		"name": "アイダ星の開拓者 6",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_13.webp"
 	},
 	"AvatarFrame_tencent_14": {
-		"name": "N/A",
+		"name": "喝采するMi-a",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_14.webp"
+	},
+	"AvatarFrame_tencent_15": {
+		"name": "夏の涼しさ",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_15.webp"
 	}
 }

@@ -5038,7 +5038,7 @@
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_GL_weapon.webp",
 					"type": "CONSUMABLE",
 					"source": [
-						"Obtained from the 2nd anniversary"
+						"Se obtiene del 2do aniversario"
 					],
 					"id": "imitation_fashion_10_w"
 				}
@@ -8014,8 +8014,8 @@
 			],
 			"skill": [
 				{
-					"name": "Energía Explosiva",
-					"description": "Entra al Modo de Supervelocidad para que el nómada gane invencibilidad temporal e inflija un daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos. También aplicará un retraso del <shuzhi>65%</> por <shuzhi>3</> seg a los objetivos (ineficaz contra jefes en partidas en equipo).\r\nAl entrar al Modo de Supervelocidad, gana hipercuerpo y, al mismo tiempo, cada ataque de <shuzhi>Surcavientos</> y <shuzhi>Viaje Celestial</> gana Supersónico, lo que inflige un daño adicional igual al <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</> (cuenta como daño pasivo). Además, cada ataque conectado otorga <shuzhi>1</> acumulación de Sobrecarga, hasta <shuzhi>6</> acumulaciones (puedes obtener hasta <shuzhi>1</> acumulación cada <shuzhi>0.65</> seg).\r\nLuego de estar en Modo de Supervelocidad por <shuzhi>5</> seg, gana la habilidad <shuzhi>Jinete Relámpago</> (puede usarse durante el Modo de Supervelocidad). Cambiar de armas durante este periodo evitará que el nómada use <shuzhi>Jinete Relámpago</>.\r\n\r\n<shuzhi>Pasiva: Reforma de Supervelocidad</>\r\n<shuzhi>Estruendo</> tiene 5 tipos elementales. Activa <shuzhi>1</> de ellos en la página de Habilidades - Opciones. No puedes cambiar de elemento si estás en combate.\r\nDependiendo del elemento de <shuzhi>Estruendo</>, conectar un golpe a un objetivo con Energía Violenta causará el <shuzhi>rasgo de arma</> correspondiente y otorgará un efecto diferente.\r\n\r\n<red>Escarcha-Eléctrico</>: Recibe <shuzhi>28</> seg de Modo de Supervelocidad. Durante este periodo, cada vez que <shuzhi>Estruendo</> conecte un golpe con un ataque normal o cada vez que el nómada reciba curación no excesiva, obtén 1 acumulación de <shuzhi>Convergencia Térmica</>, hasta <shuzhi>10</> acumulaciones. <shuzhi>3</> seg luego de salir del Modo de Supervelocidad, elimina todas las acumulaciones de Convergencia Térmica no transformadas. Enfriamiento: <shuzhi>30</> seg (no se ve afectado por otros efectos de eliminación, restablecimiento o alteración de enfriamiento).\r\n\r\n<red>Fuego-Físico</>: Recibe <shuzhi>23/> seg de Modo de Supervelocidad. Al entrar en el Modo de Supervelocidad, consume todas las acumulaciones de <shuzhi>Chispas</>. Por cada acumulación consumida, obtén <shuzhi>2200</> de ATQ de fuego base (este ATQ de fuego no se reflejará en las estadísticas del nómada y no está disponible en la Liga Ápex) y aumenta el daño final de <shuzhi>Estruendo</> en un <shuzhi>22%</>. Durante el Modo de Supervelocidad, obtén Persecución de Fuego. Cuando infliges daño de fuego, inflige daño igual al <shuzhi>1520%</> del ATQ a los objetivos cercanos, se puede activar hasta <shuzhi>1</> vez cada <shuzhi>2</> seg. Enfriamiento: <shuzhi>25</> seg (no se ve afectado por efectos de restablecimiento o reducción de enfriamiento).\r\n\r\n<red>Electricidad-Escarcha</>: Recibe <shuzhi>18</> seg de Modo de Supervelocidad. Durante el Modo de Supervelocidad, aumenta el daño eléctrico en <shuzhi>30%</>. Al conectar un golpe con un ataque normal mientras <shuzhi>Estruendo</> está en la ranura principal, obtén <shuzhi>1</> acumulación de <shuzhi>Trueno</>, hasta <shuzhi>18</> acumulaciones. Al llegar al máximo de acumulaciones, consúmelas todas e inflige daño adicional igual al <shuzhi>6000%</> del ATQ a los objetivos cercanos (cuenta como daño de habilidad). Además, obtén un Escudo de <shuzhi>10</> seg igual al <shuzhi>30%</> de los PS Máx. (este efecto no se acumula). El efecto adicional de Trueno puede activarse hasta <shuzhi>5</> veces cada vez que el nómada entra en el Modo de Supervelocidad. Si <shuzhi>Tajos Enlazados</> consume <shuzhi>6</> acumulaciones de <shuzhi>Sobrecarga</>, inflige un daño adicional igual al <shuzhi>11 000%</> del ATQ a los objetivos cercanos. Este daño cuenta como daño de habilidad. Enfriamiento: <shuzhi>20</> seg (no se ve afectado por efectos de restablecimiento o reducción de enfriamiento).\r\n\r\n<red>Física-Fuego</>: Recibe <shuzhi>19</> seg de Modo de Supervelocidad. Durante el Modo de Supervelocidad, inflige daño igual al <shuzhi>2900%</> del ATQ físico a los objetivos cercanos cada segundo. Cada vez que este daño golpea a un objetivo, otorga al nómada un Escudo de <shuzhi>10</> seg igual al <shuzhi>5%</> de los PS Máx. Puede ganar hasta <shuzhi>10%</> cada vez. Este Escudo no excede el <shuzhi>50%</> de los PS del nómada. Enfriamiento: <shuzhi>21</> seg (no se ve afectado por efectos de restablecimiento o reducción de enfriamiento).\r\n\r\n<red>Alterado</>: Recibe <shuzhi>23</> seg de Modo de Supervelocidad. Durante el Modo de Supervelocidad, aumenta los PS Máx. en un <shuzhi>100%</>. Además, cada ataque conectado por <shuzhi>Surcavientos</> y <shuzhi>Viaje Celestial</> inflige un daño adicional igual al <shuzhi>1400%</> de los PS Máx., pero no puede exceder <shuzhi>240</> veces el ATQ del nómada. Este daño cuenta como daño de habilidad y no se ve afectado por efectos de refuerzo de daño. Enfriamiento: <shuzhi>25</> seg (no se ve afectado por efectos de restablecimiento o reducción de enfriamiento).",
+					"name": "Energía Violenta",
+					"description": "Entra al Modo de Supervelocidad para que el nómada gane invencibilidad temporal e inflija un daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos. También aplicará un retraso del <shuzhi>65%</> por <shuzhi>3</> seg a los objetivos (ineficaz contra jefes en partidas en equipo).\r\nAl entrar al Modo de Supervelocidad, gana hipercuerpo y, al mismo tiempo, cada ataque de <shuzhi>Surcavientos</> y <shuzhi>Viaje Celestial</> gana Supersónico, lo que inflige un daño adicional igual al <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</> (cuenta como daño pasivo). Además, cada vez que asesta un golpe otorga <shuzhi>1</> acumulación de Sobrecarga, hasta <shuzhi>6</> acumulaciones (puedes obtener hasta <shuzhi>1</> acumulación cada <shuzhi>0.65</> seg).\r\nLuego de estar en Modo de Supervelocidad por <shuzhi>5</> seg, gana la habilidad <shuzhi>Jinete Relámpago</> (puede usarse durante el Modo de Supervelocidad). Cambiar de armas durante este periodo evitará que el nómada use <shuzhi>Jinete Relámpago</>.\r\n\r\n<shuzhi>Pasiva: Reforma de Supervelocidad</>\r\n<shuzhi>Estruendo</> tiene 5 tipos elementales. Activa <shuzhi>1</> de ellos máximo en la página de Habilidades - Opciones. No puedes cambiar de elemento si estás en combate.\r\nDependiendo del elemento de <shuzhi>Estruendo</>, asestar un golpe a un objetivo con Energía Violenta causará el <shuzhi>rasgo de arma</> correspondiente y otorgará un efecto diferente.\r\n\r\n<red>Escarcha-Eléctrico</>: Recibe <shuzhi>28</> seg de Modo de Supervelocidad. Durante este periodo, cada vez que <shuzhi>Estruendo</> aseste un golpe con un ataque normal o cada vez que el nómada reciba curación no excesiva, obtén 1 acumulación de <shuzhi>Convergencia Térmica</>, hasta <shuzhi>10</> acumulaciones. <shuzhi>3</> seg luego de salir del Modo de Supervelocidad, elimina todas las acumulaciones de Convergencia Térmica no transformadas. Enfriamiento: <shuzhi>30</> seg (no se ve afectado por otros efectos de eliminación, restablecimiento o alteración de enfriamiento).\r\n\r\n<red>Fuego-Físico</>: Recibe <shuzhi>23</> seg de Modo de Supervelocidad. Al entrar en el Modo de Supervelocidad, consume todas las acumulaciones de <shuzhi>Chispas</>. Por cada acumulación consumida, obtén <shuzhi>600</> de ATQ de fuego base (este ATQ de fuego no se reflejará en las estadísticas del nómada y no está disponible en la Liga Ápex) y aumenta el daño final de <shuzhi>Estruendo</> en un <shuzhi>6%</>. Durante el Modo de Supervelocidad, obtén Persecución de Fuego. Cuando infliges daño de fuego, inflige daño igual al <shuzhi>500%</> del ATQ a los objetivos cercanos, se puede activar hasta <shuzhi>1</> vez cada <shuzhi>2</> seg. Enfriamiento: <shuzhi>25</> seg (no se ve afectado por efectos de restablecimiento o reducción de enfriamiento).\r\n\r\n<red>Eléctrico-Escarcha</>: Recibe <shuzhi>18</> seg de Modo de Supervelocidad. Durante el Modo de Supervelocidad, aumenta el daño eléctrico en <shuzhi>12%</>. Al asestar un golpe con un ataque normal mientras <shuzhi>Estruendo</> está en la ranura principal, obtén <shuzhi>1</> acumulación de <shuzhi>Trueno</>, hasta <shuzhi>18</> acumulaciones. Al llegar al máximo de acumulaciones, consúmelas todas e inflige daño adicional igual al <shuzhi>2000%</> del ATQ a los objetivos cercanos (cuenta como daño de habilidad). Además, obtén un Escudo de <shuzhi>10</> seg igual al <shuzhi>30%</> de los PS Máx. (este efecto no se acumula). El efecto adicional de Trueno puede activarse hasta <shuzhi>5</> veces cada vez que el nómada entra en el Modo de Supervelocidad. Si <shuzhi>Tajos Enlazados</> consume <shuzhi>6</> acumulaciones de <shuzhi>Sobrecarga</>, inflige un daño adicional igual al <shuzhi>3500%</> del ATQ a los objetivos cercanos. Este daño cuenta como daño de habilidad. Enfriamiento: <shuzhi>20</> seg (no se ve afectado por efectos de restablecimiento o reducción de enfriamiento).\r\n\r\n<red>Física-Fuego</>: Recibe <shuzhi>19</> seg de Modo de Supervelocidad. Durante el Modo de Supervelocidad, inflige daño igual al <shuzhi>700%</> del ATQ a los objetivos cercanos cada segundo. Cada vez que este daño golpea a un objetivo, otorga al nómada un Escudo de <shuzhi>10</> seg igual al <shuzhi>5%</> de los PS Máx. Puede ganar hasta <shuzhi>10%</> cada vez. Este Escudo no excede el <shuzhi>50%</> de los PS del nómada. Enfriamiento: <shuzhi>21</> seg (no se ve afectado por efectos de restablecimiento o reducción de enfriamiento).\r\n\r\n<red>Alterado</>: Recibe <shuzhi>23</> seg de Modo de Supervelocidad. Durante el Modo de Supervelocidad, aumenta los PS Máx. en un <shuzhi>100%</>. Además, cada ataque asestado por <shuzhi>Surcavientos</> y <shuzhi>Viaje Celestial</> inflige un daño adicional igual al <shuzhi>166%</> de los PS Máx., pero no puede exceder <shuzhi>30</> veces el ATQ del nómada. Este daño cuenta como daño de habilidad y no se ve afectado por efectos de refuerzo de daño. Enfriamiento: <shuzhi>25</> seg (no se ve afectado por efectos de restablecimiento o reducción de enfriamiento).",
 					"operations": [],
 					"tags": [
 						"Damage",
@@ -8026,7 +8026,7 @@
 				},
 				{
 					"name": "Jinete Relámpago",
-					"description": "Puede activarse durante el Modo de Supervelocidad para infligir tajos enlazados de varias fases a los objetivos cercanos con un daño total igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</>. El Modo de Supervelocidad termina luego de usar esta habilidad.\r\n\r\n<shuzhi>Pasiva: Inercia de Supervelocidad</>\r\nDependiendo del elemento de <shuzhi>Estruendo</>, usar <shuzhi>Jinete Relámpago</> causa un efecto adicional.\r\n\r\n<red>Escarcha-Eléctrico</>: Consume todas las acumulaciones de <shuzhi>Convergencia Térmica</> y gana Congelación Total, la cual aumenta el refuerzo de daño de escarcha en un <shuzhi>1.4%</> por cada acumulación de <shuzhi>Convergencia Térmica</>. Además, inflige daño de escarcha igual al <shuzhi>1400%</> del ATQ más el número de acumulaciones de <shuzhi>Convergencia Térmica</> multiplicado por el <shuzhi>240%</> del ATQ a los objetivos cercanos. Este daño cuenta como daño pasivo y dura <shuzhi>30</> seg.\r\n\r\n<red>Alterado</>: Inflige daño igual al <shuzhi>50 000%</> de los PS Máx. del nómada a los objetivos cercanos. Este daño no puede exceder <shuzhi>8000</> veces el ATQ del nómada, cuenta como daño de habilidad y no se ve afectado por efectos de refuerzo de daño.",
+					"description": "Puede activarse durante el Modo de Supervelocidad para infligir tajos enlazados de varias fases a los objetivos cercanos con un daño total igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</>. El Modo de Supervelocidad termina luego de usar esta habilidad.\r\n\r\n<shuzhi>Pasiva: Inercia de Supervelocidad</>\r\nDependiendo del elemento de <shuzhi>Estruendo</>, usar Jinete Relámpago causa un efecto adicional.\r\n\r\n<red>Escarcha-Eléctrico</>: Consume todas las acumulaciones de <shuzhi>Convergencia Térmica</> y gana Congelación Total, la cual aumenta el refuerzo de daño de escarcha en un <shuzhi>0.6%</> por cada acumulación de <shuzhi>Convergencia Térmica</>. Además, inflige daño de escarcha igual al <shuzhi>500%</> del ATQ más el número de acumulaciones de <shuzhi>Convergencia Térmica</> multiplicado por el <shuzhi>50%</> del ATQ a los objetivos cercanos. Este daño cuenta como daño pasivo y dura <shuzhi>30</> seg.\r\n\r\n<red>Alterado</>: Inflige daño igual al <shuzhi>6250%</> de los PS Máx. del nómada a los objetivos cercanos. Este daño no puede exceder <shuzhi>1000</> veces el ATQ del nómada, cuenta como daño de habilidad y no se ve afectado por efectos de refuerzo de daño.",
 					"operations": [],
 					"tags": [
 						"Damage",
@@ -8070,7 +8070,7 @@
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_nora_weapon.webp",
 					"type": "CONSUMABLE",
 					"source": [
-						"Se obtiene en el evento gachapon de Costa Ventosa"
+						"Se obtiene del evento gachapon de Costa Ventosa"
 					],
 					"id": "imitation_fashion_62_w"
 				}
@@ -9346,6 +9346,448 @@
 		"limited": true,
 		"id": "loslyn_ice"
 	},
+	"merylx_thunder": {
+		"name": "Filo de Asedio",
+		"description": "Desarrollado por Hykros, esta arma transformable presume de un diseño y rendimiento notables, aunque es difícil de producir en masa debido a su complejidad. \"Un solo golpe es todo lo que se necesita para violar una fortaleza.\" —comentó su diseñador.",
+		"assets": {
+			"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Icon/item_Weapon_SSR_meilierkai.webp",
+			"weaponIconForMatrix": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/icon_yizhi/yizhi_SSR_meilierkai.webp",
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/meilierkai2.webp"
+		},
+		"rarity": 5,
+		"element": "Thunder",
+		"type": "Merylx",
+		"weaponUpgradeId": "thunder_ssr_tupo_BD",
+		"wc": "Tank",
+		"advanceID": "MerylX_thunder_ssr_star",
+		"avatar": "imitation_61",
+		"stats": [
+			{
+				"stat": {
+					"name": "Ataque",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/AttributeIcon/icon_atk.webp",
+					"multiplier": 2,
+					"flat": false,
+					"id": "CommonAtkAdded"
+				},
+				"value": 16.571905
+			},
+			{
+				"stat": {
+					"name": "PS",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/AttributeIcon/icon_hp.webp",
+					"multiplier": 0.025,
+					"flat": false,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1010.0971
+			},
+			{
+				"stat": {
+					"name": "Crít",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/AttributeIcon/icon_baoji.webp",
+					"multiplier": 0.4,
+					"flat": false,
+					"id": "CritAdded"
+				},
+				"value": 11.837075
+			}
+		],
+		"upgradeProps": [
+			[
+				3.15534,
+				194.17476,
+				2.427185
+			]
+		],
+		"effects": [
+			{
+				"title": "**Fusión de Electricidad y Escarcha**",
+				"description": "Cuando el arma inflige daño, el daño se calcula según el ATQ base de electricidad/escarcha más alto equipado, el porcentaje de ATQ de electricidad/escarcha más alto equipado y el refuerzo de daño de electricidad/escarcha más alto equipado. El arma se considera tanto eléctrica como de escarcha."
+			},
+			{
+				"title": "**Resonancia Eléctrica**",
+				"description": "Aumenta el ATQ eléctrico en **15%** y la resistencia eléctrica en **25%**. Se activa al equipar **2** o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Eléctrica o Reacción Eléctrica; Resonancia Eléctrica tiene prioridad."
+			},
+			{
+				"title": "**Resonancia de Escarcha**",
+				"description": "Aumenta el ATQ de escarcha en **15%** y la resistencia a la escarcha en **25%**. Se activa al equipar **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Escarcha o Reacción de Escarcha; Resonancia de Escarcha tiene prioridad."
+			},
+			{
+				"title": "**Electrocuchilla: Corte Veloz**",
+				"description": "Al equipar **Filo de Asedio**, las habilidades de descarga de arma infligen un daño igual al **0.97%** de los PS Máx. más **73.2%** del ATQ eléctrico más **36.6%** de la suma de todos los tipos de resistencias del nómada más **134.3%** del crítico a los objetivos cercanos. Durante el combate, después de cada **0.5** seg, el próximo daño de Corte Veloz aumentará **1** vez, hasta un máximo de **30** veces. De haber varios daños de Corte Veloz, se usará el valor inicial más alto para el cálculo. El daño de Corte Veloz cuenta como daño de descarga. Si hay un arma física o de fuego equipada, el daño eléctrico se multiplicará por **1.3**. Adicionalmente, el daño eléctrico no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales."
+			},
+			{
+				"title": "**Transformación Sensorial**",
+				"description": "Si atacas teniendo a **Filo de Asedio** equipado, puede tomar forma de espadón o de espada larga. Los ataques con la forma de espadón otorga un escudo igual al **2%** de los PS Máx. que dura **5** seg y se acumula hasta **5** veces. Los ataques de la forma de espada larga otorgan acumulaciones de Electrocuchilla. Al tener **5** acumulaciones, obtendrás Mejora de la Electrocuchilla, lo que aumenta el daño de la próxima habilidad en **100%**. Electrocuchilla y Mejora de la Electrocuchilla desaparecen al salir de combate."
+			}
+		],
+		"elementEffects": {
+			"title": "**Eléctrico**",
+			"description": "Cuando el arma está totalmente cargada, el siguiente ataque **paraliza fuerte** a los objetivos por **1**seg y los electrifica por **6**seg, lo que elimina todas sus mejoras e inflige daño igual a **144.00%** del ATQ. Los objetivos electrificados no pueden recibir ninguna mejora durante los próximos **6**seg."
+		},
+		"attributes": [
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			}
+		],
+		"advancements": [
+			{
+				"description": "Cuando **Filo de Asedio** está en la ranura principal, **Estática en Cadena** tiene una probabilidad del **25%** de activar Tempestad Magnética, que inflige 500% del ATQ como daño (cuenta como daño de habilidad). Este efecto solo puede activarse 1 vez cada **2** seg.\r\nCuando **Filo de Asedio** se cambia a la ranura secundaria estando en el estado de **Perturbación Electromagnética**, activa un efecto de carga que dura **4** seg y otorga **100** de carga de arma cada seg.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 1.166667
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.166667
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.166667
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.166667
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 1.493333
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.333333
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.333333
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.333333
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Usar cualquier habilidad de arma o descarga eléctrica, **Disparo Solar**, **Tiro Reverso** o **Artillería Magnetoeléctrica** otorga energía especial. Usar **Cañón de Rayos Magnéticos** con la carga completa consumirá toda la energía especial y potenciará la **Perturbación Electromagnética**: La probabilidad de activar **Estática en Cadena** y **Tempestad Magnética** aumenta a **100%**.\r\nLlena por completo la energía especial al entrar en estado de combate.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 1.66
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.5
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.5
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.5
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 2.146667
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.666667
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.666667
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.666667
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Aumenta el daño final en **30%**. Este efecto también funciona en la ranura secundaria.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 2.313333
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.833333
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.833333
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.833333
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "El estado potenciado de **Perturbación Electromagnética** aumenta el multiplicador de daño de **Estática en Cadena** y **Tempestad Magnética** en **100%**.\r\nCuando se activa **Resonancia de Fortaleza**, usar **Trueno Cósmico** mientras **Mejora de la Electrocuchilla** está activa, te otorga a ti y a tus compañeros cercanos una reducción de daño del **20%** que dura **20** seg y un escudo igual al **20%** de tus PS Máx. que dura **20** seg.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 2.48
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 2
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 2
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 2
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			}
+		],
+		"skills": {
+			"normals": [
+				{
+					"name": "Cadena de Frecuencia",
+					"description": "Mientras estás en el suelo, usa el ataque normal para lanzar 5 ataques consecutivos.\r\nPrimer ataque: Inflige daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> y hace retroceder al objetivo.\r\nSegundo ataque: Inflige daño igual al <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</> y hace retroceder al objetivo.\r\nTercer ataque: Inflige daño igual al <shuzhi>{4}%</> del ATQ más <shuzhi>{5}</> y hace retroceder al objetivo.\r\nCuarto ataque: Inflige un daño de hasta <shuzhi>{6}%</> del ATQ más <shuzhi>{7}</> y hace retroceder al objetivo.\r\nQuinto ataque: inflige daño igual al <shuzhi>{8}%</> del ATQ más <shuzhi>{9}</> y hace retroceder al objetivo.",
+					"operations": [
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_melee.webp",
+					"id": "GA_FPlayerMerylXMelee_Melee"
+				},
+				{
+					"name": "Cortes Saltarinos",
+					"description": "Mientras el nómada está en el aire, usa el ataque normal para lanzar 5 ataques consecutivos; esto consume resistencia.\r\nPrimer ataque: Inflige daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> y hace retroceder al objetivo.\r\nSegundo ataque: Inflige daño igual al <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</> y hace retroceder al objetivo.\r\nTercer ataque: Inflige daño igual al <shuzhi>{4}%</> del ATQ más <shuzhi>{5}</> y hace retroceder al objetivo.\r\nCuarto ataque: Inflige un daño de hasta <shuzhi>{6}%</> del ATQ más <shuzhi>{7}</> y hace retroceder al objetivo.\r\nQuinto ataque: inflige daño igual al <shuzhi>{8}%</> del ATQ más <shuzhi>{9}</> y hace retroceder al objetivo.",
+					"operations": [
+						"Jump",
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_airattack.webp",
+					"id": "GA_FPlayerMerylXMelee_AirAttack"
+				},
+				{
+					"name": "Cortador de Trueno",
+					"description": "Mientras usas el ataque normal en el suelo, pulsa y mantén pulsado el ataque normal durante el primer o segundo ataque normal para activar Cortador de Trueno.\r\nBlande a Filo de Asedio y realiza cortes hacia abajo al frente, infligiendo daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos.",
+					"operations": [
+						"Attack",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch.webp",
+					"id": "GA_FPlayerMerylXMelee_Branch"
+				},
+				{
+					"name": "Arremetida del Rayo",
+					"description": "Mientras usas el ataque normal en el suelo, pulsa y mantén pulsado el ataque normal entre el primer y cuarto ataque normal para activar Arremetida del Rayo.\r\nRealiza un veloz ataque hacia arriba, infligiendo daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos.",
+					"operations": [
+						"Attack",
+						"Attack",
+						"Attack",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch1.webp",
+					"id": "GA_FPlayerMerylXMelee_Branch1"
+				},
+				{
+					"name": "Disparo Solar",
+					"description": "Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal para activar Disparo Solar.\r\nLanza un disparo cargado al objetivo e inflige un daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> al objetivo impactado.",
+					"operations": [
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_aimattack.webp",
+					"id": "GA_FPlayerMerylXMelee_PowerAttack"
+				},
+				{
+					"name": "Parpadeo Electrificado",
+					"description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire (pulsa cuando haya un objetivo disponible), o usa el ataque normal mientras escalas, saltas hacia atrás o utilizas el propulsor para activar Parpadeo Electrificado.\r\nCae desde el aire. Mientras caes, cada impacto a un enemigo inflige un daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</>. Al aterrizar, inflige daño igual al <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</> a los objetivos cercanos.",
+					"operations": [
+						"Jump",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_jumpattack.webp",
+					"id": "GA_FPlayerMerylXMelee_JumpAttack"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Evasión",
+					"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.",
+					"operations": [
+						"Movement",
+						"Dash"
+					],
+					"tags": [],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/common_evade.webp",
+					"id": "GA_FPlayerMerylXEvade_Evade"
+				},
+				{
+					"name": "Remolino Pulsante",
+					"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Remolino Pulsante, el cual inflige un daño de hasta <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos adelante.",
+					"operations": [
+						"Movement",
+						"Dash",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_fevadeattack.webp",
+					"id": "GA_FPlayerMerylXEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "Tiro Reverso",
+					"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Tiro Reverso, el cual inflige daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> al objetivo alcanzado.",
+					"operations": [
+						"Dash",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_bevadeattack.webp",
+					"id": "GA_FPlayerMerylXEvadeAttack_BackAttack"
+				},
+				{
+					"name": "Artillería Magnetoeléctrica",
+					"description": "Pulsa y mantén el ataque normal justo después de esquivar para activar Artillería Magnetoeléctrica, la cual tiene tres niveles de poder dependiendo del tiempo de carga: inflige daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</>, <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</> o <shuzhi>{4}%</> del ATQ más <shuzhi>{5}</> a los objetivos adelante. La carga máxima puede ejecutar a los objetivos que no sean jefes (menos a los nómadas) con menos de 30% de sus PS Máx.",
+					"operations": [
+						"Dash",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_evadepowerattack.webp",
+					"id": "GA_FPlayerMerylXEvadeAttack_PowerAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "Trueno Cósmico",
+					"description": "Cambia a Filo de Asedio a su forma de espada larga e inflige un daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> (esto no otorga acumulaciones de <shuzhi>Electrocuchilla</>). Esta habilidad tiene un enfriamiento de <shuzhi>20</> seg (no se ve afectado por efectos de eliminación, restablecimiento o alteración de enfriamiento).\r\nCuando se activa <shuzhi>Resonancia de Fortaleza</>: Usar Trueno Cósmico otorga hipercuerpo a los compañeros cercanos por <shuzhi>10</> seg; usar Trueno Cósmico mientras <shuzhi>Mejora de la Electrocuchilla</> está activa atrae a los enemigos cercanos y les causa una reducción de Resistencia de <shuzhi>10%</> por <shuzhi>20</> seg.",
+					"operations": [],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_skill.webp",
+					"id": "GA_FPlayerMerylXSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Cañón de Rayos Magnéticos",
+					"description": "Cuando <red>la carga de arma está completa</> o se activa <red>Phantasia</>, al cambiar a esta arma, <shuzhi>elimina todas las desventajas del nómada</>. Filo de Asedio cambia a su forma de Cañón Magnético y libera un poderoso ataque que inflige un daño igual al <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos adelante. Al liberar este ataque, eres inmune al daño por <shuzhi>1.5</> seg (no disponible en la Liga Ápex).\r\nLuego de usar Cañón de Rayos Magnéticos, aumenta el ataque eléctrico del nómada en <shuzhi>10%</> por <shuzhi>20</> seg y entra en Perturbación Electromagnética por <shuzhi>22</> seg: Durante este periodo, el nómada gana hipercuerpo; usar cualquier habilidad de arma eléctrica otorga <shuzhi>500</> de carga de arma adicional; el daño eléctrico tiene una probabilidad del <shuzhi>25%</> de activar Estática en Cadena, lo que inflige un daño igual al <shuzhi>50%</> del ATQ hasta a <shuzhi>7</> objetivos (esto cuenta como daño de ataque normal pero no activa efectos de ataque normal), y este efecto puede activarse hasta 1 vez cada <shuzhi>0.5</> seg; eliminar a un objetivo vuelve a activar Estática en Cadena, y este efecto puede activarse hasta 1 vez cada <shuzhi>0.1</> seg.\r\nCuando <shuzhi>Resonancia de Fortaleza</> se activa:\r\nEn el estado de Perturbación Electromagnética, provoca a los enemigos cercanos cada <shuzhi>2</> seg y otorga al nómada un escudo igual al <shuzhi>20%</> de los PS Máx. por <shuzhi>2</> seg.\r\nCuando <shuzhi>Resonancia de Fortaleza no está</> activa:\r\nEn el estado de Perturbación Electromagnética, los ataques de <shuzhi>Filo de Asedio</> causan Estática a los objetivos impactados, lo que reduce su velocidad en <shuzhi>30%</> por <shuzhi>20</> seg.",
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_changeskill.webp",
+					"id": "GA_FPlayerMerylXChangeSkill_Success"
+				}
+			]
+		},
+		"fashion": [
+			{
+				"outfit": {
+					"name": "Verano Eterno",
+					"description": "Es un largo día de verano. La señorita Meryl, actualmente de vacaciones, está eligiendo un traje de baño en una tienda de ropa de baño.",
+					"rarity": 5,
+					"source": "De los eventos",
+					"simulacrumId": "imitation_61",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX_Lock.webp"
+					},
+					"weaponId": "Paradox_fire_fashion_imitationUI",
+					"id": "imitation_fashion_61"
+				},
+				"weapon": {
+					"name": "Golosinas congeladas",
+					"description": "¿Misión o vacaciones? Para la Agente Meryl, ¿por qué no ambos?",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex_weapon.webp",
+					"type": "CONSUMABLE",
+					"source": [
+						"Disponible en el evento gachapon Verano Eterno."
+					],
+					"id": "imitation_fashion_61_w"
+				}
+			}
+		],
+		"version": "CN-Only",
+		"limited": true,
+		"id": "merylx_thunder"
+	},
 	"suspension_thunder": {
 		"name": "Venus",
 		"description": "Su diseñador es desconocido. Se perdió el plano del prototipo del Cañón Magnético especial flotante. Contiene un proceso de ahorro eléctrico único en su interior. Es muy difícil de reparar cuando se desgasta, pero Cobalt-B de Tecnología Banges parece ser capaz de hacerlo. ",
@@ -9706,7 +10148,7 @@
 		"fashion": [
 			{
 				"outfit": {
-					"name": "Shirli",
+					"name": "¡Shirli!",
 					"description": "Es una imagen extraída de recuerdos... Es solo una ilusión.",
 					"rarity": 5,
 					"source": "De los eventos",
@@ -12425,7 +12867,7 @@
 			}
 		],
 		"version": "2.5",
-		"limited": true,
+		"limited": false,
 		"id": "rubilia_thunder"
 	},
 	"iceblade_ice": {
@@ -16150,7 +16592,7 @@
 			}
 		],
 		"version": "3.0",
-		"limited": true,
+		"limited": false,
 		"id": "brush_fire"
 	},
 	"whip_physic": {
@@ -17387,7 +17829,7 @@
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_fenlier_weapon.webp",
 					"type": "CONSUMABLE",
 					"source": [
-						"Obtained from the 2nd anniversary"
+						"Se obtiene del 2do aniversario"
 					],
 					"id": "imitation_fashion_32_w"
 				}
@@ -18608,7 +19050,7 @@
 		},
 		"fashion": [],
 		"version": "3.0",
-		"limited": true,
+		"limited": false,
 		"id": "yulan_ice"
 	},
 	"zeke_physic": {

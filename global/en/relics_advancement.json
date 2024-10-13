@@ -356,7 +356,7 @@
 		"id": "artifact_adv_016"
 	},
 	"1107": {
-		"description": "Replenish 1 charge every **100** seconds. Gliding no longer expends endurance.",
+		"description": "Replenish 1 charge every **20** seconds. Gliding no longer expends endurance.",
 		"id": "artifact_adv_015"
 	},
 	"1109": {
@@ -364,7 +364,7 @@
 		"id": "artifact_adv_015"
 	},
 	"1110": {
-		"description": "Replenish **1** charge every 60 seconds.",
+		"description": "Regain 1 charge every **15** seconds.",
 		"id": "artifact_adv_015"
 	},
 	"1111": {
@@ -1140,23 +1140,23 @@
 		"id": "artifact_adv_047"
 	},
 	"1327": {
-		"description": "",
+		"description": "Increase the damage reduction effect to **20%** while in defensive form.",
 		"id": "artifact_adv_048"
 	},
 	"1328": {
-		"description": "",
+		"description": "Increase the damage boost effect to **11%** while in offensive form.",
 		"id": "artifact_adv_048"
 	},
 	"1329": {
-		"description": "",
+		"description": "Reduce the trigger interval for blocking lethal damage to once every **120** seconds.",
 		"id": "artifact_adv_048"
 	},
 	"1330": {
-		"description": "",
+		"description": "Increase Altered Resistance by **2%**, even if not deployed. Unavailable in Apex League.",
 		"id": "artifact_adv_048"
 	},
 	"1331": {
-		"description": "",
+		"description": "Increase the damage boost effect to **16%** while in offensive form.",
 		"id": "artifact_adv_048"
 	}
 }

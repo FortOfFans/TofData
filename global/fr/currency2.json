@@ -442,7 +442,7 @@
 	"WeaponFragment_UP1": {
 		"name": "Or ardent : Lotus rouge",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -453,7 +453,7 @@
 	"WeaponFragment_UP2": {
 		"name": "Or de feu : Brasier",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -464,7 +464,7 @@
 	"WeaponFragment_UP3": {
 		"name": "Or ardent : Lune blanche",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -475,7 +475,7 @@
 	"WeaponFragment_UP4": {
 		"name": "Or ardent : Aube",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -486,7 +486,7 @@
 	"WeaponFragment_UP5": {
 		"name": "Or ardent : Renaissance",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -497,7 +497,7 @@
 	"WeaponFragment_UP6": {
 		"name": "Or ardent : Cœur de fer",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -508,7 +508,7 @@
 	"WeaponFragment_UP7": {
 		"name": "Or ardent : Soleil",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -519,7 +519,7 @@
 	"WeaponFragment_UP8": {
 		"name": "Or ardent : Flux",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -530,7 +530,7 @@
 	"WeaponFragment_UP9": {
 		"name": "Or ardent : Ombre",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale. Échangeable contre des armes en quantité limitée.\r\nLes lumières éblouissantes qui sont réfractées semblent ne jamais s'éteindre.",
+		"description": "Jeton forgé par des forgerons à partir d'armes à omnium recyclées spécifiques. Plus comme des œuvres d'art qu'une monnaie, celles-ci peuvent être échangées contre des armes exclusives. Échangeable contre des armes en quantité limitée.\r\nLes lumières éblouissantes réfractées sans fin mais effrayamment ne s'éteignent jamais.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -541,7 +541,7 @@
 	"WeaponFragment_UP10": {
 		"name": "Or ardent : Supercherie",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -552,7 +552,7 @@
 	"WeaponFragment_UP11": {
 		"name": "Or ardent : Cireux",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -563,7 +563,7 @@
 	"WeaponFragment_UP12": {
 		"name": "Or ardent : Étoiles",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -574,7 +574,7 @@
 	"WeaponFragment_UP13": {
 		"name": "Or ardent : Décret",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -585,7 +585,7 @@
 	"WeaponFragment_UP14": {
 		"name": "Or ardent : Fusion",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -596,7 +596,7 @@
 	"WeaponFragment_UP15": {
 		"name": "Or ardent (Millet à thé)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -607,7 +607,7 @@
 	"WeaponFragment_UP16": {
 		"name": "Or ardent : Mouvement",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -618,7 +618,7 @@
 	"WeaponFragment_UP17": {
 		"name": "Or ardent : Plume vermillon",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -629,7 +629,7 @@
 	"WeaponFragment_UP18": {
 		"name": "Or ardent",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -640,7 +640,7 @@
 	"WeaponFragment_UP19": {
 		"name": "Or ardent",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>."
 		],
@@ -651,7 +651,7 @@
 	"WeaponFragment_UP20": {
 		"name": "Or ardent : Constante",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"source": [
 			"Peut être échangé contre des armes dans la Boutique d'armes."
 		],

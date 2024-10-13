@@ -811,6 +811,10 @@
 		"name": "Firework Date",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_157.webp"
 	},
+	"AvatarFrame_158": {
+		"name": "Faded Sun",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_158.webp"
+	},
 	"AvatarFrame_159": {
 		"name": "Deep Sea Mysteries",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_159.webp"
@@ -830,6 +834,14 @@
 	"AvatarFrame_163": {
 		"name": "Advancer",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_163.webp"
+	},
+	"AvatarFrame_164": {
+		"name": "Heart of the Icy Blue",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_164.webp"
+	},
+	"AvatarFrame_165": {
+		"name": "Feline Eyes",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_165.webp"
 	},
 	"AvatarFrame_txcreatos_06": {
 		"name": "Lantern Gala",
@@ -936,7 +948,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_10.webp"
 	},
 	"AvatarFrame_PlayStation_03": {
-		"name": "N/A",
+		"name": "Grateful for Your Devotion",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_PlayStation_03.webp"
 	},
 	"AvatarFrame_tencent_11": {
@@ -944,15 +956,19 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_11.webp"
 	},
 	"AvatarFrame_tencent_12": {
-		"name": "N/A",
+		"name": "Heart Thief",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_12.webp"
 	},
 	"AvatarFrame_tencent_13": {
-		"name": "N/A",
+		"name": "Aida-Pionier 6",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_13.webp"
 	},
 	"AvatarFrame_tencent_14": {
-		"name": "N/A",
+		"name": "Mi-a Cheers",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_14.webp"
+	},
+	"AvatarFrame_tencent_15": {
+		"name": "Summer Refreshment",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_15.webp"
 	}
 }

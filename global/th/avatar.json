@@ -27,6 +27,14 @@
 		"name": "เมอริล: ปลุกพลัง",
 		"icon": "None.webp"
 	},
+	"meilierx": {
+		"name": "เมอริล ไอรอนฮาร์ท",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_meilierkai.webp"
+	},
+	"meilierx_lv2": {
+		"name": "เมอริล ไอรอนฮาร์ท: ปลุกพลัง",
+		"icon": "None.webp"
+	},
 	"mimi": {
 		"name": "หมีหมี่มาแล้ว",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_mimi.webp"
@@ -832,7 +840,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_148_male.webp"
 	},
 	"Avatar_149": {
-		"name": "Гурман Анка",
+		"name": "นักชิมอังกอร์",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_149.webp"
 	},
 	"Avatar_150": {
@@ -867,6 +875,10 @@
 		"name": "ถึงเวลาปาร์ตี้",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_157.webp"
 	},
+	"Avatar_158": {
+		"name": "ความงดงามในวันพักผ่อน",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_158.webp"
+	},
 	"Avatar_159": {
 		"name": "นักดำน้ำผิวน้ำมืออาชีพ",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_159.webp"
@@ -886,6 +898,14 @@
 	"Avatar_163": {
 		"name": "ควบคุมแผ่นดิน",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_163.webp"
+	},
+	"Avatar_164": {
+		"name": "กุหลาบฟรอสต์บลู",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_164.webp"
+	},
+	"Avatar_165": {
+		"name": "โรสทินท์คูลเนส",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_165.webp"
 	},
 	"Avatar_2nd_Anni": {
 		"name": "ประกาศวันเกิด",
@@ -1504,7 +1524,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_42.webp"
 	},
 	"Avatar_ps_03": {
-		"name": "N/A",
+		"name": "ขอบคุณที่ร่วมทาง",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Ps_03.webp"
 	},
 	"Ace": {
@@ -1520,11 +1540,15 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_43.webp"
 	},
 	"Avatar_Overseas_44": {
-		"name": "N/A",
+		"name": "นอร่ายิ้ม",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_44.webp"
 	},
 	"Avatar_Overseas_45": {
-		"name": "N/A",
+		"name": "ความประหลาดใจวันเกิดของมีอา",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_45.webp"
+	},
+	"Avatar_Overseas_46": {
+		"name": "N/A",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_46.webp"
 	}
 }

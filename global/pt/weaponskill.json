@@ -4215,7 +4215,7 @@
 			},
 			{
 				"name": "Furacão de Caramelo",
-				"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Furacão de Caramelo.\r\nDespenca do ar. Durante a aterrissagem, cada golpe causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. Ao aterrissar, causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> aos alvos próximos.",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Furacão de Caramelo.\r\nDespenca do ar. No caminho até a aterrissagem, cada golpe causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. Ao aterrissar, causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> aos alvos próximos.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_Ace_jumpattack.webp",
 				"operations": [
 					"Jump",
@@ -8620,6 +8620,179 @@
 	"GA_FPlayerMarkSkillPhy_Sub_ChangeSkill": {
 		"skills": []
 	},
+	"GA_FPlayerMerylXChangeSkill": {
+		"skills": [
+			{
+				"name": "Canhão de Raios Magnéticos",
+				"description": "Quando a <red>carga da arma estiver completa</> ou <red>Phantasia</> for desencadeada, trocar para esta arma <shuzhi>remove todos os efeitos negativos de você</>. Gume de Cerco toma a forma de detonador eletromagnético e provoca uma explosão que causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos à frente. Ao provocar essa explosão, fica imune a dano durante <shuzhi>1,5</> segundo (indisponível na Liga do Apogeu).\r\nUsar Canhão de Raios Magnéticos aumenta o seu ATQ elétrico em <shuzhi>10%</> durante <shuzhi>20</> segundos e faz entrar em interferência eletromagnética durante <shuzhi>22</> segundos: Nesse período, você recebe corpo de aço; usar qualquer habilidade de arma elétrica confere mais <shuzhi>500</> cargas de arma; dano elétrico tem <shuzhi>25%</> de chance de acionar estática em cadeia, que causa dano de <shuzhi>50%</> do ATQ a até <shuzhi>7</> alvos (isso conta como dano de ataque normal, mas não aciona efeitos de ataque normal), e esse efeito pode ser acionado até 1 vez a cada <shuzhi>0,5</> segundo; derrotar um alvo aciona estática em cadeia outra vez, e esse efeito pode ser acionado até 1 vez a cada <shuzhi>0,1</> segundo.\r\nCom <shuzhi>ressonância de coragem</> ativa:\r\nNo estado de interferência eletromagnética, provoca inimigos próximos a cada <shuzhi>2</> segundos e confere a você um escudo equivalente a <shuzhi>20%</> da vida máxima durante <shuzhi>2</> segundos.\r\n<shuzhi>Sem ressonância de coragem</> ativa:\r\nNo estado de interferência eletromagnética, os ataques de <shuzhi>Gume de Cerco</> infligem estática aos alvos atingidos, o que diminui a velocidade deles em <shuzhi>30%</> durante <shuzhi>20</> segundos.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_changeskill.webp",
+				"operations": [],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXChangeSkill_Success"
+			}
+		]
+	},
+	"GA_FPlayerMerylXEvade": {
+		"skills": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/common_evade.webp",
+				"operations": [
+					"Movement",
+					"Dash"
+				],
+				"tags": [],
+				"id": "GA_FPlayerMerylXEvade_Evade"
+			},
+			{
+				"name": "Espiral Pulsante",
+				"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para acionar Espiral Pulsante. Causa dano de até <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos à frente.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_fevadeattack.webp",
+				"operations": [
+					"Movement",
+					"Dash",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Disparo em Retirada",
+				"description": "Use o botão de ataque normal logo após se esquivar para acionar Disparo em Retirada. Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> ao alvo atingido.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_bevadeattack.webp",
+				"operations": [
+					"Dash",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_BackAttack"
+			},
+			{
+				"name": "Artilharia Eletromagnética",
+				"description": "Segure o botão de ataque normal logo após se esquivar para acionar Artilharia Eletromagnética, cuja potência depende do tempo carregado: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>, <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> ou <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> aos alvos à frente. A carga máxima executa alvos que estejam com até 30% da vida máxima, desde que não sejam chefes nem Errantes.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_evadepowerattack.webp",
+				"operations": [
+					"Dash",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_PowerAttack"
+			}
+		]
+	},
+	"GA_FPlayerMerylXMelee": {
+		"skills": [
+			{
+				"name": "Corrente Oscilante",
+				"description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e repele o alvo.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e repele o alvo.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_melee.webp",
+				"operations": [
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Melee"
+			},
+			{
+				"name": "Cortes Saltitantes",
+				"description": "No ar, use o botão de ataque normal para desferir 5 ataques consecutivos no ar enquanto consome vigor.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e repele o alvo.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e repele o alvo.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_airattack.webp",
+				"operations": [
+					"Jump",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_AirAttack"
+			},
+			{
+				"name": "Corte Trovejante",
+				"description": "No chão, segure o botão de ataque normal no primeiro ou segundo ataque normal para acionar Corte Trovejante.\r\nBalança Gume de Cerco e executa cortes para baixo à frente, causando dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch.webp",
+				"operations": [
+					"Attack",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Branch"
+			},
+			{
+				"name": "Empurrão Relâmpago",
+				"description": "No chão, segure o botão de ataque normal do terceiro ao quarto ataque normal para acionar Empurrão Relâmpago.\r\nExecuta um ataque ágil para cima que causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch1.webp",
+				"operations": [
+					"Attack",
+					"Attack",
+					"Attack",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Branch1"
+			},
+			{
+				"name": "Disparo Solar",
+				"description": "No chão, segure o botão de ataque normal para acionar Disparo Solar.\r\nDispara um tiro concentrado no alvo, causando dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> ao alvo atingido.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_aimattack.webp",
+				"operations": [
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_PowerAttack"
+			},
+			{
+				"name": "Centelha Eletrificada",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Centelha Eletrificada.\r\nDespenca do ar. No caminho até a aterrissagem, cada golpe causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. Ao aterrissar, causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> aos alvos próximos.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_jumpattack.webp",
+				"operations": [
+					"Jump",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_JumpAttack"
+			}
+		]
+	},
+	"GA_FPlayerMerylXSkill": {
+		"skills": [
+			{
+				"name": "Trovão Cósmico",
+				"description": "Troca Gume de Cerco para a forma de espada longa, o que causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> (isso não acumula <shuzhi>eletrolâmina</>). Tempo de recarga: <shuzhi>20</> seg. Efeitos que zeram, atualizam ou mudam o tempo de recarga não afetam isso.\r\nCom <shuzhi>ressonância de coragem</> ativa: Usar Trovão Cósmico confere corpo de aço aos colegas próximos durante <shuzhi>10</> segundos; usar Trovão Cósmico com <shuzhi>aprimoramento de eletrolâmina</> em vigor atrai inimigos próximos e inflige a eles <shuzhi>10%</> de redução de resistência durante <shuzhi>20</> segundos.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_skill.webp",
+				"operations": [],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXSkill_Skill"
+			}
+		]
+	},
 	"GA_FPlayerMiMiChangeSkill": {
 		"skills": [
 			{
@@ -8986,7 +9159,7 @@
 			},
 			{
 				"name": "Cavaleiro Celeste Sônico",
-				"description": "Esquive-se antes de segurar para entrar em Cavaleiro Celeste Sônico, durante o qual a velocidade aumenta e gasta-se vigor constantemente para atacar em frente. Cada vez que você acerta um golpe, causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos.\r\nDurante Cavaleiro Celeste Sônico, salte e aterrisse para gastar vigor e receber um reforço de velocidade temporário. No Mundo Geral, após <shuzhi>10</> segundos de duração de Cavaleiro Celeste Sônico, o dano causado por essa habilidade pode executar inimigos que não sejam chefes (indisponível na Liga do Apogeu).",
+				"description": "Esquive-se antes de segurar para entrar no modo Cavaleiro Celeste Sônico, durante o qual a velocidade aumenta e o vigor é consumido constantemente para atacar à frente. Cada vez que você acerta um golpe, causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos.\r\nDurante Cavaleiro Celeste Sônico, salte e aterrisse para consumir vigor e receber um reforço de velocidade temporário. No Mundo Geral, após <shuzhi>10</> segundos de duração de Cavaleiro Celeste Sônico, o dano causado por essa habilidade pode executar inimigos que não sejam chefes (indisponível na Liga do Apogeu).",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_EvadeOn.webp",
 				"operations": [
 					"Movement"
@@ -9002,7 +9175,7 @@
 		"skills": [
 			{
 				"name": "Integrante do Vendaval",
-				"description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e repele o alvo.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e lança o alvo no ar.\r\n\r\nNo <shuzhi>modo superveloz</>, durante o quinto ataque, segure o botão de ataque normal para conectá-lo com o primeiro ataque.",
+				"description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e repele o alvo.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e lança o alvo no ar.\r\nNo <shuzhi>modo superveloz</>, segure o botão de ataque normal durante o quinto ataque para conectá-lo com o primeiro ataque.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_Melee.webp",
 				"operations": [
 					"Attack",
@@ -9018,7 +9191,7 @@
 			},
 			{
 				"name": "Viagem nas Nuvens",
-				"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas no ar e consumir vigor.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e lança o alvo no ar.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e repele o alvo.\r\nCorte silencioso: Atingir um inimigo com o segundo ou terceiro ataque aciona o efeito de corte, que prolonga a duração do ataque e aumenta o dano.\r\nAtingir um inimigo com o segundo ataque causa dano de <shuzhi>{10}%</> do ATQ + <shuzhi>{11}</> e o repele.\r\nAtingir um inimigo com o terceiro ataque causa dano de <shuzhi>{12}%</> do ATQ + <shuzhi>{13}</> e repele o alvo.",
+				"description": "No ar, use o botão de ataque normal para executar 5 ataques seguidos enquanto consome vigor.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e lança o alvo no ar.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e repele o alvo.\r\n<shuzhi>Corte silencioso</>: Atingir um inimigo com o segundo ou terceiro ataque aciona o efeito de corte, que prolonga a duração do ataque e aumenta o dano.\r\nAtingir um inimigo com o segundo ataque causa dano de <shuzhi>{10}%</> do ATQ + <shuzhi>{11}</> e o repele.\r\nAtingir um inimigo com o terceiro ataque causa dano de <shuzhi>{12}%</> do ATQ + <shuzhi>{13}</> e repele o alvo.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_AirAttack.webp",
 				"operations": [
 					"Jump",
@@ -9048,7 +9221,7 @@
 			},
 			{
 				"name": "Cortes Vinculados",
-				"description": "No <shuzhi>modo superveloz</>, continue segurando o botão de ataque normal ao acionar <shuzhi>Cortes Gêmeos</> para acionar Cortes Vinculados.\r\nCausa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos. Ao mesmo tempo, gasta todos os acúmulos de <shuzhi>sobrecarga</>, e para cada <shuzhi>1</> acúmulo gasto também causa dano de <shuzhi>50%</> do ATQ. Com <shuzhi>6</> acúmulos de <shuzhi>sobrecarga</>, aciona <shuzhi>carga extrema</> e causa dano de <shuzhi>300%</> do ATQ.",
+				"description": "No <shuzhi>modo superveloz</>, continue segurando o botão de ataque normal ao acionar <shuzhi>Cortes Gêmeos</> para acionar Cortes Vinculados.\r\nCausa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos. Ao mesmo tempo, gasta todos os acúmulos de <shuzhi>sobrecarga</> e também causa dano de <shuzhi>50%</> do ATQ para cada <shuzhi>1</> acúmulo gasto . Com <shuzhi>6</> acúmulos de <shuzhi>sobrecarga</>, aciona <shuzhi>carga extrema</> e causa dano de <shuzhi>300%</> do ATQ.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_Branch2.webp",
 				"operations": [
 					"Attack",
@@ -9107,8 +9280,8 @@
 	"GA_FPlayerNoraSkill01": {
 		"skills": [
 			{
-				"name": "Energia Explosiva",
-				"description": "Ativa o modo superveloz para você receber invencibilidade temporária e causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos e inflige <shuzhi>65%</> de atraso aos alvos durante <shuzhi>3</> segundos (ineficaz contra chefes ao estar em equipe).\r\nNo modo superveloz, recebe corpo de aço e cada ataque de <shuzhi>Integrante do Vendaval</> e <shuzhi>Viagem nas Nuvens</> tem supersônico, também causando dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> (conta como dano passivo). Ao mesmo tempo, cada ataque acertado confere <shuzhi>1</> acúmulo de sobrecarga, limitado a <shuzhi>6</> acúmulos (até <shuzhi>1</> acúmulo a cada <shuzhi>0,65</> segundo).\r\nApós <shuzhi>5</> segundos no modo superveloz, recebe a habilidade <shuzhi>Cavaleiro da Luz</> (pode ser usada durante o modo superveloz). Trocar de arma nesse período impede que você use <shuzhi>Cavaleiro da Luz</>.\r\n\r\n<shuzhi>Passiva: Reforma de supervelocidade</>\r\n<shuzhi>Estrondo</> tem cinco tipos elementais. Ative <shuzhi>um</> deles na página Habilidades - Configurações. Não é possível trocar de tipo durante o combate.\r\nCada tipo elemental de <shuzhi>Estrondo</> tem uma determinada <shuzhi>característica de arma</> ao usar Energia Violenta para golpear um alvo.\r\n\r\n<red>Gélido-elétrica</>: Recebe modo superveloz durante <shuzhi>28</> segundos. Nesse período, a cada golpe acertado com o ataque normal de <shuzhi>Estrondo</> ou a cada vez que você recebe cura não excessiva, recebe 1 acúmulo de <shuzhi>convergência térmica</>. Acumula até <shuzhi>10</> vezes. <shuzhi>3</> segundos após o fim do modo superveloz, toda a convergência térmica que não tenha sido transformada é removida. Tempo de recarga: <shuzhi>30</> seg. Efeitos que zeram, atualizam ou mudam o tempo de recarga não afetam isso.\r\n\r\n<red>Ígneo-física</>: Ativa o modo superveloz durante <shuzhi>23 segundos. Ao entrar no modo superveloz, gasta todas as <shuzhi>centelhas</>. A cada acúmulo gasto, recebe <shuzhi>2.200</> de ATQ ígneo mínimo (esse ATQ ígneo não se reflete nos seus atributos e está indisponível na Liga do Apogeu) e aumenta o dano final de <shuzhi>Estrondo</> em <shuzhi>22%</>. No modo superveloz, recebe perseguição flamejante. Ao causar dano ígneo, causa dano de <shuzhi>1.520%</> do ATQ aos alvos próximos; aciona-se até <shuzhi>uma</> vez a cada <shuzhi>2</> segundos. Tempo de recarga: <shuzhi>25</> seg. Efeitos que zeram ou reduzem o tempo de recarga não afetam isso.\r\n\r\n<red>Elétrico-gélida</>: Recebe modo superveloz durante <shuzhi>18</> segundos. No modo superveloz, aumenta o dano elétrico em <shuzhi>30%</>. Ao acertar um golpe de ataque normal com <shuzhi>Estrondo</> no espaço principal, recebe <shuzhi>1</> acúmulo de <shuzhi>lança relampejante</>, limitado a <shuzhi>18</> acúmulos. Com o limite de acúmulos, gasta todos eles e causa dano adicional equivalente a <shuzhi>6.000%</> do ATQ aos alvos próximos (conta como dano de habilidade). Ao mesmo tempo, recebe um escudo equivalente a <shuzhi>30%</> da vida máxima durante <shuzhi>10</> segundos (esse efeito não se acumula). O efeito adicional de lança relampejante pode se acionar até <shuzhi>cinco</> vezes a cada vez que você entra no modo superveloz. Quando <shuzhi>Cortes Vinculados</> gasta <shuzhi>6</> acúmulos de <shuzhi>sobrecarga</>, também causa dano de <shuzhi>11.000%</> do ATQ aos alvos próximos. Esse dano conta como dano de habilidade. Tempo de recarga: <shuzhi>20</> seg. Efeitos que zeram ou reduzem o tempo de recarga não afetam isso.\r\n\r\n<red>Físico-ígnea</>: Recebe modo superveloz durante <shuzhi>19</> segundos. No modo superveloz, causa dano de <shuzhi>2.900%</> do ATQ físico por segundo aos alvos próximos. Cada vez que um alvo sofre esse dano, você recebe um escudo equivalente a <shuzhi>5%</> da vida máxima durante <shuzhi>10</> segundos, limitado a <shuzhi>10%</> por vez. O valor máximo do escudo não excede <shuzhi>50%</> da sua vida. Tempo de recarga: <shuzhi>21</> seg. Efeitos que zeram ou reduzem o tempo de recarga não afetam isso.\r\n\r\n<red>Alterada</>: Recebe modo superveloz durante <shuzhi>23</> segundos. No modo superveloz, aumenta a vida máxima em <shuzhi>100%</>. Além disso, cada ataque acertado de <shuzhi>Integrante do Vendaval</> e <shuzhi>Viagem nas Nuvens</> também causa dano equivalente a <shuzhi>1.400%</> da vida máxima, limitado a <shuzhi>240</> vezes o seu ATQ. Esse dano conta como dano de habilidade e não é afetado por efeitos de reforço de dano. Tempo de recarga: <shuzhi>25</> seg. Efeitos que zeram ou reduzem o tempo de recarga não afetam isso.",
+				"name": "Energia Violenta",
+				"description": "Ativa o modo superveloz para você receber invencibilidade temporária e causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos e inflige <shuzhi>65%</> de atraso aos alvos durante <shuzhi>3</> segundos (ineficaz contra chefes ao estar em equipe).\r\nNo modo superveloz, recebe corpo de aço e cada ataque de <shuzhi>Integrante do Vendaval</> e <shuzhi>Viagem nas Nuvens</> tem supersônico, também causando dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> (conta como dano passivo). Ao mesmo tempo, cada ataque acertado confere <shuzhi>1</> acúmulo de sobrecarga, limitado a <shuzhi>6</> acúmulos (até <shuzhi>1</> acúmulo a cada <shuzhi>0,65</> segundo).\r\nApós <shuzhi>5</> segundos no modo superveloz, recebe a habilidade <shuzhi>Cavaleiro da Luz</> (pode ser usada durante o modo superveloz). Trocar de arma nesse período impede que você use <shuzhi>Cavaleiro da Luz</>.\r\n\r\n<shuzhi>Passiva: Reforma de supervelocidade</>\r\n<shuzhi>Estrondo</> tem cinco tipos elementais. Ative <shuzhi>um</> deles na página Habilidades - Configurações. Não é possível trocar de tipo durante o combate.\r\nCada tipo elemental de <shuzhi>Estrondo</> tem uma determinada <shuzhi>característica de arma</> ao usar Energia Violenta para golpear um alvo.\r\n\r\n<red>Gélida-elétrica</>: Recebe modo superveloz durante <shuzhi>28</> segundos. Nesse período, você recebe 1 acúmulo de <shuzhi>convergência térmica</> a cada acerto com ataque normal de <shuzhi>Estrondo</> ou a cada vez que receber cura não excessiva. Acumula até <shuzhi>10</> vezes. Toda a convergência térmica que não tenha sido transformada é removida <shuzhi>3</> segundos após o fim do modo superveloz. Tempo de recarga: <shuzhi>30</> seg. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\n\r\n<red>Ígnea-física</>: Ativa o modo superveloz durante <shuzhi>23</> segundos. Ao entrar no modo superveloz, gasta todas as <shuzhi>centelhas</>. A cada acúmulo gasto, recebe <shuzhi>600</> de ATQ ígneo mínimo (esse ATQ ígneo não se reflete nos seus atributos e está indisponível na Liga do Apogeu) e aumenta o dano final de <shuzhi>Estrondo</> em <shuzhi>6%</>. No modo superveloz, recebe perseguição flamejante. Ao causar dano ígneo, causa dano de <shuzhi>500%</> do ATQ aos alvos próximos. Pode ser acionado até <shuzhi>uma</> vez a cada <shuzhi>2</> segundos. Tempo de recarga: <shuzhi>25</> seg. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\n\r\n<red>Elétrica-gélida</>: Recebe o modo superveloz durante <shuzhi>18</> segundos. No modo superveloz, aumenta o dano elétrico em <shuzhi>12%</>. Ao acertar um ataque normal com <shuzhi>Estrondo</> no espaço principal, recebe <shuzhi>1</> acúmulo de <shuzhi>lança relampejante</>, limitado a <shuzhi>18</> acúmulos. Ao atingir o limite de acúmulos, gasta todos eles e causa dano adicional equivalente a <shuzhi>2.000%</> do ATQ aos alvos próximos (conta como dano de habilidade). Ao mesmo tempo, recebe um escudo equivalente a <shuzhi>30%</> da vida máxima durante <shuzhi>10</> segundos (esse efeito não se acumula). O efeito adicional de lança relampejante pode ser acionado até <shuzhi>cinco</> vezes a cada vez que você entra no modo superveloz. Quando <shuzhi>Cortes Vinculados</> gasta <shuzhi>6</> acúmulos de <shuzhi>sobrecarga</>, também causa dano de <shuzhi>3.500%</> do ATQ aos alvos próximos. Esse dano conta como dano de habilidade. Tempo de recarga: <shuzhi>20</> seg. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\n\r\n<red>Física-ígnea</>: Recebe modo superveloz durante <shuzhi>19</> segundos. No modo superveloz, causa dano de <shuzhi>700%</> do ATQ por segundo aos alvos próximos. A cada alvo atingido, você recebe um escudo equivalente a <shuzhi>5%</> da vida máxima durante <shuzhi>10</> segundos, limitado a <shuzhi>10%</> por vez. O valor máximo do escudo não excede <shuzhi>50%</> da sua vida. Tempo de recarga: <shuzhi>21</> seg. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\n\r\n<red>Alterada</>: Recebe modo superveloz durante <shuzhi>23</> segundos. No modo superveloz, aumenta a vida máxima em <shuzhi>100%</>. Além disso, cada acerto com <shuzhi>Integrante do Vendaval</> e <shuzhi>Viagem nas Nuvens</> também causa dano equivalente a <shuzhi>166%</> da vida máxima, limitado a <shuzhi>30</> vezes o seu ATQ. Esse dano conta como dano de habilidade e não é afetado por efeitos de reforço de dano. Tempo de recarga: <shuzhi>25</> seg. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_Skill01.webp",
 				"operations": [],
 				"tags": [
@@ -9119,7 +9292,7 @@
 			},
 			{
 				"name": "Cavaleiro da Luz",
-				"description": "Pode ser acionado durante o modo superveloz para desferir cortes vinculados multifásicos contra os alvos próximos e causar dano total de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. O modo superveloz termina após usar essa habilidade.\r\n\r\n<shuzhi>Passiva: Inércia superveloz</>\r\nUse <shuzhi>Cavaleiro da Luz</> para receber um efeito adicional correspondente ao elemento de <shuzhi>Estrondo</>.\r\n\r\n<red>Gélido-elétrica</>: Gasta todos os acúmulos de <shuzhi>convergência térmica</> e recebe congelamento total, que aumenta o reforço de dano gélido em <shuzhi>1,4%</> da quantidade de acúmulos de <shuzhi>convergência térmica</>. Além disso, causa dano gélido equivalente a <shuzhi>1.400%</> do ATQ + a quantidade de acúmulos de <shuzhi>convergência térmica</> × <shuzhi>240%</> do ATQ aos alvos próximos. Esse dano conta como dano passivo e dura <shuzhi>30</> segundos.\r\n\r\n<red>Alterada</>: Causa dano equivalente a <shuzhi>50.000%</> da sua vida máxima aos alvos próximos. Esse dano não excede <shuzhi>8.000</> vezes o seu ATQ, conta como dano de habilidade e não é afetado por efeitos de reforço de dano.",
+				"description": "Pode ser acionado durante o modo superveloz para desferir cortes vinculados multifásicos contra os alvos próximos e causar dano total de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. O modo superveloz termina após usar essa habilidade.\r\n\r\n<shuzhi>Passiva: Inércia superveloz</>\r\nUse Cavaleiro da Luz para receber um efeito adicional correspondente ao elemento de <shuzhi>Estrondo</>.\r\n\r\n<red>Gélido-elétrica</>: Gasta todos os acúmulos de <shuzhi>convergência térmica</> e recebe congelamento total, que aumenta o reforço de dano gélido em <shuzhi>0,6%</> da quantidade de acúmulos de <shuzhi>convergência térmica</>. Além disso, causa dano gélido equivalente a <shuzhi>500%</> do ATQ + a quantidade de acúmulos de <shuzhi>convergência térmica</> × <shuzhi>50%</> do ATQ aos alvos próximos. Esse dano conta como dano passivo e dura <shuzhi>30</> segundos.\r\n\r\n<red>Alterada</>: Causa dano equivalente a <shuzhi>6.250%</> da sua vida máxima aos alvos próximos. Esse dano não excede <shuzhi>1.000</> vezes o seu ATQ, conta como dano de habilidade e não é afetado por efeitos de reforço de dano.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_Skill02.webp",
 				"operations": [],
 				"tags": [
@@ -10453,7 +10626,7 @@
 			},
 			{
 				"name": "Âncora Celeste",
-				"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Âncora Cadente.\r\nDespenca do ar. Durante a aterrissagem, cada golpe causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. Ao aterrissar, causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> aos alvos próximos. Durante <shuzhi>frio lancinante</>, adiciona <shuzhi>8</> acúmulos de golpe congelante.",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Âncora Cadente.\r\nDespenca do ar. No caminho até a aterrissagem, cada golpe causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. Ao aterrissar, causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> aos alvos próximos. Durante <shuzhi>frio lancinante</>, adiciona <shuzhi>8</> acúmulos de golpe congelante.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_loslyn_jumpattack.webp",
 				"operations": [
 					"Jump",

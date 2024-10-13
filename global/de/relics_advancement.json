@@ -356,7 +356,7 @@
 		"id": "artifact_adv_016"
 	},
 	"1107": {
-		"description": "Gewährt alle **100** Sek. 1 Aufladung. Gleiten verbraucht keine Ausdauer mehr.",
+		"description": "Gewährt alle **20** Sek. 1 Aufladung. Gleiten verbraucht keine Ausdauer mehr.",
 		"id": "artifact_adv_015"
 	},
 	"1109": {
@@ -364,7 +364,7 @@
 		"id": "artifact_adv_015"
 	},
 	"1110": {
-		"description": "Gewährt alle 60 Sek. **1** Aufladung.",
+		"description": "Erhalte alle **15** Sekunden 1 Ladung zurück.",
 		"id": "artifact_adv_015"
 	},
 	"1111": {
@@ -1140,23 +1140,23 @@
 		"id": "artifact_adv_047"
 	},
 	"1327": {
-		"description": "",
+		"description": "Erhöht den Effekt der Schadensreduktion auf **20%**, während in der Verteidigungsform.",
 		"id": "artifact_adv_048"
 	},
 	"1328": {
-		"description": "",
+		"description": "Erhöht den Schadensbonus-Effekt auf **11%**, während in der offensiven Form.",
 		"id": "artifact_adv_048"
 	},
 	"1329": {
-		"description": "",
+		"description": "Verringert das Auslöse-Intervall für das Blockieren von tödlichem Schaden auf einmal alle **120** Sekunden.",
 		"id": "artifact_adv_048"
 	},
 	"1330": {
-		"description": "",
+		"description": "Erhöht den Veränderungswiderstand um **2%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_048"
 	},
 	"1331": {
-		"description": "",
+		"description": "Erhöht den Schadensbonus-Effekt auf **16%**, während in der offensiven Form.",
 		"id": "artifact_adv_048"
 	}
 }

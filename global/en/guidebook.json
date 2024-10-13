@@ -2725,6 +2725,25 @@
 		"menuType": "Weapon",
 		"id": "Nitai_Loslyn_SSR"
 	},
+	"Nitai_MerylX_SSR": {
+		"name": "Meryl Ironheart",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
+		"array": [
+			{
+				"title": "Meryl Ironheart: Siege Edge",
+				"description": "Unlock Siege Edge to venture into the Tower of Fantasy world as Meryl Ironheart, the weapon's Simulacrum.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/en/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "Meryl Ironheart: Siege Edge",
+				"description": "Instructions for Siege Edge. Learn how to use the skills for this type of weapon.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/en/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"menuId": "imitate_role",
+		"menuType": "Weapon",
+		"id": "Nitai_MerylX_SSR"
+	},
 	"Nitai_tianlang_SSR": {
 		"name": "Tian Lang",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -3009,6 +3028,20 @@
 		"menuId": "WorldExplore",
 		"menuType": "WorldExploration",
 		"id": "Guide_MoveShoot"
+	},
+	"Guide_Norn_Bicycle": {
+		"name": "Bicycle",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
+		"array": [
+			{
+				"title": "Bicycle",
+				"description": "Rent a bicycle at the bicycle station. Use the A/D keys or the left/right buttons to pedal and speed up. Move the mouse or tap and hold down the left/right buttons on the controller to turn. Use the S key or hold down the down button on the controller to break and the V key to get off the bicycle.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_Bicycle.webp"
+			}
+		],
+		"menuId": "WorldExplore",
+		"menuType": "WorldExploration",
+		"id": "Guide_Norn_Bicycle"
 	},
 	"Guide_Norn_CD": {
 		"name": "Battle Projector",
@@ -6117,6 +6150,13 @@
 		"menuId": "EQUIPMENT_SLOT_WEAPON",
 		"menuType": "All",
 		"id": "Loslyn_ice"
+	},
+	"MerylX_thunder": {
+		"name": "Siege Edge",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_wfjq02.webp",
+		"menuId": "EQUIPMENT_SLOT_WEAPON",
+		"menuType": "All",
+		"id": "MerylX_thunder"
 	},
 	"Nitai_mimi_SSR": {
 		"name": "Huang",

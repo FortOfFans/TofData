@@ -8994,11 +8994,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305101"
@@ -9023,11 +9023,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305102"
@@ -9052,11 +9052,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305103"
@@ -9168,11 +9168,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305201"
@@ -9197,11 +9197,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305202"
@@ -9226,11 +9226,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305203"
@@ -9342,11 +9342,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305301"
@@ -9371,11 +9371,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305302"
@@ -9400,11 +9400,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305303"
@@ -9516,11 +9516,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305401"
@@ -9545,11 +9545,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305402"
@@ -9574,11 +9574,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305403"
@@ -9690,11 +9690,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305501"
@@ -9719,11 +9719,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305502"
@@ -9748,11 +9748,11 @@
 			{
 				"name": "エナジー粒子",
 				"description": "サプレッサーの作動時に発生する微細なエナジー結晶粒子。回収すると役に立つ",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305503"
@@ -22266,7 +22266,7 @@
 	"904061": {
 		"name": "地馳",
 		"amount": 1,
-		"description": "",
+		"description": "地馳テストラウンドの\r\n地馳",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "戦闘",
 		"section2": "ボス",
@@ -22290,8 +22290,9 @@
 		"id": "904061"
 	},
 	"904062": {
+		"name": "ウインドボディー・ジル",
 		"amount": 1,
-		"description": "",
+		"description": "ワールドレベル100以上で\r\nアズール海岸、北東の大島にいる\r\nウインドボディー・ジル",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "戦闘",
 		"section2": "モンスター",
@@ -22308,8 +22309,9 @@
 		"id": "904062"
 	},
 	"904063": {
+		"name": "ライトナイト・ラス",
 		"amount": 1,
-		"description": "",
+		"description": "ワールドレベル100以上で\r\nアズール海岸、北東の小島にいる\r\nライトナイト・ラス",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "戦闘",
 		"section2": "モンスター",
@@ -22326,8 +22328,9 @@
 		"id": "904063"
 	},
 	"904064": {
+		"name": "ベクトル・ダスティン",
 		"amount": 1,
-		"description": "",
+		"description": "ワールドレベル100以上で\r\nアズール海岸、北東の小島にいる\r\nベクトル・ダスティン",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "戦闘",
 		"section2": "モンスター",
@@ -22344,8 +22347,9 @@
 		"id": "904064"
 	},
 	"904065": {
+		"name": "アキュレート・ディラン",
 		"amount": 1,
-		"description": "",
+		"description": "ワールドレベル100以上で\r\nブローデル研究センター北部の\r\nアキュレート・ディラン",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "戦闘",
 		"section2": "モンスター",
@@ -22362,8 +22366,9 @@
 		"id": "904065"
 	},
 	"904066": {
+		"name": "マッドピット・エルウィンを撃破する",
 		"amount": 1,
-		"description": "",
+		"description": "ワールドレベル100以上で\r\nアズール海岸南部のアジトの\r\nマッドピット・エルウィンを撃破する",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "戦闘",
 		"section2": "モンスター",
@@ -22380,8 +22385,9 @@
 		"id": "904066"
 	},
 	"904067": {
+		"name": "レッドボルト・グレイを撃破する",
 		"amount": 1,
-		"description": "",
+		"description": "ワールドレベル100以上で\r\nアズール海岸南部のアジトの\r\nレッドボルト・グレイを撃破する",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "戦闘",
 		"section2": "モンスター",
@@ -22398,8 +22404,9 @@
 		"id": "904067"
 	},
 	"904068": {
+		"name": "激昂-カランを撃破",
 		"amount": 1,
-		"description": "",
+		"description": "ワールドレベル100以上で\r\nTOLLYWOOD下方の\r\n激昂-カランを撃破",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "戦闘",
 		"section2": "モンスター",

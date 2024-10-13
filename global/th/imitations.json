@@ -1,4 +1,116 @@
 {
+	"imitation_61": {
+		"name": "เมอริล ไอรอนฮาร์ท",
+		"rarity": 5,
+		"advanceId": "imitation_61L1",
+		"weaponId": "merylx_thunder",
+		"assetsA0": {
+			"avatar": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_meilierkai.webp",
+			"titlePicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_61.webp",
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/meilierkai2.webp",
+			"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_imitation_61.webp",
+			"namePicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/th/Resources/UI/shizhuang/nitai/imitation_name_61.webp",
+			"grayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_imitation_61_2.webp",
+			"thumbPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_61_xiangqing.webp",
+			"weaponShowPicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/equiptips/weapon_imitation/tips_avatar_ssr_meilierkai.webp",
+			"activeImitation": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61.webp",
+			"inactiveImitation": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61_2.webp",
+			"advancePainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61.webp",
+			"advanceGrayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61_2.webp",
+			"backPhoto": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_Details_bg.webp",
+			"rarityIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/ssr.webp",
+			"lotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/chouka/Card/Weapon/UI_meilierkai.webp",
+			"matrixPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/SuitAvatar/avatar_yizhitips_meilierkai_big.webp",
+			"descPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/th/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_61.webp"
+		},
+		"assetsA3": {
+			"avatar": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_meilierkai.webp",
+			"titlePicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_61.webp",
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/meilierkai2.webp",
+			"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_imitation_61.webp",
+			"namePicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/th/Resources/UI/shizhuang/nitai/imitation_name_61.webp",
+			"grayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_imitation_61_2.webp",
+			"thumbPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_61_xiangqing.webp",
+			"weaponShowPicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/equiptips/weapon_imitation/tips_avatar_ssr_meilierkai.webp",
+			"activeImitation": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61.webp",
+			"inactiveImitation": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61_2.webp",
+			"advancePainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/erjie_imitation_touxiang_61.webp",
+			"advanceGrayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/erjie_imitation_touxiang_61_2.webp",
+			"backPhoto": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_Details_bg.webp",
+			"rarityIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/ssr.webp",
+			"lotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/chouka/Card/Weapon/UI_meilierkai.webp",
+			"matrixPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/SuitAvatar/avatar_yizhitips_meilierkai_big.webp",
+			"descPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/th/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_61.webp"
+		},
+		"avatarId": "meilierx",
+		"age": "10 ตุลาคม",
+		"height": "170 ซม.",
+		"gender": "เพศหญิง",
+		"state": "สหพันธ์นอร์ส",
+		"city": "",
+		"like": [
+			"collection",
+			"decorate",
+			"Genet"
+		],
+		"dislike": [
+			"Jiuyu",
+			"Vera",
+			"Asshai"
+		],
+		"unlockInfo": "กล่องสมบัติลิมิเต็ด",
+		"va": {
+			"cn": "秦紫翼",
+			"jp": "和久井",
+			"en": "Kira",
+			"kr": "이다은",
+			"pt": "N/A"
+		},
+		"awakening": [
+			{
+				"name": "ประสาทสัมผัส",
+				"description": "เพิ่มดาเมจสุดท้าย **14%**",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/meilierkai_2x.webp",
+				"need": 1200
+			},
+			{
+				"name": "ความถี่",
+				"description": "เพิ่มดาเมจสุดท้าย **18%** เมื่อเข้าสู่สถานะต่อสู้จะได้รับแต้มชาร์จอาวุธ **1000** หน่วย และเมื่อติดตั้ง**อาวุธ-ซีจเอดจ์** ดาเมจไฟฟ้าจะเพิ่มขึ้น **15%** ในขณะที่**อาวุธ-ซีจเอดจ์**อยู่ในช่องอาวุธหลัก ทุก ๆ วินาทีจะทำดาเมจเพิ่มเติมต่อศัตรูใกล้เคียงเท่ากับ **250%** ของ ATK และเมื่อเรียกใช้เรโซแนนซ์ความอดทน จะเพิ่มการทำลายโล่ขึ้น **50%**",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/4X/meilierkai.webp",
+				"need": 4000
+			}
+		],
+		"fashion": [
+			{
+				"name": "ฤดูร้อนอันเป็นนิรันดร์",
+				"description": "ฤดูร้อนยาวนาน นางสาวเมอริลที่กำลังท่องเที่ยวกำลังเลือกชุดว่ายน้ำที่เหมาะสมในร้านขายชุดว่ายน้ำ",
+				"rarity": 5,
+				"source": "จากกิจกรรม",
+				"simulacrumId": "imitation_61",
+				"assets": {
+					"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX.webp",
+					"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX_Lock.webp"
+				},
+				"weaponId": "Paradox_fire_fashion_imitationUI",
+				"id": "imitation_fashion_61"
+			}
+		],
+		"nitai": [
+			{
+				"title": "เมอริล ไอรอนฮาร์ท - ซีจเอดจ์",
+				"description": "ตัวละครซิมูลาครัม \"เมอริล ไอรอนฮาร์ท\" ของอาวุธ \"ซีจเอดจ์\" หลังจากปลดล็อกอาวุธที่เกี่ยวข้อง คุณจะสามารถจำลองเป็น \"เมอริล ไอรอนฮาร์ท\" เพื่อตะลุยในโลกแห่งหอคอยแฟนตาซี",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/th/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "เมอริล ไอรอนฮาร์ท - ซีจเอดจ์",
+				"description": "คำแนะนำการใช้ซีจเอดจ์ คุณสามารถเรียนรู้วิธีใช้สกิลของอาวุธประเภทนี้ได้",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/th/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"version": "CN-Only",
+		"limited": true,
+		"id": "imitation_61"
+	},
 	"imitation_62": {
 		"name": "นอร่า",
 		"rarity": 5,
@@ -188,7 +300,7 @@
 			},
 			{
 				"name": "ตื่นรู้ใหม่",
-				"description": "เพิ่มดาเมจสุดท้าย **18%**\r\nเมื่อติดตั้ง**อาวุธ: ลูกอมเด้งดึ๋ง**แล้ว ดาเมจสุดท้ายเพิ่มเติมเพิ่มขึ้น **25%** และจะสร้างดาเมจกายภาพต่อเป้าหมายบอสเพิ่มเติม **20%**",
+				"description": "เพิ่มดาเมจสุดท้าย **18%**\r\nเมื่อติดตั้ง**อาวุธ: ลูกอมเด้งดึ๋ง**แล้ว ดาเมจสุดท้ายเพิ่มขึ้นเพิ่มเติม **12%** และจะสร้างดาเมจกายภาพต่อเป้าหมายบอสเพิ่มเติม **15%**",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/anke_2x.webp",
 				"need": 4000
 			}
@@ -529,7 +641,7 @@
 			},
 			{
 				"name": "ผู้พิทักษ์",
-				"description": "เพิ่มดาเมจสุดท้าย **18%** เมื่อเปิดใช้งาน**เรโซแนนซ์โจมตี**: ดาเมจไฟฟ้าจะเพิ่มขึ้น **22%** เมื่อเปิดใช้งาน**ที่ไม่ใช่เรโซแนนซ์โจมตี**: **โจมตีปกติ: ชาร์จเรียงราย**เอฟเฟกต์การบล็อกจะเพิ่มขึ้นเป็น **12%** ของค่า HP สูงสุดของตนเอง ระยะเวลาต่อเนื่องของ**สนามแม่เหล็กเชื่องช้า**ของ**โจมตีปกติ: ยิงศรรวดเร็ว**และ**โจมตีปกติ: ยิงต่อเนื่องกลางอากาศ**เพิ่มขึ้นเป็น **4** วินาที",
+				"description": "เพิ่มดาเมจสุดท้าย **18%** เมื่อเปิดใช้งาน**เรโซแนนซ์โจมตี**: ดาเมจไฟฟ้าจะเพิ่มขึ้น **8%** เมื่อเปิดใช้งาน**ที่ไม่ใช่เรโซแนนซ์โจมตี**: **โจมตีปกติ: ชาร์จเรียงราย**เอฟเฟกต์การบล็อกจะเพิ่มขึ้นเป็น **12%** ของค่า HP สูงสุดของตนเอง ระยะเวลาต่อเนื่องของ**สนามแม่เหล็กเชื่องช้า**ของ**โจมตีปกติ: ยิงศรรวดเร็ว**และ**โจมตีปกติ: ยิงต่อเนื่องกลางอากาศ**เพิ่มขึ้นเป็น **4** วินาที",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/lingboli_2x.webp",
 				"need": 4000
 			}
@@ -1392,13 +1504,13 @@
 		"awakening": [
 			{
 				"name": "ระบำดอกบัว",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **0%**\r\nหลังจากปล่อย**ล่องลอยหมุนวน** เมื่อติดตั้งอาวุธธาตุไฟทุก **1** ชิ้น ดาเมจสุดท้ายจะเพิ่มขึ้น **4.5%** เป็นเวลา **30** วินาที",
+				"description": "หลังจากปล่อย**ล่องลอยหมุนวน** เมื่อติดตั้งอาวุธธาตุไฟทุก **1** ชิ้น ดาเมจสุดท้ายจะเพิ่มขึ้น **4.5%** เป็นเวลา **30** วินาที",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/feise_2x.webp",
 				"need": 1200
 			},
 			{
 				"name": "เงาทมิฬ",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **0%**\r\nหลังจากปล่อย**ล่องลอยหมุนวน** เมื่อติดตั้งอาวุธธาตุไฟทุก **1** ชิ้น ดาเมจสุดท้ายจะเพิ่มขึ้น **9%** เป็นเวลา **30** วินาที",
+				"description": "หลังจากปล่อย**ล่องลอยหมุนวน** เมื่อติดตั้งอาวุธธาตุไฟทุก **1** ชิ้น ดาเมจสุดท้ายจะเพิ่มขึ้น **9%** เป็นเวลา **30** วินาที",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/feise.webp",
 				"need": 4000
 			}
@@ -1496,7 +1608,7 @@
 			},
 			{
 				"name": "กิเลนมรกต",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%**\r\nเมื่อติดตั้งอาวุธไฟฟ้า **3** ชิ้น ดาเมจไฟฟ้าจะเพิ่มขึ้น **6%** ระยะเวลาของเอฟเฟกต์การเพิ่มอัตราคริติคอลจะยืดออกไปอีก **25** วินาที หลังเรียกใช้เอฟเฟกต์นี้แล้ว ดาเมจคริติคอลจะเพิ่มขึ้น **0%** เป็นเวลา **30** วินาที",
+				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%**\r\nเมื่อติดตั้งอาวุธไฟฟ้า **3** ชิ้น ดาเมจไฟฟ้าจะเพิ่มขึ้น **6%** ระยะเวลาของเอฟเฟกต์การเพิ่มอัตราคริติคอลจะยืดออกไปอีก **25** วินาที",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/mimi.webp",
 				"need": 4000
 			}
@@ -1701,7 +1813,7 @@
 			"Asshai",
 			"Vera"
 		],
-		"unlockInfo": "กล่องสมบัติลิมิเต็ด",
+		"unlockInfo": "ยูนิตี้",
 		"va": {
 			"cn": "秦文静",
 			"jp": "柚木",
@@ -1712,13 +1824,13 @@
 		"awakening": [
 			{
 				"name": "เงียบสงบ",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **13%**\r\nภายใต้ฟอร์ม**จอมยุทธ์** ดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น **7%** หลัง**ดำดิ่งสู่ห้วงนรก**โดน เป้าหมายจะได้รับดาเมจน้ำแข็งเพิ่มขึ้น **0%** เป็นเวลา **20** วินาที \r\nภายใต้ฟอร์ม**กวาดล้าง** ทุกครั้งที่ติดตั้งอาวุธน้ำแข็ง **1** อัน ดาเมจที่เกิดจากการใช้**จิตวิญญาณต่อสู้**จะเพิ่มขึ้น **9%** เมื่อติดตั้งอาวุธน้ำแข็ง **3** อัน ดาเมจน้ำแข็งของตนเองจะเพิ่มขึ้น **8%**",
+				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **13%**\r\nภายใต้ฟอร์ม**จอมยุทธ์** ดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น **7%** \r\nภายใต้ฟอร์ม**กวาดล้าง** ทุกครั้งที่ติดตั้งอาวุธน้ำแข็ง **1** อัน ดาเมจที่เกิดจากการใช้**จิตวิญญาณต่อสู้**จะเพิ่มขึ้น **9%** เมื่อติดตั้งอาวุธน้ำแข็ง **3** อัน ดาเมจน้ำแข็งของตนเองจะเพิ่มขึ้น **8%**",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yulan_2x.webp",
 				"need": 1200
 			},
 			{
 				"name": "สมาธิ",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%**\r\nภายใต้ฟอร์ม**จอมยุทธ์** ดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น **7%** หลัง**ดำดิ่งสู่ห้วงนรก**โดน เป้าหมายจะได้รับดาเมจน้ำแข็งเพิ่มขึ้น **0%** เป็นเวลา **20** วินาที \r\nภายใต้ฟอร์ม**กวาดล้าง** ทุกครั้งที่ติดตั้งอาวุธน้ำแข็ง **1** อัน ดาเมจที่เกิดจากการใช้**จิตวิญญาณต่อสู้**จะเพิ่มขึ้น **9%** เมื่อติดตั้งอาวุธน้ำแข็ง **3** อัน ดาเมจน้ำแข็งของตนเองจะเพิ่มขึ้น **8%**",
+				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%**\r\nภายใต้ฟอร์ม**จอมยุทธ์** ดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น **7%** \r\nภายใต้ฟอร์ม**กวาดล้าง** ทุกครั้งที่ติดตั้งอาวุธน้ำแข็ง **1** อัน ดาเมจที่เกิดจากการใช้**จิตวิญญาณต่อสู้**จะเพิ่มขึ้น **9%** เมื่อติดตั้งอาวุธน้ำแข็ง **3** อัน ดาเมจน้ำแข็งของตนเองจะเพิ่มขึ้น **8%**",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yulan.webp",
 				"need": 4000
 			}
@@ -1737,7 +1849,7 @@
 			}
 		],
 		"version": "3.0",
-		"limited": true,
+		"limited": false,
 		"id": "imitation_38"
 	},
 	"imitation_37": {
@@ -2137,7 +2249,7 @@
 			},
 			{
 				"name": "สะท้อนจันทรา",
-				"description": "เพิ่มดาเมจสุดท้าย **18%**\r\n**เสริมพลังเทคนิคกระจัดกระจาย:**\r\nเสริมพลังไฮโดรโฟกัส: เพิ่มดาเมจทุกธาตุ **20%**\r\nเสริมพลังวังวน: ถ้า**มูนสตาร์เบซเล็ต**อยู่ในช่องอาวุธหลัก ดาเมจที่เกิดขึ้นจากวังวนจะเพิ่มขึ้น **150%** ดาเมจที่เกิดจากวังวนจะเพิ่มขึ้นอีก **100%** เมื่อเรโซแนนซ์เหนือมนุษย์ทำงานอยู่\r\nเสริมพลังแรงดันคลื่น: เพิ่มดาเมจสกิลและดาเมจคอมโบ **45%**\r\nเสริมพลังห้วงน้ำลึก: เมื่อทำดาเมจกายภาพระหว่างที่อยู่ในเอฟเฟกต์ห้วงน้ำลึก จะสร้างดาเมจสุดท้ายเพิ่มเติมมากสุดถึง **64%** (สูงสุด 10 วินาที) \r\nเสริมพลังบ่วงน้ำ: ระยะเวลาของคุกน้ำจะเพิ่มขึ้น **5** วินาที ในขณะที่เรโซแนนซ์ประทานพรทำงานอยู่ และการลดค่าต้านทานพื้นฐานของคุกน้ำจะเพิ่มขึ้น **15%**\r\nเสริมพลังบ่อน้ำ: ค่าต้านทานทุกอย่างเพิ่มขึ้นตาม HP สูงสุด (**HP สูงสุด**/**50,000**)% ในขณะที่เรโซแนนซ์ความอดทนทำงานอยู่ โดยสูงสุดไม่เกิน **20%**",
+				"description": "เพิ่มดาเมจสุดท้าย **18%**\r\n**เสริมพลังเทคนิคกระจัดกระจาย:**\r\nเสริมพลังไฮโดรโฟกัส: เพิ่มดาเมจทุกธาตุ **12%**\r\nเสริมพลังวังวน: ถ้า**มูนสตาร์เบซเล็ต**อยู่ในช่องอาวุธหลัก ดาเมจที่เกิดขึ้นจากวังวนจะเพิ่มขึ้น **30%** \r\nเสริมพลังแรงดันคลื่น: เพิ่มดาเมจคอมโบ **12%**\r\nเสริมพลังห้วงน้ำลึก: เมื่อทำดาเมจกายภาพระหว่างที่อยู่ในเอฟเฟกต์ห้วงน้ำลึก จะสร้างดาเมจสุดท้ายเพิ่มเติมมากสุดถึง **33%** (สูงสุด 10 วินาที) \r\nเสริมพลังบ่วงน้ำ: ระยะเวลาของคุกน้ำจะเพิ่มขึ้น **5** วินาที ในขณะที่เรโซแนนซ์ประทานพรทำงานอยู่ และการลดค่าต้านทานพื้นฐานของคุกน้ำจะเพิ่มขึ้น **10%**\r\nเสริมพลังบ่อน้ำ: ค่าต้านทานทุกอย่างเพิ่มขึ้นตาม HP สูงสุด (**HP สูงสุด**/**100,000**)% ในขณะที่เรโซแนนซ์ความอดทนทำงานอยู่ โดยสูงสุดไม่เกิน **10%**",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/4X/feiouna.webp",
 				"need": 4000
 			}

@@ -8620,6 +8620,179 @@
 	"GA_FPlayerMarkSkillPhy_Sub_ChangeSkill": {
 		"skills": []
 	},
+	"GA_FPlayerMerylXChangeSkill": {
+		"skills": [
+			{
+				"name": "雷磁光砲",
+				"description": "<red>武器エナジー値がMAX</>か<red>幻想タイム</>を発動した時、他の武器からこの武器に変更すると<shuzhi>自身のステータス異常を解消する</>。さらに破城の刃がレールガンに形態変化し、強力な砲撃を放ち前方のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。スキル発動中、被ダメージ無効が<shuzhi>1.5</>秒間持続する(トップリーグでは無効)\r\n雷磁光砲発動後、自身の雷攻撃力+<shuzhi>10%</>、<shuzhi>20</>秒間持続。自身は<shuzhi>22</>秒間の電磁干渉状態に入り、その間不屈状態を獲得。任意の雷属性武器のスキルを発動すると武器エナジー値をさらに<shuzhi>500</>獲得し、雷ダメージが<shuzhi>25%</>の確率で静電チェーンを発動する。チェーンは最大<shuzhi>7</>体のターゲットに攻撃力の<shuzhi>50%</>のダメージを与える(通常攻撃によるダメージと見なされるが、通常攻撃の効果は発動しない)。<shuzhi>0.5</>秒ごとに1回のみ発動可能。ターゲットを撃破すると再び静電チェーンを発動する。この効果は<shuzhi>0.1</>秒ごとに1回まで発動可能。\r\n<shuzhi>剛毅共鳴</>を発動中：\r\n電磁干渉状態のとき、<shuzhi>2</>秒ごとに付近のターゲットを挑発し、同時に自身に最大HP×<shuzhi>20%</>のシールドを付与する。<shuzhi>2</>秒間持続。\r\n<shuzhi>剛毅共鳴発動中でない</>とき：\r\n電磁干渉状態での<shuzhi>武器-破城の刃</>による攻撃はターゲットに静電状態を付与し、減速<shuzhi>30%</>、<shuzhi>20</>秒間持続。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_changeskill.webp",
+				"operations": [],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXChangeSkill_Success"
+			}
+		]
+	},
+	"GA_FPlayerMerylXEvade": {
+		"skills": [
+			{
+				"name": "回避",
+				"description": "ジャスト回避を成功させると幻想タイムが発動し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直効果を無効化する。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/common_evade.webp",
+				"operations": [
+					"Movement",
+					"Dash"
+				],
+				"tags": [],
+				"id": "GA_FPlayerMerylXEvade_Evade"
+			},
+			{
+				"name": "パルス円舞",
+				"description": "前方回避(方向キー+回避ボタン)を発動してすぐに通常攻撃を行うと、パルス円舞が発動する。前方のターゲットに対し最大で攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_fevadeattack.webp",
+				"operations": [
+					"Movement",
+					"Dash",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "回避射撃",
+				"description": "回避後すぐに通常攻撃を行うと、回避射撃を発動し、攻撃が命中したターゲットに対し攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_bevadeattack.webp",
+				"operations": [
+					"Dash",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_BackAttack"
+			},
+			{
+				"name": "電磁砲撃",
+				"description": "回避後すぐに通常攻撃を長押しすると電磁砲撃を発動できる。チャージ時間によって3段階の威力があり、前方のターゲットにそれぞれ最大で、攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージ、攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージ、攻撃力×<shuzhi>{4}%</>+<shuzhi>{5}</>のダメージ、を与える。最大までチャージすれば、HP30%以下のボス以外のターゲットを即座に倒すことができる(プレイヤーには無効)",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_evadepowerattack.webp",
+				"operations": [
+					"Dash",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_PowerAttack"
+			}
+		]
+	},
+	"GA_FPlayerMerylXMelee": {
+		"skills": [
+			{
+				"name": "振動連斬",
+				"description": "地上にいる時、通常攻撃を行うと5回連続攻撃できる。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージとノックバック\r\n2回目：攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージとノックバック\r\n3回目：攻撃力×<shuzhi>{4}%</>+<shuzhi>{5}</>のダメージとノックバック\r\n4回目：最大で攻撃力×<shuzhi>{6}%</>+<shuzhi>{7}</>のダメージとノックバック\r\n5回目：攻撃力×<shuzhi>{8}%</>+<shuzhi>{9}</>のダメージとノックバック",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_melee.webp",
+				"operations": [
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Melee"
+			},
+			{
+				"name": "疾風連斬",
+				"description": "滞空時、通常攻撃を行うとスタミナを消費して空中で5回連続攻撃ができる。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージとノックバック\r\n2回目：攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージとノックバック\r\n3回目：攻撃力×<shuzhi>{4}%</>+<shuzhi>{5}</>のダメージとノックバック\r\n4回目：最大で攻撃力×<shuzhi>{6}%</>+<shuzhi>{7}</>のダメージとノックバック\r\n5回目：攻撃力×<shuzhi>{8}%</>+<shuzhi>{9}</>のダメージとノックバック",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_airattack.webp",
+				"operations": [
+					"Jump",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_AirAttack"
+			},
+			{
+				"name": "雷落とし",
+				"description": "地上での通常攻撃時、1～2回目で通常攻撃を長押しすると、雷落としを発動できる。\r\n破城の刃で前方に向かって連続の切り落とし攻撃を繰り出し、付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch.webp",
+				"operations": [
+					"Attack",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Branch"
+			},
+			{
+				"name": "石火一撃",
+				"description": "地上での通常攻撃時、3～4回目で通常攻撃を長押しすると、石火一撃を発動できる。\r\n強力なリフティング攻撃で、付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch1.webp",
+				"operations": [
+					"Attack",
+					"Attack",
+					"Attack",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Branch1"
+			},
+			{
+				"name": "陽電子砲",
+				"description": "地上にいる時、通常攻撃を長押しすると陽電子砲を発動できる。\r\nターゲットに向けてチャージショットを発射し、命中したターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_aimattack.webp",
+				"operations": [
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_PowerAttack"
+			},
+			{
+				"name": "帯電突進",
+				"description": "滞空時に通常攻撃を長押し(敵ターゲットがいるときにタップ)、またはクライミング時、反転ジャンプ攻撃時、ジェットパック使用時に通常攻撃をすると帯電突進を発動できる。\r\n空中から落下して着地するまでの間、ターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを命中するたびに与える。さらに着地後、付近のターゲットに攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージを与える。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_jumpattack.webp",
+				"operations": [
+					"Jump",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_JumpAttack"
+			}
+		]
+	},
+	"GA_FPlayerMerylXSkill": {
+		"skills": [
+			{
+				"name": "星のいかずち",
+				"description": "破城の刃を長剣に形態変化させ、付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える(<shuzhi>特質-電刃値</>のスタック不可)。クールダウン<shuzhi>20</>秒(クールダウンクリア、リセット、変化の影響を受けない)。\r\n<shuzhi>剛毅共鳴</>中：星のいかずちの発動時、付近にいる仲間が不屈状態を<shuzhi>10</>秒間獲得し、<shuzhi>特質-電刃強化</>された星のいかずちの場合は付近のターゲットを引き寄せ、さらに全属性耐性-<shuzhi>10%</>、<shuzhi>20</>秒間持続。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_skill.webp",
+				"operations": [],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXSkill_Skill"
+			}
+		]
+	},
 	"GA_FPlayerMiMiChangeSkill": {
 		"skills": [
 			{
@@ -9108,7 +9281,7 @@
 		"skills": [
 			{
 				"name": "バーサクエンジン",
-				"description": "爆速モードを発動すると自身は一時的に無敵になり、さらに付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージ、また<shuzhi>65%</>のスロウ効果を<shuzhi>3</>秒間与える(チームプレイ時のボスには無効)。\r\n爆速モード中は不屈効果を獲得し、<shuzhi>通常攻撃・ウィンドライド</>と<shuzhi>通常攻撃・アズールライド</>の全攻撃に超音効果が付与され、さらに攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージを追加で与え(パッシブダメージと見なされる)、また、攻撃がターゲットに命中するとオーバーロード効果を<shuzhi>1</>スタック獲得する。スタック上限<shuzhi>6</>(<shuzhi>0.65</>秒ごとのスタック獲得上限<shuzhi>1</>)\r\n爆速モード発動から<shuzhi>5</>秒経過すると、新スキル<shuzhi>フラッシュライド</>を獲得し（爆速モード中に発動可能）、獲得後武器を切り替えると<shuzhi>フラッシュライド</>を獲得/使用できなくなる。\r\n\r\n<shuzhi>パッシブ：爆速レストア</>\r\n<shuzhi>ノイズ</>は5種類の属性を持ち、スキルリスト->設定から属性を有効化できるが1種類までで、戦闘状態時は変更できない。\r\nバーサクエンジンが命中すると、ターゲットに<shuzhi>ノイズ</>の属性に応じた属性の<shuzhi>武器特質</>の付与され、さらに追加で異なる効果を発動する。\r\n\r\n<red>氷・雷</>：<shuzhi>28</>秒間の爆速モードを獲得し、その間<shuzhi>ノイズ</>の通常攻撃が命中するか、自身が治療を受ける(治療過多を除く)たび、凝華効果を<shuzhi>1</>スタック獲得する。スタック上限<shuzhi>10</>。爆速モード終了から<shuzhi>3</>秒後、変換されていないすべての凝華効果が解除される。クールダウン<shuzhi>30</>秒(クールダウンクリア、リセット、変化の影響を受けない)\r\n\r\n<red>炎・物理</>：<shuzhi>23</>秒間持続する爆速モードを獲得、爆速モードを発動すると、<shuzhi>限定・火花</>をすべて消費して、<shuzhi>1</>スタックごとに基礎炎攻撃力<shuzhi>2200</>(この炎攻撃力はプレイヤーのステータス画面で表示されない。トップリーグでは無効)と、<shuzhi>ノイズ</>限定で最終ダメージが<shuzhi>22%</>UP する。爆速モード発動中は炎追撃効果を獲得し、炎ダメージを与えるとき付近のターゲットに攻撃力×<shuzhi>1520%</>のダメージを与える。<shuzhi>2</>秒間に<shuzhi>1</>回のみ発動。クールダウン<shuzhi>25</>秒(クールダウンクリア、リセット、変化の影響を受けない)。\r\n\r\n<red>雷・氷</>：<shuzhi>18</>秒間持続する爆速モードを獲得。発動中は雷ダメージ+<shuzhi>30%</>。<shuzhi>ノイズ</>がフロントのとき任意の通常攻撃が命中すると、雷鳴効果を<shuzhi>1</>スタック獲得する。スタック上限<shuzhi>18</>。フルスタックに達するとスタックをすべて消費して、付近のターゲットに攻撃力×<shuzhi>6000%</>の追加ダメージを与え(スキルダメージと見なされる)、さらに<shuzhi>10</>秒間持続する最大HP×<shuzhi>30%</>のシールド(スタック不可)を獲得する。雷鳴の追加効果は1回の爆速モード発動中に<shuzhi>5</>回まで発動できる。もし<shuzhi>通常攻撃・スラッシュ・インナロウ</><shuzhi>スキル・オーバーロード</>を<shuzhi>6</>スタック消費したら、付近のターゲットに攻撃力×<shuzhi>11000%</>の追加ダメージを与える(スキルダメージと見なされる)。クールダウン<shuzhi>20</>秒(クールダウンクリア、リセット、変化の影響を受けない)。\r\n\r\n<red>物理・炎</>：<shuzhi>19</>秒間持続する爆速モードを獲得。発動中は毎秒付近のターゲットに攻撃力×<shuzhi>2900%</>のダメージを与え、かつターゲット<shuzhi>1</>体に命中するたびに<shuzhi>10</>秒間持続する最大HP×<shuzhi>5%</>のシールドを獲得する。1回で最大でも自身の最大HP×<shuzhi>10%</>までで、シールド上限が自身のHPの<shuzhi>50%</>は超えない。クールダウン<shuzhi>21</>秒(クールダウンクリア、リセット、変化の影響を受けない)。\r\n\r\n<red>異能</>：<shuzhi>23</>秒間持続する爆速モードを獲得。発動中は自身最大HPが<shuzhi>100%</>増え、<shuzhi>通常攻撃・ウィンドライド</>と<shuzhi>通常攻撃・アズールライド</>1撃命中するごとに自身の最大HP×<shuzhi>1400%</>のダメージを追加で与える(自身の攻撃力の<shuzhi>240</>倍まで。スキルダメージと見なされ、ダメージ UP効果の影響を受けない)。クールダウン<shuzhi>25</>秒(クールダウンクリア、リセット、変化の影響を受けない)",
+				"description": "爆速モードを発動すると自身は一時的に無敵になり、さらに付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージ、また<shuzhi>65%</>のスロウ効果を<shuzhi>3</>秒間与える(チームプレイ時のボスには無効)。\r\n爆速モード中は不屈効果を獲得し、<shuzhi>通常攻撃・ウィンドライド</>と<shuzhi>通常攻撃・アズールライド</>の全攻撃に超音効果が付与され、さらに攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージを追加で与え(パッシブダメージと見なされる)、また、攻撃がターゲットに命中するとオーバーロード効果を<shuzhi>1</>スタック獲得する。スタック上限<shuzhi>6</>(<shuzhi>0.65</>秒ごとのスタック獲得上限<shuzhi>1</>)\r\n爆速モード発動から<shuzhi>5</>秒経過すると、新スキル<shuzhi>フラッシュライド</>を獲得（爆速モード中に発動可能）。爆速モード中に武器を切り替えると<shuzhi>フラッシュライド</>を獲得/使用できなくなる。\r\n\r\n<shuzhi>パッシブ：爆速レストア</>\r\n非戦闘状態時にスキル一覧->設定から、<shuzhi>ノイズ</>の5種類の属性の内1つの属性を有効化できる。\r\nバーサクエンジンが命中すると、ターゲットに<shuzhi>ノイズ</>の属性に応じた属性の<shuzhi>武器特質</>が付与され、さらに追加で異なる効果を発動する。\r\n\r\n<red>氷・雷</>：<shuzhi>28</>秒間の爆速モードを獲得し、その間<shuzhi>ノイズ</>の通常攻撃が命中するか、自身が治療を受ける(治療過多を除く)たび、凝華効果を<shuzhi>1</>スタック獲得する。スタック上限<shuzhi>10</>。爆速モード終了から<shuzhi>3</>秒後、変換されていないすべての凝華効果が解除される。クールダウン<shuzhi>30</>秒(クールダウンクリア、リセット、変化の影響を受けない)\r\n\r\n<red>炎・物理</>：<shuzhi>23</>秒間持続する爆速モードを獲得。爆速モードを発動すると、<shuzhi>限定・火花</>をすべて消費して、<shuzhi>1</>スタックごとに基礎炎攻撃力<shuzhi>600</>(この炎攻撃力はプレイヤーのステータス画面で表示されない。トップリーグでは無効)と、<shuzhi>ノイズ</>限定で最終ダメージが<shuzhi>6%</>UP する。爆速モード発動中は炎追撃効果を獲得し、炎ダメージを与えるとき付近のターゲットに攻撃力×<shuzhi>500%</>のダメージを与える。<shuzhi>2</>秒間に<shuzhi>1</>回のみ発動。クールダウン<shuzhi>25</>秒(クールダウンクリア、リセット、変化の影響を受けない)。\r\n\r\n<red>雷・氷</>：<shuzhi>18</>秒間持続する爆速モードを獲得。発動中は雷ダメージ+<shuzhi>12%</>。<shuzhi>ノイズ</>がフロントのとき任意の通常攻撃が命中すると、雷鳴効果を<shuzhi>1</>スタック獲得する。スタック上限<shuzhi>18</>。フルスタックに達するとスタックをすべて消費して、付近のターゲットに攻撃力×<shuzhi>2000%</>の追加ダメージを与え(スキルダメージと見なされる)、さらに<shuzhi>10</>秒間持続する最大HP×<shuzhi>30%</>のシールド(スタック不可)を獲得する。雷鳴の追加効果は1回の爆速モード発動中に<shuzhi>5</>回まで発動できる。もし<shuzhi>通常攻撃・スラッシュ・インナロウ</><shuzhi>スキル・オーバーロード</>を<shuzhi>6</>スタック消費したら、付近のターゲットに攻撃力×<shuzhi>3500%</>の追加ダメージを与える(スキルダメージと見なされる)。クールダウン<shuzhi>20</>秒(クールダウンクリア、リセット、変化の影響を受けない)。\r\n\r\n<red>物理・炎</>：<shuzhi>19</>秒間持続する爆速モードを獲得。発動中は毎秒付近のターゲットに攻撃力×<shuzhi>700%</>のダメージを与え、かつターゲット<shuzhi>1</>体に命中するたびに<shuzhi>10</>秒間持続する最大HP×<shuzhi>5%</>のシールドを獲得する。1回で最大でも自身の最大HP×<shuzhi>10%</>までで、シールド上限が自身のHPの<shuzhi>50%</>は超えない。クールダウン<shuzhi>21</>秒(クールダウンクリア、リセット、変化の影響を受けない)。\r\n\r\n<red>異能</>：<shuzhi>23</>秒間持続する爆速モードを獲得。発動中は自身の最大HPが<shuzhi>100%</>増え、<shuzhi>通常攻撃・ウィンドライド</>と<shuzhi>通常攻撃・アズールライド</>が1撃命中するごとに自身の最大HP×<shuzhi>166%</>のダメージを追加で与える(自身の攻撃力の<shuzhi>30</>倍まで。スキルダメージと見なされ、ダメージ UP効果の影響を受けない)。クールダウン<shuzhi>25</>秒(クールダウンクリア、リセット、変化の影響を受けない)",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_Skill01.webp",
 				"operations": [],
 				"tags": [
@@ -9119,7 +9292,7 @@
 			},
 			{
 				"name": "フラッシュライド",
-				"description": "爆速モード中に発動できる。付近のターゲットを連続で斬りつけ、合計で攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。発動後爆速モードが終了する。\r\n\r\n<shuzhi>パッシブ：爆速慣性</>\r\n<shuzhi>ノイズ</>が特定の属性の場合、フラッシュライド発動後に追加で異なる効果を発動する。\r\n\r\n<red>氷・雷</>：<shuzhi>スキル・凝華</>のスタックをすべて消費して、凝凍効果を獲得する。氷ダメージが<shuzhi>スキル・凝華</>のスタック数×<shuzhi>1.4%</>UP する。また、毎秒付近のターゲットに攻撃力×<shuzhi>1400%</>+攻撃力の<shuzhi>240%</>×<shuzhi>スキル・凝華</>のスタック数のダメージを与える(ダメージはパッシブダメージと見なされる)。<shuzhi>30</>秒間持続。\r\n\r\n<red>異能</>：付近のターゲットに自身の最大HP×<shuzhi>50000%</>のダメージを与える(自身の攻撃力の<shuzhi>8000</>倍まで。このダメージはスキルダメージと見なされ、ダメージ UP効果の影響を受けない)",
+				"description": "爆速モード中に発動できる。付近のターゲットを連続で斬りつけ、合計で攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。発動後爆速モードが終了する。\r\n\r\n<shuzhi>パッシブ：爆速慣性</>\r\n<shuzhi>ノイズ</>が特定の属性の場合、フラッシュライド発動後に追加で異なる効果を発動する。\r\n\r\n<red>氷・雷</>：<shuzhi>スキル・凝華</>のスタックをすべて消費して、凝凍効果を獲得する。氷ダメージが<shuzhi>スキル・凝華</>のスタック数×<shuzhi>0.6%</>UP する。また、毎秒付近のターゲットに攻撃力×<shuzhi>500%</>+攻撃力の<shuzhi>50%</>×<shuzhi>スキル・凝華</>のスタック数のダメージを与える(ダメージはパッシブダメージと見なされる)。<shuzhi>30</>秒間持続。\r\n\r\n<red>異能</>：付近のターゲットに自身の最大HP×<shuzhi>6250%</>のダメージを与える(自身の攻撃力の<shuzhi>1000</>倍まで。このダメージはスキルダメージと見なされ、ダメージ UP効果の影響を受けない)",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_Skill02.webp",
 				"operations": [],
 				"tags": [
@@ -9469,7 +9642,7 @@
 		"skills": [
 			{
 				"name": "クラッシュ・フォールズ",
-				"description": "海水が噴水のように湧き上がる。範囲内のターゲットに最大で攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与え、<shuzhi>強制浮遊</>させる。クールダウン<shuzhi>30</>秒。\r\n<shuzhi>パッシブ：散流</>\r\n<shuzhi>月星の環</>を装備すると散流スキルを獲得し、スキルリスト->設定で<shuzhi>6</>つの散流スキルから最大<shuzhi>2</>つを開放して使用できる。\r\n操作：散流スキル1はクラッシュ・フォールズの発動時に自動で発動する。クラッシュ・フォールズのクールダウンは散流スキル1のクールダウンに置き換わる。\r\n特殊スキルボタンをタップすると散流スキル2が発動する。",
+				"description": "海水が噴水のように湧き上がる。範囲内のターゲットに最大で攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与え、<shuzhi>強制浮遊</>させる。クールダウン<shuzhi>30</>秒。\r\n<shuzhi>パッシブ：散流</>\r\n<shuzhi>月星の環</>を装備すると散流スキルを獲得し、スキル一覧->設定で<shuzhi>6</>つの散流スキルから最大<shuzhi>2</>つを開放して使用できる。\r\n操作：散流スキル1はクラッシュ・フォールズの発動時に自動で発動する。クラッシュ・フォールズのクールダウンは散流スキル1のクールダウンに置き換わる。\r\n特殊スキルボタンをタップすると散流スキル2が発動する。",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_feiouna_jineng.webp",
 				"operations": [],
 				"tags": [

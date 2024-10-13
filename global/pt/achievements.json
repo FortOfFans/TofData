@@ -8994,11 +8994,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305101"
@@ -9023,11 +9023,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305102"
@@ -9052,11 +9052,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305103"
@@ -9168,11 +9168,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305201"
@@ -9197,11 +9197,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305202"
@@ -9226,11 +9226,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305203"
@@ -9342,11 +9342,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305301"
@@ -9371,11 +9371,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305302"
@@ -9400,11 +9400,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305303"
@@ -9516,11 +9516,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305401"
@@ -9545,11 +9545,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305402"
@@ -9574,11 +9574,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305403"
@@ -9690,11 +9690,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305501"
@@ -9719,11 +9719,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305502"
@@ -9748,11 +9748,11 @@
 			{
 				"name": "Pó de cristal energético",
 				"description": "Minicristais energéticos gerados ao usar um supressor. Possuem baixo valor de recuperação.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305503"
@@ -22266,7 +22266,7 @@
 	"904061": {
 		"name": "Controlador do Solo",
 		"amount": 1,
-		"description": "",
+		"description": "Derrote o Controlador do Solo\r\nLocalização: Campo de Testes do Controlador do Solo",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalha",
 		"section2": "Chefe",
@@ -22290,8 +22290,9 @@
 		"id": "904061"
 	},
 	"904062": {
+		"name": "Nascida do Vento - Jill",
 		"amount": 1,
-		"description": "",
+		"description": "Alcance o Nível Dimensional 100 ou acima\r\nDerrote Windborne - Jill\r\nLocalização: Grande Ilha do Nordeste da Costa Azul",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalha",
 		"section2": "Inimigos",
@@ -22308,8 +22309,9 @@
 		"id": "904062"
 	},
 	"904063": {
+		"name": "Portador da Luz - Las",
 		"amount": 1,
-		"description": "",
+		"description": "Alcance o nível dimensional 100 ou acima\r\nDerrote o Portador da Luz - Las\r\nLocalização: Pequena ilha nordeste da Costa Azul",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalha",
 		"section2": "Inimigos",
@@ -22326,8 +22328,9 @@
 		"id": "904063"
 	},
 	"904064": {
+		"name": "Vector - Dustin",
 		"amount": 1,
-		"description": "",
+		"description": "Alcance o Nível Dimensional 100 ou acima\r\nDerrote o vetor - Dustin\r\nLocalização: Pequena Ilha Nordeste da Costa Azul",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalha",
 		"section2": "Inimigos",
@@ -22344,8 +22347,9 @@
 		"id": "904064"
 	},
 	"904065": {
+		"name": "Olho Clínico - Dylan",
 		"amount": 1,
-		"description": "",
+		"description": "Alcance o nível dimensional 100 ou acima\r\nDerrote Deadeye - Dylan\r\nLocalização: Lado Norte do Centro de Pesquisa Braudel",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalha",
 		"section2": "Inimigos",
@@ -22362,8 +22366,9 @@
 		"id": "904065"
 	},
 	"904066": {
+		"name": "Mirei - Elvin",
 		"amount": 1,
-		"description": "",
+		"description": "Alcance o nível dimensional 100 ou acima\r\nDerrote Mire - Elvin\r\nLocalização: Forte do Sul da Costa Azul",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalha",
 		"section2": "Inimigos",
@@ -22380,8 +22385,9 @@
 		"id": "904066"
 	},
 	"904067": {
+		"name": "Redbolt - Cinza",
 		"amount": 1,
-		"description": "",
+		"description": "Alcance o Nível Dimensional 100 ou acima\r\nDerrote Redbolt - Cinza\r\nLocalização: Forte do Sul da Costa Azul",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalha",
 		"section2": "Inimigos",
@@ -22398,8 +22404,9 @@
 		"id": "904067"
 	},
 	"904068": {
+		"name": "Furor Sanguinário - Karan",
 		"amount": 1,
-		"description": "",
+		"description": "Alcance o nível dimensional 100 ou acima\r\nDerrote Bloodfury - Karan\r\nLocalização: Abaixo de TOLLYWOOD",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalha",
 		"section2": "Inimigos",

@@ -320,13 +320,14 @@
 	},
 	"fan_superpower_tonggan": {
 		"name": "シャドーウィーブ共感素材",
-		"description": "アバターシステムをアップグレードするためにハガードが開発したドライブモジュール。アーシャのアバターの戦闘力向上に使用できる",
+		"description": "",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_tonggan_linye.webp",
 		"type": "MATERIAL",
 		"source": [
 			"ガチャ商店で購入",
-			"共感素材商店で購入"
+			"武器★6になった後、レッドコアガチャでもう一つ武器を獲得するとゲット可能",
+			"粒子商店"
 		],
 		"id": "fan_superpower_tonggan"
 	},
@@ -639,6 +640,17 @@
 			"対応する武器を繰り返し獲得"
 		],
 		"id": "Nora_superpower_plasm"
+	},
+	"MerylX_thunder_plasm": {
+		"name": "破城の刃のデータコア",
+		"description": "複数回獲得した武器が変化してできたデータコア",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/item_weapon_upstar_.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"対応する武器を繰り返し獲得"
+		],
+		"id": "MerylX_thunder_plasm"
 	},
 	"Likeability_unlock1": {
 		"name": "昇格ドライブ・アーシャ",
@@ -4918,7 +4930,7 @@
 	},
 	"Item_pinkshell": {
 		"name": "ピンク色貝殻",
-		"description": "",
+		"description": "ノルンの中心区ビーチで拾った桃色の貝殻、口に含むと甘い感じがする！",
 		"rarity": 1,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Icon_ShellPink.webp",
 		"type": "FOOD",
@@ -4929,7 +4941,7 @@
 	},
 	"Item_yellowshell": {
 		"name": "黄色い貝殻",
-		"description": "",
+		"description": "ノルンの中心区ビーチで拾った黄色の貝殻、口に含むと塩辛い感じがする！",
 		"rarity": 1,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Icon_ShellYellow.webp",
 		"type": "FOOD",
@@ -4951,7 +4963,7 @@
 	},
 	"Item_redshell": {
 		"name": "赤貝殻",
-		"description": "",
+		"description": "ノルンの中心区ビーチで拾った赤色の貝殻、口に含むと辛い感じがする！",
 		"rarity": 1,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Icon_ShellRed.webp",
 		"type": "FOOD",
@@ -7786,6 +7798,24 @@
 		"source": [],
 		"id": "Blindbox_coin_mix2"
 	},
+	"Blindbox_coin_mix3": {
+		"name": "ガチャクーポン(スターライト&幻夢)",
+		"description": "アイテムガチャを購入すると、ガチャ商店で商品と交換できるガチャクーポンを獲得できる。",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Activity/ThemeActivity/BlindBox_Reimu/Fashion/liuguanghuobi03.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Blindbox_coin_mix3"
+	},
+	"Blindbox_coin_PS": {
+		"name": "ガチャクーポン(乗り物)",
+		"description": "アイテムガチャを購入すると、ガチャ商店で商品と交換できるガチャクーポンを獲得できる。",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanghuobi04.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Blindbox_coin_PS"
+	},
 	"Item_Condiment_01": {
 		"name": "炭酸水",
 		"description": "圧縮された炭酸水。飲んでも味はしないが刺激はある。別のものと混ぜると風変わりな飲み物になるかも",
@@ -9082,7 +9112,7 @@
 		"id": "EquipFragment_UP52"
 	},
 	"EquipFragment_UP53": {
-		"name": "オーバークロックチップ",
+		"name": "オーバークロックチップ・白薔薇",
 		"description": "特別なチップを製造する時に用いる原料。複雑な工程で処理され、性能も一般的なチップと異なる。限定ボリションチップの交換に使用できる",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/matrixfragment_up.webp",
@@ -10182,7 +10212,7 @@
 		"id": "WeaponFragment_UP52"
 	},
 	"WeaponFragment_UP53": {
-		"name": "逆火のコイン",
+		"name": "逆火のコイン・白薔薇",
 		"description": "武器職人が特定のオムニアム武器を回収して鋳造したコイン。特殊なルートでしか流通していない。それ自体が工芸品のようになっている。限定武器と交換可能",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
@@ -11788,6 +11818,15 @@
 		"source": [],
 		"id": "choose_dressbox3"
 	},
+	"choose_dressbox_mix3": {
+		"name": "コスチューム選択宝箱",
+		"description": "コスチュームが入っている選択宝箱アイテム。獲得すると中からコスチュームを選べる。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Activity/ThemeActivity/BlindBox_Reimu/icon_shizhuang_manghe_Starlight.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_dressbox_mix3"
+	},
 	"choose_hat_sr_1": {
 		"name": "アクセサリー選択箱Ⅰ",
 		"description": "選択宝箱",
@@ -11805,6 +11844,24 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_hat_ssr_1"
+	},
+	"choose_hat_sr_2": {
+		"name": "アクセサリー選択箱Ⅲ",
+		"description": "選択宝箱",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_choose_hat_sr_01.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_hat_sr_2"
+	},
+	"choose_hat_ssr_2": {
+		"name": "アクセサリー選択箱Ⅳ",
+		"description": "選択宝箱",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_choose_hat_ssr_01.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_hat_ssr_2"
 	},
 	"choose_sr": {
 		"name": "SRアルケー箱",
@@ -11931,6 +11988,15 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_frag_BP21"
+	},
+	"choose_frag_BP24": {
+		"name": "通行証アルケーの欠片箱Ⅸ",
+		"description": "選択宝箱",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gift_artifact_frag_ssr.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_frag_BP24"
 	},
 	"choose_frag_sr": {
 		"name": "SRアルケーの欠片箱",
@@ -13346,10 +13412,10 @@
 		"id": "choose_matrix_SSR48"
 	},
 	"choose_matrix_SSR49": {
-		"name": "ヤノのボリション選択宝箱",
-		"description": "ヤノのボリション全種類から好きなボリションが選べる宝箱",
+		"name": "メリル・アムドのボリション選択宝箱",
+		"description": "メリル・アムドのボリション全種類から好きなボリションが選べる宝箱",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_matrix_ssr42.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_matrix_ssr49.webp",
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_matrix_SSR49"
@@ -15115,6 +15181,26 @@
 		"source": [],
 		"id": "Blindbox_mix2"
 	},
+	"Blindbox_mix3": {
+		"name": "コスチュームガチャ",
+		"description": "コスチュームが入っているアイテムガチャ。好きなコスチュームが当たりますように。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_mix3"
+	},
+	"Blindbox_PS": {
+		"name": "ウィンドライダーライドガチャ",
+		"description": "乗り物が入っているアイテムガチャ。好きな乗り物が当たりますように。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"source": [
+			"イベント「ウィンドライダーガチャ」で獲得"
+		],
+		"id": "Blindbox_PS"
+	},
 	"Blindbox_03_pack": {
 		"name": "春季ギフトボックス",
 		"description": "春を迎えるために発売された限定ギフトボックス。ギフトボックスを開ける時は、いつだって期待と不安が交錯する",
@@ -15168,6 +15254,24 @@
 		"type": "GIFT",
 		"source": [],
 		"id": "Blindbox_mix2_pack"
+	},
+	"Blindbox_mix3_pack": {
+		"name": "コスチュームガチャ",
+		"description": "コスチュームが入っているアイテムガチャ。好きなコスチュームが当たりますように。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_mix3_pack"
+	},
+	"Blindbox_PS_pack": {
+		"name": "ウィンドライダーライドガチャ",
+		"description": "乗り物が入っているアイテムガチャ。好きな乗り物が当たりますように。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_PS_pack"
 	},
 	"gift_BigClient_01": {
 		"name": "開拓者の出会いのプレゼント",
@@ -16094,7 +16198,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_1"
 	},
@@ -16105,7 +16209,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_2"
 	},
@@ -16116,7 +16220,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_3"
 	},
@@ -16127,7 +16231,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_4"
 	},
@@ -16138,7 +16242,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_5"
 	},
@@ -16248,7 +16352,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Ann_choosegift"
 	},
@@ -16435,6 +16539,15 @@
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_MidAutumnFestival_12"
+	},
+	"bag_equip8_ssr_autouse": {
+		"name": "要塞戦闘装備箱",
+		"description": "Chest",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "bag_equip8_ssr_autouse"
 	},
 	"gift_equip_white": {
 		"name": "ランダム装備箱",
@@ -16863,7 +16976,7 @@
 		"name": "スターロードギフトⅣ",
 		"description": "休暇から戻ったエクセキューターの皆さん、戦い方を忘れていませんよね。苦労は必ず報われます",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_3.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_operation_2.webp",
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_GreatRegression_4"
@@ -16872,7 +16985,7 @@
 		"name": "スターロードギフトⅤ",
 		"description": "休暇から戻ったエクセキューターの皆さん、戦い方を忘れていませんよね。苦労は必ず報われます",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_core_orange.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_gacha_5.webp",
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_GreatRegression_5"
@@ -17252,7 +17365,7 @@
 		"id": "Item_ticket_team8p"
 	},
 	"Item_ticket_team8p_limit": {
-		"name": "期間限定討伐作戦交換券",
+		"name": "期間限定・討伐作戦交換券",
 		"description": "ちょっとしたハッピーを、ノーリスクで",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/item_ticket_team8p.webp",
@@ -17468,6 +17581,15 @@
 		"type": "MATERIAL",
 		"source": [],
 		"id": "item_ticket_Nora_superpower"
+	},
+	"item_ticket_MerylX_thunder": {
+		"name": "スペシャルクーポン・過去との決別",
+		"description": "オベリスク重工が提供しているボリションチップの宅配サービス",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/item_ticket_meilierkai.webp",
+		"type": "MATERIAL",
+		"source": [],
+		"id": "item_ticket_MerylX_thunder"
 	},
 	"fragment_artifact_ssr_001": {
 		"name": "ジャイアントアームの欠片",
@@ -17715,11 +17837,14 @@
 		"id": "fragment_artifact_ssr_023"
 	},
 	"fragment_artifact_ssr_024": {
-		"name": "生電制御銃の欠片",
-		"description": "30個集めるとアルケー・生電制御銃を合成できる。余った欠片はアルケーのランクアップに使用可能",
+		"name": "バフフィールドの欠片",
+		"description": "30個集めるとアルケー・バフフィールドを合成できる。余った欠片はアルケーのランクアップに使用可能",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_023.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
 		"type": "FRAGMENT",
+		"source": [
+			"通行証・ランクアップ報酬"
+		],
 		"id": "fragment_artifact_ssr_024"
 	},
 	"fragment_artifact_sr_001": {
@@ -21707,7 +21832,7 @@
 	},
 	"fashion_dress_72_4": {
 		"name": "オリジナル・サマー",
-		"description": "あなたの記憶の中の夏はどんな味ですか？甘ったるい？それとも渋い？太陽のように情熱的？それとも海風のように穏やか？簡単に定義するのは難しいようです。それなら、これらの感情をすべて合わせて、ピンクの泡が立つまでかき混ぜて、一気に飲み干してしまいましょう。",
+		"description": "あなたの記憶の中の夏はどんな味？甘ったるい？それとも渋い？太陽のように情熱的？それとも海風のように穏やか？簡単に定義するのは難しいようだ。それなら、これらの感情をすべて合わせて、ピンクの泡が立つまでかき混ぜて、一気に飲み干してしまおう。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_Swim_2024.webp",
 		"type": "CONSUMABLE",
@@ -21715,6 +21840,28 @@
 			"ガチャイベント「オリジナル・サマー」で獲得"
 		],
 		"id": "fashion_dress_72_4"
+	},
+	"fashion_dress_73_4": {
+		"name": "暇な一時",
+		"description": "仕事も勉強もひとまず終了し、ようやく休憩時間だ！そうだな…とりあえず百年くらい休もう！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ウィンドライダーガチャ」で獲得"
+		],
+		"id": "fashion_dress_73_4"
+	},
+	"fashion_dress_74_4": {
+		"name": "青天ひらり",
+		"description": "鳥が澄んだ空を掠め、羽根が渦を巻いて落ち葉とともに落ち、木陰に昼寝をしている旅人を目覚めさせる。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"第20期通行証報酬"
+		],
+		"id": "fashion_dress_74_4"
 	},
 	"fragment_bag_chat_qipao91": {
 		"name": "「旧友の訪れ」の欠片",
@@ -22898,7 +23045,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_162.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Hat_79_4_4"
 	},
@@ -22914,13 +23061,13 @@
 		"id": "Hat_80_4_4"
 	},
 	"Hat_81_4_4": {
-		"name": "ティト応援団",
+		"name": "ティトの大声援",
 		"description": "2周年おめでとう！ティトは宇宙で一番誰よりも、超超超超オマエが大好きだぞ！オマエのためなら西へ東へ、どこへでも！",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_170.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Hat_81_4_4"
 	},
@@ -24145,7 +24292,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_164.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "fashion_decoration_92_4"
 	},
@@ -24346,7 +24493,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_206.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"限定イベントで獲得"
+			"イベント「リスタート防御」で獲得"
 		],
 		"id": "fashion_decoration_110_4"
 	},
@@ -24491,7 +24638,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Overlooker.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "fashion_glider_3_4"
 	},
@@ -24511,9 +24658,20 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "fashion_glider_5_4"
+	},
+	"fashion_glider_SP": {
+		"name": "夜の虹",
+		"description": "最新の都市伝説——夜にだけ現れる七色の虹、実はこのジェットパックの傑作なんだ。それは誰の仕業かというと…",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ウィンドライダーガチャ」で獲得"
+		],
+		"id": "fashion_glider_SP"
 	},
 	"NPF_Energy": {
 		"name": "ボロボロなエナジー",
@@ -24763,6 +24921,15 @@
 		"type": "MATERIAL",
 		"source": [],
 		"id": "Item_Gem_Nora_superpower"
+	},
+	"Item_Gem_MerylX_thunder": {
+		"name": "レッドコア・過去との決別",
+		"description": "オムニアムから何らかの影響を受けて自然界で生成された漆黒の球体。怪しげな赤い光を放つその姿は、内に秘めた恐るべき力の存在を想像させる",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Gem_meilierkai.webp",
+		"type": "MATERIAL",
+		"source": [],
+		"id": "Item_Gem_MerylX_thunder"
 	},
 	"choose_Gem_JiuYu": {
 		"name": "専用レッドコア選択宝箱",
@@ -31725,16 +31892,38 @@
 		],
 		"id": "bag_chat_qipao156"
 	},
+	"bag_chat_qipao158": {
+		"name": "「ホリデーリッシュ」ギフトボックス",
+		"description": "仕事を終えたメリル捜査官は休日を楽しんでいる。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao158.webp",
+		"type": "GIFT",
+		"source": [
+			"ガチャイベント「悠々夏日」で獲得"
+		],
+		"id": "bag_chat_qipao158"
+	},
 	"bag_chat_qipao161": {
 		"name": "「終わらない夏」ギフトボックス",
 		"description": "甘いアイスクリームは、この夏は決して終わらないことを私に約束している。",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao161.webp",
 		"type": "GIFT",
 		"source": [
 			"ガチャイベント「オリジナル・サマー」で獲得"
 		],
 		"id": "bag_chat_qipao161"
+	},
+	"bag_chat_qipao164": {
+		"name": "「青い薔薇」ギフトボックス",
+		"description": "青色の薔薇の蕾は、予言された騎士を待っている。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao164.webp",
+		"type": "GIFT",
+		"source": [
+			"ガチャイベント「オリジナル・サマー」で獲得"
+		],
+		"id": "bag_chat_qipao164"
 	},
 	"CN_bag_1": {
 		"name": "セレナーデⅠ",
@@ -31743,7 +31932,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_1.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_bag_1"
 	},
@@ -31754,7 +31943,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_2.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_bag_2"
 	},
@@ -31765,7 +31954,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_3.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_bag_3"
 	},
@@ -31787,7 +31976,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_1.webp",
 		"type": "FRAGMENT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_bag_1_frag"
 	},
@@ -31798,7 +31987,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_2.webp",
 		"type": "FRAGMENT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_bag_2_frag"
 	},
@@ -31809,7 +31998,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_3.webp",
 		"type": "FRAGMENT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_bag_3_frag"
 	},
@@ -33245,7 +33434,7 @@
 		"id": "Avatar20"
 	},
 	"Avatar21": {
-		"name": "はい、見まシ。",
+		"name": "Mi-aドリーミング",
 		"description": "眠るとき、Mi-aは…私とシャーリーの夢を見る？",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Avatar21.webp",
@@ -33336,7 +33525,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_29.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "Avatar29"
 	},
@@ -33377,7 +33566,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_33.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "Avatar33"
 	},
@@ -33709,7 +33898,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_017_c.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "Ann_Mount_017"
 	},
@@ -35872,13 +36061,26 @@
 		"id": "chat_Action_zuoyi"
 	},
 	"chat_miaAction_juqi": {
-		"name": "持ち上げる",
-		"description": "チャット交流アクション",
+		"name": "タカイタカイ〜",
+		"description": "一番可愛いMi-aに高い高いしてあげよう！",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/liaotian/dongzuo/action_mi-a_Lift.webp",
 		"type": "CONSUMABLE",
-		"source": [],
+		"source": [
+			"イベント「タカイタカイ〜」で獲得"
+		],
 		"id": "chat_miaAction_juqi"
+	},
+	"frag_chat_miaAction_juqi": {
+		"name": "タカイタカイ〜の欠片",
+		"description": "チャット交流アクション",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/liaotian/dongzuo/action_mi-a_Lift.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"イベント「タカイタカイ〜」で獲得"
+		],
+		"id": "frag_chat_miaAction_juqi"
 	},
 	"chat_miaAction_kaiqiang": {
 		"name": "銃で攻撃する",
@@ -36685,7 +36887,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_GL.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "imitation_fashion_10"
 	},
@@ -36696,7 +36898,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_GL_weapon.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "imitation_fashion_10_w"
 	},
@@ -37007,7 +37209,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_fenlier.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "imitation_fashion_32"
 	},
@@ -37018,7 +37220,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_fenlier_weapon.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "imitation_fashion_32_w"
 	},
@@ -37219,6 +37421,28 @@
 			"ガチャイベント「海岸の風」で獲得"
 		],
 		"id": "imitation_fashion_62_w"
+	},
+	"imitation_fashion_61": {
+		"name": "悠々夏日",
+		"description": "夏の日、休暇中のメリルさんは水着ショップで自分に合う水着を選んでいます。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ガチャイベント「悠々夏日」で獲得"
+		],
+		"id": "imitation_fashion_61"
+	},
+	"imitation_fashion_61_w": {
+		"name": "アイスバー販売中",
+		"description": "休暇を取る？それとも任務に行く？メリル捜査官なら両立できる。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex_weapon.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ガチャイベント「悠々夏日」で獲得"
+		],
+		"id": "imitation_fashion_61_w"
 	},
 	"imitation_33": {
 		"name": "モリニア",
@@ -41194,7 +41418,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_46.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "Avatar46"
 	},
@@ -42738,6 +42962,33 @@
 		"source": [],
 		"id": "Title_1_8_0_17"
 	},
+	"Title_1_8_0_18": {
+		"name": "悪夢の潜行",
+		"description": "期間限定・討伐作戦6thシーズンの精算時に8位以上で獲得",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_18"
+	},
+	"Title_1_8_0_19": {
+		"name": "夜の幻影",
+		"description": "期間限定・討伐作戦6thシーズンの精算時に9～24位で獲得",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_19"
+	},
+	"Title_1_8_0_20": {
+		"name": "秘密のハンター",
+		"description": "期間限定・討伐作戦6thシーズンの精算時に25～100位で獲得",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_20"
+	},
 	"Title_0_8_0_1": {
 		"name": "獣狩バーサーカー",
 		"description": "期間限定・討伐作戦1stシーズンの精算時に8位以上で獲得",
@@ -42980,6 +43231,33 @@
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "Title_0_8_0_27"
+	},
+	"Title_0_8_0_28": {
+		"name": "邪を抑え、悪を止めよう",
+		"description": "期間限定・討伐作戦9thシーズンの精算時に8位以上で獲得",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_28"
+	},
+	"Title_0_8_0_29": {
+		"name": "厄災排除",
+		"description": "期間限定・討伐作戦9thシーズンの精算時に9～24位で獲得",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_29"
+	},
+	"Title_0_8_0_30": {
+		"name": "呪を祓いし者",
+		"description": "期間限定・討伐作戦9thシーズンの精算時に25～100位で獲得",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_30"
 	},
 	"Title_1_6_4_1": {
 		"name": "銀岸賢者",
@@ -43720,7 +43998,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Avatar_Overseas_30i.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_Avatar_1"
 	},
@@ -43731,7 +44009,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Avatar_Overseas_Anniversary01i.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_Avatar_2"
 	},
@@ -43742,7 +44020,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_Avatar_3.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_Avatar_3"
 	},
@@ -43937,7 +44215,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/AvatarFrame_tencent_05i.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_AvatarFrame_1"
 	},
@@ -43948,7 +44226,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/AvatarFrame_Overseas_Anniversary01i.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_AvatarFrame_2"
 	},
@@ -43959,7 +44237,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_AvatarFrame_3.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_AvatarFrame_3"
 	},
@@ -43970,7 +44248,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_AvatarFrame_4.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_AvatarFrame_4"
 	},
@@ -43981,7 +44259,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_AvatarFrame_5.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_AvatarFrame_5"
 	},
@@ -44153,7 +44431,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_tencent_03.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_chat_qipao_1"
 	},
@@ -44164,7 +44442,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_chat_qipao_Overseas_Anniversary01.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_chat_qipao_2"
 	},
@@ -44175,7 +44453,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_CN_qipao_3.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_chat_qipao_3"
 	},
@@ -44186,7 +44464,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_CN_chat_qipao_4.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_chat_qipao_4"
 	},
@@ -44197,7 +44475,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_CN_chat_qipao_5.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年アニバーサリーで獲得"
 		],
 		"id": "CN_chat_qipao_5"
 	},
@@ -45197,6 +45475,24 @@
 		"source": [],
 		"id": "Item_shellcoin"
 	},
+	"Item_icecreamcoin": {
+		"name": "アイスクリーム",
+		"description": "こんなに暑い天気だと、アイスを食べるのも時間との戦いだ！たくさん平らげれば、賞品と交換できるって聞いたよ！",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_icecream.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Item_icecreamcoin"
+	},
+	"item_TDcoin": {
+		"name": "ウイルスデータの断片",
+		"description": "ゴゾトスネットワークの保護中、ウイルスが消滅した後にドロップしたウイルスデータの断片。収集するとハガードがウイルスの研究をさらに進めやすくなる。",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/TD_Coin.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "item_TDcoin"
+	},
 	"Item_IceCrystalCoin": {
 		"name": "水晶コイン",
 		"description": "極寒の地で採掘できる水晶から作られた記念コイン、氷のエネルギーを含んでいる。手にするとひんやりと冷たく、氷代わりに飲み物に入れる人もいる",
@@ -45754,7 +46050,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_116.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Avatar_116"
 	},
@@ -45858,7 +46154,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_116.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "AvatarFrame_116"
 	},
@@ -45980,7 +46276,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_116.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "chat_qipao_116"
 	},
@@ -48760,7 +49056,7 @@
 	},
 	"Item_Norn_ZWY_001": {
 		"name": "タンポポバッジ",
-		"description": "タンポポ海岸観光センターより発行されたグッズバッジ。タンポポ海岸の名物であるタンポポの絵が描かれている。",
+		"description": "タンポポ海岸観光センターより発行されたグッズバッジ。タンポポ海岸の名物であるタンポポの絵が描かれている。毎週50個まで獲得できる。",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/Norn_pugongying.webp",
 		"type": "BARTER",
@@ -50635,6 +50931,17 @@
 		],
 		"id": "Avatar_157"
 	},
+	"Avatar_158": {
+		"name": "ホリデーリッシュ",
+		"description": "仕事を終えたメリル捜査官は休日を楽しんでいる。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_158.webp",
+		"type": "AVATAR",
+		"source": [
+			"ガチャイベント「悠々夏日」で獲得"
+		],
+		"id": "Avatar_158"
+	},
 	"Avatar_159": {
 		"name": "ダイビングマスター",
 		"description": "マスクとシュノーケルを付けて、Mi-aと一緒に浅い海の美しい景色を楽しもう！",
@@ -50653,7 +50960,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_160.webp",
 		"type": "AVATAR",
 		"source": [
-			"イベント「ビーチサンシャインカーニバル」で獲得"
+			"ログインで獲得"
 		],
 		"id": "Avatar_160"
 	},
@@ -50689,6 +50996,28 @@
 			"第19期通行証限定報酬"
 		],
 		"id": "Avatar_163"
+	},
+	"Avatar_164": {
+		"name": "青い薔薇",
+		"description": "青色の薔薇の蕾は、予言された騎士を待っている。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_164.webp",
+		"type": "AVATAR",
+		"source": [
+			"イベント「ウィンドライダーガチャ」で獲得"
+		],
+		"id": "Avatar_164"
+	},
+	"Avatar_165": {
+		"name": "ピンククール",
+		"description": "これは反逆と前衛の象徴である。よく言われるように、アイコンがピンク色なほど、戦闘力が高いのだ。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_165.webp",
+		"type": "AVATAR",
+		"source": [
+			"第20期通行証報酬"
+		],
+		"id": "Avatar_165"
 	},
 	"AvatarFrame_147": {
 		"name": "バーチャルワールド",
@@ -50809,6 +51138,17 @@
 		],
 		"id": "AvatarFrame_157"
 	},
+	"AvatarFrame_158": {
+		"name": "色褪せる太陽",
+		"description": "太陽まで色褪せさせたのは、サングラスか、それともあの休暇中のレディーか？",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_AvatarFrame_158.webp",
+		"type": "FRAME",
+		"source": [
+			"ガチャイベント「悠々夏日」で獲得"
+		],
+		"id": "AvatarFrame_158"
+	},
 	"AvatarFrame_159": {
 		"name": "深海の奥義",
 		"description": "深海の生き物は簡単に自分の素顔を見せない。気長にその奥義を探索しよう。",
@@ -50827,7 +51167,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_160.webp",
 		"type": "FRAME",
 		"source": [
-			"イベント「ビーチサンシャインカーニバル」で獲得"
+			"ログインで獲得"
 		],
 		"id": "AvatarFrame_160"
 	},
@@ -50863,6 +51203,28 @@
 			"第19期通行証限定報酬"
 		],
 		"id": "AvatarFrame_163"
+	},
+	"AvatarFrame_164": {
+		"name": "青い心",
+		"description": "予言によると、胸に青い薔薇を挿した騎士は戦争を止め、世界に再び平和をもたらすと言われている。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_164.webp",
+		"type": "FRAME",
+		"source": [
+			"イベント「ウィンドライダーガチャ」で獲得"
+		],
+		"id": "AvatarFrame_164"
+	},
+	"AvatarFrame_165": {
+		"name": "ミャウミャウウィンク",
+		"description": "私の考えてること分からないの？うーん…つまり、今度またケンカを売ってきたら、ボコボコにするってことよ。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_165.webp",
+		"type": "FRAME",
+		"source": [
+			"第20期通行証報酬"
+		],
+		"id": "AvatarFrame_165"
 	},
 	"chat_qipao_147": {
 		"name": "Penukaran Anonim",
@@ -50983,6 +51345,17 @@
 		],
 		"id": "chat_qipao_157"
 	},
+	"chat_qipao_158": {
+		"name": "るんるんシェード",
+		"description": "暑いな…日傘の下で少し休憩しよう。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_158.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ガチャイベント「悠々夏日」で獲得"
+		],
+		"id": "chat_qipao_158"
+	},
 	"chat_qipao_159": {
 		"name": "波の唄",
 		"description": "潮風と波が織りなす心地よいメロディー。よく聞いて、あれは海の歌だ。",
@@ -51001,7 +51374,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_160.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"イベント「ビーチサンシャインカーニバル」で獲得"
+			"ログインで獲得"
 		],
 		"id": "chat_qipao_160"
 	},
@@ -51037,6 +51410,28 @@
 			"第19期通行証限定報酬"
 		],
 		"id": "chat_qipao_163"
+	},
+	"chat_qipao_164": {
+		"name": "薔薇の囁き",
+		"description": "平和の時代が訪れ、大地の至る所に青い薔薇が咲き乱れている。夜に耳を澄ませば、薔薇たちが騎士の功績を囁いているのが聞こえてくるようだ。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_164.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ウィンドライダーガチャ」で獲得"
+		],
+		"id": "chat_qipao_164"
+	},
+	"chat_qipao_165": {
+		"name": "タフガイ必携",
+		"description": "タフガイ必携のファッションアイテム。かわいい？ちがう、強そうでしょ？",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_165.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"第20期通行証報酬"
+		],
+		"id": "chat_qipao_165"
 	},
 	"Hacker_Norn_Power_001": {
 		"name": "治安事務管理局権限Ⅰ",
@@ -51828,7 +52223,7 @@
 		"id": "Title_2_10_0_3"
 	},
 	"Item_HackerTerminal_Song_10": {
-		"name": "眠らないで！一緒に花火を上げに行こう！",
+		"name": "起きて！一緒に花火やろう！",
 		"description": "Mi-aが直接配信する、権限者端末でダウンロードして再生できる夏の特別ラジオドラマ。\n「寝てるフリしてるの知ってるよ！早く起きて、一緒に花火を打ち上げよう！」",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/Norn_changpian.webp",
@@ -51947,8 +52342,8 @@
 		"id": "Item_Room_Nora_JJ_08"
 	},
 	"Item_Room_Nora_JJ_09": {
-		"name": "卓球",
-		"description": "パーティーや娯楽に適した卓球。宿舎のエンターテイメントな雰囲気をさらに高めることができる。\r\nアクション開放：「卓球1」",
+		"name": "ビリヤード",
+		"description": "パーティーや娯楽に適したビリヤード。宿舎のエンターテイメントな雰囲気をさらに高めることができる。\r\nアクション開放：「ビリヤード1」",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
@@ -51993,7 +52388,7 @@
 	},
 	"Item_Room_Nora_DZ_01": {
 		"name": "雑誌",
-		"description": "さまざまな内容が記録された雑誌。暇な時に読んでみよう。\r\n開放：交流シーン「バー」",
+		"description": "さまざまな内容が記録された雑誌。暇な時に読んでみよう。\r\n開放：交流シーン「ソファ」",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
@@ -52002,7 +52397,7 @@
 	},
 	"Item_Room_Nora_DZ_02": {
 		"name": "マスター秘伝書",
-		"description": "卓球マスターが自ら書いた秘伝書。超絶スキルや戦術が満載。上級者に向いている。\r\n(購入するには、家具【卓球】を獲得する必要があります)",
+		"description": "ビリヤードマスターが自ら書いた秘伝書。超絶スキルや戦術が満載。上級者に向いている。\r\n(購入するには、家具【ビリヤード台】を獲得する必要があります)",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
@@ -52011,7 +52406,7 @@
 	},
 	"Item_Room_Nora_DZ_03": {
 		"name": "紫夜の霜",
-		"description": "深夜の氷河の溶けた水で作った爽やかな飲み物。飲むと、まるで静かな夜の氷雪世界にいるような気分になれる。\r\n開放：交流シーン「卓球」\r\n(購入するには、家具【卓球】を獲得する必要があります)",
+		"description": "深夜の氷河の溶けた水で作った爽やかな飲み物。飲むと、まるで静かな夜の氷雪世界にいるような気分になれる。\r\n開放：交流シーン「ビリヤード」\r\n(購入するには、家具【ビリヤード台】を獲得する必要があります)",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
@@ -52020,12 +52415,21 @@
 	},
 	"Item_Room_Nora_DZ_04": {
 		"name": "初々しい味",
-		"description": "大自然の緑があふれる飲み物。自然の涼しさをもたらしてくれる。\r\n開放：交流シーン「ソファ」",
+		"description": "大自然の緑があふれる飲み物。自然の涼しさをもたらしてくれる。\r\n開放：交流シーン「バー」",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
 		"source": [],
 		"id": "Item_Room_Nora_DZ_04"
+	},
+	"Item_Room_Nora_DZ_05": {
+		"name": "手作りコーヒー",
+		"description": "ノーラが自ら淹れたコーヒー\r\nポーズ開放：コーヒーブレイク",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_sushe_jiaju_DZ_05.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_Nora_DZ_05"
 	},
 	"Item_Room_Nora_YZ_01": {
 		"name": "月光の精霊",
@@ -52153,6 +52557,276 @@
 		"source": [],
 		"id": "Item_Room_Nora_SW_405"
 	},
+	"Item_Room_MLR_JJ_01": {
+		"name": "晶石の陳列棚",
+		"description": "コレクションを陳列するためのディスプレイキャビネット。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_01"
+	},
+	"Item_Room_MLR_JJ_02": {
+		"name": "ジェットスキー",
+		"description": "ジェットスキーの運転練習に使用。\r\nアクション開放：モーターバイクレスト\r\n追加効果：メリル・アムドと指定の乗り物に同乗可能(対応するアバターとアクションを同時に所有する必要がある)",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/LeisureRoom/jiaju/MLR/JJ/icon_sushe_jiaju_SMZJ.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_02"
+	},
+	"Item_Room_MLR_JJ_03": {
+		"name": "セルフ写真機",
+		"description": "セルフ写真撮影ができるマシン。現像する必要がなくすぐに写真が出てくる。\r\n効果開放：マシンと触れ合うと、プリクラが撮れる",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_03"
+	},
+	"Item_Room_MLR_JJ_04": {
+		"name": "ネイルテーブル",
+		"description": "ネイル用の化粧台。\r\nアクション開放：ネイル",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_04"
+	},
+	"Item_Room_MLR_JJ_05": {
+		"name": "シングルソファベッド",
+		"description": "快適でスタイリッシュなシングルソファベッド。\r\nアクション開放：休憩",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_05"
+	},
+	"Item_Room_MLR_JJ_06": {
+		"name": "更衣室のコンパートメント",
+		"description": "素早く着替えるためのコンパートメント。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_06"
+	},
+	"Item_Room_MLR_JJ_07": {
+		"name": "水槽",
+		"description": "家庭用水槽。観賞用の中小規模の水族生態を維持できる。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_07"
+	},
+	"Item_Room_MLR_JJ_08": {
+		"name": "小型タンス",
+		"description": "小さいが、容量が大きい。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_08"
+	},
+	"Item_Room_MLR_JJ_09": {
+		"name": "小型丸テーブル",
+		"description": "小型の多目的丸テーブル。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_09"
+	},
+	"Item_Room_MLR_JJ_10": {
+		"name": "装飾用掛け物",
+		"description": "昆虫パターンの装飾用掛け物。標本のように見える。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_10"
+	},
+	"Item_Room_MLR_JJ_11": {
+		"name": "木製装飾品",
+		"description": "上質な木で彫られた装飾品。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_11"
+	},
+	"Item_Room_MLR_JJ_12": {
+		"name": "インテリア置物",
+		"description": "よく見られるインテリア置物。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_12"
+	},
+	"Item_Room_MLR_DZ_01": {
+		"name": "衣舞棚",
+		"description": "更衣室で水着に着替える(更衣室を獲得してから購入可能)\r\n開放：交流シーン「水着に着替える」",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_01"
+	},
+	"Item_Room_MLR_DZ_02": {
+		"name": "午後の小休止",
+		"description": "午後の小休止\r\n開放：交流シーン「昼寝」",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_02"
+	},
+	"Item_Room_MLR_DZ_03": {
+		"name": "ネイル体験",
+		"description": "ネイル体験\r\n開放：交流シーン「ネイル体験」",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_03"
+	},
+	"Item_Room_MLR_YZ_01": {
+		"name": "月光の精霊",
+		"description": "月明かりのような光を放ち、進むべき道を照らす。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_YZ_01"
+	},
+	"Item_Room_MLR_YZ_02": {
+		"name": "星屑",
+		"description": "星屑が夜空を飾り、添い寝をしてくれる。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_YZ_02"
+	},
+	"Item_Room_MLR_XZ_01": {
+		"name": "ホワイトムーンライト",
+		"description": "今夜は月が綺麗ね、風もやさしい。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_01"
+	},
+	"Item_Room_MLR_XZ_02": {
+		"name": "シャンパンタイム",
+		"description": "気泡が私たちの黄金色の時間を飾った。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_02"
+	},
+	"Item_Room_MLR_XZ_03": {
+		"name": "満天の星",
+		"description": "あなたのために、銀河を旅する。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_03"
+	},
+	"Item_Room_Nora_SW_MLR": {
+		"name": "夜の帳",
+		"description": "夜は長く、恋は永遠に続く。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_Nora_SW_MLR"
+	},
+	"Item_Room_MLR_SW_001": {
+		"name": "Warrior",
+		"description": "勇気を出して、まっすぐ進もう。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_001"
+	},
+	"Item_Room_MLR_SW_002": {
+		"name": "銀月",
+		"description": "まるで新月の光が大地に降り注ぐように。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_002"
+	},
+	"Item_Room_MLR_SW_101": {
+		"name": "ミルクセーキ",
+		"description": "ミルクセーキのような色合いで、ミルクセーキのような香りがする。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_101"
+	},
+	"Item_Room_MLR_SW_102": {
+		"name": "白い幻夢",
+		"description": "白いチュールがファンタスティックな光を放つ。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_102"
+	},
+	"Item_Room_MLR_SW_202": {
+		"name": "紅白",
+		"description": "赤と白は無邪気さと情熱の両方を持つ。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_202"
+	},
+	"Item_Room_MLR_SW_301": {
+		"name": "日暮れ",
+		"description": "空は次第に暗くなり、夜が近づいてくる。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_301"
+	},
+	"Item_Room_MLR_SW_304": {
+		"name": "チェンシー",
+		"description": "地平線に輝く一筋の光のように、一日の始まりを象徴する。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_304"
+	},
+	"Item_Room_MLR_SW_401": {
+		"name": "漁網",
+		"description": "どの魚もこの穴から脱出できない。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_401"
+	},
+	"Item_Room_MLR_SW_402": {
+		"name": "点々",
+		"description": "あなたと過ごした記憶のように、点々と。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_402"
+	},
 	"Hotta_Ornament_1": {
 		"name": "良い夢の子守唄",
 		"description": "シーッ、起こさないで！いくら疲れを知らないツーリストでも、夢を見る時間は必要なの。",
@@ -52249,6 +52923,72 @@
 		],
 		"id": "Hotta_Ornament_9"
 	},
+	"Hotta_Ornament_10": {
+		"name": "水の一族",
+		"description": "海流に乗って海の底を探検していると、先の海溝に巨大なモンスターが潜んでいると水一族の友人が教えてくれた！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_226.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"限定イベントで獲得"
+		],
+		"id": "Hotta_Ornament_10"
+	},
+	"Hotta_Ornament_11": {
+		"name": "純潔な愛",
+		"description": "これは普通の白薔薇じゃないぞ。葉っぱまで白い純白の薔薇だ。雨が降ると、花全体が透明になるから、最も純粋な恋心の象徴とされているんだ。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_227.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ウィンドライダーガチャ」で獲得"
+		],
+		"id": "Hotta_Ornament_11"
+	},
+	"Hotta_Ornament_12": {
+		"name": "悟空の緊箍児",
+		"description": "人類の母星の文化ライブラリーには、「悟空」というキャラが出てくるが、残念ながら関連する資料はほとんど残っておらず、如意棒の写真しかなかった。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_228.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"期間限定イベントで獲得"
+		],
+		"id": "Hotta_Ornament_12"
+	},
+	"Hotta_Ornament_13": {
+		"name": "ハート結び・純潔",
+		"description": "純白のリボンの蝶結び。中央に金色の五芒星の飾りが散りばめられた、エレガントでシンプルなデザイン。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_229.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"限定イベントで獲得"
+		],
+		"id": "Hotta_Ornament_13"
+	},
+	"Hotta_Ornament_14": {
+		"name": "ハート結び・リボン",
+		"description": "純白のリボンの蝶結び。中央に金色の五芒星の飾りが散りばめられ、レースとテープでさらに優しくキュートに仕上げられている。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_230.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"限定イベントで獲得"
+		],
+		"id": "Hotta_Ornament_14"
+	},
+	"Hotta_Ornament_15": {
+		"name": "月うさぎの戯れ",
+		"description": "満月の夜、薬を搗く月うさぎもお休みだそうだ。ほら、あのウサギちゃん、サボっているよ！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_231.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"限定イベントで獲得"
+		],
+		"id": "Hotta_Ornament_15"
+	},
 	"fragment_Hotta_Ornament_8": {
 		"name": "地馳の額当ての欠片",
 		"description": "地馳がドロップした機械の目を改造して作った額当て。視覚能力を失った機械の目だが、発光する能力はまだ残っている。",
@@ -52263,27 +53003,45 @@
 	},
 	"ActorBackground_1": {
 		"name": "オベリスクの下で・個人背景",
-		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"description": "使用するとプロフィール・個人背景が開放される",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg01.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "ActorBackground_1"
 	},
+	"ActorBackground_2": {
+		"name": "モダン・幻惑の紫・個人背景",
+		"description": "使用するとプロフィール・個人背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorBackground_2"
+	},
 	"ActorBackground_3": {
 		"name": "涼しい夏の日・個人背景",
 		"description": "使用するとプロフィール・個人背景が開放される",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_ModelBgSummer.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_ModelBgSummer.webp",
 		"type": "CONSUMABLE",
 		"source": [
 			"イベント「ビーチサンシャインカーニバル」で獲得"
 		],
 		"id": "ActorBackground_3"
 	},
+	"ActorBackground_4": {
+		"name": "夜色の怪盗・個人背景",
+		"description": "使用するとプロフィール・個人背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_ModelBgACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorBackground_4"
+	},
 	"ActorBackground_5": {
 		"name": "水槽・個人背景",
-		"description": "使用するとプロフィール・個人フォトフレームが開放される",
+		"description": "使用するとプロフィール・個人背景が開放される",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Decoration/icon_ModelBgHaiyang256.webp",
 		"type": "CONSUMABLE",
@@ -52291,6 +53049,72 @@
 			"ビーチバレーモードで獲得"
 		],
 		"id": "ActorBackground_5"
+	},
+	"ActorBackground_6": {
+		"name": "パワフルオレンジ・個人背景",
+		"description": "使用するとプロフィール・個人背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "ActorBackground_6"
+	},
+	"ActorBackground_7": {
+		"name": "ミニマリスト・グリーン・個人背景",
+		"description": "使用するとプロフィール・個人背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ビーチバレーモードで獲得"
+		],
+		"id": "ActorBackground_7"
+	},
+	"ActorBackground_8": {
+		"name": "ラグジュアリーレッド・個人背景",
+		"description": "使用するとプロフィール・個人背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "ActorBackground_8"
+	},
+	"ActorBackground_9": {
+		"name": "ミニマリスト・ピンク・個人背景",
+		"description": "使用するとプロフィール・個人背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ビーチバレーモードで獲得"
+		],
+		"id": "ActorBackground_9"
+	},
+	"ActorBackground_10": {
+		"name": "魂の揺れ・個人背景",
+		"description": "使用するとプロフィール・個人背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_ModelBgGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「リスタート防御」で獲得"
+		],
+		"id": "ActorBackground_10"
+	},
+	"ActorBackground_11": {
+		"name": "時間凝固・個人背景",
+		"description": "使用するとプロフィール・個人背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_ModelBgXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ビーチバレーモードで獲得"
+		],
+		"id": "ActorBackground_11"
 	},
 	"CardBackground_1": {
 		"name": "オベリスクの下で・プロフィール背景",
@@ -52301,9 +53125,18 @@
 		"source": [],
 		"id": "CardBackground_1"
 	},
+	"CardBackground_2": {
+		"name": "モダン・幻惑の紫・プロフィール背景",
+		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_2"
+	},
 	"CardBackground_3": {
 		"name": "涼しい夏の日・プロフィール背景",
-		"description": "使用するとプロフィール・個人背景が開放される",
+		"description": "使用するとプロフィール・プロフィール背景が開放される",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_NmCardSummer.webp",
 		"type": "CONSUMABLE",
@@ -52312,18 +53145,96 @@
 		],
 		"id": "CardBackground_3"
 	},
+	"CardBackground_4": {
+		"name": "夜色の怪盗・プロフィール背景",
+		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_NmCardACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_4"
+	},
+	"CardBackground_6": {
+		"name": "パワフルオレンジ・プロフィール背景",
+		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "CardBackground_6"
+	},
+	"CardBackground_7": {
+		"name": "ミニマリスト・グリーン・プロフィール背景",
+		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_7"
+	},
+	"CardBackground_8": {
+		"name": "ラグジュアリーレッド・プロフィール背景",
+		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "CardBackground_8"
+	},
+	"CardBackground_9": {
+		"name": "ミニマリスト・ピンク・プロフィール背景",
+		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard06.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_9"
+	},
+	"CardBackground_10": {
+		"name": "魂の揺れ・プロフィール背景",
+		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_NmCardGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「リスタート防御」で獲得"
+		],
+		"id": "CardBackground_10"
+	},
+	"CardBackground_11": {
+		"name": "時間凝固・プロフィール背景",
+		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_NmCardXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_11"
+	},
 	"CardFrame_1": {
 		"name": "オベリスクの下で・プロフィールフレーム",
-		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"description": "使用するとプロフィール・プロフィールフォトフレームが開放される",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame01.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "CardFrame_1"
 	},
+	"CardFrame_2": {
+		"name": "モダン・幻惑の紫・プロフィールフレーム",
+		"description": "使用するとプロフィール・プロフィールフォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_2"
+	},
 	"CardFrame_3": {
 		"name": "涼しい夏の日・プロフィールフレーム",
-		"description": "使用するとプロフィール・個人背景が開放される",
+		"description": "使用するとプロフィール・プロフィールフォトフレームが開放される",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_NmCardFrameSummer.webp",
 		"type": "CONSUMABLE",
@@ -52332,18 +53243,96 @@
 		],
 		"id": "CardFrame_3"
 	},
+	"CardFrame_4": {
+		"name": "夜色の怪盗・プロフィールフレーム",
+		"description": "使用するとプロフィール・プロフィールフォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_NmCardFrameACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_4"
+	},
+	"CardFrame_6": {
+		"name": "パワフルオレンジ・プロフィールフレーム",
+		"description": "使用するとプロフィール・プロフィールフォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "CardFrame_6"
+	},
+	"CardFrame_7": {
+		"name": "ミニマリスト・グリーン・プロフィールフレーム",
+		"description": "使用するとプロフィール・プロフィールフォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_7"
+	},
+	"CardFrame_8": {
+		"name": "ラグジュアリーレッド・プロフィールフレーム",
+		"description": "使用するとプロフィール・プロフィールフォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "CardFrame_8"
+	},
+	"CardFrame_9": {
+		"name": "ミニマリスト・ピンク・プロフィールフレーム",
+		"description": "使用するとプロフィール・プロフィールフォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame06.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_9"
+	},
+	"CardFrame_10": {
+		"name": "魂の揺れ・プロフィールフレーム",
+		"description": "使用するとプロフィール・プロフィールフォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_NmCardFrameGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「リスタート防御」で獲得"
+		],
+		"id": "CardFrame_10"
+	},
+	"CardFrame_11": {
+		"name": "時間凝固・プロフィールフレーム",
+		"description": "使用するとプロフィール・プロフィールフォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_NmCardFrameXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_11"
+	},
 	"ActorFrame_1": {
 		"name": "オベリスクの下で・個人フォトフレーム",
-		"description": "使用するとプロフィール・プロフィール背景が開放される",
+		"description": "使用するとプロフィール・個人フォトフレームが開放される",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame01.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "ActorFrame_1"
 	},
+	"ActorFrame_2": {
+		"name": "モダン・幻惑の紫・個人フォトフレーム",
+		"description": "使用するとプロフィール・個人フォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorFrame_2"
+	},
 	"ActorFrame_3": {
 		"name": "涼しい夏の日・個人フォトフレーム",
-		"description": "使用するとプロフィール・個人背景が開放される",
+		"description": "使用するとプロフィール・個人フォトフレームが開放される",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_ModelFrameSummer.webp",
 		"type": "CONSUMABLE",
@@ -52351,6 +53340,15 @@
 			"イベント「ビーチサンシャインカーニバル」で獲得"
 		],
 		"id": "ActorFrame_3"
+	},
+	"ActorFrame_4": {
+		"name": "夜色の怪盗・個人フォトフレーム",
+		"description": "使用するとプロフィール・個人フォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_ModelFrameACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorFrame_4"
 	},
 	"ActorFrame_5": {
 		"name": "水槽・個人フォトフレーム",
@@ -52362,6 +53360,72 @@
 			"ビーチバレーモードで獲得"
 		],
 		"id": "ActorFrame_5"
+	},
+	"ActorFrame_6": {
+		"name": "パワフルオレンジ・個人フォトフレーム",
+		"description": "使用するとプロフィール・個人フォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "ActorFrame_6"
+	},
+	"ActorFrame_7": {
+		"name": "ミニマリスト・グリーン・個人フォトフレーム",
+		"description": "使用するとプロフィール・個人フォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ビーチバレーモードで獲得"
+		],
+		"id": "ActorFrame_7"
+	},
+	"ActorFrame_8": {
+		"name": "ラグジュアリーレッド・個人フォトフレーム",
+		"description": "使用するとプロフィール・個人フォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "ActorFrame_8"
+	},
+	"ActorFrame_9": {
+		"name": "ミニマリスト・ピンク・個人フォトフレーム",
+		"description": "使用するとプロフィール・個人フォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ビーチバレーモードで獲得"
+		],
+		"id": "ActorFrame_9"
+	},
+	"ActorFrame_10": {
+		"name": "魂の揺れ・個人フォトフレーム",
+		"description": "使用するとプロフィール・個人フォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_ModelFrameGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「リスタート防御」で獲得"
+		],
+		"id": "ActorFrame_10"
+	},
+	"ActorFrame_11": {
+		"name": "時間凝固・個人フォトフレーム",
+		"description": "使用するとプロフィール・個人フォトフレームが開放される",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_ModelFrameXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ビーチバレーモードで獲得"
+		],
+		"id": "ActorFrame_11"
 	},
 	"Frag_Fruit_Watermelon": {
 		"name": "スイカの果物カット",
@@ -52489,9 +53553,7 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss01.webp",
 		"type": "EMBLEM",
-		"source": [
-			"イベント「フルーツ特攻」で獲得"
-		],
+		"source": [],
 		"id": "Badge_1_1_1"
 	},
 	"Badge_1_1_2": {
@@ -52500,9 +53562,7 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss02.webp",
 		"type": "EMBLEM",
-		"source": [
-			"イベント「フルーツ特攻」で獲得"
-		],
+		"source": [],
 		"id": "Badge_1_1_2"
 	},
 	"Badge_1_1_3": {
@@ -52511,10 +53571,35 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss03.webp",
 		"type": "EMBLEM",
-		"source": [
-			"イベント「フルーツ特攻」で獲得"
-		],
+		"source": [],
 		"id": "Badge_1_1_3"
+	},
+	"Badge_1_1_4": {
+		"name": "英招・勇者の証",
+		"description": "英招宝箱を40回開封して獲得",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss01.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_4"
+	},
+	"Badge_1_1_5": {
+		"name": "飛廉・勇者の証",
+		"description": "飛廉宝箱を40回開封して獲得",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss02.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_5"
+	},
+	"Badge_1_1_6": {
+		"name": "刑天・勇者の証",
+		"description": "刑天宝箱を40回開封して獲得",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss03.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_6"
 	},
 	"MountWater8": {
 		"name": "夏の幻想",
@@ -52703,6 +53788,50 @@
 		],
 		"id": "Sticks_Part_1_15"
 	},
+	"Sticks_Part_2_1": {
+		"name": "幽幽アンカー",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals16.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「リスタート防御」で獲得"
+		],
+		"id": "Sticks_Part_2_1"
+	},
+	"Sticks_Part_2_2": {
+		"name": "幽幽メリル",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals17.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「リスタート防御」で獲得"
+		],
+		"id": "Sticks_Part_2_2"
+	},
+	"Sticks_Part_2_3": {
+		"name": "幽幽ノーラ",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals18.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「リスタート防御」で獲得"
+		],
+		"id": "Sticks_Part_2_3"
+	},
+	"Sticks_Part_2_4": {
+		"name": "幽幽ロズリン",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals19.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「リスタート防御」で獲得"
+		],
+		"id": "Sticks_Part_2_4"
+	},
 	"Sticks_All_1_1": {
 		"name": "怪盗の仮面",
 		"description": "プロフィール・ステッカーの開放に使用できる",
@@ -52731,6 +53860,15 @@
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "Sticks_All_1_3"
+	},
+	"Sticks_All_1_4": {
+		"name": "パチキャン",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Sticks_All_1_4"
 	},
 	"Sticks_All_1_5": {
 		"name": "踊る音符",
@@ -52845,6 +53983,17 @@
 		],
 		"id": "Sticks_choose_3"
 	},
+	"Sticks_choose_4": {
+		"name": "ステッカー選択宝箱Ⅳ",
+		"description": "使用すると、ココナッツ、スイカ、氷、甘いフルーツアイスの中から1つ選べる",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_BoxNmcard.webp",
+		"type": "CHOOSE",
+		"source": [
+			"イベント「激浪ウォッシュ」で獲得"
+		],
+		"id": "Sticks_choose_4"
+	},
 	"frag_Sticks_choose_3": {
 		"name": "ステッカー選択宝箱Ⅲの欠片",
 		"description": "ステッカー選択宝箱の欠片",
@@ -52855,6 +54004,17 @@
 			"イベント「乾杯！揺れる夏」で獲得"
 		],
 		"id": "frag_Sticks_choose_3"
+	},
+	"frag_Sticks_choose_4": {
+		"name": "ステッカー選択宝箱Ⅳの欠片",
+		"description": "ステッカー選択宝箱の欠片",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_BoxNmcard.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"イベント「激浪ウォッシュ」で獲得"
+		],
+		"id": "frag_Sticks_choose_4"
 	},
 	"Sticks_All_2_1": {
 		"name": "ホタテ",
@@ -52888,6 +54048,281 @@
 			"イベント「乾杯！揺れる夏」で獲得"
 		],
 		"id": "Sticks_All_2_3"
+	},
+	"Sticks_All_2_4": {
+		"name": "ヤシの木",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「激浪ウォッシュ」で獲得"
+		],
+		"id": "Sticks_All_2_4"
+	},
+	"Sticks_All_2_5": {
+		"name": "スイカ",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「激浪ウォッシュ」で獲得"
+		],
+		"id": "Sticks_All_2_5"
+	},
+	"Sticks_All_2_6": {
+		"name": "氷",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「激浪ウォッシュ」で獲得"
+		],
+		"id": "Sticks_All_2_6"
+	},
+	"Sticks_All_2_7": {
+		"name": "甘いフルーツアイス",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer07.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「激浪ウォッシュ」で獲得"
+		],
+		"id": "Sticks_All_2_7"
+	},
+	"Sticks_All_2_8": {
+		"name": "ピ！",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer08.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "Sticks_All_2_8"
+	},
+	"Sticks_All_2_9": {
+		"name": "ピ～ピ！",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer09.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "Sticks_All_2_9"
+	},
+	"Sticks_All_2_10": {
+		"name": "ドゥドゥドゥドゥ～",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer010.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "Sticks_All_2_10"
+	},
+	"Sticks_All_2_11": {
+		"name": "茶を飲むタタ",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer011.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "Sticks_All_2_11"
+	},
+	"Sticks_All_2_12": {
+		"name": "アーシャ時空",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer012.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "Sticks_All_2_12"
+	},
+	"Sticks_All_2_13": {
+		"name": "ヴェラ時空",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer013.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「ハッピーワンダーランド」で獲得"
+		],
+		"id": "Sticks_All_2_13"
+	},
+	"Sticks_All_2_14": {
+		"name": "九域時空",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer014.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_2_14"
+	},
+	"Sticks_All_2_15": {
+		"name": "ゴゾトスネットワーク時空",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer015.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_2_15"
+	},
+	"Sticks_All_3_1": {
+		"name": "水色の花束",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_01.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_1"
+	},
+	"Sticks_All_3_2": {
+		"name": "ドライフラワー・翠雀",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_02.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_2"
+	},
+	"Sticks_All_3_3": {
+		"name": "木製ハンドルのスタンプ",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_3"
+	},
+	"Sticks_All_3_4": {
+		"name": "Tower of Fantasyシーリングスタンプ",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_4"
+	},
+	"Sticks_All_3_5": {
+		"name": "プロジェクター",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_5"
+	},
+	"Sticks_All_3_6": {
+		"name": "中古キャンドルスタンド",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_07.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_6"
+	},
+	"Sticks_All_3_7": {
+		"name": "レトロな提灯",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_08.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_7"
+	},
+	"Sticks_All_3_8": {
+		"name": "デジタルカメラ",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_09.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_8"
+	},
+	"Sticks_All_3_9": {
+		"name": "レトロな切手",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_10.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_9"
+	},
+	"Sticks_All_3_10": {
+		"name": "割ってしまった",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_11.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_10"
+	},
+	"Sticks_All_3_11": {
+		"name": "遠方からの手紙",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_13.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_11"
+	},
+	"Sticks_All_3_12": {
+		"name": "マイクロフィルム",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_12"
+	},
+	"Sticks_All_3_13": {
+		"name": "カメラのフィルム",
+		"description": "プロフィール・ステッカーの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Img_Decals_XJ_13.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "Sticks_All_3_13"
 	},
 	"Hacker_Norn_Power_021": {
 		"name": "透明人間",
@@ -53754,7 +55189,7 @@
 		"id": "Hacker_Norn_collection_286"
 	},
 	"Hacker_Norn_collection_287": {
-		"name": "Daging Sapi Rebus",
+		"name": "Daging Chili Oil",
 		"description": "ゴゾトスネットワークのレストランのおいしい料理。きっとあなたの好みに合うものが見つかるはず。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_SZNR.webp",
@@ -55074,7 +56509,7 @@
 		"name": "落とし物のレシート",
 		"description": "道端に落ちているレシート。集めて、緑のアーシャの従業員のところで報酬と交換しましょう！",
 		"rarity": 4,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/item_hide_yaxianew_trade03.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/item_hide_yaxianew_trade05.webp",
 		"type": "QUEST",
 		"source": [
 			"流金感知で発見して獲得"
@@ -55114,7 +56549,7 @@
 	},
 	"Nora_lv2": {
 		"name": "ノーラ・覚醒",
-		"description": "失われた記憶を取り戻すことが、彼女の目標になった。昔の自分がどんな人だったのかを知りたくなったのだ。",
+		"description": "失われた記憶を取り戻すことが、彼女の目標になった。昔の自分がどんな人だったのかを知りたくなったのだ",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_nuola2.webp",
 		"type": "AVATAR",
@@ -55252,8 +56687,8 @@
 		"id": "item_hide_yaxianew_fenweibox04"
 	},
 	"item_hide_yaxianew_nuoyuan01": {
-		"name": "ノーマル交換カード",
-		"description": "地味な交換カード。商店でこのカードを交換した後、使用すると少量のノルドを得ることができます。",
+		"name": "上級交換カード",
+		"description": "輝きを放つ交換カード。商店でこのカードを交換した後、使用すると大量のノルドを得ることができます。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_red.webp",
 		"type": "GIFT",
@@ -55274,8 +56709,8 @@
 		"id": "item_hide_yaxianew_nuoyuan02"
 	},
 	"item_hide_yaxianew_nuoyuan03": {
-		"name": "上級交換カード",
-		"description": "輝きを放つ交換カード。商店でこのカードを交換した後、使用すると大量のノルドを得ることができます。",
+		"name": "ノーマル交換カード",
+		"description": "地味な交換カード。商店でこのカードを交換した後、使用すると少量のノルドを得ることができます。",
 		"rarity": 2,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_greener.webp",
 		"type": "GIFT",
@@ -55332,8 +56767,92 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
 		"type": "MOUNT",
-		"source": [],
+		"source": [
+			"イベント「ウィンドライダーガチャ」で獲得"
+		],
 		"id": "Mount_Racing_003_guo"
+	},
+	"Item_norn_sidequest_v431101": {
+		"name": "かわいい人形",
+		"description": "「ドロシー」という名のかわいい人形。大きな茶色の目とふわふわの毛皮を持ち、子供たちの友達だ。",
+		"rarity": 1,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/ImitationGift/UI_jingdu_icon_tuzi_256.webp",
+		"type": "QUEST",
+		"source": [],
+		"id": "Item_norn_sidequest_v431101"
+	},
+	"meilierx": {
+		"name": "メリル・アムド",
+		"description": "ゴゾトスネットワークで旧友と会った。もう一度皆の目の前に現れたのは、完全武装しているメリルだ。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_meilierkai.webp",
+		"type": "AVATAR",
+		"source": [],
+		"id": "meilierx"
+	},
+	"meilierx_lv2": {
+		"name": "メリル・アムド-覚醒",
+		"description": "探しているものはもう見つかった……",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_meilierkai2.webp",
+		"type": "AVATAR",
+		"source": [],
+		"id": "meilierx_lv2"
+	},
+	"SelfCardParticle_1": {
+		"name": "歳月",
+		"description": "プロフィール・エフェクトの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_345.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "SelfCardParticle_1"
+	},
+	"SelfCardParticle_2": {
+		"name": "幻想",
+		"description": "プロフィール・エフェクトの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_346.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "SelfCardParticle_2"
+	},
+	"SelfCardParticle_3": {
+		"name": "レトロフラッシュ",
+		"description": "プロフィール・エフェクトの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_346_1.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "SelfCardParticle_3"
+	},
+	"SelfCardParticle_4": {
+		"name": "魂の電波",
+		"description": "プロフィール・エフェクトの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_347.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「乾杯！揺れる夏」で獲得"
+		],
+		"id": "SelfCardParticle_4"
+	},
+	"SelfCardParticle_5": {
+		"name": "きらめく星",
+		"description": "プロフィール・エフェクトの開放に使用できる",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_348.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"イベント「確率クラッシュ」で獲得"
+		],
+		"id": "SelfCardParticle_5"
 	},
 	"fragment_chat_Action_km3_os": {
 		"name": "ウサギ飴",
@@ -57866,12 +59385,21 @@
 	},
 	"Nora_superpower_trial_OS": {
 		"name": "「ノイズ」24時間",
-		"description": "バイクと大剣、この不思議な組み合わせは何と呼ぶべきだろう。名前を覚えるのが苦手な彼女は、結局ノイズという名前を付けた。",
+		"description": "バイクと大剣、この不思議な組み合わせは何と呼ぶべきだろう。名前を覚えるのが苦手な彼女は、結局ノイズという名前を付けた",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Icon/item_Weapon_SSR_nuola.webp",
 		"type": "WEAPON",
 		"source": [],
 		"id": "Nora_superpower_trial_OS"
+	},
+	"MerylX_thunder_trial_OS": {
+		"name": "「破城の刃」24時間",
+		"description": "ハガードが開発した変身できる武器。精巧なデザインと優れた性能を持っているが、その複雑な構造により、量産が難しい。 製作者は「城を壊すには、その剣1本だけで十分だ」と豪語した。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Icon/item_Weapon_SSR_meilierkai.webp",
+		"type": "WEAPON",
+		"source": [],
+		"id": "MerylX_thunder_trial_OS"
 	},
 	"bag_LizhouOpenSign_1_OS": {
 		"name": "雲海ギフトⅠ",
@@ -57998,6 +59526,15 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_frag_BP17_OS"
+	},
+	"choose_frag_BP20_OS": {
+		"name": "通行証アルケーの欠片箱Ⅸ",
+		"description": "選択宝箱",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gift_artifact_frag_ssr.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_frag_BP20_OS"
 	},
 	"choose_frag_ssr_2_OS": {
 		"name": "SSRアルケーの欠片箱Ⅱ",
@@ -58280,7 +59817,7 @@
 		"description": "柔らかさ、軽さ、何より美しさが大事！",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-		"type": "MOUNT",
+		"type": "MATERIAL",
 		"source": [
 			"From events"
 		],
@@ -60181,6 +61718,17 @@
 		],
 		"id": "Avatar_Overseas_42"
 	},
+	"Avatar_ps_03": {
+		"name": "一緒にいてくれて感謝",
+		"description": "一緒にいてくれて感謝！感動な瞬間を一緒に共有できたね！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/icon_Avatar_Ps_03.webp",
+		"type": "AVATAR",
+		"source": [
+			"イベントで獲得"
+		],
+		"id": "Avatar_ps_03"
+	},
 	"AvatarFrame_tencent_09": {
 		"name": "対局の続き",
 		"description": "勝負は最後まで誰にも分からない",
@@ -60203,6 +61751,17 @@
 		],
 		"id": "AvatarFrame_tencent_10"
 	},
+	"AvatarFrame_PlayStation_03": {
+		"name": "愛に感謝",
+		"description": "愛に感謝！この世界が素晴らしいのは、あなたの愛のおかげ！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_PlayStation_03i.webp",
+		"type": "FRAME",
+		"source": [
+			"獲得方法：イベントで獲得"
+		],
+		"id": "AvatarFrame_PlayStation_03"
+	},
 	"chat_qipao_tencent_04": {
 		"name": "友情花 ",
 		"description": "全アイダに、友情という名の花を植えよう",
@@ -60213,6 +61772,17 @@
 			"獲得方法：イベントで獲得"
 		],
 		"id": "chat_qipao_tencent_04"
+	},
+	"chat_qipao_ps_03": {
+		"name": "きみがいてくれて感謝",
+		"description": "一緒にいてくれてありがとう、これからもよろしくね！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_ps_03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"獲得方法：イベントで獲得"
+		],
+		"id": "chat_qipao_ps_03"
 	},
 	"Title_KoreaAnniversary07": {
 		"name": "隊長",
@@ -60280,6 +61850,149 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_chat_miaaction_4_OS"
+	},
+	"Avatar_Overseas_44": {
+		"name": "微笑むノーラ",
+		"description": "ノーラ、ファング、姉貴、好きなように呼んで。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/icon_Avatar_Overseas_44.webp",
+		"type": "AVATAR",
+		"source": [
+			"From events"
+		],
+		"id": "Avatar_Overseas_44"
+	},
+	"Avatar_Overseas_45": {
+		"name": "Mi-aへの誕生日サプライズ",
+		"description": "Mi-aは賑やかな誕生日パーティーが大好き。必ず参加するって約束してあげよう。いいよね？",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/icon_Avatar_Overseas_45.webp",
+		"type": "AVATAR",
+		"source": [
+			"From events"
+		],
+		"id": "Avatar_Overseas_45"
+	},
+	"AvatarFrame_tencent_12": {
+		"name": "ハート泥棒",
+		"description": "隠しておかないと、盗んじゃうぞ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_12.webp",
+		"type": "FRAME",
+		"source": [
+			"獲得方法：イベントで獲得"
+		],
+		"id": "AvatarFrame_tencent_12"
+	},
+	"AvatarFrame_tencent_13": {
+		"name": "アイダ星の開拓者 6",
+		"description": "第6期アイダ星の開拓者クリエーター優秀賞報酬",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_13.webp",
+		"type": "FRAME",
+		"source": [
+			"獲得方法：イベントで獲得"
+		],
+		"id": "AvatarFrame_tencent_13"
+	},
+	"AvatarFrame_tencent_14": {
+		"name": "喝采するMi-a",
+		"description": "Mi-aと一緒にペンライトを振って、Tower of Fantasyの2周年をお祝いしよう！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_14.webp",
+		"type": "FRAME",
+		"source": [
+			"獲得方法：イベントで獲得"
+		],
+		"id": "AvatarFrame_tencent_14"
+	},
+	"chat_qipao_tencent_05": {
+		"name": "2周年の温もり",
+		"description": "Mi-aに寄り添い、共に温かい旅路を歩んでくれてありがとう",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_tencent_05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"獲得方法：イベントで獲得"
+		],
+		"id": "chat_qipao_tencent_05"
+	},
+	"Title_iwshare_os_8": {
+		"name": "私は今年2歳です",
+		"description": "1、2…（指を数えて、Tower of Fantasy 2周年おめでとう〜",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"運営コミュニティ配信"
+		],
+		"id": "Title_iwshare_os_8"
+	},
+	"Title_tencentshare_os_12": {
+		"name": "いい汗が滴る",
+		"description": "2周年交流動画エンディング開放：汗だくのメリル",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_12"
+	},
+	"Title_tencentshare_os_13": {
+		"name": "アイスクリーム大好き",
+		"description": "2周年交流動画エンディング開放：やっぱり夏はアイスに限る",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_13"
+	},
+	"Title_tencentshare_os_14": {
+		"name": "私のじゃじゃ馬ガール",
+		"description": "2周年交流動画エンディング開放：殴られたけど、幸せ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_14"
+	},
+	"Title_tencentshare_os_15": {
+		"name": "月が教えてくれる",
+		"description": "2周年交流動画エンディング開放：私の真心、彼女の大冒険",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_15"
+	},
+	"Title_tencentshare_os_16": {
+		"name": "ToF&u",
+		"description": "限定コミュニティイベント開放",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_16"
+	},
+	"AvatarFrame_tencent_15": {
+		"name": "夏の涼しさ",
+		"description": "太陽、ビーチ、パーティ、お待たせ！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_15.webp",
+		"type": "FRAME",
+		"source": [
+			"獲得方法：イベントで獲得"
+		],
+		"id": "AvatarFrame_tencent_15"
 	},
 	"artifact_ssr_001": {
 		"name": "ジャイアントアーム",
@@ -60462,6 +62175,15 @@
 		"type": "ARTIFACT",
 		"source": [],
 		"id": "artifact_ssr_023"
+	},
+	"artifact_ssr_024": {
+		"name": "バフフィールド",
+		"description": "",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"type": "ARTIFACT",
+		"source": [],
+		"id": "artifact_ssr_024"
 	},
 	"artifact_sr_001": {
 		"name": "フロスト砲",

@@ -659,6 +659,39 @@
 		"version": "3.7",
 		"id": "artifact_ssr_023"
 	},
+	"artifact_ssr_024": {
+		"name": "Marchand d'effets bénéfiques",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "",
+		"source": "",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"rarity": 5,
+		"AttributeID": "artifact_adv_048",
+		"advancement": [
+			{
+				"description": "Augmente l'effet de réduction des dégâts à **20%** en forme défensive.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Augmente l'effet de bonus de dégâts à **11%** en forme offensive.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Réduit l'intervalle de déclenchement pour bloquer les dégâts fatals à une fois toutes les **120** secondes.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Accroît de **2%** la résistance altérée, même si elle n'est pas déployée. Non disponible en Ligue ultime.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Augmente l'effet du bonus de dégâts à **16%** en forme offensive.",
+				"id": "artifact_adv_048"
+			}
+		],
+		"version": "CN-Only",
+		"id": "artifact_ssr_024"
+	},
 	"artifact_sr_001": {
 		"name": "Canon stationnaire",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -702,7 +735,7 @@
 		"AttributeID": "artifact_adv_015",
 		"advancement": [
 			{
-				"description": "Régénère 1recharge toutes les **100**secondes. La glisse ne vous coûte plus d'endurance.",
+				"description": "Régénère 1recharge toutes les **20**secondes. La glisse ne vous coûte plus d'endurance.",
 				"id": "artifact_adv_015"
 			},
 			{
@@ -710,7 +743,7 @@
 				"id": "artifact_adv_015"
 			},
 			{
-				"description": "Régénère 1recharge toutes les **60**secondes.",
+				"description": "Regagne 1recharge toutes les **15**secondes.",
 				"id": "artifact_adv_015"
 			},
 			{

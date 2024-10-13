@@ -1315,7 +1315,7 @@
 					"description": "柔软,轻盈,最重要的是美观!",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-					"type": "MOUNT",
+					"type": "MATERIAL",
 					"source": [
 						"From events"
 					],
@@ -1538,7 +1538,7 @@
 			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_Water_9_1.webp"
 		},
 		"unlockItems": [],
-		"version": "CN-Only",
+		"version": "4.2",
 		"fashion": [
 			{
 				"烈齿鲨": "None.webp"
@@ -1816,5 +1816,39 @@
 		],
 		"colors": [],
 		"id": "Mount32"
+	},
+	"MountRacing3_guo": {
+		"name": "风行者",
+		"description": " “乘风而行”是它的宣言。它与烈风打赌，较量谁才是速度的王者。",
+		"rarity": 5,
+		"source": [],
+		"assets": {
+			"Icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp",
+			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp"
+		},
+		"unlockItems": [
+			{
+				"item": {
+					"name": "风行者",
+					"description": "“乘风而行”是它的宣言。它与烈风打赌，较量谁才是速度的王者。",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
+					"type": "MOUNT",
+					"source": [
+						"风行者盲盒活动获取"
+					],
+					"id": "Mount_Racing_003_guo"
+				},
+				"amount": 1
+			}
+		],
+		"version": "CN-Only",
+		"fashion": [
+			{
+				"Default skin": "None.webp"
+			}
+		],
+		"colors": [],
+		"id": "MountRacing3_guo"
 	}
 }

@@ -8994,11 +8994,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305101"
@@ -9023,11 +9023,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305102"
@@ -9052,11 +9052,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305103"
@@ -9168,11 +9168,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305201"
@@ -9197,11 +9197,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305202"
@@ -9226,11 +9226,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305203"
@@ -9342,11 +9342,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305301"
@@ -9371,11 +9371,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305302"
@@ -9400,11 +9400,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305303"
@@ -9516,11 +9516,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305401"
@@ -9545,11 +9545,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305402"
@@ -9574,11 +9574,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305403"
@@ -9690,11 +9690,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305501"
@@ -9719,11 +9719,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305502"
@@ -9748,11 +9748,11 @@
 			{
 				"name": "Cristapolvo Energético",
 				"description": "Cristales de energía en miniatura generados al utilizar un supresor. Poseen un ligero valor de recuperación.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305503"
@@ -22266,7 +22266,7 @@
 	"904061": {
 		"name": "Controlador Terrestre",
 		"amount": 1,
-		"description": "",
+		"description": "Derrota al Controlador Terrestre\r\nUbicación: Zona de Pruebas del Controlador Terrestre",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalla",
 		"section2": "Jefe",
@@ -22290,8 +22290,9 @@
 		"id": "904061"
 	},
 	"904062": {
+		"name": "Vientoportado - Jill",
 		"amount": 1,
-		"description": "",
+		"description": "Alcanza el nivel de dimensión 100 o superior\r\nDerrota a Windborne - Jill\r\nUbicación: Isla Grande del Noreste de la Costa Celeste",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalla",
 		"section2": "Monstruos",
@@ -22308,8 +22309,9 @@
 		"id": "904062"
 	},
 	"904063": {
+		"name": "Portador de Luz - Las",
 		"amount": 1,
-		"description": "",
+		"description": "Alcanza el nivel de dimensión 100 o superior\r\nDerrota a Lightbringer - Las\r\nUbicación: Pequeña isla noreste de la Costa Celeste",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalla",
 		"section2": "Monstruos",
@@ -22326,8 +22328,9 @@
 		"id": "904063"
 	},
 	"904064": {
+		"name": "Vector - Dustin",
 		"amount": 1,
-		"description": "",
+		"description": "Alcanza el nivel de dimensión 100 o superior\r\nDerrota a Vector - Dustin\r\nUbicación: Pequeña isla noreste de la Costa Celeste",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalla",
 		"section2": "Monstruos",
@@ -22344,8 +22347,9 @@
 		"id": "904064"
 	},
 	"904065": {
+		"name": "Ojociego - Dylan",
 		"amount": 1,
-		"description": "",
+		"description": "Alcanza el nivel de dimensión 100 o superior\r\nDerrota a Deadeye - Dylan\r\nUbicación: Lado norte del Centro de Investigación Braudel",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalla",
 		"section2": "Monstruos",
@@ -22362,8 +22366,9 @@
 		"id": "904065"
 	},
 	"904066": {
+		"name": "Mire - Elvin",
 		"amount": 1,
-		"description": "",
+		"description": "Alcanza el nivel de dimensión 100 o superior\r\nDerrota a Mire - Elvin\r\nUbicación: Fortaleza Sur de la Costa Celeste",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalla",
 		"section2": "Monstruos",
@@ -22380,8 +22385,9 @@
 		"id": "904066"
 	},
 	"904067": {
+		"name": "Redbolt - Gris",
 		"amount": 1,
-		"description": "",
+		"description": "Alcanza el nivel de dimensión 100 o superior\r\nDerrota a Redbolt - Gris\r\nUbicación: Fortaleza del Sur de la Costa Celeste",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalla",
 		"section2": "Monstruos",
@@ -22398,8 +22404,9 @@
 		"id": "904067"
 	},
 	"904068": {
+		"name": "Ira Sangrienta - Karan",
 		"amount": 1,
-		"description": "",
+		"description": "Alcanza el nivel de dimensión 100 o superior\r\nDerrota a Furia de Sangre - Karan\r\nUbicación: Debajo de TOLLYWOOD",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Batalla",
 		"section2": "Monstruos",

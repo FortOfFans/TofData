@@ -1315,7 +1315,7 @@
 					"description": "Macio, leve e, acima de tudo, lindo!",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-					"type": "MOUNT",
+					"type": "MATERIAL",
 					"source": [
 						"From events"
 					],
@@ -1487,8 +1487,8 @@
 		"id": "MountWater7"
 	},
 	"MountWater8": {
-		"name": "Fantasia de Meados de Verão",
-		"description": " Parece uma deliciosa boia em forma de rosquinha, perfeitamente adequada para o oceano de verão. Deitado nela, sentindo a brisa do mar, o sol escaldante se transforma em um ovo mole e o oceano se torna xarope de tangerina azul... Basta balançar suavemente e mergulhar na fantasia.",
+		"name": "Fantasia de Veraneio",
+		"description": " Parece uma boia de piscina em forma de rosquinha deliciosa, perfeitamente adequada para o oceano de verão. Ao deitar-se nela, a brisa do mar acaricia sua pele, e o sol escaldante se transforma em um ovo mole. O oceano abaixo cintila como xarope de tangerina azul. Apenas balance suavemente e deixe-se levar para uma fantasia sonhadora.",
 		"rarity": 5,
 		"source": [],
 		"assets": {
@@ -1498,7 +1498,7 @@
 		"unlockItems": [
 			{
 				"item": {
-					"name": "Fantasia de Meados de Verão",
+					"name": "Fantasia de Veraneio",
 					"description": "Parece uma deliciosa boia em forma de rosquinha, perfeitamente adequada para o oceano de verão. Deitado nela, sentindo a brisa do mar, o sol escaldante se transforma em um ovo mole e o oceano se torna xarope de tangerina azul... Basta balançar suavemente e mergulhar na fantasia.",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/MountWater8.webp",
@@ -1530,7 +1530,7 @@
 	},
 	"MountWater9": {
 		"name": "Tubarão Feroz",
-		"description": " Modelado a partir de criaturas aquáticas, este veículo em forma de tubarão exala uma aura poderosa. Mesmo em terra, reina como um dominador temível que inspira admiração com apenas um olhar.",
+		"description": " Modelado após criaturas aquáticas, este veículo em forma de tubarão exala uma aura poderosa. Mesmo em terra, reina como um dominador temível que inspira admiração com apenas um olhar.",
 		"rarity": 5,
 		"source": [],
 		"assets": {
@@ -1538,7 +1538,7 @@
 			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_Water_9_1.webp"
 		},
 		"unlockItems": [],
-		"version": "CN-Only",
+		"version": "4.2",
 		"fashion": [
 			{
 				"Tubarão Feroz": "None.webp"
@@ -1816,5 +1816,39 @@
 		],
 		"colors": [],
 		"id": "Mount32"
+	},
+	"MountRacing3_guo": {
+		"name": "Caminhante do Vento",
+		"description": " \"Corra com o vento\" é o seu lema. Está numa corrida com as rajadas selvagens para provar quem é o mais rápido.",
+		"rarity": 5,
+		"source": [],
+		"assets": {
+			"Icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp",
+			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp"
+		},
+		"unlockItems": [
+			{
+				"item": {
+					"name": "Caminhante do Vento",
+					"description": "\"Corra com o vento\" é o seu lema. Está numa corrida com as rajadas selvagens para provar quem é o mais rápido.",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
+					"type": "MOUNT",
+					"source": [
+						"Obtido no evento Caixa Misteriosa Caminhante do Vento"
+					],
+					"id": "Mount_Racing_003_guo"
+				},
+				"amount": 1
+			}
+		],
+		"version": "CN-Only",
+		"fashion": [
+			{
+				"Default skin": "None.webp"
+			}
+		],
+		"colors": [],
+		"id": "MountRacing3_guo"
 	}
 }

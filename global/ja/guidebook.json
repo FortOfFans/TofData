@@ -2725,6 +2725,25 @@
 		"menuType": "Weapon",
 		"id": "Nitai_Loslyn_SSR"
 	},
+	"Nitai_MerylX_SSR": {
+		"name": "メリル・アムド",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
+		"array": [
+			{
+				"title": "メリル・アムド-破城の刃",
+				"description": "武器「破城の刃」のアバターキャラクター。対応する武器を開放すると、「メリル・アムド」に変身してTower of Fantasyの世界を冒険できる。",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/ja/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "メリル・アムド-破城の刃",
+				"description": "破城の刃の操作マニュアル。武器スキルの発動方法が書いてある",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/ja/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"menuId": "imitate_role",
+		"menuType": "Weapon",
+		"id": "Nitai_MerylX_SSR"
+	},
 	"Nitai_tianlang_SSR": {
 		"name": "Tian Lang",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -3009,6 +3028,20 @@
 		"menuId": "WorldExplore",
 		"menuType": "WorldExploration",
 		"id": "Guide_MoveShoot"
+	},
+	"Guide_Norn_Bicycle": {
+		"name": "自転車",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
+		"array": [
+			{
+				"title": "自転車",
+				"description": "のりばで自転車をレンタルできます。キーボードのADまたは左右をタップすると自転車のペダルを踏んで加速します。マウスの左右またはコントローラーを長押ししながら左右にドラッグして曲がります。Sキーまたはコントローラーを長押しするとブレーキをかけ、Vキーで自転車から降ります。",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_Bicycle.webp"
+			}
+		],
+		"menuId": "WorldExplore",
+		"menuType": "WorldExploration",
+		"id": "Guide_Norn_Bicycle"
 	},
 	"Guide_Norn_CD": {
 		"name": "バトルプロジェクター",
@@ -6117,6 +6150,13 @@
 		"menuId": "EQUIPMENT_SLOT_WEAPON",
 		"menuType": "All",
 		"id": "Loslyn_ice"
+	},
+	"MerylX_thunder": {
+		"name": "破城の刃",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_wfjq02.webp",
+		"menuId": "EQUIPMENT_SLOT_WEAPON",
+		"menuType": "All",
+		"id": "MerylX_thunder"
 	},
 	"Nitai_mimi_SSR": {
 		"name": "Huang",

@@ -1949,6 +1949,22 @@
 		"type": "GIFT",
 		"id": "Blindbox_mix2"
 	},
+	"Blindbox_mix3": {
+		"name": "Outfit Mystery Box",
+		"description": "Kotak misterius yang berisi pakaian. Semoga kamu mendapatkan favoritmu di dalamnya.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3"
+	},
+	"Blindbox_PS": {
+		"name": "Mystery Box Kendaraan (Pengembara Angin)",
+		"description": "Mystery box yang berisi kendaraan. Semoga kamu mendapatkan favoritmu di dalamnya.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS"
+	},
 	"Blindbox_03_pack": {
 		"name": "Apricity Giftbox",
 		"description": "Giftbox berbatas waktu ditawarkan untuk merayakan kedatangan musim semi. Pasti rasanya harap-harap cemas saat kamu membukanya.",
@@ -1996,6 +2012,22 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
 		"type": "GIFT",
 		"id": "Blindbox_mix2_pack"
+	},
+	"Blindbox_mix3_pack": {
+		"name": "Outfit Mystery Box",
+		"description": "Kotak misterius yang berisi pakaian. Semoga kamu mendapatkan favoritmu di dalamnya.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3_pack"
+	},
+	"Blindbox_PS_pack": {
+		"name": "Mystery Box Kendaraan (Pengembara Angin)",
+		"description": "Mystery box yang berisi kendaraan. Semoga kamu mendapatkan favoritmu di dalamnya.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS_pack"
 	},
 	"gift_BigClient_01": {
 		"name": "Wanderer's Welcome Pack",
@@ -2918,7 +2950,7 @@
 		"id": "nora_logingift_2"
 	},
 	"nora_logingift_3": {
-		"name": "Hadiah Login Musim Panas III",
+		"name": "Summer Login Gift III",
 		"description": "Hadiah login berturut-turut selama 9 hari.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gemticketbox.webp",
@@ -3100,6 +3132,22 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_MidAutumnFestival.webp",
 		"type": "GIFT",
 		"id": "bag_MidAutumnFestival_12"
+	},
+	"bag_equip8_ssr_autouse": {
+		"name": "Fortress Combat Equipment Kit",
+		"description": "Chest",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_ssr_autouse"
+	},
+	"bag_equip8_T2_autouse": {
+		"name": "N/A",
+		"description": "",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Equip_Balance/cloth_orange_T2.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_T2_autouse"
 	},
 	"gift_equip_white": {
 		"name": "Random Equipment Box",
@@ -3481,7 +3529,7 @@
 		"name": "Stellarway Pack IV",
 		"description": "Para Eksekutor yang selesai berlibur, kuharap kalian semua tidak lupa cara bertarung, dan sebaiknya percaya bahwa semua upaya akan mendapat hadiah.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_3.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_operation_2.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_4"
 	},
@@ -3489,7 +3537,7 @@
 		"name": "Stellarway Pack V",
 		"description": "Para Eksekutor yang selesai berlibur, kuharap kalian semua tidak lupa cara bertarung, dan sebaiknya percaya bahwa semua upaya akan mendapat hadiah.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_core_orange.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_gacha_5.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_5"
 	},
@@ -4287,7 +4335,7 @@
 	},
 	"bag_fashion67": {
 		"name": "Kilau Karamel & Permen Pink",
-		"description": "Sinar matahari menerangi musim panas yang cerah dan memelihara mimpi indahku.",
+		"description": "Sinar matahari menghiasi musim panas yang cerah dan memelihara mimpi indahku.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_fashion67.webp",
 		"type": "GIFT",
@@ -4454,7 +4502,7 @@
 		"id": "bag_chat_qipao97"
 	},
 	"bag_chat_qipao98": {
-		"name": "Summer Break Giftbox",
+		"name": "Giftbox Rehat Musim Panas",
 		"description": "Matahari bersinar sangat terik. Mi-a sudah mengemas tasnya dan siap untuk pergi liburan.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao98.webp",
@@ -4671,7 +4719,7 @@
 	},
 	"bag_chat_qipao155": {
 		"name": "Giftbox Pantai Liburan",
-		"description": "Mengajak Gray Fox yang lebih suka di rumah untuk pesta api unggun bukanlah hal yang mudah. Tapi begitu semua orang berkumpul, biarkan keributan dan pesta pora dimulai!",
+		"description": "Mengajak Gray Fox yang lebih suka di rumah untuk ikut dalam pesta api unggun bukanlah hal yang mudah. Tapi, begitu semua orang berkumpul, biarkan keriaan dan kegembiraan dimulai!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao155.webp",
 		"type": "GIFT",
@@ -4679,19 +4727,35 @@
 	},
 	"bag_chat_qipao156": {
 		"name": "Giftbox Kilauan Samudra",
-		"description": "Figur yang singkat dan bersemangat itu dengan cepat meluncur di kedalaman laut.",
+		"description": "Figur yang berkilauan dan cepat itu dengan gesit meluncur di kedalaman laut.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
 		"type": "GIFT",
 		"id": "bag_chat_qipao156"
 	},
+	"bag_chat_qipao158": {
+		"name": "Giftbox Piknik Cantik",
+		"description": "Meryl sedang tidak bertugas dan akhirnya menikmati waktu liburan yang sangat pantas dia dapatkan.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao158.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao158"
+	},
 	"bag_chat_qipao161": {
 		"name": "Giftbox Musim Panas Tak Berujung",
 		"description": "Setiap sendok es krim yang lezat meyakinkan saya bahwa musim panas ini tidak akan pernah pudar.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao161.webp",
 		"type": "GIFT",
 		"id": "bag_chat_qipao161"
+	},
+	"bag_chat_qipao164": {
+		"name": "Giftbox Mawar Sedingin Es",
+		"description": "Mawar biru yang dingin mekar setengah jalan, seolah menunggu ksatria dari ramalan itu datang dan memetiknya.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao164.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao164"
 	},
 	"bag_emoji_1": {
 		"name": "Riset Simulacrum Tower of Fantasy I",
@@ -5356,8 +5420,8 @@
 		"id": "item_hide_yaxianew_fenweibox04"
 	},
 	"item_hide_yaxianew_nuoyuan01": {
-		"name": "Kartu Tukar Common",
-		"description": "Kartu penukaran yang rendah hati. Gunakan setelah ditukarkan di toko untuk mendapatkan sedikit Norn.",
+		"name": "Kartu Pertukaran Advanced",
+		"description": "Kartu pertukaran yang mulia. Gunakan setelah ditukarkan di toko untuk mendapatkan jumlah Norn yang besar.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_red.webp",
 		"type": "GIFT",
@@ -5372,8 +5436,8 @@
 		"id": "item_hide_yaxianew_nuoyuan02"
 	},
 	"item_hide_yaxianew_nuoyuan03": {
-		"name": "Kartu Pertukaran Advanced",
-		"description": "Kartu pertukaran yang mulia. Gunakan setelah ditukarkan di toko untuk mendapatkan jumlah Norn yang besar.",
+		"name": "Kartu Tukar Common",
+		"description": "Kartu penukaran yang rendah hati. Gunakan setelah ditukarkan di toko untuk mendapatkan sedikit Norn.",
 		"rarity": 2,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_greener.webp",
 		"type": "GIFT",
@@ -5788,7 +5852,7 @@
 		"id": "Item_Festival_BadImitation_OS"
 	},
 	"bag_customized_equip8_fire_OS": {
-		"name": "Kit Pasokan Tempur Api Gesthos",
+		"name": "Paket Suplai Tempur Api Gesthos",
 		"description": "Chest",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange_fire.webp",
@@ -5796,7 +5860,7 @@
 		"id": "bag_customized_equip8_fire_OS"
 	},
 	"bag_customized_equip8_ice_OS": {
-		"name": "Kit Pasokan Tempur Frost Gesthos",
+		"name": "Paket Suplai Tempur Gesthos Frost",
 		"description": "Chest",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange_ice.webp",
@@ -5804,7 +5868,7 @@
 		"id": "bag_customized_equip8_ice_OS"
 	},
 	"bag_customized_equip8_thunder_OS": {
-		"name": "Kit Pasokan Tempur Gesthos Volt",
+		"name": "Paket Suplai Tempur Gesthos Volt",
 		"description": "Chest",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange_thunder.webp",
@@ -5812,7 +5876,7 @@
 		"id": "bag_customized_equip8_thunder_OS"
 	},
 	"bag_customized_equip8_physic_OS": {
-		"name": "Kit Pasokan Tempur Fisik Gesthos",
+		"name": "Paket Suplai Tempur Fisik Gesthos",
 		"description": "Chest",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange_physic.webp",

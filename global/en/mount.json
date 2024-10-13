@@ -1315,7 +1315,7 @@
 					"description": "Soft, light, and most importantly, it's gorgeous!",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-					"type": "MOUNT",
+					"type": "MATERIAL",
 					"source": [
 						"From events"
 					],
@@ -1488,7 +1488,7 @@
 	},
 	"MountWater8": {
 		"name": "Midsummer Fantasy",
-		"description": " It looks like a delicious donut-shaped pool float, perfectly suited for the summer ocean. Lying on it, feeling the sea breeze, the scorching sun turns into a soft-boiled egg, and the ocean becomes blue tangerine syrup... Just sway gently and sink into fantasy.",
+		"description": " It looks like a delicious donut-shaped pool float, perfectly suited for the summer ocean.As you lie on it, the sea breeze caresses your skin, and the scorching sun transforms into a soft-boiled egg. The ocean below shimmers like blue tangerine syrup. Just sway gently and let yourself drift into a dreamy fantasy.",
 		"rarity": 5,
 		"source": [],
 		"assets": {
@@ -1538,7 +1538,7 @@
 			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_Water_9_1.webp"
 		},
 		"unlockItems": [],
-		"version": "CN-Only",
+		"version": "4.2",
 		"fashion": [
 			{
 				"Fierce Shark": "None.webp"
@@ -1816,5 +1816,39 @@
 		],
 		"colors": [],
 		"id": "Mount32"
+	},
+	"MountRacing3_guo": {
+		"name": "Wind Walker",
+		"description": " \"Ride the wind\" is its motto. It's in a race with the wild gusts to prove who's the fastest.",
+		"rarity": 5,
+		"source": [],
+		"assets": {
+			"Icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp",
+			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp"
+		},
+		"unlockItems": [
+			{
+				"item": {
+					"name": "Wind Walker",
+					"description": "\"Ride the wind\" is its motto. It's in a race with the wild gusts to prove who's the fastest.",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
+					"type": "MOUNT",
+					"source": [
+						"Obtained from the Wind Walker Mystery Box event"
+					],
+					"id": "Mount_Racing_003_guo"
+				},
+				"amount": 1
+			}
+		],
+		"version": "CN-Only",
+		"fashion": [
+			{
+				"Default skin": "None.webp"
+			}
+		],
+		"colors": [],
+		"id": "MountRacing3_guo"
 	}
 }

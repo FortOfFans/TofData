@@ -8620,6 +8620,179 @@
 	"GA_FPlayerMarkSkillPhy_Sub_ChangeSkill": {
 		"skills": []
 	},
+	"GA_FPlayerMerylXChangeSkill": {
+		"skills": [
+			{
+				"name": "Canon à rayons magnétiques",
+				"description": "Lorsque la <red>recharge d'arme est pleine</> ou que <red>Fantaisie</> est déclenchée, au moment où vous changez d'arme pour passer à celle-ci, <shuzhi>élimine toutes les altérations sur l'Explorateur</>. Limite de siège prend la forme de Blaster EM et déclenche une puissante explosion, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles en vue. Lors de cette explosion, est immunisé contre les dégâts pendant <shuzhi>1,5</> seconde (non disponible en Ligue ultime).\r\nAprès avoir utilisé un Canon à rayons magnétiques, augmente l'attaque de foudre de l'Explorateur de <shuzhi>10%</> pendant <shuzhi>20</> secondes et entre en Perturbation électromagnétique pendant <shuzhi>22</> secondes. Pendant ce temps, l'Explorateur obtient Hypercorps. L'utilisation d'une compétence de foudre confère <shuzhi>500</> points de recharge d'arme supplémentaires. Les dégâts de foudre ont <shuzhi>25%</> de chances de déclencher de l'électricité statique en chaîne qui inflige des dégâts équivalant à <shuzhi>50%</> de l'ATQ jusqu'à <shuzhi>7</> cibles (comptabilisés comme des dégâts d'attaque normale mais ne déclenche aucun effet d'attaque normale). Cet effet peut être déclenché une fois toutes les <shuzhi>0,5</> secondes. Vaincre une cible déclenche de nouveau de l'électricité statique en chaîne. Cet effet peut être déclenché une fois toutes les <shuzhi>0,1</> secondes.\r\nLorsque <shuzhi>Résonance de fortitude</> est déclenchée :\r\nen état de Perturbation électromagnétique, provoque les ennemis proches toutes les <shuzhi>2</> secondes et confère à l'Explorateur un bouclier équivalant à <shuzhi>20%</> des PV max pendant <shuzhi>2</> secondes.\r\nLorsque <shuzhi>Résonance de fortitude n'est pas</> déclenchée :\r\nen état de Perturbation électromagnétique, les attaques avec <shuzhi>Limite de siège</> infligent Électricité statique aux cibles, réduisant leur vitesse de <shuzhi>30%</> pendant <shuzhi>20</> secondes.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_changeskill.webp",
+				"operations": [],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXChangeSkill_Success"
+			}
+		]
+	},
+	"GA_FPlayerMerylXEvade": {
+		"skills": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/common_evade.webp",
+				"operations": [
+					"Movement",
+					"Dash"
+				],
+				"tags": [],
+				"id": "GA_FPlayerMerylXEvade_Evade"
+			},
+			{
+				"name": "Tourbillon pulsant",
+				"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez un bouton directionnel avant d'esquiver) pour déclencher Tourbillon pulsant, infligeant jusqu'à <shuzhi>{0}%</> de dégâts de l'ATQ + <shuzhi>{1}</> aux cibles en vue.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_fevadeattack.webp",
+				"operations": [
+					"Movement",
+					"Dash",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Tir de recul",
+				"description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Tir de recul, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> à la cible touchée.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_bevadeattack.webp",
+				"operations": [
+					"Dash",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_BackAttack"
+			},
+			{
+				"name": "Artillerie électromagnétique",
+				"description": "Appuyez et maintenez Attaque normale après une esquive pour déclencher Artillerie magnétoélectrique, qui possède trois forces en fonction de la durée de la charge : inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</>, <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</>, ou <shuzhi>{4}%</> de l'ATQ + <shuzhi>{5}</> aux cibles en vue. La charge max peut exécuter des cibles qui ne sont pas des boss (autres que les Explorateurs) avec jusqu'à 30% des PV max restants.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_evadepowerattack.webp",
+				"operations": [
+					"Dash",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_PowerAttack"
+			}
+		]
+	},
+	"GA_FPlayerMerylXMelee": {
+		"skills": [
+			{
+				"name": "Chaîne de fréquences",
+				"description": "Lorsque vous êtes au sol, utilisez l'Attaque normale pour lancer 5 attaques consécutives.\r\nPremière attaque : inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> et repousse la cible.\r\nDeuxième attaque : inflige des dégâts équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</> et repousse la cible.\r\nTroisième attaque : inflige des dégâts équivalant à <shuzhi>{4}%</> de l'ATQ + <shuzhi>{5}</> et repousse la cible.\r\nQuatrième attaque : inflige des dégâts jusqu'à <shuzhi>{6}%</> de l'ATQ + <shuzhi>{7}</> et repousse la cible.\r\nCinquième attaque : inflige des dégâts équivalant à <shuzhi>{8}%</> de l'ATQ + <shuzhi>{9}</> et repousse la cible.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_melee.webp",
+				"operations": [
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Melee"
+			},
+			{
+				"name": "Taillades bondissantes",
+				"description": "Lorsque l'Explorateur est dans les airs, utilisez l'Attaque normale pour lancer 5 attaques consécutives dans les airs consommant de l'endurance.\r\nPremière attaque : inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> et repousse la cible.\r\nDeuxième attaque : inflige des dégâts équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</> et repousse la cible. \r\nTroisième attaque : inflige des dégâts équivalant à <shuzhi>{4}%</> de l'ATQ + <shuzhi>{5}</> et repousse la cible.\r\nQuatrième attaque : inflige des dégâts jusqu'à <shuzhi>{6}%</> de l'ATQ + <shuzhi>{7}</> et repousse la cible.\r\nCinquième attaque : inflige des dégâts équivalant à <shuzhi>{8}%</> de l'ATQ + <shuzhi>{9}</> et repousse la cible.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_airattack.webp",
+				"operations": [
+					"Jump",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_AirAttack"
+			},
+			{
+				"name": "Coupe-foudre",
+				"description": "Lors de l'utilisation d'attaque normale au sol, appuyez et maintenez Attaque normale lors de la première ou seconde attaque normale pour déclencher Coupe-foudre.\r\nFaites virevolter Limite de siège et faites des entailles vers le bas pour infliger des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch.webp",
+				"operations": [
+					"Attack",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Branch"
+			},
+			{
+				"name": "Percée éclair",
+				"description": "Lors de l'utilisation d'une attaque normale sur le terrain, appuyez et maintenez Attaque normale entre la troisième et la quatrième attaque normale pour déclencher Percée éclair.\r\nLancez une attaque rapide vers le haut pour infliger des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch1.webp",
+				"operations": [
+					"Attack",
+					"Attack",
+					"Attack",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Branch1"
+			},
+			{
+				"name": "Tir solaire",
+				"description": "Lorsque vous êtes au sol, appuyez et maintenez Attaque normale pour déclencher Tir solaire.\r\nLance un tir chargé sur la cible, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> à la cible à l'impact.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_aimattack.webp",
+				"operations": [
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_PowerAttack"
+			},
+			{
+				"name": "Scintillement électrifié",
+				"description": "Appuyez et maintenez Attaque normale dans les airs (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez un jetpack pour déclencher Scintillement électrifié.\r\nVous tombez et lors de la descente, chaque coup porté à l'ennemi inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</>. À l'atterrissage, vous infligez des dégâts équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</> aux cibles proches.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_jumpattack.webp",
+				"operations": [
+					"Jump",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_JumpAttack"
+			}
+		]
+	},
+	"GA_FPlayerMerylXSkill": {
+		"skills": [
+			{
+				"name": "Tonnerre cosmique",
+				"description": "Passez Limite de siège en forme d'épée longue pour infliger des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> (non cumulable avec <shuzhi>Électrolame</>). Cette compétence a un temps de recharge de <shuzhi>20</> secondes (cette durée n'est pas affectée par d'autres effets qui annulent, réinitialisent ou modifient le temps de recharge).\r\nLorsque <shuzhi>Résonance de fortitude</> est déclenchée : Tonnerre cosmique confère Hypercorps aux coéquipiers proches pendant <shuzhi>10</> secondes. Utiliser Tonnerre cosmique quand le <shuzhi>Renforcement de l'électrolame</> est actif attire les ennemis et réduit la résistance de <shuzhi>10%</> pendant <shuzhi>20</> secondes.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_skill.webp",
+				"operations": [],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXSkill_Skill"
+			}
+		]
+	},
 	"GA_FPlayerMiMiChangeSkill": {
 		"skills": [
 			{
@@ -8945,7 +9118,7 @@
 		"skills": [
 			{
 				"name": "Taillade de Course-ciel",
-				"description": "Lorsque la <red>recharge d'arme est pleine</> ou que <red>Fantaisie</> est déclenchée, au moment où vous changez d'arme pour passer à celle-ci, <shuzhi>élimine toutes les altérations sur l'Explorateur</> et inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches. Durant cette période, octroie une immunité aux dégâts pendant <shuzhi>1,5</> secondes (non disponible en Ligue ultime).",
+				"description": "Lorsque la <red>recharge d'arme est pleine</> ou que <red>Fantaisie</> est déclenchée, au moment où vous changez d'arme pour passer à celle-ci, <shuzhi>élimine toutes les altérations sur l'Explorateur</> et inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches. Durant cette période, octroie une immunité aux dégâts pendant <shuzhi>1,5</> seconde (non disponible en Ligue ultime).",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_ChangeSkill.webp",
 				"operations": [],
 				"tags": [
@@ -8986,7 +9159,7 @@
 			},
 			{
 				"name": "Course-ciel sonique",
-				"description": "Esquivez avant de maintenir pour entrer en mode Course-ciel sonique, période pendant laquelle la vitesse est augmentée et l'endurance est constamment consommée pour attaquer devant. Chaque fois que l'Explorateur réussit un coup, il inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.\r\nPendant Course-ciel sonique, sautez et atterrissez pour consommer de l'endurance et bénéficier d'un bonus de vitesse temporaire. Dans l'aire de jeu principale, au bout de <shuzhi>10</> secondes en mode Course-ciel sonique, les dégâts infligés par Course-ciel sonique peuvent exécuter les ennemis qui ne sont pas des boss (non disponible en Ligue ultime).",
+				"description": "Esquivez avant de maintenir pour entrer en Course-ciel sonique, période pendant laquelle la vitesse est augmentée et l'endurance est constamment consommée pour attaquer devant. Chaque fois que l'Explorateur réussit un coup, il inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.\r\nPendant Course-ciel sonique, sautez et atterrissez pour consommer de l'endurance et bénéficier d'un bonus de vitesse temporaire. Dans l'aire de jeu principale, au bout de <shuzhi>10</> secondes en Course-ciel sonique, les dégâts infligés par Course-ciel sonique peuvent exécuter les ennemis qui ne sont pas des boss (non disponible en Ligue ultime).",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_EvadeOn.webp",
 				"operations": [
 					"Movement"
@@ -9002,7 +9175,7 @@
 		"skills": [
 			{
 				"name": "Chevaucheur du vent",
-				"description": "Lorsque vous êtes au sol, utilisez l'Attaque normale pour lancer 5 attaques consécutives.\r\nPremière attaque : inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> et repousse la cible.\r\nDeuxième attaque : inflige des dégâts équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</> et repousse la cible. \r\nTroisième attaque : inflige des dégâts équivalant à <shuzhi>{4}%</> de l'ATQ + <shuzhi>{5}</> et repousse la cible.\r\nQuatrième attaque : inflige des dégâts jusqu'à <shuzhi>{6}%</> de l'ATQ + <shuzhi>{7}</> et repousse la cible.\r\nCinquième attaque : inflige des dégâts équivalant à <shuzhi>{8}%</> de l'ATQ + <shuzhi>{9}</> et projette la cible dans les airs.\r\nEn <shuzhi>mode super-vitesse</>, au cours de la cinquième attaque, appuyez et maintenez Attaque normale pour la connecter à la première.",
+				"description": "Lorsque vous êtes au sol, utilisez l'attaque normale pour lancer 5 attaques consécutives.\r\nPremière attaque : inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> et repousse la cible.\r\nDeuxième attaque : inflige des dégâts équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</> et repousse la cible. \r\nTroisième attaque : inflige des dégâts équivalant à <shuzhi>{4}%</> de l'ATQ + <shuzhi>{5}</> et repousse la cible.\r\nQuatrième attaque : inflige des dégâts jusqu'à <shuzhi>{6}%</> de l'ATQ + <shuzhi>{7}</> et repousse la cible.\r\nCinquième attaque : inflige des dégâts équivalant à <shuzhi>{8}%</> de l'ATQ + <shuzhi>{9}</> et projette la cible dans les airs.\r\nEn <shuzhi>mode super-vitesse</>, au cours de la cinquième attaque, appuyez et maintenez Attaque normale pour la connecter à la première.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_Melee.webp",
 				"operations": [
 					"Attack",
@@ -9062,7 +9235,7 @@
 			},
 			{
 				"name": "Cavalière des tourbillons",
-				"description": "Lors de l'utilisation d'une attaque normale sur le terrain, appuyez et maintenez Attaque normale entre la troisième et la quatrième attaque normale pour déclencher Cavalière des tourbillons\r\nInflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.",
+				"description": "Lors de l'utilisation d'une attaque normale sur le terrain, appuyez et maintenez Attaque normale entre la troisième et la quatrième attaque normale pour déclencher Cavalière des tourbillons.\r\nInflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_Branch3.webp",
 				"operations": [
 					"Attack",
@@ -9107,8 +9280,8 @@
 	"GA_FPlayerNoraSkill01": {
 		"skills": [
 			{
-				"name": "Énergie explosive",
-				"description": "Passe en mode super-vitesse pour que l'Explorateur gagne une invincibilité temporaire et inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches, et applique aux cibles un ralentissement de <shuzhi>65%</> pendant <shuzhi>3</> secondes (inefficace contre les boss en jeu en équipe).\r\nEn mode super-vitesse, obtient un hypercorps et, simultanément, pour chaque attaque de <shuzhi>Chevaucheur du vent</> et de <shuzhi>Foule-nuages</> Ultrason inflige des dégâts supplémentaires équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</> (comptent comme des dégâts passifs). En même temps, chaque attaque réussie confère <shuzhi>1</> cumul de Surcharge, cumulable jusqu'à <shuzhi>6</> fois (<shuzhi>1</> cumul toutes les <shuzhi>0,65</> secondes).\r\nAu bout de <shuzhi>5</> secondes en mode super-vitesse, obtient la nouvelle compétence <shuzhi>Cavalière véloce</> (utilisable en mode super-vitesse). Tout changement d'arme pendant cette période empêchera l'Explorateur d'utiliser <shuzhi>Cavalière véloce</>.\r\n\r\n<shuzhi>Effet passif : Réforme de super-vitesse</>\r\n<shuzhi>Grondelame</> possède 5 types d'éléments. Active l'<shuzhi>un</> d'eux via la page Compétences - Paramètres. Impossible de changer de type en cours de combat.\r\nEn fonction du type d'élément de <shuzhi>Grondelame</>, l'utilisation d'Énergie brutale pour toucher une cible portera un <shuzhi>attribut d'arme</> correspondant différent et produira un effet différent.\r\n\r\n<red>Foudre-givre</> : obtient <shuzhi>28</> secondes de mode super-vitesse. Pendant ce temps, à chaque fois que <shuzhi>Grondelame</> touche une cible avec une attaque ou que l'Explorateur reçoit des soins sans surplus, obtient 1 cumul de <shuzhi>Convergence thermique</>, cumulable jusqu'à <shuzhi>10</> fois. <shuzhi>3</> secondes après la fin du mode super-vitesse, toute la Convergence thermique non transformée est supprimée. Temps de recharge : <shuzhi>30</> secondes (non affecté par la réduction, la réinitialisation ou la modification des effets du temps de recharge).\r\n\r\n<red>Feu-physique</> : obtient <shuzhi>23</> secondes de mode super-vitesse. En passant en mode super-vitesse, consomme toutes les <shuzhi>Étincelles</>. Pour chaque cumul consommé, obtient <shuzhi>2 200</> points d'ATQ de feu de base (cette ATQ de feu ne sera pas reflétée dans les stats de l'Explorateur et n'est pas disponible en Ligue ultime) et augmente les dégâts finaux de <shuzhi>Grondelame</> de <shuzhi>22%</>. En mode super-vitesse, obtient Poursuite de feu. Lorsque vous infligez des dégâts de feu, inflige aux cibles proches des dégâts équivalant à <shuzhi>1 520%</> de l'ATQ, et se déclenche <shuzhi>1</> fois toutes les <shuzhi>2</> secondes. Temps de recharge : <shuzhi>25</> secondes (non affecté par les effets de réinitialisation ou de réduction du temps de recharge).\r\n\r\n<red>Foudre-givre</> : obtient <shuzhi>18</> secondes de mode super-vitesse. En mode super-vitesse, augmente les dégâts de foudre de <shuzhi>30%</>. Pour chaque attaque normale réussie lorsque <shuzhi>Grondelame</> est dans l'emplacement principal, obtient <shuzhi>1</> cumul de <shuzhi>Coup de tonnerre</>, cumulable jusqu'à <shuzhi>18</> fois. Lorsque les cumuls sont au maximum, consomme tous les cumuls et inflige des dégâts supplémentaires aux cibles proches équivalant à <shuzhi>6 000%</> de l'ATQ (comptent comme des dégâts de compétence). En même temps, obtient un Bouclier équivalant à <shuzhi>30%</> des PV max pendant <shuzhi>10</> secondes (effet non cumulable). L'effet supplémentaire Coup de tonnerre peut se déclencher jusqu'à <shuzhi>5</> fois dès que l'Explorateur passe en mode super-vitesse. Si <shuzhi>Taillades liées</> consomme <shuzhi>6</> cumuls de <shuzhi>Surcharge</>, inflige aux cibles proches des dégâts supplémentaires équivalant à <shuzhi>11 000%</> de l'ATQ. Ces dégâts comptent comme des dégâts de compétence. Temps de recharge : <shuzhi>20</> secondes (non affecté par les effets de réinitialisation ou de réduction du temps de recharge).\r\n\r\n<red>Physique-feu</> : obtient <shuzhi>19</> secondes de mode super-vitesse. En mode super-vitesse, inflige des dégâts aux cibles proches équivalant à <shuzhi>2 900%</> de l'ATQ physique toutes les secondes. Chaque fois que ces dégâts touchent une cible, ils confèrent à l'Explorateur un Bouclier équivalant à <shuzhi>5%</> des PV max, jusqu'à <shuzhi>10%</> à la fois, pendant <shuzhi>10</> secondes. Le maximum de ce Bouclier ne dépasse pas <shuzhi>50%</> des PV de l'Explorateur. Temps de recharge : <shuzhi>21</> secondes (non affecté par les effets de réinitialisation ou de réduction du temps de recharge).\r\n\r\n<red>Altéré</> : obtient <shuzhi>23</> secondes de mode super-vitesse. En mode super-vitesse, augmente les PV max de <shuzhi>100%</>. En même temps, chaque attaque réussie de <shuzhi>Chevaucheur du vent</> et de <shuzhi>Foule-nuages</> inflige des dégâts supplémentaires équivalant à <shuzhi>1 400%</> des PV max, sans dépasser <shuzhi>240</> fois l'ATQ de l'Explorateur. Ces dégâts comptent comme des dégâts de compétence et ne sont pas affectés par les effets d'augmentation des dégâts. Temps de recharge : <shuzhi>25</> secondes (non affecté par les effets de réinitialisation ou de réduction du temps de recharge).",
+				"name": "Énergie brutale",
+				"description": "Passe en mode super-vitesse pour que l'Explorateur gagne une invincibilité temporaire et inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches, et applique aux cibles un ralentissement de <shuzhi>65%</> pendant <shuzhi>3</> secondes (inefficace contre les boss en jeu en équipe).\r\nEn mode super-vitesse, obtient un hypercorps et, simultanément, pour chaque attaque de <shuzhi>Chevaucheur du vent</> et de <shuzhi>Foule-nuages</> Ultrason inflige des dégâts supplémentaires équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</> (comptent comme des dégâts passifs). En même temps, chaque attaque réussie confère <shuzhi>1</> cumul de Surcharge, cumulable jusqu'à <shuzhi>6</> fois (<shuzhi>1</> cumul toutes les <shuzhi>0,65</> secondes).\r\nAu bout de <shuzhi>5</> secondes en mode super-vitesse, obtient la nouvelle compétence <shuzhi>Cavalière véloce</> (utilisable en mode super-vitesse). Tout changement d'arme pendant cette période empêchera l'Explorateur d'utiliser <shuzhi>Cavalière véloce</>.\r\n\r\n<shuzhi>Effet passif : Réforme de super-vitesse</>\r\n<shuzhi>Grondelame</> possède 5 types d'éléments. Active l'<shuzhi>un</> d'eux via la page Compétences - Paramètres. Impossible de changer de type en cours de combat.\r\nEn fonction du type d'élément de <shuzhi>Grondelame</>, l'utilisation d'Énergie brutale pour toucher une cible portera un <shuzhi>attribut d'arme</> correspondant différent et produira un effet différent.\r\n\r\n<red>Foudre-givre</> : obtient <shuzhi>28</> secondes de mode super-vitesse. Pendant ce temps, à chaque fois que <shuzhi>Grondelame</> touche une cible avec une attaque ou que l'Explorateur reçoit des soins sans surplus, obtient 1 cumul de <shuzhi>Convergence thermique</>, cumulable jusqu'à <shuzhi>10</> fois. <shuzhi>3</> secondes après la fin du mode super-vitesse, toute la Convergence thermique non transformée est supprimée. Temps de recharge : <shuzhi>30</> secondes (non affecté par la réduction, la réinitialisation ou la modification des effets du temps de recharge).\r\n\r\n<red>Feu-physique</> : obtient <shuzhi>23</> secondes de mode super-vitesse. En passant en mode super-vitesse, consomme toutes les <shuzhi>Étincelles</>. Pour chaque cumul consommé, obtient <shuzhi>600</> points d'ATQ de feu de base (cette ATQ de feu ne sera pas reflétée dans les stats de l'Explorateur et n'est pas disponible en Ligue ultime) et augmente les dégâts finaux de <shuzhi>Grondelame</> de <shuzhi>6%</>. En mode super-vitesse, obtient Poursuite de feu. Lorsque vous infligez des dégâts de feu, inflige aux cibles proches des dégâts équivalant à <shuzhi>500%</> de l'ATQ, et se déclenche <shuzhi>1</> fois toutes les <shuzhi>2</> secondes. Temps de recharge : <shuzhi>25</> secondes (non affecté par les effets de réinitialisation ou de réduction du temps de recharge).\r\n\r\n<red>Foudre-givre</> : obtient <shuzhi>18</> secondes de mode super-vitesse. En mode super-vitesse, augmente les dégâts de foudre de <shuzhi>12%</>. Pour chaque attaque normale réussie lorsque <shuzhi>Grondelame</> est dans l'emplacement principal, obtient <shuzhi>1</> cumul de <shuzhi>Coup de tonnerre</>, cumulable jusqu'à <shuzhi>18</> fois. Lorsque les cumuls sont au maximum, consomme tous les cumuls et inflige des dégâts supplémentaires aux cibles proches équivalant à <shuzhi>2 000%</> de l'ATQ (comptent comme des dégâts de compétence). En même temps, obtient un Bouclier équivalant à <shuzhi>30%</> des PV max pendant <shuzhi>10</> secondes (effet non cumulable). L'effet supplémentaire Coup de tonnerre peut se déclencher jusqu'à <shuzhi>5</> fois dès que l'Explorateur passe en mode super-vitesse. Si <shuzhi>Taillades liées</> consomme <shuzhi>6</> cumuls de <shuzhi>Surcharge</>, inflige aux cibles proches des dégâts supplémentaires équivalant à <shuzhi>3 500%</> de l'ATQ. Ces dégâts comptent comme des dégâts de compétence. Temps de recharge : <shuzhi>20</> secondes (non affecté par les effets de réinitialisation ou de réduction du temps de recharge).\r\n\r\n<red>Physique-feu</> : obtient <shuzhi>19</> secondes de mode super-vitesse. En mode super-vitesse, inflige des dégâts aux cibles proches équivalant à <shuzhi>700%</> de l'ATQ toutes les secondes. Chaque fois que ces dégâts touchent une cible, ils confèrent à l'Explorateur un Bouclier équivalant à <shuzhi>5%</> des PV max, jusqu'à <shuzhi>10%</> à la fois, pendant <shuzhi>10</> secondes. Le maximum de ce Bouclier ne dépasse pas <shuzhi>50%</> des PV de l'Explorateur. Temps de recharge : <shuzhi>21</> secondes (non affecté par les effets de réinitialisation ou de réduction du temps de recharge).\r\n\r\n<red>Altéré</> : obtient <shuzhi>23</> secondes de mode super-vitesse. En mode super-vitesse, augmente les PV max de <shuzhi>100%</>. En même temps, chaque attaque réussie de <shuzhi>Chevaucheur du vent</> et de <shuzhi>Foule-nuages</> inflige des dégâts supplémentaires équivalant à <shuzhi>166%</> des PV max, sans dépasser <shuzhi>30</> fois l'ATQ de l'Explorateur. Ces dégâts comptent comme des dégâts de compétence et ne sont pas affectés par les effets d'augmentation des dégâts. Temps de recharge : <shuzhi>25</> secondes (non affecté par les effets de réinitialisation ou de réduction du temps de recharge).",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_Skill01.webp",
 				"operations": [],
 				"tags": [
@@ -9119,7 +9292,7 @@
 			},
 			{
 				"name": "Cavalière véloce",
-				"description": "Peut être déclenché en mode super-vitesse pour infliger des Taillades liées en plusieurs phases aux cibles proches, infligeant des dégâts totaux équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</>. Le mode super-vitesse se termine après avoir utilisé cette compétence.\r\n\r\n<shuzhi>Effet passif : Inertie de super-vitesse</>\r\nEn fonction de l'élément de <shuzhi>Grondelame</>, utilise <shuzhi>Cavalière véloce</> pour obtenir un effet supplémentaire.\r\n\r\n<red>Foudre-givre</> : consomme la totalité des cumuls de <shuzhi>Convergence thermique</> et obtient Surgel qui augmente le bonus de dégâts de givre de <shuzhi>1,4%</> des cumuls de <shuzhi>Convergence thermique</>. Inflige simultanément aux cibles proches des dégâts de givre équivalant à <shuzhi>1 400%</> de l'ATQ + le nombre de cumuls de <shuzhi>Convergence thermique</> multiplié par <shuzhi>240%</> de l'ATQ. Ces dégâts comptent comme des dégâts passifs et durent <shuzhi>30</> secondes.\r\n\r\n<red>Altéré</> : inflige aux cibles proches des dégâts supplémentaires équivalant à <shuzhi>50 000%</> des PV max de l'Explorateur. Ces dégâts ne dépassent pas <shuzhi>8 000</> fois l'ATQ de l'Explorateur, comptent comme des dégâts de compétence et ne sont pas affectés par les effets d'augmentation de dégâts.",
+				"description": "Peut être déclenché en mode super-vitesse pour infliger des Taillades liées en plusieurs phases aux cibles proches, infligeant des dégâts totaux équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</>. Le mode super-vitesse se termine après avoir utilisé cette compétence.\r\n\r\n<shuzhi>Effet passif : Inertie de super-vitesse</>\r\nEn fonction de l'élément de <shuzhi>Grondelame</>, utilise Cavalière véloce pour obtenir un effet supplémentaire.\r\n\r\n<red>Foudre-givre</> : consomme la totalité des cumuls de <shuzhi>Convergence thermique</> et obtient Surgel qui augmente le bonus de dégâts de givre de <shuzhi>0,6%</> des cumuls de <shuzhi>Convergence thermique</>. Inflige simultanément aux cibles proches des dégâts de givre équivalant à <shuzhi>500%</> de l'ATQ + le nombre de cumuls de <shuzhi>Convergence thermique</> multiplié par <shuzhi>50%</> de l'ATQ. Ces dégâts comptent comme des dégâts passifs et durent <shuzhi>30</> secondes.\r\n\r\n<red>Altéré</> : inflige aux cibles proches des dégâts supplémentaires équivalant à <shuzhi>6 250%</> des PV max de l'Explorateur. Ces dégâts ne dépassent pas <shuzhi>1 000</> fois l'ATQ de l'Explorateur, comptent comme des dégâts de compétence et ne sont pas affectés par les effets d'augmentation de dégâts.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/Nora_Skill02.webp",
 				"operations": [],
 				"tags": [

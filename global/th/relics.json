@@ -659,6 +659,39 @@
 		"version": "3.7",
 		"id": "artifact_ssr_023"
 	},
+	"artifact_ssr_024": {
+		"name": "สนามพลังบัฟ",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "",
+		"source": "",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"rarity": 5,
+		"AttributeID": "artifact_adv_048",
+		"advancement": [
+			{
+				"description": "เมื่ออยู่ในโหมดป้องกัน การลดดาเมจจะเพิ่มขึ้นสู่ **20%**",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "เพิ่มเอฟเฟกต์เพิ่มดาเมจในรูปแบบการโจมตีขึ้นสู่ **11%**",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "ในรูปแบบการป้องกัน ช่วงกระตุ้นเอฟเฟกต์การทนต่อเอฟเฟกต์ถึงตายจะลดลงเหลือทุก **120** วินาที สามารถเรียกใช้สูงสุด 1 ครั้ง",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "เพิ่มค่าต้านทานเหนือมนุษย์ **2%** แม้ว่าจะไม่ได้ใช้งานก็ตาม ใช้ในลีกแข่งยอดฝีมือไม่ได้",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "เพิ่มเอฟเฟกต์เพิ่มดาเมจในรูปแบบการโจมตีขึ้นสู่ **16%**",
+				"id": "artifact_adv_048"
+			}
+		],
+		"version": "CN-Only",
+		"id": "artifact_ssr_024"
+	},
 	"artifact_sr_001": {
 		"name": "ปืนใหญ่บินร่อน",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -702,7 +735,7 @@
 		"AttributeID": "artifact_adv_015",
 		"advancement": [
 			{
-				"description": "เติมชาร์จ 1 ขีด ทุก**100** วินาที\r\nเวลาร่อนกลางอากาศจะไม่เสีย\r\nค่าพลังกาย",
+				"description": "เติมชาร์จ 1 ขีด ทุก **20** วินาที\r\nเวลาร่อนกลางอากาศจะไม่เสีย\r\nค่าพลังกาย",
 				"id": "artifact_adv_015"
 			},
 			{
@@ -710,7 +743,7 @@
 				"id": "artifact_adv_015"
 			},
 			{
-				"description": "เติมชาร์จ **1** ขีดทุก 60 วินาที",
+				"description": "เติมชาร์จ 1 ขีด ทุก **15** วินาที",
 				"id": "artifact_adv_015"
 			},
 			{

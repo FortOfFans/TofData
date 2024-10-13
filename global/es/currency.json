@@ -265,13 +265,13 @@
 	},
 	"WeaponFragmentUP1": {
 		"name": "Oro Llameante (Loto Rojo)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP1"
 	},
 	"WeaponFragmentUP2": {
 		"name": "Oro Llameante (Llamarada)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP2"
 	},
@@ -301,109 +301,109 @@
 	},
 	"WeaponFragmentUP3": {
 		"name": "Oro Llameante (Luna Blanca)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP3"
 	},
 	"WeaponFragmentUP4": {
 		"name": "Oro Llameante (Amanecer)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP4"
 	},
 	"WeaponFragmentUP5": {
 		"name": "Oro Llameante (Renacimiento)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP5"
 	},
 	"WeaponFragmentUP6": {
 		"name": "Oro Llameante (Corazón de Hierro)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP6"
 	},
 	"WeaponFragmentUP7": {
 		"name": "Oro Llameante (Sol)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP7"
 	},
 	"WeaponFragmentUP8": {
 		"name": "Oro Llameante (Flujo)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP8"
 	},
 	"WeaponFragmentUP9": {
 		"name": "Oro Llameante (Sombra)",
-		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial. Canjeable por armas limitadas.\r\nLas luces refractadas nunca desaparecen, cegadoras, interminables y aterradoras.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas. Canjeable por armas limitadas.\r\nLas luces deslumbrantes refractadas interminablemente pero aterradoramente nunca se desvanecen.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP9"
 	},
 	"WeaponFragmentUP10": {
 		"name": "Oro Llameante (Truco)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP10"
 	},
 	"WeaponFragmentUP11": {
 		"name": "Oro Llameante (Cera)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP11"
 	},
 	"WeaponFragmentUP12": {
 		"name": "Oro Llameante (Estrellas)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP12"
 	},
 	"WeaponFragmentUP13": {
 		"name": "Oro Llameante (Decreto)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP13"
 	},
 	"WeaponFragmentUP14": {
 		"name": "Oro Llameante (Fusión)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP14"
 	},
 	"WeaponFragmentUP15": {
 		"name": "Oro Llameante (Mijo de Té)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP15"
 	},
 	"WeaponFragmentUP16": {
 		"name": "Oro Llameante (Movimiento)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP16"
 	},
 	"WeaponFragmentUP17": {
 		"name": "Oro Llameante (Pluma Bermellón)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP17"
 	},
 	"WeaponFragmentUP18": {
 		"name": "Oro llameante",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP18"
 	},
 	"WeaponFragmentUP19": {
 		"name": "Oro llameante",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP19"
 	},
 	"WeaponFragmentUP20": {
 		"name": "Oro Llameante (Constante)",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP20"
 	},

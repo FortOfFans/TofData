@@ -442,7 +442,7 @@
 	"WeaponFragment_UP1": {
 		"name": "Flammengold: Roter Lotus",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -453,7 +453,7 @@
 	"WeaponFragment_UP2": {
 		"name": "Flammengold (Großbrand)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -464,7 +464,7 @@
 	"WeaponFragment_UP3": {
 		"name": "Flammengold: Weißer Mond",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -475,7 +475,7 @@
 	"WeaponFragment_UP4": {
 		"name": "Flammengold: Dawn",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -486,7 +486,7 @@
 	"WeaponFragment_UP5": {
 		"name": "Flammengold: Wiedergeburt",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -497,7 +497,7 @@
 	"WeaponFragment_UP6": {
 		"name": "Flammengold: Eisenherz",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -508,7 +508,7 @@
 	"WeaponFragment_UP7": {
 		"name": "Flammengold: Sonne",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -519,7 +519,7 @@
 	"WeaponFragment_UP8": {
 		"name": "Flammengold: Flow",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -530,7 +530,7 @@
 	"WeaponFragment_UP9": {
 		"name": "Flammengold: Schatten",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen. Einlösbar für limitierte Waffen.\r\nSchillernde, endlos brechende Lichter, die aber erschreckenderweise nie vergehen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden. Einlösbar für limitierte Waffen.\r\nSchillernde, endlos brechende Lichter, die aber erschreckenderweise nie vergehen.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -541,7 +541,7 @@
 	"WeaponFragment_UP10": {
 		"name": "Flammengold: Trickreich",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -552,7 +552,7 @@
 	"WeaponFragment_UP11": {
 		"name": "Flammengold: Wachs",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -563,7 +563,7 @@
 	"WeaponFragment_UP12": {
 		"name": "Flammengold: Sterne",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -574,7 +574,7 @@
 	"WeaponFragment_UP13": {
 		"name": "Flammengold: Dekret",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -585,7 +585,7 @@
 	"WeaponFragment_UP14": {
 		"name": "Flammengold: Zusammenschluss",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -596,7 +596,7 @@
 	"WeaponFragment_UP15": {
 		"name": "Flammengold (Teehirse)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -607,7 +607,7 @@
 	"WeaponFragment_UP16": {
 		"name": "Flammengold: Bewegung",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -618,7 +618,7 @@
 	"WeaponFragment_UP17": {
 		"name": "Flammengold: Purpurfeder",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -629,7 +629,7 @@
 	"WeaponFragment_UP18": {
 		"name": "Flammengold",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -640,7 +640,7 @@
 	"WeaponFragment_UP19": {
 		"name": "Flammengold",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>"
 		],
@@ -651,7 +651,7 @@
 	"WeaponFragment_UP20": {
 		"name": "Flammengold: Konstante",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
+		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Kunstwerk als Währung, diese können gegen exklusive Waffen getauscht werden.",
 		"source": [
 			"Kann im Waffen-Shop gegen Waffen getauscht werden."
 		],

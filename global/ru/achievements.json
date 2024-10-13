@@ -8994,11 +8994,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305101"
@@ -9023,11 +9023,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305102"
@@ -9052,11 +9052,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305103"
@@ -9168,11 +9168,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305201"
@@ -9197,11 +9197,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305202"
@@ -9226,11 +9226,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305203"
@@ -9342,11 +9342,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305301"
@@ -9371,11 +9371,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305302"
@@ -9400,11 +9400,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305303"
@@ -9516,11 +9516,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305401"
@@ -9545,11 +9545,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305402"
@@ -9574,11 +9574,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305403"
@@ -9690,11 +9690,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy.webp",
-				"rarity": 3,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 100,
-				"matId": "Item_PrimaryEnergy_2"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305501"
@@ -9719,11 +9719,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 200,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305502"
@@ -9748,11 +9748,11 @@
 			{
 				"name": "Пылевидные кристаллы энергии",
 				"description": "Миниатюрные кристаллы энергии, которые образуются при использовании подавителя. Обладают небольшой восстанавливающей способностью.",
-				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_2.webp",
-				"rarity": 4,
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Energy_3.webp",
+				"rarity": 5,
 				"type": "CURRENCY",
 				"amt": 300,
-				"matId": "Item_PrimaryEnergy_3"
+				"matId": "Item_PrimaryEnergy_4"
 			}
 		],
 		"id": "305503"
@@ -22266,7 +22266,7 @@
 	"904061": {
 		"name": "Земляной властитель",
 		"amount": 1,
-		"description": "",
+		"description": "Одолеть Земляного властителя\r\nМесто: Полигон Земляного властителя",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Бой",
 		"section2": "Босс",
@@ -22290,8 +22290,9 @@
 		"id": "904061"
 	},
 	"904062": {
+		"name": "Ветреная - Джилл",
 		"amount": 1,
-		"description": "",
+		"description": "Достигнуть 100 уровня измерения или выше\r\nПобедить Ветреную - Джилл\r\nМестоположение: Большой северо-восточный остров Лазурного побережья",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Бой",
 		"section2": "Монстр",
@@ -22308,8 +22309,9 @@
 		"id": "904062"
 	},
 	"904063": {
+		"name": "Светоносец - Лас",
 		"amount": 1,
-		"description": "",
+		"description": "Достигнуть 100 или более уровня измерения\r\nПобедить Светоносца - Ласа\r\nМестоположение: Северо-восточный маленький остров Лазурного побережья",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Бой",
 		"section2": "Монстр",
@@ -22326,8 +22328,9 @@
 		"id": "904063"
 	},
 	"904064": {
+		"name": "Вектор - Дастин",
 		"amount": 1,
-		"description": "",
+		"description": "Достигнуть 100 уровня измерения или выше\r\nПобедить Вектора - Дастина\r\nМестоположение: Северо-восточный маленький остров Лазурного побережья",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Бой",
 		"section2": "Монстр",
@@ -22344,8 +22347,9 @@
 		"id": "904064"
 	},
 	"904065": {
+		"name": "Меткий стрелок - Дилан",
 		"amount": 1,
-		"description": "",
+		"description": "Достигнуть 100 или более уровня измерения\r\nОдолеть Мертвого глаза - Дилана\r\nМестоположение: Северная сторона Исследовательского центра «Браудел»",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Бой",
 		"section2": "Монстр",
@@ -22362,8 +22366,9 @@
 		"id": "904065"
 	},
 	"904066": {
+		"name": "Мире - Эльфийка",
 		"amount": 1,
-		"description": "",
+		"description": "Достигнуть 100 уровня измерения или выше\r\nПобедить Майра - Эльвина\r\nМестоположение: Южная крепость Лазурного побережья",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Бой",
 		"section2": "Монстр",
@@ -22380,8 +22385,9 @@
 		"id": "904066"
 	},
 	"904067": {
+		"name": "Красная молния - Грей",
 		"amount": 1,
-		"description": "",
+		"description": "Достигнуть 100 или более уровня измерения\r\nОдолеть Редболт - Грей\r\nМестоположение: Южная крепость Лазурного побережья",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Бой",
 		"section2": "Монстр",
@@ -22398,8 +22404,9 @@
 		"id": "904067"
 	},
 	"904068": {
+		"name": "Кровавая Ярость - Каран",
 		"amount": 1,
-		"description": "",
+		"description": "Достигнуть 100 уровня измерения или выше\r\nОдолеть Кровавую Ярость - Каран\r\nМестоположение: Ниже ТОЛЛИВУД",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chengjiu/icon_zhandou_001.webp",
 		"section": "Бой",
 		"section2": "Монстр",

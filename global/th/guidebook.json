@@ -2725,6 +2725,25 @@
 		"menuType": "Weapon",
 		"id": "Nitai_Loslyn_SSR"
 	},
+	"Nitai_MerylX_SSR": {
+		"name": "เมอริล ไอรอนฮาร์ท",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
+		"array": [
+			{
+				"title": "เมอริล ไอรอนฮาร์ท - ซีจเอดจ์",
+				"description": "ตัวละครซิมูลาครัม \"เมอริล ไอรอนฮาร์ท\" ของอาวุธ \"ซีจเอดจ์\" หลังจากปลดล็อกอาวุธที่เกี่ยวข้อง คุณจะสามารถจำลองเป็น \"เมอริล ไอรอนฮาร์ท\" เพื่อตะลุยในโลกแห่งหอคอยแฟนตาซี",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/th/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "เมอริล ไอรอนฮาร์ท - ซีจเอดจ์",
+				"description": "คำแนะนำการใช้ซีจเอดจ์ คุณสามารถเรียนรู้วิธีใช้สกิลของอาวุธประเภทนี้ได้",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/th/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"menuId": "imitate_role",
+		"menuType": "Weapon",
+		"id": "Nitai_MerylX_SSR"
+	},
 	"Nitai_tianlang_SSR": {
 		"name": "เทียนหลาง",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -3009,6 +3028,20 @@
 		"menuId": "WorldExplore",
 		"menuType": "WorldExploration",
 		"id": "Guide_MoveShoot"
+	},
+	"Guide_Norn_Bicycle": {
+		"name": "ขี่จักรยาน",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
+		"array": [
+			{
+				"title": "ขี่จักรยาน",
+				"description": "คุณสามารถเช่าจักรยานได้ที่สถานีจักรยาน ใช้คีย์บอร์ด AD หรือคลิกทางซ้ายหรือขวาเพื่อเริ่มการเร่งความเร็วของจักรยาน ใช้เมาส์ทางซ้ายหรือขวาหรือกดค้างที่ตัวควบคุมทางซ้ายหรือขวาเพื่อทำการเลี้ยว ใช้คีย์ S หรือกดค้างที่ตัวควบคุมทางล่างเพื่อเบรก และใช้คีย์ V เพื่อลงจากจักรยาน",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_Bicycle.webp"
+			}
+		],
+		"menuId": "WorldExplore",
+		"menuType": "WorldExploration",
+		"id": "Guide_Norn_Bicycle"
 	},
 	"Guide_Norn_CD": {
 		"name": "เครื่องฉายภาพการต่อสู้",
@@ -6117,6 +6150,13 @@
 		"menuId": "EQUIPMENT_SLOT_WEAPON",
 		"menuType": "All",
 		"id": "Loslyn_ice"
+	},
+	"MerylX_thunder": {
+		"name": "ซีจเอดจ์",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_wfjq02.webp",
+		"menuId": "EQUIPMENT_SLOT_WEAPON",
+		"menuType": "All",
+		"id": "MerylX_thunder"
 	},
 	"Nitai_mimi_SSR": {
 		"name": "หวง",

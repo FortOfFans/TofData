@@ -2725,6 +2725,25 @@
 		"menuType": "Weapon",
 		"id": "Nitai_Loslyn_SSR"
 	},
+	"Nitai_MerylX_SSR": {
+		"name": "梅丽尔·铠",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
+		"array": [
+			{
+				"title": "梅丽尔**•** 铠-破城之锋",
+				"description": "武器“破城之锋”的拟化拟态角色“梅丽尔**•** 铠”，解锁对应武器后即可拟化为角色“梅丽尔**•** 铠”在幻塔的世界中冒险。",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/zh-hans-sg/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "梅丽尔**•** 铠-破城之锋",
+				"description": "破城之锋操作指南，根据操作指南，可熟悉了解该类武器技能释放方式。",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/zh-hans-sg/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"menuId": "imitate_role",
+		"menuType": "Weapon",
+		"id": "Nitai_MerylX_SSR"
+	},
 	"Nitai_tianlang_SSR": {
 		"name": "天琅",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -3009,6 +3028,20 @@
 		"menuId": "WorldExplore",
 		"menuType": "WorldExploration",
 		"id": "Guide_MoveShoot"
+	},
+	"Guide_Norn_Bicycle": {
+		"name": "骑行车",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
+		"array": [
+			{
+				"title": "骑行车",
+				"description": "可在骑行车站租用骑行车。通过键盘AD或左右点击控制键来踩踏骑行车开始加速，鼠标左右或者长按控制器左右拖动来进行转弯，S键或长按控制器向下进行刹车，V键离开骑行车。",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_Bicycle.webp"
+			}
+		],
+		"menuId": "WorldExplore",
+		"menuType": "WorldExploration",
+		"id": "Guide_Norn_Bicycle"
 	},
 	"Guide_Norn_CD": {
 		"name": "战训投影仪",
@@ -6117,6 +6150,13 @@
 		"menuId": "EQUIPMENT_SLOT_WEAPON",
 		"menuType": "All",
 		"id": "Loslyn_ice"
+	},
+	"MerylX_thunder": {
+		"name": "破城之锋",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_wfjq02.webp",
+		"menuId": "EQUIPMENT_SLOT_WEAPON",
+		"menuType": "All",
+		"id": "MerylX_thunder"
 	},
 	"Nitai_mimi_SSR": {
 		"name": "篁",

@@ -800,27 +800,31 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_154.webp"
 	},
 	"AvatarFrame_155": {
-		"name": "Errante Despreocupado",
+		"name": "Errante despreocupado",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_155.webp"
 	},
 	"AvatarFrame_156": {
-		"name": "Marés Vibrantes",
+		"name": "Marés vibrantes",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_156.webp"
 	},
 	"AvatarFrame_157": {
 		"name": "Dia de fogos de artifício",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_157.webp"
 	},
+	"AvatarFrame_158": {
+		"name": "Sol esmaecido",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_158.webp"
+	},
 	"AvatarFrame_159": {
-		"name": "Mistérios do Mar Profundo",
+		"name": "Mistérios do mar profundo",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_159.webp"
 	},
 	"AvatarFrame_160": {
-		"name": "Cacto da Praia",
+		"name": "Cacto costeiro",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_160.webp"
 	},
 	"AvatarFrame_161": {
-		"name": "Sonhos de Verão",
+		"name": "Sonhos de verão",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_161.webp"
 	},
 	"AvatarFrame_162": {
@@ -828,8 +832,16 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_162.webp"
 	},
 	"AvatarFrame_163": {
-		"name": "Avançador",
+		"name": "Marchador",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_163.webp"
+	},
+	"AvatarFrame_164": {
+		"name": "Coração do Azul Congelante",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_164.webp"
+	},
+	"AvatarFrame_165": {
+		"name": "Olhos felinos",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_165.webp"
 	},
 	"AvatarFrame_txcreatos_06": {
 		"name": "Gala de lanternas",
@@ -936,7 +948,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_10.webp"
 	},
 	"AvatarFrame_PlayStation_03": {
-		"name": "N/A",
+		"name": "Agradecemos pela sua Devoção",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_PlayStation_03.webp"
 	},
 	"AvatarFrame_tencent_11": {
@@ -944,15 +956,19 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_11.webp"
 	},
 	"AvatarFrame_tencent_12": {
-		"name": "N/A",
+		"name": "Ladrão de corações",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_12.webp"
 	},
 	"AvatarFrame_tencent_13": {
-		"name": "N/A",
+		"name": "Pioneiro de Aida 6",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_13.webp"
 	},
 	"AvatarFrame_tencent_14": {
-		"name": "N/A",
+		"name": "Mi-a Viva",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_14.webp"
+	},
+	"AvatarFrame_tencent_15": {
+		"name": "Refresco de Verão",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_15.webp"
 	}
 }

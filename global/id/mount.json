@@ -1315,7 +1315,7 @@
 					"description": "Lembut, ringan, dan yang paling penting, cakep bingit!",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-					"type": "MOUNT",
+					"type": "MATERIAL",
 					"source": [
 						"From events"
 					],
@@ -1488,7 +1488,7 @@
 	},
 	"MountWater8": {
 		"name": "Midsummer Fantasy",
-		"description": " Tampak seperti float berbentuk donat yang lezat, sangat cocok untuk laut di musim panas. Berbaring di atasnya, merasakan angin laut, matahari terik berubah menjadi telur setengah matang, dan lautan menjadi sirup jeruk keprok biru... Hanya berayun perlahan dan tenggelam dalam fantasi.",
+		"description": " Tampak seperti float berbentuk donat yang lezat, sangat cocok untuk laut musim panas. Saat kau berbaring di atasnya, angin laut membelai kulitmu, dan matahari yang menyengat berubah menjadi telur setengah matang. Laut di bawah berkilauan seperti sirup jeruk biru. Cukup goyang perlahan dan biarkan dirimu terhanyut ke dalam fantasy yang penuh mimpi.",
 		"rarity": 5,
 		"source": [],
 		"assets": {
@@ -1499,7 +1499,7 @@
 			{
 				"item": {
 					"name": "Midsummer Fantasy",
-					"description": "Tampak seperti float berbentuk donat yang lezat, sangat cocok untuk laut di musim panas. Berbaring di atasnya, merasakan angin laut, matahari terik berubah menjadi telur setengah matang, dan lautan menjadi sirup jeruk keprok biru... Hanya berayun perlahan dan tenggelam dalam fantasi.",
+					"description": "Tampak seperti pelampung berbentuk donat yang lezat, sangat cocok untuk laut musim panas. Berbaring di atasnya, merasakan angin laut, matahari terik berubah menjadi telur setengah matang, dan lautan menjadi sirup jeruk keprok biru... Hanya berayun perlahan dan tenggelam dalam fantasy.",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/MountWater8.webp",
 					"type": "MOUNT",
@@ -1530,7 +1530,7 @@
 	},
 	"MountWater9": {
 		"name": "Fierce Shark",
-		"description": " Dibentuk menyerupai makhluk yang hidup di air, kendaraan berbentuk hiu ini memancarkan aura yang kuat. Bahkan di darat, ia berkuasa sebagai dominator yang menakutkan yang menimbulkan rasa kagum hanya dengan sekilas pandang.",
+		"description": " Dibuat menyerupai makhluk yang hidup di air, kendaraan berbentuk hiu ini memancarkan aura yang kuat. Bahkan di darat, ia berkuasa sebagai dominator yang menakutkan yang menimbulkan rasa kagum hanya dengan sekilas pandang.",
 		"rarity": 5,
 		"source": [],
 		"assets": {
@@ -1538,7 +1538,7 @@
 			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_Water_9_1.webp"
 		},
 		"unlockItems": [],
-		"version": "CN-Only",
+		"version": "4.2",
 		"fashion": [
 			{
 				"Fierce Shark": "None.webp"
@@ -1816,5 +1816,39 @@
 		],
 		"colors": [],
 		"id": "Mount32"
+	},
+	"MountRacing3_guo": {
+		"name": "Pengendara Angin",
+		"description": " \"Melaju bersama angin\" adalah mottornya. Ia berlomba dengan hembusan angin liar untuk membuktikan siapa yang tercepat.",
+		"rarity": 5,
+		"source": [],
+		"assets": {
+			"Icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp",
+			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp"
+		},
+		"unlockItems": [
+			{
+				"item": {
+					"name": "Pengendara Angin",
+					"description": "\"Mengendarai angin\" adalah mottornya. Ia berlomba dengan hembusan angin liar untuk membuktikan siapa yang tercepat.",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
+					"type": "MOUNT",
+					"source": [
+						"Diperoleh dari event Mystery Box Pengembara Angin"
+					],
+					"id": "Mount_Racing_003_guo"
+				},
+				"amount": 1
+			}
+		],
+		"version": "CN-Only",
+		"fashion": [
+			{
+				"Default skin": "None.webp"
+			}
+		],
+		"colors": [],
+		"id": "MountRacing3_guo"
 	}
 }

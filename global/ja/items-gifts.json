@@ -1949,6 +1949,22 @@
 		"type": "GIFT",
 		"id": "Blindbox_mix2"
 	},
+	"Blindbox_mix3": {
+		"name": "コスチュームガチャ",
+		"description": "コスチュームが入っているアイテムガチャ。好きなコスチュームが当たりますように。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3"
+	},
+	"Blindbox_PS": {
+		"name": "ウィンドライダーライドガチャ",
+		"description": "乗り物が入っているアイテムガチャ。好きな乗り物が当たりますように。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS"
+	},
 	"Blindbox_03_pack": {
 		"name": "春季ギフトボックス",
 		"description": "春を迎えるために発売された限定ギフトボックス。ギフトボックスを開ける時は、いつだって期待と不安が交錯する",
@@ -1996,6 +2012,22 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
 		"type": "GIFT",
 		"id": "Blindbox_mix2_pack"
+	},
+	"Blindbox_mix3_pack": {
+		"name": "コスチュームガチャ",
+		"description": "コスチュームが入っているアイテムガチャ。好きなコスチュームが当たりますように。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3_pack"
+	},
+	"Blindbox_PS_pack": {
+		"name": "ウィンドライダーライドガチャ",
+		"description": "乗り物が入っているアイテムガチャ。好きな乗り物が当たりますように。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS_pack"
 	},
 	"gift_BigClient_01": {
 		"name": "開拓者の出会いのプレゼント",
@@ -3101,6 +3133,22 @@
 		"type": "GIFT",
 		"id": "bag_MidAutumnFestival_12"
 	},
+	"bag_equip8_ssr_autouse": {
+		"name": "要塞戦闘装備箱",
+		"description": "Chest",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_ssr_autouse"
+	},
+	"bag_equip8_T2_autouse": {
+		"name": "N/A",
+		"description": "",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Equip_Balance/cloth_orange_T2.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_T2_autouse"
+	},
 	"gift_equip_white": {
 		"name": "ランダム装備箱",
 		"description": "ランダム宝箱",
@@ -3481,7 +3529,7 @@
 		"name": "スターロードギフトⅣ",
 		"description": "休暇から戻ったエクセキューターの皆さん、戦い方を忘れていませんよね。苦労は必ず報われます",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_3.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_operation_2.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_4"
 	},
@@ -3489,7 +3537,7 @@
 		"name": "スターロードギフトⅤ",
 		"description": "休暇から戻ったエクセキューターの皆さん、戦い方を忘れていませんよね。苦労は必ず報われます",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_core_orange.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_gacha_5.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_5"
 	},
@@ -4685,13 +4733,29 @@
 		"type": "GIFT",
 		"id": "bag_chat_qipao156"
 	},
+	"bag_chat_qipao158": {
+		"name": "「ホリデーリッシュ」ギフトボックス",
+		"description": "仕事を終えたメリル捜査官は休日を楽しんでいる。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao158.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao158"
+	},
 	"bag_chat_qipao161": {
 		"name": "「終わらない夏」ギフトボックス",
 		"description": "甘いアイスクリームは、この夏は決して終わらないことを私に約束している。",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao161.webp",
 		"type": "GIFT",
 		"id": "bag_chat_qipao161"
+	},
+	"bag_chat_qipao164": {
+		"name": "「青い薔薇」ギフトボックス",
+		"description": "青色の薔薇の蕾は、予言された騎士を待っている。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao164.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao164"
 	},
 	"bag_emoji_1": {
 		"name": "オベリスクアバター研究Ⅰ",
@@ -5356,8 +5420,8 @@
 		"id": "item_hide_yaxianew_fenweibox04"
 	},
 	"item_hide_yaxianew_nuoyuan01": {
-		"name": "ノーマル交換カード",
-		"description": "地味な交換カード。商店でこのカードを交換した後、使用すると少量のノルドを得ることができます。",
+		"name": "上級交換カード",
+		"description": "輝きを放つ交換カード。商店でこのカードを交換した後、使用すると大量のノルドを得ることができます。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_red.webp",
 		"type": "GIFT",
@@ -5372,8 +5436,8 @@
 		"id": "item_hide_yaxianew_nuoyuan02"
 	},
 	"item_hide_yaxianew_nuoyuan03": {
-		"name": "上級交換カード",
-		"description": "輝きを放つ交換カード。商店でこのカードを交換した後、使用すると大量のノルドを得ることができます。",
+		"name": "ノーマル交換カード",
+		"description": "地味な交換カード。商店でこのカードを交換した後、使用すると少量のノルドを得ることができます。",
 		"rarity": 2,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_greener.webp",
 		"type": "GIFT",

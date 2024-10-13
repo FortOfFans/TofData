@@ -356,7 +356,7 @@
 		"id": "artifact_adv_016"
 	},
 	"1107": {
-		"description": "Reabastece 1 carga a cada **100** segundos. Planar não consome mais vigor.",
+		"description": "Reabastece 1 carga a cada **20** segundos. Planar não consome mais vigor.",
 		"id": "artifact_adv_015"
 	},
 	"1109": {
@@ -364,7 +364,7 @@
 		"id": "artifact_adv_015"
 	},
 	"1110": {
-		"description": "Reabastece **1** carga a cada 60 segundos.",
+		"description": "Recupere 1 carga a cada **15** segundos.",
 		"id": "artifact_adv_015"
 	},
 	"1111": {
@@ -1140,23 +1140,23 @@
 		"id": "artifact_adv_047"
 	},
 	"1327": {
-		"description": "",
+		"description": "Aumente o efeito de redução de dano para **20%** enquanto estiver na forma defensiva.",
 		"id": "artifact_adv_048"
 	},
 	"1328": {
-		"description": "",
+		"description": "Aumenta o efeito de reforço de dano para **11%** enquanto em forma ofensiva.",
 		"id": "artifact_adv_048"
 	},
 	"1329": {
-		"description": "",
+		"description": "Reduz o intervalo de acionamento para bloquear o dano letal para uma vez a cada **120** segundos.",
 		"id": "artifact_adv_048"
 	},
 	"1330": {
-		"description": "",
+		"description": "Aumenta a Resistência Alterada em **2%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
 		"id": "artifact_adv_048"
 	},
 	"1331": {
-		"description": "",
+		"description": "Aumenta o efeito de reforço de dano para **16%** enquanto na forma ofensiva.",
 		"id": "artifact_adv_048"
 	}
 }

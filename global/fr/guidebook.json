@@ -437,7 +437,7 @@
 		"array": [
 			{
 				"title": "Beach-volley",
-				"description": "Une fois la compétition commencée, veuillez vous rendre au terrain de beach-volley pour vous préparer. Chaque équipe dans cette compétition a un nombre fixe de deux membres, et aucune substitution n'est autorisée pendant le match. La compétition adopte le système de pointage par rallye et le système de pointage par sortie de service. L'équipe qui marque gagne le droit de servir la prochaine balle, et les deux joueurs de la même équipe alternent le service.",
+				"description": "Une fois la compétition commencée, veuillez vous rendre au terrain de beach-volley pour vous préparer. Chaque équipe dans cette compétition a un nombre fixe de deux membres, et aucune substitution n'est autorisée pendant la recherche de groupes. La compétition adopte le système de pointage par rallye et le système de pointage par sortie de service. L'équipe qui marque gagne le droit de servir la prochaine balle, et les deux joueurs de la même équipe alternent le service.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info1.webp"
 			},
 			{
@@ -457,12 +457,12 @@
 			},
 			{
 				"title": "Beach-volley",
-				"description": "Si vous souhaitez adopter une stratégie offensive plus agressive, vous pouvez utiliser le bouton Pique. Dans ce cas, vous devez être bien préparé, juger la direction de la balle, sauter à l'avance, puis appuyer sur le bouton pique dans les airs pour entrer dans l'état de Pique, et la vitesse de la balle deviendra plus rapide pendant la pique. Il est nécessaire de faire attention à la direction du saut et au timing du pique, sinon le pique ne peut pas être complété. Après qu'un coéquipier a passé le ballon, lorsque la distance du ballon est appropriée, vous vous allumerez. À ce moment, le saut déclenchera l'assistance au pique. Lors de l'entrée réussie dans la zone de piquage, un pique sera automatiquement déclenché.",
+				"description": "Si vous souhaitez adopter une stratégie offensive plus agressive, vous pouvez utiliser le bouton Pique. Dans ce cas, vous devez être bien préparé, juger la direction de la balle, sauter à l'avance, puis appuyer sur le bouton pique dans les airs pour entrer dans l'état de Pique, et la vitesse de la balle deviendra plus rapide pendant la pique. Il est nécessaire de faire attention à la direction du saut et au timing du pique, sinon le pique ne peut pas être complété. Après qu'un coéquipier a passé le ballon, lorsque la distance du ballon est appropriée, vous vous allumerez. À ce moment, le saut déclenchera l'assistance du pique. Lors de l'entrée réussie dans la plage de piquage, un pique sera automatiquement déclenché.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info5.webp"
 			},
 			{
 				"title": "Beach-volley",
-				"description": "Lorsque l'adversaire frappe la balle et que vous êtes dans le court avant, appuyer pour sauter affichera le bouton de Blocage. En appuyant dessus, cela déclenchera l'action de blocage, qui peut intercepter la balle frappée par l'adversaire dans les airs. Le blocage nécessite que vous prédisiez la trajectoire de frappe de l'adversaire et le timing de blocage.",
+				"description": "Lorsque l'adversaire frappe la balle et que vous êtes dans le court avant, taper pour sauter affichera le bouton de Blocage. En appuyant dessus, cela déclenchera l'action de blocage, qui peut intercepter la balle frappée par l'adversaire dans les airs. Le blocage nécessite que vous prédisiez la trajectoire de frappe de l'adversaire et le timing de blocage.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info6.webp"
 			}
 		],
@@ -2598,7 +2598,7 @@
 		"array": [
 			{
 				"title": "Nola: Grondelame",
-				"description": "Débloquez Grondelame pour pouvoir explorer le monde de Tower of Fantasy en tant que Nola, le simulacre de cette arme.",
+				"description": "Débloquez Grondelame pour pouvoir explorer le monde de la Tour fantastique en tant que Nola, le simulacre de cette arme.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/fr/Resources/UI/Scenery/monster/UI_Nitai_nuola_SSR_L10N.webp"
 			},
 			{
@@ -2724,6 +2724,25 @@
 		"menuId": "imitate_role",
 		"menuType": "Weapon",
 		"id": "Nitai_Loslyn_SSR"
+	},
+	"Nitai_MerylX_SSR": {
+		"name": "Meryl Cœur-de-fer",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
+		"array": [
+			{
+				"title": "Meryl Cœur-de-fer: Limite de siège",
+				"description": "Débloquez la Limite de siège pour pouvoir explorer le monde de la Tour fantastique en tant que Meryl Cœur-de-fer, le simulacre de cette arme.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/fr/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "Meryl Cœur-de-fer: Limite de siège",
+				"description": "Instructions pour Limite de siège. Apprenez comment utiliser les compétences pour ce type d'arme.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/fr/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"menuId": "imitate_role",
+		"menuType": "Weapon",
+		"id": "Nitai_MerylX_SSR"
 	},
 	"Nitai_tianlang_SSR": {
 		"name": "Tian Lang",
@@ -3010,6 +3029,20 @@
 		"menuType": "WorldExploration",
 		"id": "Guide_MoveShoot"
 	},
+	"Guide_Norn_Bicycle": {
+		"name": "Vélo",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
+		"array": [
+			{
+				"title": "Vélo",
+				"description": "Louez un vélo à la station de vélos. Utilisez les touches A/D ou les boutons gauche/droite pour pédaler et accélérer. Déplacez la souris ou appuyez et maintenez les boutons gauche/droite sur la manette pour tourner. Utilisez la touche S ou maintenez le bouton bas sur la manette pour freiner et la touche V pour descendre du vélo.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_Bicycle.webp"
+			}
+		],
+		"menuId": "WorldExplore",
+		"menuType": "WorldExploration",
+		"id": "Guide_Norn_Bicycle"
+	},
 	"Guide_Norn_CD": {
 		"name": "Projecteur de combat",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
@@ -3133,7 +3166,7 @@
 		"array": [
 			{
 				"title": "Chasse aux coquillages",
-				"description": "Des coquillages spéciaux avec des fonctions monétaires. L'ancienne méthode de troc sera reproduite sur cette plage. Après avoir collecté des coquillages spéciaux, le Collectionneur de Coquillages calculera soigneusement leur valeur et échangera avec vous en utilisant les objets en main.",
+				"description": "Des coquillages spéciaux avec des fonctions monétaires. L'ancienne méthode de troc sera reproduite sur cette plage. Après avoir collecté des coquillages spéciaux, le Collectionneur de coquillages calculera soigneusement leur valeur et échangera avec vous en utilisant les objets en main.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/WorldShellSummon.webp"
 			}
 		],
@@ -6118,6 +6151,13 @@
 		"menuType": "All",
 		"id": "Loslyn_ice"
 	},
+	"MerylX_thunder": {
+		"name": "Lame de siège",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_wfjq02.webp",
+		"menuId": "EQUIPMENT_SLOT_WEAPON",
+		"menuType": "All",
+		"id": "MerylX_thunder"
+	},
 	"Nitai_mimi_SSR": {
 		"name": "Huang",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -6634,7 +6674,7 @@
 		"array": [
 			{
 				"title": "Mécha de combat avancé",
-				"description": "Armement de combat polyvalent de haut niveau configuré par la Force défensive conjointe, adapté à des scénarios extrêmement risqués tels que les guerres de contre-terrorisme pour maintenir la règle de la Fédération de Norns.",
+				"description": "Armement de combat polyvalent de haut niveau configuré par la Force défensive conjointe, adapté à des scénarios à risque extrêmement élevé tels que les guerres de contre-terrorisme pour maintenir la règle de la Fédération de Norns.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/monster/mon_hum_198.webp"
 			}
 		],
@@ -6648,7 +6688,7 @@
 		"array": [
 			{
 				"title": "Garde à armure lourde",
-				"description": "Le personnel d'élite parmi la sécurité externalisée, équipé d'une armure exosquelette renforcée. Ils peuvent non seulement maintenir l'ordre, mais aussi gérer de nombreuses situations violentes à haut risque.",
+				"description": "Le personnel d'élite parmi la sécurité externalisée, équipé d'une armure d'exosquelette renforcée. Ils peuvent non seulement réparer l'ordre, mais aussi gérer de nombreuses situations violentes à haut risque.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/monster/mon_hum_199.webp"
 			}
 		],

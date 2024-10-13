@@ -665,5 +665,28 @@
 		},
 		"weaponId": "None",
 		"id": "imitation_fashion_62_w"
+	},
+	"imitation_fashion_61": {
+		"name": "悠々夏日",
+		"description": "夏の日、休暇中のメリルさんは水着ショップで自分に合う水着を選んでいます。",
+		"rarity": 5,
+		"source": "イベントで獲得",
+		"simulacrumId": "imitation_61",
+		"assets": {
+			"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX.webp",
+			"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX_Lock.webp"
+		},
+		"weaponId": "Paradox_fire_fashion_imitationUI",
+		"id": "imitation_fashion_61"
+	},
+	"imitation_fashion_61_w": {
+		"rarity": 1,
+		"simulacrumId": "None",
+		"assets": {
+			"painting": "None.webp",
+			"prayPainting": "None.webp"
+		},
+		"weaponId": "None",
+		"id": "imitation_fashion_61_w"
 	}
 }

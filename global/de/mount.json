@@ -1315,7 +1315,7 @@
 					"description": "Weich, leicht und vor allem: wunderschön!",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-					"type": "MOUNT",
+					"type": "MATERIAL",
 					"source": [
 						"From events"
 					],
@@ -1488,7 +1488,7 @@
 	},
 	"MountWater8": {
 		"name": "Mittsommer-Fantasie",
-		"description": " Es sieht aus wie eine leckere, donutförmige Pool-Schwimmhilfe, perfekt geeignet für das sommerliche Meer. Darauf liegend, die Meeresbrise spürend, verwandelt sich die glühende Sonne in ein weich gekochtes Ei und das Meer wird zu blauem Mandarinen-Sirup … Einfach sanft schweben und in die Fantasie versinken.",
+		"description": " Es sieht aus wie eine leckere, donutförmige Pool-Schwimminsel, perfekt geeignet für den Sommer am Meer. Während du darauf liegst, streichelt die Meeresbrise deine Haut und die glühende Sonne verwandelt sich in ein weich gekochtes Ei. Der Ozean darunter schimmert wie blauer Mandarinen-Sirup. Schaukel einfach sanft und lass dich in eine verträumte Fantasie treiben.",
 		"rarity": 5,
 		"source": [],
 		"assets": {
@@ -1499,7 +1499,7 @@
 			{
 				"item": {
 					"name": "Mittsommer-Fantasie",
-					"description": "Es sieht aus wie eine leckere, donutförmige Pool-Schwimmhilfe, perfekt geeignet für das sommerliche Meer. Darauf liegend, die Meeresbrise spürend, verwandelt sich die glühende Sonne in ein weich gekochtes Ei und das Meer wird zu blauem Mandarinen-Sirup … Einfach sanft schweben und in die Fantasie versinken.",
+					"description": "Es sieht aus wie ein leckerer, donutförmiger Pool-Schwimmring, perfekt geeignet für das sommerliche Meer. Darauf liegend, die Meeresbrise spürend, verwandelt sich die glühende Sonne in ein weich gekochtes Ei und das Meer wird zu blauem Mandarinen-Sirup … Einfach sanft schweben und in die Fantasie versinken.",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/MountWater8.webp",
 					"type": "MOUNT",
@@ -1530,7 +1530,7 @@
 	},
 	"MountWater9": {
 		"name": "Wilder Hai",
-		"description": " Nach Wasserlebewesen modelliert, strahlt dieses haiförmige Fahrzeug eine mächtige Aura aus. Selbst an Land herrscht es als furchterregender Dominator, der Ehrfurcht mit nur einem Blick einflößt.",
+		"description": " Nach Wasserlebewesen modelliert, strahlt dieses haiförmige Fahrzeug eine mächtige Aura aus. Selbst an Land herrscht es als furchterregender Dominator, der schon mit einem Blick Ehrfurcht einflößt.",
 		"rarity": 5,
 		"source": [],
 		"assets": {
@@ -1538,7 +1538,7 @@
 			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_Water_9_1.webp"
 		},
 		"unlockItems": [],
-		"version": "CN-Only",
+		"version": "4.2",
 		"fashion": [
 			{
 				"Wilder Hai": "None.webp"
@@ -1816,5 +1816,39 @@
 		],
 		"colors": [],
 		"id": "Mount32"
+	},
+	"MountRacing3_guo": {
+		"name": "Windwalker",
+		"description": " \"Reite den Wind\" ist sein Motto. Es befindet sich in einem Rennen mit den wilden Böen, um zu beweisen, wer der Schnellste ist.",
+		"rarity": 5,
+		"source": [],
+		"assets": {
+			"Icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp",
+			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp"
+		},
+		"unlockItems": [
+			{
+				"item": {
+					"name": "Windwalker",
+					"description": "\"Reite den Wind\" ist sein Motto. Es befindet sich in einem Rennen mit den wilden Böen, um zu beweisen, wer der Schnellste ist.",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
+					"type": "MOUNT",
+					"source": [
+						"Erhältlich im „Windläufer“-Geheimnistruhe-Event"
+					],
+					"id": "Mount_Racing_003_guo"
+				},
+				"amount": 1
+			}
+		],
+		"version": "CN-Only",
+		"fashion": [
+			{
+				"Default skin": "None.webp"
+			}
+		],
+		"colors": [],
+		"id": "MountRacing3_guo"
 	}
 }

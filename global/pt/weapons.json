@@ -5038,7 +5038,7 @@
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_GL_weapon.webp",
 					"type": "CONSUMABLE",
 					"source": [
-						"Obtained from the 2nd anniversary"
+						"Obtido no 2º aniversário"
 					],
 					"id": "imitation_fashion_10_w"
 				}
@@ -7632,7 +7632,7 @@
 	},
 	"nora_superpower": {
 		"name": "Estrondo",
-		"description": "Uma moto e um montante. Que combinação peculiar! Mas como ela nunca foi boa em se lembrar de nomes, acabou decidindo chamar ambos de Estrondo.",
+		"description": "Uma motocicleta e uma grande espada. Que combinação peculiar! Mas como ela nunca foi boa em lembrar nomes, ela eventualmente decidiu chamar ambos de Estrondo.",
 		"assets": {
 			"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Icon/item_Weapon_SSR_nuola.webp",
 			"weaponIconForMatrix": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/icon_yizhi/yizhi_SSR_nuola.webp",
@@ -7778,7 +7778,7 @@
 				"need": "Nora_superpower_plasm"
 			},
 			{
-				"description": "Ignora **15%** de todas as resistências do alvo. (A resistência total ignorada para cada elemento não pode exceder 50%.) Ao sofrer dano letal, bloqueia dano letal 1 vez e torna-se imune a dano por um curto período de tempo. O efeito se aciona apenas 1 vez a cada **60** segundos. O efeito funciona no espaço secundário.",
+				"description": "Ignora **15%** de todas as resistências do alvo. (A resistência total ignorada para cada elemento não pode exceder 50%.) Ao sofrer dano letal, bloqueia dano letal 1 vez e torna-se imune a dano por um curto período de tempo. O efeito pode ser acionado apenas 1 vez a cada **60** segundos. O efeito funciona no espaço secundário.",
 				"multiplier": [
 					{
 						"PropName": "CommonAtkAdded",
@@ -7822,7 +7822,7 @@
 				"need": "Nora_superpower_plasm"
 			},
 			{
-				"description": "Após usar **Energia Violenta**, recupera **6%** da vida máxima por segundo durante **10** segundos (não afetado por efeitos de reforço de cura). O efeito de recuperação de vida termina junto com o modo superveloz. O efeito funciona no espaço secundário.",
+				"description": "Após usar **Energia Violenta**, recupera **6%** da vida máxima por segundo durante **10** segundos (não é afetado por efeitos de reforço de cura). O efeito de recuperação de vida termina junto com o modo superveloz. O efeito funciona no espaço secundário.",
 				"multiplier": [
 					{
 						"PropName": "CommonAtkAdded",
@@ -7870,7 +7870,7 @@
 			"normals": [
 				{
 					"name": "Integrante do Vendaval",
-					"description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e repele o alvo.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e lança o alvo no ar.\r\n\r\nNo <shuzhi>modo superveloz</>, durante o quinto ataque, segure o botão de ataque normal para conectá-lo com o primeiro ataque.",
+					"description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e repele o alvo.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e lança o alvo no ar.\r\nNo <shuzhi>modo superveloz</>, segure o botão de ataque normal durante o quinto ataque para conectá-lo com o primeiro ataque.",
 					"operations": [
 						"Attack",
 						"Attack",
@@ -7886,7 +7886,7 @@
 				},
 				{
 					"name": "Viagem nas Nuvens",
-					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas no ar e consumir vigor.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e lança o alvo no ar.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e repele o alvo.\r\nCorte silencioso: Atingir um inimigo com o segundo ou terceiro ataque aciona o efeito de corte, que prolonga a duração do ataque e aumenta o dano.\r\nAtingir um inimigo com o segundo ataque causa dano de <shuzhi>{10}%</> do ATQ + <shuzhi>{11}</> e o repele.\r\nAtingir um inimigo com o terceiro ataque causa dano de <shuzhi>{12}%</> do ATQ + <shuzhi>{13}</> e repele o alvo.",
+					"description": "No ar, use o botão de ataque normal para executar 5 ataques seguidos enquanto consome vigor.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e lança o alvo no ar.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e repele o alvo.\r\n<shuzhi>Corte silencioso</>: Atingir um inimigo com o segundo ou terceiro ataque aciona o efeito de corte, que prolonga a duração do ataque e aumenta o dano.\r\nAtingir um inimigo com o segundo ataque causa dano de <shuzhi>{10}%</> do ATQ + <shuzhi>{11}</> e o repele.\r\nAtingir um inimigo com o terceiro ataque causa dano de <shuzhi>{12}%</> do ATQ + <shuzhi>{13}</> e repele o alvo.",
 					"operations": [
 						"Jump",
 						"Attack",
@@ -7916,7 +7916,7 @@
 				},
 				{
 					"name": "Cortes Vinculados",
-					"description": "No <shuzhi>modo superveloz</>, continue segurando o botão de ataque normal ao acionar <shuzhi>Cortes Gêmeos</> para acionar Cortes Vinculados.\r\nCausa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos. Ao mesmo tempo, gasta todos os acúmulos de <shuzhi>sobrecarga</>, e para cada <shuzhi>1</> acúmulo gasto também causa dano de <shuzhi>50%</> do ATQ. Com <shuzhi>6</> acúmulos de <shuzhi>sobrecarga</>, aciona <shuzhi>carga extrema</> e causa dano de <shuzhi>300%</> do ATQ.",
+					"description": "No <shuzhi>modo superveloz</>, continue segurando o botão de ataque normal ao acionar <shuzhi>Cortes Gêmeos</> para acionar Cortes Vinculados.\r\nCausa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos. Ao mesmo tempo, gasta todos os acúmulos de <shuzhi>sobrecarga</> e também causa dano de <shuzhi>50%</> do ATQ para cada <shuzhi>1</> acúmulo gasto . Com <shuzhi>6</> acúmulos de <shuzhi>sobrecarga</>, aciona <shuzhi>carga extrema</> e causa dano de <shuzhi>300%</> do ATQ.",
 					"operations": [
 						"Attack",
 						"Hold Attack",
@@ -8001,7 +8001,7 @@
 				},
 				{
 					"name": "Cavaleiro Celeste Sônico",
-					"description": "Esquive-se antes de segurar para entrar em Cavaleiro Celeste Sônico, durante o qual a velocidade aumenta e gasta-se vigor constantemente para atacar em frente. Cada vez que você acerta um golpe, causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos.\r\nDurante Cavaleiro Celeste Sônico, salte e aterrisse para gastar vigor e receber um reforço de velocidade temporário. No Mundo Geral, após <shuzhi>10</> segundos de duração de Cavaleiro Celeste Sônico, o dano causado por essa habilidade pode executar inimigos que não sejam chefes (indisponível na Liga do Apogeu).",
+					"description": "Esquive-se antes de segurar para entrar no modo Cavaleiro Celeste Sônico, durante o qual a velocidade aumenta e o vigor é consumido constantemente para atacar à frente. Cada vez que você acerta um golpe, causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos.\r\nDurante Cavaleiro Celeste Sônico, salte e aterrisse para consumir vigor e receber um reforço de velocidade temporário. No Mundo Geral, após <shuzhi>10</> segundos de duração de Cavaleiro Celeste Sônico, o dano causado por essa habilidade pode executar inimigos que não sejam chefes (indisponível na Liga do Apogeu).",
 					"operations": [
 						"Movement"
 					],
@@ -8014,8 +8014,8 @@
 			],
 			"skill": [
 				{
-					"name": "Energia Explosiva",
-					"description": "Ativa o modo superveloz para você receber invencibilidade temporária e causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos e inflige <shuzhi>65%</> de atraso aos alvos durante <shuzhi>3</> segundos (ineficaz contra chefes ao estar em equipe).\r\nNo modo superveloz, recebe corpo de aço e cada ataque de <shuzhi>Integrante do Vendaval</> e <shuzhi>Viagem nas Nuvens</> tem supersônico, também causando dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> (conta como dano passivo). Ao mesmo tempo, cada ataque acertado confere <shuzhi>1</> acúmulo de sobrecarga, limitado a <shuzhi>6</> acúmulos (até <shuzhi>1</> acúmulo a cada <shuzhi>0,65</> segundo).\r\nApós <shuzhi>5</> segundos no modo superveloz, recebe a habilidade <shuzhi>Cavaleiro da Luz</> (pode ser usada durante o modo superveloz). Trocar de arma nesse período impede que você use <shuzhi>Cavaleiro da Luz</>.\r\n\r\n<shuzhi>Passiva: Reforma de supervelocidade</>\r\n<shuzhi>Estrondo</> tem cinco tipos elementais. Ative <shuzhi>um</> deles na página Habilidades - Configurações. Não é possível trocar de tipo durante o combate.\r\nCada tipo elemental de <shuzhi>Estrondo</> tem uma determinada <shuzhi>característica de arma</> ao usar Energia Violenta para golpear um alvo.\r\n\r\n<red>Gélido-elétrica</>: Recebe modo superveloz durante <shuzhi>28</> segundos. Nesse período, a cada golpe acertado com o ataque normal de <shuzhi>Estrondo</> ou a cada vez que você recebe cura não excessiva, recebe 1 acúmulo de <shuzhi>convergência térmica</>. Acumula até <shuzhi>10</> vezes. <shuzhi>3</> segundos após o fim do modo superveloz, toda a convergência térmica que não tenha sido transformada é removida. Tempo de recarga: <shuzhi>30</> seg. Efeitos que zeram, atualizam ou mudam o tempo de recarga não afetam isso.\r\n\r\n<red>Ígneo-física</>: Ativa o modo superveloz durante <shuzhi>23 segundos. Ao entrar no modo superveloz, gasta todas as <shuzhi>centelhas</>. A cada acúmulo gasto, recebe <shuzhi>2.200</> de ATQ ígneo mínimo (esse ATQ ígneo não se reflete nos seus atributos e está indisponível na Liga do Apogeu) e aumenta o dano final de <shuzhi>Estrondo</> em <shuzhi>22%</>. No modo superveloz, recebe perseguição flamejante. Ao causar dano ígneo, causa dano de <shuzhi>1.520%</> do ATQ aos alvos próximos; aciona-se até <shuzhi>uma</> vez a cada <shuzhi>2</> segundos. Tempo de recarga: <shuzhi>25</> seg. Efeitos que zeram ou reduzem o tempo de recarga não afetam isso.\r\n\r\n<red>Elétrico-gélida</>: Recebe modo superveloz durante <shuzhi>18</> segundos. No modo superveloz, aumenta o dano elétrico em <shuzhi>30%</>. Ao acertar um golpe de ataque normal com <shuzhi>Estrondo</> no espaço principal, recebe <shuzhi>1</> acúmulo de <shuzhi>lança relampejante</>, limitado a <shuzhi>18</> acúmulos. Com o limite de acúmulos, gasta todos eles e causa dano adicional equivalente a <shuzhi>6.000%</> do ATQ aos alvos próximos (conta como dano de habilidade). Ao mesmo tempo, recebe um escudo equivalente a <shuzhi>30%</> da vida máxima durante <shuzhi>10</> segundos (esse efeito não se acumula). O efeito adicional de lança relampejante pode se acionar até <shuzhi>cinco</> vezes a cada vez que você entra no modo superveloz. Quando <shuzhi>Cortes Vinculados</> gasta <shuzhi>6</> acúmulos de <shuzhi>sobrecarga</>, também causa dano de <shuzhi>11.000%</> do ATQ aos alvos próximos. Esse dano conta como dano de habilidade. Tempo de recarga: <shuzhi>20</> seg. Efeitos que zeram ou reduzem o tempo de recarga não afetam isso.\r\n\r\n<red>Físico-ígnea</>: Recebe modo superveloz durante <shuzhi>19</> segundos. No modo superveloz, causa dano de <shuzhi>2.900%</> do ATQ físico por segundo aos alvos próximos. Cada vez que um alvo sofre esse dano, você recebe um escudo equivalente a <shuzhi>5%</> da vida máxima durante <shuzhi>10</> segundos, limitado a <shuzhi>10%</> por vez. O valor máximo do escudo não excede <shuzhi>50%</> da sua vida. Tempo de recarga: <shuzhi>21</> seg. Efeitos que zeram ou reduzem o tempo de recarga não afetam isso.\r\n\r\n<red>Alterada</>: Recebe modo superveloz durante <shuzhi>23</> segundos. No modo superveloz, aumenta a vida máxima em <shuzhi>100%</>. Além disso, cada ataque acertado de <shuzhi>Integrante do Vendaval</> e <shuzhi>Viagem nas Nuvens</> também causa dano equivalente a <shuzhi>1.400%</> da vida máxima, limitado a <shuzhi>240</> vezes o seu ATQ. Esse dano conta como dano de habilidade e não é afetado por efeitos de reforço de dano. Tempo de recarga: <shuzhi>25</> seg. Efeitos que zeram ou reduzem o tempo de recarga não afetam isso.",
+					"name": "Energia Violenta",
+					"description": "Ativa o modo superveloz para você receber invencibilidade temporária e causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos e inflige <shuzhi>65%</> de atraso aos alvos durante <shuzhi>3</> segundos (ineficaz contra chefes ao estar em equipe).\r\nNo modo superveloz, recebe corpo de aço e cada ataque de <shuzhi>Integrante do Vendaval</> e <shuzhi>Viagem nas Nuvens</> tem supersônico, também causando dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> (conta como dano passivo). Ao mesmo tempo, cada ataque acertado confere <shuzhi>1</> acúmulo de sobrecarga, limitado a <shuzhi>6</> acúmulos (até <shuzhi>1</> acúmulo a cada <shuzhi>0,65</> segundo).\r\nApós <shuzhi>5</> segundos no modo superveloz, recebe a habilidade <shuzhi>Cavaleiro da Luz</> (pode ser usada durante o modo superveloz). Trocar de arma nesse período impede que você use <shuzhi>Cavaleiro da Luz</>.\r\n\r\n<shuzhi>Passiva: Reforma de supervelocidade</>\r\n<shuzhi>Estrondo</> tem cinco tipos elementais. Ative <shuzhi>um</> deles na página Habilidades - Configurações. Não é possível trocar de tipo durante o combate.\r\nCada tipo elemental de <shuzhi>Estrondo</> tem uma determinada <shuzhi>característica de arma</> ao usar Energia Violenta para golpear um alvo.\r\n\r\n<red>Gélida-elétrica</>: Recebe modo superveloz durante <shuzhi>28</> segundos. Nesse período, você recebe 1 acúmulo de <shuzhi>convergência térmica</> a cada acerto com ataque normal de <shuzhi>Estrondo</> ou a cada vez que receber cura não excessiva. Acumula até <shuzhi>10</> vezes. Toda a convergência térmica que não tenha sido transformada é removida <shuzhi>3</> segundos após o fim do modo superveloz. Tempo de recarga: <shuzhi>30</> seg. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\n\r\n<red>Ígnea-física</>: Ativa o modo superveloz durante <shuzhi>23</> segundos. Ao entrar no modo superveloz, gasta todas as <shuzhi>centelhas</>. A cada acúmulo gasto, recebe <shuzhi>600</> de ATQ ígneo mínimo (esse ATQ ígneo não se reflete nos seus atributos e está indisponível na Liga do Apogeu) e aumenta o dano final de <shuzhi>Estrondo</> em <shuzhi>6%</>. No modo superveloz, recebe perseguição flamejante. Ao causar dano ígneo, causa dano de <shuzhi>500%</> do ATQ aos alvos próximos. Pode ser acionado até <shuzhi>uma</> vez a cada <shuzhi>2</> segundos. Tempo de recarga: <shuzhi>25</> seg. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\n\r\n<red>Elétrica-gélida</>: Recebe o modo superveloz durante <shuzhi>18</> segundos. No modo superveloz, aumenta o dano elétrico em <shuzhi>12%</>. Ao acertar um ataque normal com <shuzhi>Estrondo</> no espaço principal, recebe <shuzhi>1</> acúmulo de <shuzhi>lança relampejante</>, limitado a <shuzhi>18</> acúmulos. Ao atingir o limite de acúmulos, gasta todos eles e causa dano adicional equivalente a <shuzhi>2.000%</> do ATQ aos alvos próximos (conta como dano de habilidade). Ao mesmo tempo, recebe um escudo equivalente a <shuzhi>30%</> da vida máxima durante <shuzhi>10</> segundos (esse efeito não se acumula). O efeito adicional de lança relampejante pode ser acionado até <shuzhi>cinco</> vezes a cada vez que você entra no modo superveloz. Quando <shuzhi>Cortes Vinculados</> gasta <shuzhi>6</> acúmulos de <shuzhi>sobrecarga</>, também causa dano de <shuzhi>3.500%</> do ATQ aos alvos próximos. Esse dano conta como dano de habilidade. Tempo de recarga: <shuzhi>20</> seg. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\n\r\n<red>Física-ígnea</>: Recebe modo superveloz durante <shuzhi>19</> segundos. No modo superveloz, causa dano de <shuzhi>700%</> do ATQ por segundo aos alvos próximos. A cada alvo atingido, você recebe um escudo equivalente a <shuzhi>5%</> da vida máxima durante <shuzhi>10</> segundos, limitado a <shuzhi>10%</> por vez. O valor máximo do escudo não excede <shuzhi>50%</> da sua vida. Tempo de recarga: <shuzhi>21</> seg. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\n\r\n<red>Alterada</>: Recebe modo superveloz durante <shuzhi>23</> segundos. No modo superveloz, aumenta a vida máxima em <shuzhi>100%</>. Além disso, cada acerto com <shuzhi>Integrante do Vendaval</> e <shuzhi>Viagem nas Nuvens</> também causa dano equivalente a <shuzhi>166%</> da vida máxima, limitado a <shuzhi>30</> vezes o seu ATQ. Esse dano conta como dano de habilidade e não é afetado por efeitos de reforço de dano. Tempo de recarga: <shuzhi>25</> seg. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.",
 					"operations": [],
 					"tags": [
 						"Damage",
@@ -8026,7 +8026,7 @@
 				},
 				{
 					"name": "Cavaleiro da Luz",
-					"description": "Pode ser acionado durante o modo superveloz para desferir cortes vinculados multifásicos contra os alvos próximos e causar dano total de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. O modo superveloz termina após usar essa habilidade.\r\n\r\n<shuzhi>Passiva: Inércia superveloz</>\r\nUse <shuzhi>Cavaleiro da Luz</> para receber um efeito adicional correspondente ao elemento de <shuzhi>Estrondo</>.\r\n\r\n<red>Gélido-elétrica</>: Gasta todos os acúmulos de <shuzhi>convergência térmica</> e recebe congelamento total, que aumenta o reforço de dano gélido em <shuzhi>1,4%</> da quantidade de acúmulos de <shuzhi>convergência térmica</>. Além disso, causa dano gélido equivalente a <shuzhi>1.400%</> do ATQ + a quantidade de acúmulos de <shuzhi>convergência térmica</> × <shuzhi>240%</> do ATQ aos alvos próximos. Esse dano conta como dano passivo e dura <shuzhi>30</> segundos.\r\n\r\n<red>Alterada</>: Causa dano equivalente a <shuzhi>50.000%</> da sua vida máxima aos alvos próximos. Esse dano não excede <shuzhi>8.000</> vezes o seu ATQ, conta como dano de habilidade e não é afetado por efeitos de reforço de dano.",
+					"description": "Pode ser acionado durante o modo superveloz para desferir cortes vinculados multifásicos contra os alvos próximos e causar dano total de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. O modo superveloz termina após usar essa habilidade.\r\n\r\n<shuzhi>Passiva: Inércia superveloz</>\r\nUse Cavaleiro da Luz para receber um efeito adicional correspondente ao elemento de <shuzhi>Estrondo</>.\r\n\r\n<red>Gélido-elétrica</>: Gasta todos os acúmulos de <shuzhi>convergência térmica</> e recebe congelamento total, que aumenta o reforço de dano gélido em <shuzhi>0,6%</> da quantidade de acúmulos de <shuzhi>convergência térmica</>. Além disso, causa dano gélido equivalente a <shuzhi>500%</> do ATQ + a quantidade de acúmulos de <shuzhi>convergência térmica</> × <shuzhi>50%</> do ATQ aos alvos próximos. Esse dano conta como dano passivo e dura <shuzhi>30</> segundos.\r\n\r\n<red>Alterada</>: Causa dano equivalente a <shuzhi>6.250%</> da sua vida máxima aos alvos próximos. Esse dano não excede <shuzhi>1.000</> vezes o seu ATQ, conta como dano de habilidade e não é afetado por efeitos de reforço de dano.",
 					"operations": [],
 					"tags": [
 						"Damage",
@@ -8154,7 +8154,7 @@
 		],
 		"elementEffects": {
 			"title": "**Dissolução de armadura**",
-			"description": "Com carga completa, o ataque seguinte da arma inflige dissolução de armadura durante **45** segundos, o que aumenta os danos ígneo e físico sofridos pelo alvo em **10%** (e mais **15%** em jogo em equipe). O efeito substitui o status de lesão do alvo, e os alvos com esse efeito não podem sofrer lesão. Os ataques físicos atordoam os alvos infligidos pelo efeito dissolução durante **2** segundos, e os ataques ígneos diminuem a velocidade do alvo em **50%** durante **5** segundos. O efeito se aciona apenas **1** vez a cada **15** segundos no mesmo alvo."
+			"description": "Com carga completa, o ataque seguinte da arma inflige dissolução de armadura durante **45** segundos, o que aumenta os danos ígneo e físico sofridos pelo alvo em **10%** (e mais **15%** em jogo em equipe). O efeito substitui o status de lesão do alvo, e os alvos com esse efeito não podem sofrer lesão. Os ataques físicos atordoam os alvos infligidos pelo efeito dissolução durante **2** segundos, e os ataques ígneos diminuem a velocidade dos alvos em **50%** durante **5** segundos. O efeito se aciona apenas **1** vez a cada **15** segundos no mesmo alvo."
 		},
 		"attributes": [
 			{
@@ -9238,7 +9238,7 @@
 				},
 				{
 					"name": "Âncora Celeste",
-					"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Âncora Cadente.\r\nDespenca do ar. Durante a aterrissagem, cada golpe causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. Ao aterrissar, causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> aos alvos próximos. Durante <shuzhi>frio lancinante</>, adiciona <shuzhi>8</> acúmulos de golpe congelante.",
+					"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Âncora Cadente.\r\nDespenca do ar. No caminho até a aterrissagem, cada golpe causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. Ao aterrissar, causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> aos alvos próximos. Durante <shuzhi>frio lancinante</>, adiciona <shuzhi>8</> acúmulos de golpe congelante.",
 					"operations": [
 						"Jump",
 						"Hold Attack"
@@ -9345,6 +9345,448 @@
 		"version": "4.0",
 		"limited": true,
 		"id": "loslyn_ice"
+	},
+	"merylx_thunder": {
+		"name": "Gume de Cerco",
+		"description": "Desenvolvido pela Hykros, esta arma transformável possui um design e desempenho notáveis, embora seja difícil de produzir em massa devido à sua complexidade. \"Um golpe é tudo o que é preciso para violar uma fortaleza.\" - comentou seu designer.",
+		"assets": {
+			"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Icon/item_Weapon_SSR_meilierkai.webp",
+			"weaponIconForMatrix": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/icon_yizhi/yizhi_SSR_meilierkai.webp",
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/meilierkai2.webp"
+		},
+		"rarity": 5,
+		"element": "Thunder",
+		"type": "Merylx",
+		"weaponUpgradeId": "thunder_ssr_tupo_BD",
+		"wc": "Tank",
+		"advanceID": "MerylX_thunder_ssr_star",
+		"avatar": "imitation_61",
+		"stats": [
+			{
+				"stat": {
+					"name": "Ataque",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/AttributeIcon/icon_atk.webp",
+					"multiplier": 2,
+					"flat": false,
+					"id": "CommonAtkAdded"
+				},
+				"value": 16.571905
+			},
+			{
+				"stat": {
+					"name": "Vida",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/AttributeIcon/icon_hp.webp",
+					"multiplier": 0.025,
+					"flat": false,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1010.0971
+			},
+			{
+				"stat": {
+					"name": "Crítico",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/AttributeIcon/icon_baoji.webp",
+					"multiplier": 0.4,
+					"flat": false,
+					"id": "CritAdded"
+				},
+				"value": 11.837075
+			}
+		],
+		"upgradeProps": [
+			[
+				3.15534,
+				194.17476,
+				2.427185
+			]
+		],
+		"effects": [
+			{
+				"title": "**Fusão de raio e gelo**",
+				"description": "Quando a arma causa dano, o dano é calculado usando o maior ATQ elétrico/gélido mínimo equipado, a maior porcentagem de ATQ elétrico/gélido equipada, o maior reforço de dano elétrico/gélido equipado, e a arma é considerada uma arma elétrica e gélida."
+			},
+			{
+				"title": "**Ressonância elétrica**",
+				"description": "Aumenta o ATQ elétrico em **15%** e a resistência elétrica em **25%**. Ativa-se ao equipar **2** ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância elétrica ou reação elétrica, e a ressonância elétrica tem prioridade."
+			},
+			{
+				"title": "**Ressonância gélida**",
+				"description": "Aumenta o ATQ gélido em **15%** e a resistência gélida em **25%**. Ativa-se ao equipar **2** ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância gélida ou reação gélida, e a ressonância gélida tem prioridade."
+			},
+			{
+				"title": "**Eletrolâmina: Corte ligeiro**",
+				"description": "Com **Gume de Cerco**, as descargas de arma causam dano equivalente a **0.97%** da vida máxima + **73.2%** do ATQ elétrico + **36.6%** da soma de todos os tipos de resistência do Errante + **134.3%** do crítico aos alvos próximos. A cada **0,5** segundo em combate, o dano do próximo corte ligeiro aumenta adicionalmente **1** vez, até o máximo de **30** vezes. Quando há o dano de vários cortes ligeiros juntos, o cálculo é feito sobre o valor inicial mais alto. O dano de corte ligeiro conta como dano de habilidade de descarga. Se houver uma arma física ou ígnea equipada, o dano elétrico é multiplicado por **1,3**. Além disso, o dano elétrico não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional."
+			},
+			{
+				"title": "**Transformação sensorial**",
+				"description": "Ao atacar com **Gume de Cerco** equipada, há as formas de montante e espada longa. Os ataques na forma de montante conferem um escudo equivalente a **2%** da vida máxima durante **5** segundos e que se acumula até **5** vezes. Os ataques na forma de espada longa conferem acúmulos de eletrolâmina; com **5** acúmulos, recebe aprimoramento de eletrolâmina, que aumenta o dano da próxima habilidade em **100%**. Eletrolâmina e aprimoramento de eletrolâmina terminam ao sair da batalha."
+			}
+		],
+		"elementEffects": {
+			"title": "**Raio**",
+			"description": "Com carga completa, o ataque seguinte da arma causa **paralisia forte** aos alvos durante **1** segundo e os eletrocuta durante **6** segundos, removendo todos os efeitos positivos deles e causando dano de **144.00%** do ATQ. Durante os próximos **6** segundos, os alvos eletrocutados não podem receber nenhum efeito positivo."
+		},
+		"attributes": [
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			},
+			{
+				"charge": 14,
+				"shatter": 16
+			}
+		],
+		"advancements": [
+			{
+				"description": "Com **Gume de Cerco** no espaço principal, **estática em cadeia** tem **25%** de chance de acionar tempestade magnética, que causa dano de 500% do ATQ (conta como dano de habilidade). O efeito se aciona apenas 1 vez a cada **2** segundos.\r\nTrocar **Gume de Cerco** para o espaço secundário no estado **interferência eletromagnética** aciona um efeito de carga que dura **4** segundos e confere **100** cargas de arma por segundo.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 1.166667
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.166667
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.166667
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.166667
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 1.493333
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.333333
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.333333
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.333333
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Qualquer habilidade ou descarga de arma elétrica, **Disparo Solar**, **Disparo em Retirada** e **Artilharia Eletromagnética** podem dar energia especial. Com carga completa, usar **Canhão de Raios Magnéticos** gasta toda a energia especial e aprimora **interferência eletromagnética**: A chance de acionar **estática em cadeia** e **tempestade magnética** aumenta para **100%**.\r\nCompleta a energia especial ao entrar em estado de combate.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 1.66
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.5
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.5
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.5
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 2.146667
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.666667
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.666667
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.666667
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "Aumenta o dano final em **30%**. O efeito também funciona no espaço secundário.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 2.313333
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 1.833333
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 1.833333
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 1.833333
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			},
+			{
+				"description": "No estado de **interferência eletromagnética** aprimorado, aumenta o multiplicador de dano de **estática em cadeia** e **tempestade magnética** em **100%**.\r\nCom **ressonância de coragem** ativa, usar **Trovão Cósmico** com **aprimoramento de eletrolâmina** em vigor confere a você e aos colegas próximos **20%** de redução de dano durante **20** segundos e um escudo equivalente a **20%** da sua vida máxima durante **20** segundos.",
+				"multiplier": [
+					{
+						"PropName": "CommonAtkAdded",
+						"PropCoefficient": 2.48
+					},
+					{
+						"PropName": "ElementDef",
+						"PropCoefficient": 2
+					},
+					{
+						"PropName": "MaxHealthAdded",
+						"PropCoefficient": 2
+					},
+					{
+						"PropName": "CritAdded",
+						"PropCoefficient": 2
+					}
+				],
+				"need": "MerylX_thunder_plasm"
+			}
+		],
+		"skills": {
+			"normals": [
+				{
+					"name": "Corrente Oscilante",
+					"description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e repele o alvo.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e repele o alvo.",
+					"operations": [
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_melee.webp",
+					"id": "GA_FPlayerMerylXMelee_Melee"
+				},
+				{
+					"name": "Cortes Saltitantes",
+					"description": "No ar, use o botão de ataque normal para desferir 5 ataques consecutivos no ar enquanto consome vigor.\r\nPrimeiro ataque: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> e repele o alvo.\r\nSegundo ataque: Causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> e repele o alvo.\r\nTerceiro ataque: Causa dano de <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> e repele o alvo.\r\nQuarto ataque: Causa dano de até <shuzhi>{6}%</> do ATQ + <shuzhi>{7}</> e repele o alvo.\r\nQuinto ataque: Causa dano de <shuzhi>{8}%</> do ATQ + <shuzhi>{9}</> e repele o alvo.",
+					"operations": [
+						"Jump",
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_airattack.webp",
+					"id": "GA_FPlayerMerylXMelee_AirAttack"
+				},
+				{
+					"name": "Corte Trovejante",
+					"description": "No chão, segure o botão de ataque normal no primeiro ou segundo ataque normal para acionar Corte Trovejante.\r\nBalança Gume de Cerco e executa cortes para baixo à frente, causando dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos.",
+					"operations": [
+						"Attack",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch.webp",
+					"id": "GA_FPlayerMerylXMelee_Branch"
+				},
+				{
+					"name": "Empurrão Relâmpago",
+					"description": "No chão, segure o botão de ataque normal do terceiro ao quarto ataque normal para acionar Empurrão Relâmpago.\r\nExecuta um ataque ágil para cima que causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos próximos.",
+					"operations": [
+						"Attack",
+						"Attack",
+						"Attack",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch1.webp",
+					"id": "GA_FPlayerMerylXMelee_Branch1"
+				},
+				{
+					"name": "Disparo Solar",
+					"description": "No chão, segure o botão de ataque normal para acionar Disparo Solar.\r\nDispara um tiro concentrado no alvo, causando dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> ao alvo atingido.",
+					"operations": [
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_aimattack.webp",
+					"id": "GA_FPlayerMerylXMelee_PowerAttack"
+				},
+				{
+					"name": "Centelha Eletrificada",
+					"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Centelha Eletrificada.\r\nDespenca do ar. No caminho até a aterrissagem, cada golpe causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>. Ao aterrissar, causa dano de <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> aos alvos próximos.",
+					"operations": [
+						"Jump",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_jumpattack.webp",
+					"id": "GA_FPlayerMerylXMelee_JumpAttack"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Esquiva",
+					"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.",
+					"operations": [
+						"Movement",
+						"Dash"
+					],
+					"tags": [],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/common_evade.webp",
+					"id": "GA_FPlayerMerylXEvade_Evade"
+				},
+				{
+					"name": "Espiral Pulsante",
+					"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para acionar Espiral Pulsante. Causa dano de até <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos à frente.",
+					"operations": [
+						"Movement",
+						"Dash",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_fevadeattack.webp",
+					"id": "GA_FPlayerMerylXEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "Disparo em Retirada",
+					"description": "Use o botão de ataque normal logo após se esquivar para acionar Disparo em Retirada. Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> ao alvo atingido.",
+					"operations": [
+						"Dash",
+						"Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_bevadeattack.webp",
+					"id": "GA_FPlayerMerylXEvadeAttack_BackAttack"
+				},
+				{
+					"name": "Artilharia Eletromagnética",
+					"description": "Segure o botão de ataque normal logo após se esquivar para acionar Artilharia Eletromagnética, cuja potência depende do tempo carregado: Causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</>, <shuzhi>{2}%</> do ATQ + <shuzhi>{3}</> ou <shuzhi>{4}%</> do ATQ + <shuzhi>{5}</> aos alvos à frente. A carga máxima executa alvos que estejam com até 30% da vida máxima, desde que não sejam chefes nem Errantes.",
+					"operations": [
+						"Dash",
+						"Hold Attack"
+					],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_evadepowerattack.webp",
+					"id": "GA_FPlayerMerylXEvadeAttack_PowerAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "Trovão Cósmico",
+					"description": "Troca Gume de Cerco para a forma de espada longa, o que causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> (isso não acumula <shuzhi>eletrolâmina</>). Tempo de recarga: <shuzhi>20</> seg. Efeitos que zeram, atualizam ou mudam o tempo de recarga não afetam isso.\r\nCom <shuzhi>ressonância de coragem</> ativa: Usar Trovão Cósmico confere corpo de aço aos colegas próximos durante <shuzhi>10</> segundos; usar Trovão Cósmico com <shuzhi>aprimoramento de eletrolâmina</> em vigor atrai inimigos próximos e inflige a eles <shuzhi>10%</> de redução de resistência durante <shuzhi>20</> segundos.",
+					"operations": [],
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_skill.webp",
+					"id": "GA_FPlayerMerylXSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Canhão de Raios Magnéticos",
+					"description": "Quando a <red>carga da arma estiver completa</> ou <red>Phantasia</> for desencadeada, trocar para esta arma <shuzhi>remove todos os efeitos negativos de você</>. Gume de Cerco toma a forma de detonador eletromagnético e provoca uma explosão que causa dano de <shuzhi>{0}%</> do ATQ + <shuzhi>{1}</> aos alvos à frente. Ao provocar essa explosão, fica imune a dano durante <shuzhi>1,5</> segundo (indisponível na Liga do Apogeu).\r\nUsar Canhão de Raios Magnéticos aumenta o seu ATQ elétrico em <shuzhi>10%</> durante <shuzhi>20</> segundos e faz entrar em interferência eletromagnética durante <shuzhi>22</> segundos: Nesse período, você recebe corpo de aço; usar qualquer habilidade de arma elétrica confere mais <shuzhi>500</> cargas de arma; dano elétrico tem <shuzhi>25%</> de chance de acionar estática em cadeia, que causa dano de <shuzhi>50%</> do ATQ a até <shuzhi>7</> alvos (isso conta como dano de ataque normal, mas não aciona efeitos de ataque normal), e esse efeito pode ser acionado até 1 vez a cada <shuzhi>0,5</> segundo; derrotar um alvo aciona estática em cadeia outra vez, e esse efeito pode ser acionado até 1 vez a cada <shuzhi>0,1</> segundo.\r\nCom <shuzhi>ressonância de coragem</> ativa:\r\nNo estado de interferência eletromagnética, provoca inimigos próximos a cada <shuzhi>2</> segundos e confere a você um escudo equivalente a <shuzhi>20%</> da vida máxima durante <shuzhi>2</> segundos.\r\n<shuzhi>Sem ressonância de coragem</> ativa:\r\nNo estado de interferência eletromagnética, os ataques de <shuzhi>Gume de Cerco</> infligem estática aos alvos atingidos, o que diminui a velocidade deles em <shuzhi>30%</> durante <shuzhi>20</> segundos.",
+					"tags": [
+						"Damage"
+					],
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_changeskill.webp",
+					"id": "GA_FPlayerMerylXChangeSkill_Success"
+				}
+			]
+		},
+		"fashion": [
+			{
+				"outfit": {
+					"name": "Verão Eterno",
+					"description": "É um longo dia de verão. A senhorita Meryl, atualmente de férias, está escolhendo um maiô em uma loja de roupas de banho.",
+					"rarity": 5,
+					"source": "Em eventos",
+					"simulacrumId": "imitation_61",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX_Lock.webp"
+					},
+					"weaponId": "Paradox_fire_fashion_imitationUI",
+					"id": "imitation_fashion_61"
+				},
+				"weapon": {
+					"name": "Guloseimas Congeladas",
+					"description": "Missão ou férias? Para a Agente Meryl, por que não ambos?",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex_weapon.webp",
+					"type": "CONSUMABLE",
+					"source": [
+						"Disponível no evento Gachapon Verão Eterno."
+					],
+					"id": "imitation_fashion_61_w"
+				}
+			}
+		],
+		"version": "CN-Only",
+		"limited": true,
+		"id": "merylx_thunder"
 	},
 	"suspension_thunder": {
 		"name": "Vênus",
@@ -9706,7 +10148,7 @@
 		"fashion": [
 			{
 				"outfit": {
-					"name": "Shirli",
+					"name": "Shirli!",
 					"description": "É uma imagem extraída de lembranças... É só uma ilusão.",
 					"rarity": 5,
 					"source": "Em eventos",
@@ -12425,7 +12867,7 @@
 			}
 		],
 		"version": "2.5",
-		"limited": true,
+		"limited": false,
 		"id": "rubilia_thunder"
 	},
 	"iceblade_ice": {
@@ -12905,7 +13347,7 @@
 		],
 		"elementEffects": {
 			"title": "**Dissolução de armadura**",
-			"description": "Com carga completa, o ataque seguinte da arma inflige dissolução de armadura durante **45** segundos, o que aumenta os danos ígneo e físico sofridos pelo alvo em **10%** (e mais **15%** em jogo em equipe). O efeito substitui o status de lesão do alvo, e os alvos com esse efeito não podem sofrer lesão. Os ataques físicos atordoam os alvos infligidos pelo efeito dissolução durante **2** segundos, e os ataques ígneos diminuem a velocidade do alvo em **50%** durante **5** segundos. O efeito se aciona apenas **1** vez a cada **15** segundos no mesmo alvo."
+			"description": "Com carga completa, o ataque seguinte da arma inflige dissolução de armadura durante **45** segundos, o que aumenta os danos ígneo e físico sofridos pelo alvo em **10%** (e mais **15%** em jogo em equipe). O efeito substitui o status de lesão do alvo, e os alvos com esse efeito não podem sofrer lesão. Os ataques físicos atordoam os alvos infligidos pelo efeito dissolução durante **2** segundos, e os ataques ígneos diminuem a velocidade dos alvos em **50%** durante **5** segundos. O efeito se aciona apenas **1** vez a cada **15** segundos no mesmo alvo."
 		},
 		"attributes": [
 			{
@@ -14161,7 +14603,7 @@
 		],
 		"elementEffects": {
 			"title": "**Dissolução de armadura**",
-			"description": "Com carga completa, o ataque seguinte da arma inflige dissolução de armadura durante **45** segundos, o que aumenta os danos ígneo e físico sofridos pelo alvo em **10%** (e mais **15%** em jogo em equipe). O efeito substitui o status de lesão do alvo, e os alvos com esse efeito não podem sofrer lesão. Os ataques físicos atordoam os alvos infligidos pelo efeito dissolução durante **2** segundos, e os ataques ígneos diminuem a velocidade do alvo em **50%** durante **5** segundos. O efeito se aciona apenas **1** vez a cada **15** segundos no mesmo alvo."
+			"description": "Com carga completa, o ataque seguinte da arma inflige dissolução de armadura durante **45** segundos, o que aumenta os danos ígneo e físico sofridos pelo alvo em **10%** (e mais **15%** em jogo em equipe). O efeito substitui o status de lesão do alvo, e os alvos com esse efeito não podem sofrer lesão. Os ataques físicos atordoam os alvos infligidos pelo efeito dissolução durante **2** segundos, e os ataques ígneos diminuem a velocidade dos alvos em **50%** durante **5** segundos. O efeito se aciona apenas **1** vez a cada **15** segundos no mesmo alvo."
 		},
 		"attributes": [
 			{
@@ -14963,7 +15405,7 @@
 		],
 		"elementEffects": {
 			"title": "**Dissolução de armadura**",
-			"description": "Com carga completa, o ataque seguinte da arma inflige dissolução de armadura durante **45** segundos, o que aumenta os danos ígneo e físico sofridos pelo alvo em **10%** (e mais **15%** em jogo em equipe). O efeito substitui o status de lesão do alvo, e os alvos com esse efeito não podem sofrer lesão. Os ataques físicos atordoam os alvos infligidos pelo efeito dissolução durante **2** segundos, e os ataques ígneos diminuem a velocidade do alvo em **50%** durante **5** segundos. O efeito se aciona apenas **1** vez a cada **15** segundos no mesmo alvo."
+			"description": "Com carga completa, o ataque seguinte da arma inflige dissolução de armadura durante **45** segundos, o que aumenta os danos ígneo e físico sofridos pelo alvo em **10%** (e mais **15%** em jogo em equipe). O efeito substitui o status de lesão do alvo, e os alvos com esse efeito não podem sofrer lesão. Os ataques físicos atordoam os alvos infligidos pelo efeito dissolução durante **2** segundos, e os ataques ígneos diminuem a velocidade dos alvos em **50%** durante **5** segundos. O efeito se aciona apenas **1** vez a cada **15** segundos no mesmo alvo."
 		},
 		"attributes": [
 			{
@@ -16150,7 +16592,7 @@
 			}
 		],
 		"version": "3.0",
-		"limited": true,
+		"limited": false,
 		"id": "brush_fire"
 	},
 	"whip_physic": {
@@ -17387,7 +17829,7 @@
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_fenlier_weapon.webp",
 					"type": "CONSUMABLE",
 					"source": [
-						"Obtained from the 2nd anniversary"
+						"Obtido no 2º aniversário"
 					],
 					"id": "imitation_fashion_32_w"
 				}
@@ -18608,7 +19050,7 @@
 		},
 		"fashion": [],
 		"version": "3.0",
-		"limited": true,
+		"limited": false,
 		"id": "yulan_ice"
 	},
 	"zeke_physic": {
@@ -18681,7 +19123,7 @@
 		],
 		"elementEffects": {
 			"title": "**Dissolução de armadura**",
-			"description": "Com carga completa, o ataque seguinte da arma inflige dissolução de armadura durante **45** segundos, o que aumenta os danos ígneo e físico sofridos pelo alvo em **10%** (e mais **15%** em jogo em equipe). O efeito substitui o status de lesão do alvo, e os alvos com esse efeito não podem sofrer lesão. Os ataques físicos atordoam os alvos infligidos pelo efeito dissolução durante **2** segundos, e os ataques ígneos diminuem a velocidade do alvo em **50%** durante **5** segundos. O efeito se aciona apenas **1** vez a cada **15** segundos no mesmo alvo."
+			"description": "Com carga completa, o ataque seguinte da arma inflige dissolução de armadura durante **45** segundos, o que aumenta os danos ígneo e físico sofridos pelo alvo em **10%** (e mais **15%** em jogo em equipe). O efeito substitui o status de lesão do alvo, e os alvos com esse efeito não podem sofrer lesão. Os ataques físicos atordoam os alvos infligidos pelo efeito dissolução durante **2** segundos, e os ataques ígneos diminuem a velocidade dos alvos em **50%** durante **5** segundos. O efeito se aciona apenas **1** vez a cada **15** segundos no mesmo alvo."
 		},
 		"attributes": [
 			{

@@ -1935,7 +1935,7 @@
 	},
 	"Blindbox_mix1": {
 		"name": "Таинственный ящик с костюмами",
-		"description": "Таинственный ящик с костюмами. Мэй, надеемся, вы найдете в нем свой любимый.",
+		"description": "Таинственный ящик с костюмами. Может, именно в нем вы найдете свой любимый.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Blindbox_SpringFestival_2022.webp",
 		"type": "GIFT",
@@ -1943,11 +1943,27 @@
 	},
 	"Blindbox_mix2": {
 		"name": "Таинственный ящик от-кутюр",
-		"description": "Таинственный ящик, содержащий симулякр от-кутюр. Мэй, пусть вы найдете в нем свой любимый.",
+		"description": "Таинственный ящик, содержащий симулякр от-кутюр. Мэй, надеюсь, вы найдете в нем свой любимый.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
 		"type": "GIFT",
 		"id": "Blindbox_mix2"
+	},
+	"Blindbox_mix3": {
+		"name": "Таинственный ящик с костюмами",
+		"description": "Таинственный ящик с костюмами. Может, именно в нем вы найдете свой любимый.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3"
+	},
+	"Blindbox_PS": {
+		"name": "Таинственный ящик с транспортом (Ветроход)",
+		"description": "Таинственный ящик, содержащий транспорт. Мэй, может ты найдешь в нем свой любимый.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS"
 	},
 	"Blindbox_03_pack": {
 		"name": "Подарочная коробка «Теплое зимнее солнце»",
@@ -1983,7 +1999,7 @@
 	},
 	"Blindbox_mix1_pack": {
 		"name": "Таинственный ящик с костюмами",
-		"description": "Таинственный ящик с костюмами. Мэй, надеемся, вы найдете в нем свой любимый.",
+		"description": "Таинственный ящик с костюмами. Может, именно в нем вы найдете свой любимый.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Blindbox_SpringFestival_2022.webp",
 		"type": "GIFT",
@@ -1991,11 +2007,27 @@
 	},
 	"Blindbox_mix2_pack": {
 		"name": "Таинственный ящик от-кутюр",
-		"description": "Таинственный ящик, содержащий симулякр от-кутюр. Мэй, пусть вы найдете в нем свой любимый.",
+		"description": "Таинственный ящик, содержащий симулякр от-кутюр. Мэй, надеюсь, вы найдете в нем свой любимый.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
 		"type": "GIFT",
 		"id": "Blindbox_mix2_pack"
+	},
+	"Blindbox_mix3_pack": {
+		"name": "Таинственный ящик с костюмами",
+		"description": "Таинственный ящик с костюмами. Может, именно в нем вы найдете свой любимый.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3_pack"
+	},
+	"Blindbox_PS_pack": {
+		"name": "Таинственный ящик с транспортом (Ветроход)",
+		"description": "Таинственный ящик, содержащий транспорт. Мэй, может ты найдешь в нем свой любимый.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS_pack"
 	},
 	"gift_BigClient_01": {
 		"name": "Приветственный набор странника",
@@ -2902,7 +2934,7 @@
 		"id": "norn_logingift_5"
 	},
 	"nora_logingift_1": {
-		"name": "Подарок за вход «Лето» I",
+		"name": "Летний подарок за вход I",
 		"description": "Подарок за вход на протяжении 3 дней подряд.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/xianrenzhang_box.webp",
@@ -2910,7 +2942,7 @@
 		"id": "nora_logingift_1"
 	},
 	"nora_logingift_2": {
-		"name": "Подарок за вход в игру «Лето» II",
+		"name": "Летний подарок за вход II",
 		"description": "Подарок за вход на протяжении 6 дней подряд.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gemticketbox.webp",
@@ -2918,7 +2950,7 @@
 		"id": "nora_logingift_2"
 	},
 	"nora_logingift_3": {
-		"name": "Подарок за вход «Лето» III",
+		"name": "Летний подарок за вход III",
 		"description": "Подарок за вход на протяжении 9 дней подряд.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gemticketbox.webp",
@@ -2926,7 +2958,7 @@
 		"id": "nora_logingift_3"
 	},
 	"nora_logingift_4": {
-		"name": "Подарок за вход «Лето» IV",
+		"name": "Летний подарок за вход IV",
 		"description": "Подарок за вход на протяжении 12 дней подряд.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gemticketbox.webp",
@@ -2934,7 +2966,7 @@
 		"id": "nora_logingift_4"
 	},
 	"nora_logingift_5": {
-		"name": "Подарок за вход «Лето» V",
+		"name": "Летний подарок за вход V",
 		"description": "Подарок за вход на протяжении 15 дней подряд.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gemticketbox.webp",
@@ -3100,6 +3132,22 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_MidAutumnFestival.webp",
 		"type": "GIFT",
 		"id": "bag_MidAutumnFestival_12"
+	},
+	"bag_equip8_ssr_autouse": {
+		"name": "Комплект боевого снаряжения крепости",
+		"description": "Торс",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_ssr_autouse"
+	},
+	"bag_equip8_T2_autouse": {
+		"name": "N/A",
+		"description": "",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Equip_Balance/cloth_orange_T2.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_T2_autouse"
 	},
 	"gift_equip_white": {
 		"name": "Ящик со случайным снаряжением",
@@ -3481,7 +3529,7 @@
 		"name": "Набор звездного пути IV",
 		"description": "Надеемся, что за время отпуска вы не разучились драться! Будьте уверены: все ваши усилия вознаградятся.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_3.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_operation_2.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_4"
 	},
@@ -3489,7 +3537,7 @@
 		"name": "Набор звездного пути V",
 		"description": "Надеемся, что за время отпуска вы не разучились драться! Будьте уверены: все ваши усилия вознаградятся.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_core_orange.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_gacha_5.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_5"
 	},
@@ -4286,7 +4334,7 @@
 		"id": "bag_fashion62"
 	},
 	"bag_fashion67": {
-		"name": "Сахарные лучи & Розовая конфета",
+		"name": "Сахарные лучи и Розовая конфета",
 		"description": "Луч солнца украшает яркое лето и питает мои сладкие сны.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_fashion67.webp",
@@ -4670,7 +4718,7 @@
 		"id": "bag_chat_qipao154"
 	},
 	"bag_chat_qipao155": {
-		"name": "Подарочная коробка «Отпуск на берегу»",
+		"name": "Подарочная коробка «Каникулы на море»",
 		"description": "Вытащить домоседку Серую Лису на вечеринку у костра - задача не из легких. Но как только все соберутся, пусть начнется шалость и веселье!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao155.webp",
@@ -4678,20 +4726,36 @@
 		"id": "bag_chat_qipao155"
 	},
 	"bag_chat_qipao156": {
-		"name": "Подарочная коробка «Отблеск океана»",
+		"name": "Подарочная коробка «Сверкающая гладь»",
 		"description": "Та ускользающая, яркая фигура быстро скользит по глубинам моря.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
 		"type": "GIFT",
 		"id": "bag_chat_qipao156"
 	},
+	"bag_chat_qipao158": {
+		"name": "Подарочная коробка «Мечты об отпуске»",
+		"description": "Мерил вне службы и, наконец, наслаждается заслуженным отпуском.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao158.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao158"
+	},
 	"bag_chat_qipao161": {
 		"name": "Подарочная коробка «Бесконечное лето»",
 		"description": "Каждая аппетитная порция мороженого убеждает меня, что это лето никогда не закончится.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao161.webp",
 		"type": "GIFT",
 		"id": "bag_chat_qipao161"
+	},
+	"bag_chat_qipao164": {
+		"name": "Ледяная синяя роза подарочная коробка",
+		"description": "Ледяная синяя роза расцветает наполовину, как будто ожидая, что рыцарь из пророчества придет и сорвет ее.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao164.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao164"
 	},
 	"bag_emoji_1": {
 		"name": "Исследование симулякров Tower of Fantasy I",
@@ -5332,7 +5396,7 @@
 		"id": "gift_activity_wanxiang_013"
 	},
 	"item_hide_yaxianew_fenweibox02": {
-		"name": "Подарочная коробка от Мастера игрушек",
+		"name": "Коробка с сюрпризом от игрушечного мастера",
 		"description": "Интересно, какие хорошие вещи внутри?",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/zujian/rechargegift.webp",
@@ -5340,7 +5404,7 @@
 		"id": "item_hide_yaxianew_fenweibox02"
 	},
 	"item_hide_yaxianew_fenweibox03": {
-		"name": "Ящик-сюрприз от Создателя Сертификатов",
+		"name": "Коробка с сюрпризом от изготовителя сертификатов",
 		"description": "Интересно, какие хорошие вещи внутри?",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/zujian/rechargegift.webp",
@@ -5348,7 +5412,7 @@
 		"id": "item_hide_yaxianew_fenweibox03"
 	},
 	"item_hide_yaxianew_fenweibox04": {
-		"name": "Ваучер на гражданскую зенитную оборону - миномет",
+		"name": "Ваучер миномета для гражданской противовоздушной обороны",
 		"description": "Может быть использован для получения скидки в 50 Норн при оплате покупки гражданского зенитного миномета и его боеприпасов в Интернете, если фактическая оплата не менее 8,888,888 Норн. Вы также можете ввести код для выкупа ниже для его обмена. Ваучер станет недействительным после использования кода для выкупа!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/zujian/rechargegift.webp",
@@ -5356,8 +5420,8 @@
 		"id": "item_hide_yaxianew_fenweibox04"
 	},
 	"item_hide_yaxianew_nuoyuan01": {
-		"name": "Обычная карта обмена",
-		"description": "Скромная карта обмена. Используйте ее после обмена в магазине, чтобы получить небольшое количество Норн.",
+		"name": "Продвинутая карта обмена",
+		"description": "Великолепная карта обмена. Используйте ее после обмена в магазине, чтобы получить большое количество Норн.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_red.webp",
 		"type": "GIFT",
@@ -5372,8 +5436,8 @@
 		"id": "item_hide_yaxianew_nuoyuan02"
 	},
 	"item_hide_yaxianew_nuoyuan03": {
-		"name": "Укрепленная карта обмена",
-		"description": "Великолепная карта обмена. Используйте ее после обмена в магазине, чтобы получить большое количество Норн.",
+		"name": "Обычная карта обмена",
+		"description": "Скромная обменная карта. Используйте ее после обмена в магазине, чтобы получить небольшое количество Норн.",
 		"rarity": 2,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_greener.webp",
 		"type": "GIFT",
@@ -5796,7 +5860,7 @@
 		"id": "bag_customized_equip8_fire_OS"
 	},
 	"bag_customized_equip8_ice_OS": {
-		"name": "Комплект боевых припасов Гестос холода",
+		"name": "Комплект боевых припасов Гестоса холода",
 		"description": "Сундук",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange_ice.webp",
@@ -5956,16 +6020,16 @@
 		"id": "Blindbox_6_OS_pack"
 	},
 	"Blindbox_5_hazx_OS": {
-		"name": "Звезда пляжа",
-		"description": "Наполните свое сердце солнечным светом, наслаждайтесь вкусностями с пляжной вечеринки и делайте каждый момент сюрпризом!",
+		"name": "Звезда у моря",
+		"description": "Наполните свое сердце солнечным светом, наслаждайтесь вкусностями пляжной вечеринки и делайте каждый момент сюрпризом!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",
 		"type": "GIFT",
 		"id": "Blindbox_5_hazx_OS"
 	},
 	"Blindbox_5_hazx_OS_pack": {
-		"name": "Звезда пляжа",
-		"description": "Наполните свое сердце солнечным светом, наслаждайтесь вкусностями с пляжной вечеринки и делайте каждый момент сюрпризом!",
+		"name": "Звезда у моря",
+		"description": "Наполните свое сердце солнечным светом, наслаждайтесь вкусностями пляжной вечеринки и делайте каждый момент сюрпризом!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",
 		"type": "GIFT",

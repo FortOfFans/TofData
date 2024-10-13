@@ -27,6 +27,14 @@
 		"name": "梅丽尔·觉醒",
 		"icon": "None.webp"
 	},
+	"meilierx": {
+		"name": "梅丽尔·铠",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_meilierkai.webp"
+	},
+	"meilierx_lv2": {
+		"name": "梅丽尔·铠-觉醒",
+		"icon": "None.webp"
+	},
 	"mimi": {
 		"name": "米米驾到",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_mimi.webp"
@@ -867,6 +875,10 @@
 		"name": "现在是派对时间",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_157.webp"
 	},
+	"Avatar_158": {
+		"name": "假日丽人",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_158.webp"
+	},
 	"Avatar_159": {
 		"name": "浮潜专家",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_159.webp"
@@ -886,6 +898,14 @@
 	"Avatar_163": {
 		"name": "大地驾驭",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_163.webp"
+	},
+	"Avatar_164": {
+		"name": "霜蓝蔷薇",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_164.webp"
+	},
+	"Avatar_165": {
+		"name": "红粉酷喵",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_165.webp"
 	},
 	"Avatar_2nd_Anni": {
 		"name": "生日宣言",
@@ -1526,5 +1546,9 @@
 	"Avatar_Overseas_45": {
 		"name": "Mi-a的生日惊喜",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_45.webp"
+	},
+	"Avatar_Overseas_46": {
+		"name": "微笑梅丽尔·铠",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_46.webp"
 	}
 }

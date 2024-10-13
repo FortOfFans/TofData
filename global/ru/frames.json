@@ -804,15 +804,19 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_155.webp"
 	},
 	"AvatarFrame_156": {
-		"name": "Яркие приливы",
+		"name": "Звонкий прилив",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_156.webp"
 	},
 	"AvatarFrame_157": {
 		"name": "Вечер фейерверков",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_157.webp"
 	},
+	"AvatarFrame_158": {
+		"name": "Бледное солнце",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_158.webp"
+	},
 	"AvatarFrame_159": {
-		"name": "Тайны Глубокого моря",
+		"name": "Тайны глубин",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_159.webp"
 	},
 	"AvatarFrame_160": {
@@ -820,7 +824,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_160.webp"
 	},
 	"AvatarFrame_161": {
-		"name": "Летние мечты",
+		"name": "Летние грезы",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_161.webp"
 	},
 	"AvatarFrame_162": {
@@ -830,6 +834,14 @@
 	"AvatarFrame_163": {
 		"name": "Только вперед",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_163.webp"
+	},
+	"AvatarFrame_164": {
+		"name": "Сердце Ледяного Синего",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_164.webp"
+	},
+	"AvatarFrame_165": {
+		"name": "Кошачьи глазки",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/AvatarFrame/AvatarFrame_165.webp"
 	},
 	"AvatarFrame_txcreatos_06": {
 		"name": "Фестиваль фонариков",
@@ -936,7 +948,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_10.webp"
 	},
 	"AvatarFrame_PlayStation_03": {
-		"name": "N/A",
+		"name": "Спасибо за преданность",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_PlayStation_03.webp"
 	},
 	"AvatarFrame_tencent_11": {
@@ -944,15 +956,19 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_11.webp"
 	},
 	"AvatarFrame_tencent_12": {
-		"name": "N/A",
+		"name": "Кража сердечка",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_12.webp"
 	},
 	"AvatarFrame_tencent_13": {
-		"name": "N/A",
+		"name": "Первопроходец Аиды 6",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_13.webp"
 	},
 	"AvatarFrame_tencent_14": {
-		"name": "N/A",
+		"name": "Ми-я, будем здоровы!",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_14.webp"
+	},
+	"AvatarFrame_tencent_15": {
+		"name": "Летнее освежение",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_tencent_15.webp"
 	}
 }

@@ -1315,7 +1315,7 @@
 					"description": "Suave, ligero y, lo más importante, ¡es precioso!",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-					"type": "MOUNT",
+					"type": "MATERIAL",
 					"source": [
 						"From events"
 					],
@@ -1488,7 +1488,7 @@
 	},
 	"MountWater8": {
 		"name": "Fantasía de Verano",
-		"description": " Parece una deliciosa rosquilla en forma de carroza de piscina, perfectamente adecuada para el océano de verano. Acostado en ella, sintiendo la brisa del mar, el sol abrasador se convierte en un huevo a la copa, y el océano se convierte en jarabe de mandarina azul... Solo balanceate suavemente y sumérgete en la fantasía.",
+		"description": " Parece una deliciosa rosquilla en forma de carroza de piscina, perfectamente adecuada para el océano de verano. Mientras te recuestas en ella, la brisa marina acaricia tu aspecto, y el sol abrasador se transforma en un huevo a la copa. El océano debajo brilla como sirope de mandarina azul. Solo balanceate suavemente y déjate llevar a una fantasía soñadora.",
 		"rarity": 5,
 		"source": [],
 		"assets": {
@@ -1499,7 +1499,7 @@
 			{
 				"item": {
 					"name": "Fantasía de Verano",
-					"description": "Parece una deliciosa rosquilla en forma de carroza de piscina, perfectamente adecuada para el océano de verano. Acostado en ella, sintiendo la brisa del mar, el sol abrasador se convierte en un huevo a la copa, y el océano se convierte en jarabe de mandarina azul... Solo balanceate suavemente y sumérgete en la fantasía.",
+					"description": "Parece una deliciosa carroza en forma de rosquilla, perfectamente adecuada para el océano de verano. Acostado en ella, sintiendo la brisa del mar, el sol abrasador se convierte en un huevo a la copa, y el océano se convierte en jarabe de mandarina azul... Solo balanceate suavemente y sumérgete en la fantasía.",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/MountWater8.webp",
 					"type": "MOUNT",
@@ -1530,7 +1530,7 @@
 	},
 	"MountWater9": {
 		"name": "Tiburón Feroz",
-		"description": " Modelado según las criaturas que habitan en el agua, este vehículo con forma de tiburón emana una poderosa aura. Incluso en tierra, reina como un dominador temible que infunde asombro con solo una mirada.",
+		"description": " Modelado a partir de criaturas que habitan en el agua, este vehículo con forma de tiburón emana una poderosa aura. Incluso en tierra, reina como un dominador temible que infunde asombro con solo una mirada.",
 		"rarity": 5,
 		"source": [],
 		"assets": {
@@ -1538,7 +1538,7 @@
 			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_Water_9_1.webp"
 		},
 		"unlockItems": [],
-		"version": "CN-Only",
+		"version": "4.2",
 		"fashion": [
 			{
 				"Tiburón Feroz": "None.webp"
@@ -1816,5 +1816,39 @@
 		],
 		"colors": [],
 		"id": "Mount32"
+	},
+	"MountRacing3_guo": {
+		"name": "Trotavientos",
+		"description": " \"Surcar el viento\" es su lema. Está en una carrera con las ráfagas salvajes para demostrar quién es el más rápido.",
+		"rarity": 5,
+		"source": [],
+		"assets": {
+			"Icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp",
+			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp"
+		},
+		"unlockItems": [
+			{
+				"item": {
+					"name": "Trotavientos",
+					"description": "\"Surcar el viento\" es su lema. Está en una carrera con las ráfagas salvajes para demostrar quién es el más rápido.",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
+					"type": "MOUNT",
+					"source": [
+						"Se obtiene del evento Caja Misteriosa Trotavientos"
+					],
+					"id": "Mount_Racing_003_guo"
+				},
+				"amount": 1
+			}
+		],
+		"version": "CN-Only",
+		"fashion": [
+			{
+				"Default skin": "None.webp"
+			}
+		],
+		"colors": [],
+		"id": "MountRacing3_guo"
 	}
 }

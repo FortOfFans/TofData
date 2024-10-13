@@ -1949,6 +1949,22 @@
 		"type": "GIFT",
 		"id": "Blindbox_mix2"
 	},
+	"Blindbox_mix3": {
+		"name": "Outfit Mystery Box",
+		"description": "Mystery box containing outfits. May you obtain your favorite one in it.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3"
+	},
+	"Blindbox_PS": {
+		"name": "Vehicle Mystery Box (Wind Walker)",
+		"description": "Mystery box containing vehicles. May you obtain your favorite one in it.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS"
+	},
 	"Blindbox_03_pack": {
 		"name": "Apricity Giftbox",
 		"description": "Limited-Time giftbox offered to celebrate the arrival of spring. It's always a mixture of anticipation and trepidation when you open the box.",
@@ -1996,6 +2012,22 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
 		"type": "GIFT",
 		"id": "Blindbox_mix2_pack"
+	},
+	"Blindbox_mix3_pack": {
+		"name": "Outfit Mystery Box",
+		"description": "Mystery box containing outfits. May you obtain your favorite one in it.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3_pack"
+	},
+	"Blindbox_PS_pack": {
+		"name": "Vehicle Mystery Box (Wind Walker)",
+		"description": "Mystery box containing vehicles. May you obtain your favorite one in it.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS_pack"
 	},
 	"gift_BigClient_01": {
 		"name": "Wanderer's Welcome Pack",
@@ -3101,6 +3133,22 @@
 		"type": "GIFT",
 		"id": "bag_MidAutumnFestival_12"
 	},
+	"bag_equip8_ssr_autouse": {
+		"name": "Fortress Combat Equipment Kit",
+		"description": "Chest",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_ssr_autouse"
+	},
+	"bag_equip8_T2_autouse": {
+		"name": "N/A",
+		"description": "",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Equip_Balance/cloth_orange_T2.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_T2_autouse"
+	},
 	"gift_equip_white": {
 		"name": "Random equipment box",
 		"description": "Random Box",
@@ -3481,7 +3529,7 @@
 		"name": "Stellarway Pack IV",
 		"description": "Executors returning from the break, I hope all of you haven't forgotten how to fight, and better believe that all efforts shall be rewarded.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_3.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_operation_2.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_4"
 	},
@@ -3489,7 +3537,7 @@
 		"name": "Stellarway Pack V",
 		"description": "Executors returning from the break, I hope all of you haven't forgotten how to fight, and better believe that all efforts shall be rewarded.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_core_orange.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_gacha_5.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_5"
 	},
@@ -4685,13 +4733,29 @@
 		"type": "GIFT",
 		"id": "bag_chat_qipao156"
 	},
+	"bag_chat_qipao158": {
+		"name": "Vacationing Beauty Giftbox",
+		"description": "Meryl's off-duty and finally enjoying some well-deserved vacation time.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao158.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao158"
+	},
 	"bag_chat_qipao161": {
 		"name": "Endless Summer Giftbox",
 		"description": "Each luscious scoop of ice cream assures me that this summer shall never fade away.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao161.webp",
 		"type": "GIFT",
 		"id": "bag_chat_qipao161"
+	},
+	"bag_chat_qipao164": {
+		"name": "Icy Blue Rose Giftbox",
+		"description": "The icy blue rose blooms halfway, as if expecting the knight from the prophecy to come and pluck it.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao164.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao164"
 	},
 	"bag_emoji_1": {
 		"name": "Tower of Fantasy Simulacrum Research I",
@@ -5356,8 +5420,8 @@
 		"id": "item_hide_yaxianew_fenweibox04"
 	},
 	"item_hide_yaxianew_nuoyuan01": {
-		"name": "Common Exchange Card",
-		"description": "A low-key exchange card. Use it after redeeming at the store to get a small amount of Norn.",
+		"name": "Advanced Exchange Card",
+		"description": "A glorious exchange card. Use it after redeeming at the store to get a large amount of Norn.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_red.webp",
 		"type": "GIFT",
@@ -5372,8 +5436,8 @@
 		"id": "item_hide_yaxianew_nuoyuan02"
 	},
 	"item_hide_yaxianew_nuoyuan03": {
-		"name": "Advanced Exchange Card",
-		"description": "A glorious exchange card. Use it after redeeming at the store to get a large amount of Norn.",
+		"name": "Common Exchange Card",
+		"description": "A low-key exchange card. Use it after redeeming at the store to get a small amount of Norn.",
 		"rarity": 2,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_greener.webp",
 		"type": "GIFT",
@@ -5956,7 +6020,7 @@
 		"id": "Blindbox_6_OS_pack"
 	},
 	"Blindbox_5_hazx_OS": {
-		"name": "Beach Star",
+		"name": "Seaside Star",
 		"description": "Fill your heart with sunshine, enjoy beach party goodies, and make every moment a surprise!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",
@@ -5964,7 +6028,7 @@
 		"id": "Blindbox_5_hazx_OS"
 	},
 	"Blindbox_5_hazx_OS_pack": {
-		"name": "Beach Star",
+		"name": "Seaside Star",
 		"description": "Fill your heart with sunshine, enjoy beach party goodies, and make every moment a surprise!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",

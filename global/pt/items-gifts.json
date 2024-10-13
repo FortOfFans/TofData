@@ -1949,6 +1949,22 @@
 		"type": "GIFT",
 		"id": "Blindbox_mix2"
 	},
+	"Blindbox_mix3": {
+		"name": "Caixa Misteriosa de Roupa",
+		"description": "Caixa misteriosa contendo roupas. Que você possa obter a sua favorita nela.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3"
+	},
+	"Blindbox_PS": {
+		"name": "Caixa Misteriosa de Veículo (Caminhante do Vento)",
+		"description": "Caixa misteriosa contendo veículos. Que você obtenha o seu favorito nela.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS"
+	},
 	"Blindbox_03_pack": {
 		"name": "Presente de apricidade",
 		"description": "Presente temporário oferecido para celebrar a chegada da primavera. Sempre provoca um misto de ansiedade e receio quando você abre a caixa.",
@@ -1996,6 +2012,22 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
 		"type": "GIFT",
 		"id": "Blindbox_mix2_pack"
+	},
+	"Blindbox_mix3_pack": {
+		"name": "Caixa Misteriosa de Roupa",
+		"description": "Caixa misteriosa contendo roupas. Que você possa obter a sua favorita nela.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3_pack"
+	},
+	"Blindbox_PS_pack": {
+		"name": "Caixa Misteriosa de Veículo (Caminhante do Vento)",
+		"description": "Caixa misteriosa contendo veículos. Que você obtenha o seu favorito nela.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS_pack"
 	},
 	"gift_BigClient_01": {
 		"name": "pacote de boas-vindas a Errantes",
@@ -2902,7 +2934,7 @@
 		"id": "norn_logingift_5"
 	},
 	"nora_logingift_1": {
-		"name": "Presente de Login de Verão I",
+		"name": "Presente de login de verão I",
 		"description": "Presente de acesso de 3 dias consecutivos.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/xianrenzhang_box.webp",
@@ -2910,7 +2942,7 @@
 		"id": "nora_logingift_1"
 	},
 	"nora_logingift_2": {
-		"name": "Presente de Login de Verão II",
+		"name": "Presente de login de verão II",
 		"description": "Presente de acesso de 6 dias consecutivos.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gemticketbox.webp",
@@ -2918,7 +2950,7 @@
 		"id": "nora_logingift_2"
 	},
 	"nora_logingift_3": {
-		"name": "Presente de Login de Verão III",
+		"name": "Presente de login de verão III",
 		"description": "Presente de acesso de 9 dias consecutivos.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gemticketbox.webp",
@@ -2926,7 +2958,7 @@
 		"id": "nora_logingift_3"
 	},
 	"nora_logingift_4": {
-		"name": "Presente de Login de Verão IV",
+		"name": "Presente de login de verão IV",
 		"description": "Presente de acesso de 12 dias consecutivos.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gemticketbox.webp",
@@ -2934,7 +2966,7 @@
 		"id": "nora_logingift_4"
 	},
 	"nora_logingift_5": {
-		"name": "Presente de Login de Verão V",
+		"name": "Presente de login de verão V",
 		"description": "Presente de acesso de 15 dias consecutivos.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gemticketbox.webp",
@@ -3100,6 +3132,22 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_MidAutumnFestival.webp",
 		"type": "GIFT",
 		"id": "bag_MidAutumnFestival_12"
+	},
+	"bag_equip8_ssr_autouse": {
+		"name": "Caixa de equipamentos de combate da fortaleza",
+		"description": "Baú",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_ssr_autouse"
+	},
+	"bag_equip8_T2_autouse": {
+		"name": "N/A",
+		"description": "",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Equip_Balance/cloth_orange_T2.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_T2_autouse"
 	},
 	"gift_equip_white": {
 		"name": "Caixa de equipamento aleatório",
@@ -3481,7 +3529,7 @@
 		"name": "Pacote Viastral IV",
 		"description": "Executores voltando de folga, espero que não tenham se esquecido de como lutar. E lembrem-se de que todo esforço será recompensado.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_3.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_operation_2.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_4"
 	},
@@ -3489,7 +3537,7 @@
 		"name": "Pacote Viastral V",
 		"description": "Executores voltando de folga, espero que não tenham se esquecido de como lutar. E lembrem-se de que todo esforço será recompensado.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_core_orange.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_gacha_5.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_5"
 	},
@@ -4670,7 +4718,7 @@
 		"id": "bag_chat_qipao154"
 	},
 	"bag_chat_qipao155": {
-		"name": "Presente Férias na Costa",
+		"name": "Presente litoral relaxante",
 		"description": "Arrastar a Raposa Cinzenta de volta para casa para uma festa da fogueira não é tarefa fácil. Mas uma vez que todos estão reunidos, que comecem as travessuras e a diversão!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao155.webp",
@@ -4678,20 +4726,36 @@
 		"id": "bag_chat_qipao155"
 	},
 	"bag_chat_qipao156": {
-		"name": "Presente Tremeluz Oceânico",
-		"description": "Essa figura fugaz e vibrante desliza rapidamente pelas profundezas do mar.",
+		"name": "Presente Vislumbre do oceano",
+		"description": "Essa figura vibrante e fugaz desliza rapidamente pelas profundezas do mar.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
 		"type": "GIFT",
 		"id": "bag_chat_qipao156"
 	},
+	"bag_chat_qipao158": {
+		"name": "Presente beleza relaxante",
+		"description": "Meryl finalmente está de folga e aproveitando um merecido tempo de férias.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao158.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao158"
+	},
 	"bag_chat_qipao161": {
-		"name": "Presente Verão Sem Fim",
+		"name": "Presente verão infinito",
 		"description": "Cada deliciosa colherada de sorvete me garante que este verão nunca vai desaparecer.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao161.webp",
 		"type": "GIFT",
 		"id": "bag_chat_qipao161"
+	},
+	"bag_chat_qipao164": {
+		"name": "Presente Rosa Azul Congelante",
+		"description": "A rosa azul gélida desabrocha pela metade, como se esperasse o cavaleiro da profecia para vir e colhê-la.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao164.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao164"
 	},
 	"bag_emoji_1": {
 		"name": "Pesquisa de Simulacros de Tower of Fantasy I",
@@ -5332,7 +5396,7 @@
 		"id": "gift_activity_wanxiang_013"
 	},
 	"item_hide_yaxianew_fenweibox02": {
-		"name": "Caixa Surpresa do Fabricante de Brinquedos",
+		"name": "Caixa surpresa do fabricante de brinquedos",
 		"description": "Maravilha, quais coisas boas estão dentro?",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/zujian/rechargegift.webp",
@@ -5340,7 +5404,7 @@
 		"id": "item_hide_yaxianew_fenweibox02"
 	},
 	"item_hide_yaxianew_fenweibox03": {
-		"name": "Caixa Surpresa do Criador de Certificados",
+		"name": "Caixa surpresa do criador de certificados",
 		"description": "Maravilha, quais coisas boas estão dentro?",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/zujian/rechargegift.webp",
@@ -5348,7 +5412,7 @@
 		"id": "item_hide_yaxianew_fenweibox03"
 	},
 	"item_hide_yaxianew_fenweibox04": {
-		"name": "Tíquete de Morteiro de Defesa Antiaérea Civil V",
+		"name": "Tíquete de Morteiro de defesa antiaérea civil",
 		"description": "Pode ser usado para obter um desconto de 50 Norn ao pagar por compras online de morteiros de defesa antiaérea civil e sua munição, se o pagamento real for de no mínimo 8.888.888 Norn. Você também pode inserir o código de resgate abaixo para resgatar. O tíquete se tornará inválido após o uso do código de resgate!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/zujian/rechargegift.webp",
@@ -5356,8 +5420,8 @@
 		"id": "item_hide_yaxianew_fenweibox04"
 	},
 	"item_hide_yaxianew_nuoyuan01": {
-		"name": "Cartão de Troca Comum",
-		"description": "Um cartão de troca discreto. Use-o após trocar na loja para obter uma pequena quantidade de Norna.",
+		"name": "Cartão de Troca Avançado",
+		"description": "Um glorioso cartão de troca. Use-o após resgatar na loja para obter uma grande quantidade de Norna.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_red.webp",
 		"type": "GIFT",
@@ -5372,8 +5436,8 @@
 		"id": "item_hide_yaxianew_nuoyuan02"
 	},
 	"item_hide_yaxianew_nuoyuan03": {
-		"name": "Cartão de Troca Avançado",
-		"description": "Um glorioso cartão de troca. Use-o após resgatar na loja para obter uma grande quantidade de Norna.",
+		"name": "Cartão de Troca Comum",
+		"description": "Um cartão de troca discreto. Use-o após trocar na loja para obter uma pequena quantidade de Norna.",
 		"rarity": 2,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_greener.webp",
 		"type": "GIFT",
@@ -5788,7 +5852,7 @@
 		"id": "Item_Festival_BadImitation_OS"
 	},
 	"bag_customized_equip8_fire_OS": {
-		"name": "Kit de Suprimento de Combate Gesthos Fogo",
+		"name": "Kit de Suprimentos de Combate Gesthos Fogo",
 		"description": "Baú",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange_fire.webp",
@@ -5796,7 +5860,7 @@
 		"id": "bag_customized_equip8_fire_OS"
 	},
 	"bag_customized_equip8_ice_OS": {
-		"name": "Kit de Suprimentos de Combate Gesthos Gelo",
+		"name": "Kit de Suprimentos de Combate Gelo Gesthos",
 		"description": "Baú",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange_ice.webp",
@@ -5804,7 +5868,7 @@
 		"id": "bag_customized_equip8_ice_OS"
 	},
 	"bag_customized_equip8_thunder_OS": {
-		"name": "Kit de Suprimentos de Combate Raio Gesthos",
+		"name": "Kit de Suprimentos de Combate Gesthos Raio",
 		"description": "Baú",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange_thunder.webp",
@@ -5956,7 +6020,7 @@
 		"id": "Blindbox_6_OS_pack"
 	},
 	"Blindbox_5_hazx_OS": {
-		"name": "Estrela da Praia",
+		"name": "Estrela à Beira-Mar",
 		"description": "Encha seu coração de sol, aproveite as delícias da festa na praia e torne cada momento uma surpresa!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",
@@ -5964,7 +6028,7 @@
 		"id": "Blindbox_5_hazx_OS"
 	},
 	"Blindbox_5_hazx_OS_pack": {
-		"name": "Estrela da Praia",
+		"name": "Estrela à Beira-Mar",
 		"description": "Encha seu coração de sol, aproveite as delícias da festa na praia e torne cada momento uma surpresa!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",

@@ -320,13 +320,14 @@
 	},
 	"fan_superpower_tonggan": {
 		"name": "影织通感材料",
-		"description": "海嘉德研发的用于迭代升级拟态系统的驱动模块，可用于提升亚夏拟态的战斗能力。",
+		"description": "消耗通感材料可以提升执行者的感知敏锐度，增强与拟态数据之间的感知联系。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_tonggan_linye.webp",
 		"type": "MATERIAL",
 		"source": [
 			"卡池商店购买",
-			"通感材料商店购买"
+			"武器6星后，使用赤核订购重复获得武器",
+			"晶尘商店"
 		],
 		"id": "fan_superpower_tonggan"
 	},
@@ -639,6 +640,17 @@
 			"重复获得对应武器"
 		],
 		"id": "Nora_superpower_plasm"
+	},
+	"MerylX_thunder_plasm": {
+		"name": "破城之锋数据核心",
+		"description": "重复获得的武器所转化的数据核心。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/item_weapon_upstar_.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"重复获得对应武器"
+		],
+		"id": "MerylX_thunder_plasm"
 	},
 	"Likeability_unlock1": {
 		"name": "升格驱动-亚夏",
@@ -7795,6 +7807,24 @@
 		"source": [],
 		"id": "Blindbox_coin_mix2"
 	},
+	"Blindbox_coin_mix3": {
+		"name": "盲盒奖券（星辉&幻梦）",
+		"description": "购买盲盒道具，即可获得盲盒奖券，可以在盲盒商店兑换商品。",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Activity/ThemeActivity/BlindBox_Reimu/Fashion/liuguanghuobi03.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Blindbox_coin_mix3"
+	},
+	"Blindbox_coin_PS": {
+		"name": "盲盒奖券（载具）",
+		"description": "购买盲盒道具，即可获得盲盒奖券，可以在盲盒商店兑换商品。",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanghuobi04.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Blindbox_coin_PS"
+	},
 	"Item_Condiment_01": {
 		"name": "气泡水",
 		"description": "压缩过的气泡水，喝起来没有什么味道却很刺激，与别的东西融合或许能变成奇妙的饮品。",
@@ -9107,7 +9137,7 @@
 		"id": "EquipFragment_UP52"
 	},
 	"EquipFragment_UP53": {
-		"name": "超频晶片",
+		"name": "超频晶片·白蔷薇",
 		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/matrixfragment_up.webp",
@@ -10207,7 +10237,7 @@
 		"id": "WeaponFragment_UP52"
 	},
 	"WeaponFragment_UP53": {
-		"name": "回火铸金",
+		"name": "回火铸金·白蔷薇",
 		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
@@ -11813,6 +11843,15 @@
 		"source": [],
 		"id": "choose_dressbox3"
 	},
+	"choose_dressbox_mix3": {
+		"name": "时装自选箱",
+		"description": "内含时装的自选箱道具，获得后可从中自选时装。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Activity/ThemeActivity/BlindBox_Reimu/icon_shizhuang_manghe_Starlight.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_dressbox_mix3"
+	},
 	"choose_hat_sr_1": {
 		"name": "饰品自选箱Ⅰ",
 		"description": "自选宝箱",
@@ -11830,6 +11869,24 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_hat_ssr_1"
+	},
+	"choose_hat_sr_2": {
+		"name": "饰品自选箱Ⅲ",
+		"description": "自选宝箱",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_choose_hat_sr_01.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_hat_sr_2"
+	},
+	"choose_hat_ssr_2": {
+		"name": "饰品自选箱Ⅳ",
+		"description": "自选宝箱",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_choose_hat_ssr_01.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_hat_ssr_2"
 	},
 	"choose_sr": {
 		"name": "SR源器箱",
@@ -11956,6 +12013,15 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_frag_BP21"
+	},
+	"choose_frag_BP24": {
+		"name": "通行证源器碎片箱Ⅸ",
+		"description": "自选宝箱",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gift_artifact_frag_ssr.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_frag_BP24"
 	},
 	"choose_frag_sr": {
 		"name": "SR源器碎片箱",
@@ -13371,10 +13437,10 @@
 		"id": "choose_matrix_SSR48"
 	},
 	"choose_matrix_SSR49": {
-		"name": "雅诺意志自选箱",
-		"description": "自选宝箱，内含雅诺意志所有类型。",
+		"name": "梅丽尔·铠意志自选箱",
+		"description": "自选宝箱，内含梅丽尔**•** 铠意志所有类型。",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_matrix_ssr42.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_matrix_ssr49.webp",
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_matrix_SSR49"
@@ -15212,6 +15278,26 @@
 		"source": [],
 		"id": "Blindbox_mix2"
 	},
+	"Blindbox_mix3": {
+		"name": "时装盲盒",
+		"description": "内含时装的盲盒道具，祝你能从中抽到你想要的时装。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_mix3"
+	},
+	"Blindbox_PS": {
+		"name": "风行者载具盲盒",
+		"description": "内含载具的盲盒道具，祝你能从中抽到你想要的载具。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"source": [
+			"风行者盲盒活动获取"
+		],
+		"id": "Blindbox_PS"
+	},
 	"Blindbox_03_pack": {
 		"name": "暖阳礼盒",
 		"description": "为迎接春天的到来而限时推出的礼盒，拆开礼盒时的心情总是期待与忐忑并存。",
@@ -15265,6 +15351,24 @@
 		"type": "GIFT",
 		"source": [],
 		"id": "Blindbox_mix2_pack"
+	},
+	"Blindbox_mix3_pack": {
+		"name": "时装盲盒",
+		"description": "内含时装的盲盒道具，祝你能从中抽到你想要的时装。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_mix3_pack"
+	},
+	"Blindbox_PS_pack": {
+		"name": "风行者载具盲盒",
+		"description": "内含载具的盲盒道具，祝你能从中抽到你想要的载具。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_PS_pack"
 	},
 	"gift_BigClient_01": {
 		"name": "恢拓者初见礼",
@@ -16218,7 +16322,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_1"
 	},
@@ -16229,7 +16333,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_2"
 	},
@@ -16240,7 +16344,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_3"
 	},
@@ -16251,7 +16355,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_4"
 	},
@@ -16262,7 +16366,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_5"
 	},
@@ -16372,7 +16476,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Ann_choosegift"
 	},
@@ -16559,6 +16663,24 @@
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_MidAutumnFestival_12"
+	},
+	"bag_equip8_ssr_autouse": {
+		"name": "堡垒作战装备箱",
+		"description": "宝箱",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "bag_equip8_ssr_autouse"
+	},
+	"bag_equip8_T2_autouse": {
+		"name": "骇客作战装备",
+		"description": "宝箱",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Equip_Balance/cloth_orange_T2.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "bag_equip8_T2_autouse"
 	},
 	"gift_equip_white": {
 		"name": "随机装备箱",
@@ -16987,7 +17109,7 @@
 		"name": "星途礼包Ⅳ",
 		"description": "休假归来的执行者们，希望大家还没有忘记怎么战斗，要相信所有付出都会有回报。",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_3.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_operation_2.webp",
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_GreatRegression_4"
@@ -16996,7 +17118,7 @@
 		"name": "星途礼包Ⅴ",
 		"description": "休假归来的执行者们，希望大家还没有忘记怎么战斗，要相信所有付出都会有回报。",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_core_orange.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_gacha_5.webp",
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_GreatRegression_5"
@@ -17593,6 +17715,15 @@
 		"source": [],
 		"id": "item_ticket_Nora_superpower"
 	},
+	"item_ticket_MerylX_thunder": {
+		"name": "特种凭证·恩怨俱泯",
+		"description": "幻塔重工诚信出品，提供意志芯片送货上门服务。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/item_ticket_meilierkai.webp",
+		"type": "MATERIAL",
+		"source": [],
+		"id": "item_ticket_MerylX_thunder"
+	},
 	"fragment_artifact_ssr_001": {
 		"name": "巨擎手臂碎片",
 		"description": "收集30个可合成SSR源器巨擎手臂，多余的碎片可用于源器进阶。",
@@ -17839,11 +17970,14 @@
 		"id": "fragment_artifact_ssr_023"
 	},
 	"fragment_artifact_ssr_024": {
-		"name": "生电控制枪碎片",
-		"description": "收集30个可合成源器生电控制枪，多余的碎片可用于源器进阶。",
+		"name": "增益力场碎片",
+		"description": "收集30个可合成源器增益力场，多余的碎片可用于源器进阶。",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_023.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
 		"type": "FRAGMENT",
+		"source": [
+			"通行证-进阶奖励"
+		],
 		"id": "fragment_artifact_ssr_024"
 	},
 	"fragment_artifact_sr_001": {
@@ -21980,6 +22114,28 @@
 		],
 		"id": "fashion_dress_72_4"
 	},
+	"fashion_dress_73_4": {
+		"name": "闲趣时光",
+		"description": "工作暂停，学习暂停，接下来是休息时间，就先休息一个……世纪吧！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"风行者盲盒活动获取"
+		],
+		"id": "fashion_dress_73_4"
+	},
+	"fashion_dress_74_4": {
+		"name": "晴空落英",
+		"description": "飞鸟自晴空穿掠而过，羽毛伴着落英打着旋儿下坠，叫醒在树下乘凉午睡的旅人。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"二十期通行证奖励"
+		],
+		"id": "fashion_dress_74_4"
+	},
 	"fragment_bag_chat_qipao91": {
 		"name": "「似是故人来」碎片",
 		"description": "云开月明。",
@@ -23162,7 +23318,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_162.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Hat_79_4_4"
 	},
@@ -23178,13 +23334,13 @@
 		"id": "Hat_80_4_4"
 	},
 	"Hat_81_4_4": {
-		"name": "塔塔强力应援",
+		"name": "塔塔超级强力无限应援",
 		"description": "执行者大人！两周年快乐！塔塔我超级无敌宇宙第一强力无极限最最最最爱你的！为你痴为你狂为你哐哐撞大墙！执行者大人万岁！",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_170.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Hat_81_4_4"
 	},
@@ -24409,7 +24565,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_164.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "fashion_decoration_92_4"
 	},
@@ -24621,7 +24777,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_206.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"限定活动获得"
+			"重启防御活动获取"
 		],
 		"id": "fashion_decoration_110_4"
 	},
@@ -24766,7 +24922,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Overlooker.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "fashion_glider_3_4"
 	},
@@ -24786,9 +24942,20 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "fashion_glider_5_4"
+	},
+	"fashion_glider_SP": {
+		"name": "夜之虹",
+		"description": "最新的都市传说——只在夜间才出现的彩虹，其实就是这款喷气背包的杰作。至于是哪个捣蛋鬼干的嘛……",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"风行者盲盒活动获取"
+		],
+		"id": "fashion_glider_SP"
 	},
 	"NPF_Energy": {
 		"name": "破碎能量",
@@ -25038,6 +25205,15 @@
 		"type": "MATERIAL",
 		"source": [],
 		"id": "Item_Gem_Nora_superpower"
+	},
+	"Item_Gem_MerylX_thunder": {
+		"name": "赤核·恩怨俱泯",
+		"description": "因原能的不明影响而在自然界生成的漆黑球体，闪耀着危险的猩红光芒，可以想象其中蕴含的力量令人敬畏。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Gem_meilierkai.webp",
+		"type": "MATERIAL",
+		"source": [],
+		"id": "Item_Gem_MerylX_thunder"
 	},
 	"choose_Gem_JiuYu": {
 		"name": "专属赤核自选箱",
@@ -32036,16 +32212,38 @@
 		],
 		"id": "bag_chat_qipao156"
 	},
+	"bag_chat_qipao158": {
+		"name": "「假日丽人」礼盒",
+		"description": "结束工作的梅丽尔探员正在享受属于她的假期。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao158.webp",
+		"type": "GIFT",
+		"source": [
+			"悠长夏日扭蛋活动获取"
+		],
+		"id": "bag_chat_qipao158"
+	},
 	"bag_chat_qipao161": {
 		"name": "「无尽夏日」礼盒",
 		"description": "每一个甜滋滋的冰淇淋都向我保证，这个夏季永不结束。",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao161.webp",
 		"type": "GIFT",
 		"source": [
 			"夏日特调扭蛋活动获取"
 		],
 		"id": "bag_chat_qipao161"
+	},
+	"bag_chat_qipao164": {
+		"name": "「霜蓝蔷薇」礼盒",
+		"description": "霜蓝色的蔷薇含羞半开，似在等待预言中的骑士前来将它采下。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao164.webp",
+		"type": "GIFT",
+		"source": [
+			"夏日特调扭蛋活动获取"
+		],
+		"id": "bag_chat_qipao164"
 	},
 	"CN_bag_1": {
 		"name": "煦曲乐句Ⅰ",
@@ -32054,7 +32252,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_1.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_bag_1"
 	},
@@ -32065,7 +32263,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_2.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_bag_2"
 	},
@@ -32076,7 +32274,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_3.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_bag_3"
 	},
@@ -32098,7 +32296,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_1.webp",
 		"type": "FRAGMENT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_bag_1_frag"
 	},
@@ -32109,7 +32307,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_2.webp",
 		"type": "FRAGMENT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_bag_2_frag"
 	},
@@ -32120,7 +32318,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_3.webp",
 		"type": "FRAGMENT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_bag_3_frag"
 	},
@@ -33656,7 +33854,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_29.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "Avatar29"
 	},
@@ -33697,7 +33895,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_33.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "Avatar33"
 	},
@@ -34029,7 +34227,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_017_c.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "Ann_Mount_017"
 	},
@@ -36201,13 +36399,26 @@
 		"id": "chat_Action_zuoyi"
 	},
 	"chat_miaAction_juqi": {
-		"name": "举起",
-		"description": "聊天交互动作",
+		"name": "举高高",
+		"description": "把最可爱的Mia举高高吧！",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/liaotian/dongzuo/action_mi-a_Lift.webp",
 		"type": "CONSUMABLE",
-		"source": [],
+		"source": [
+			"举高高活动获取"
+		],
 		"id": "chat_miaAction_juqi"
+	},
+	"frag_chat_miaAction_juqi": {
+		"name": "举高高碎片",
+		"description": "聊天交互动作",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/liaotian/dongzuo/action_mi-a_Lift.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"举高高活动获取"
+		],
+		"id": "frag_chat_miaAction_juqi"
 	},
 	"chat_miaAction_kaiqiang": {
 		"name": "开枪",
@@ -37032,7 +37243,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_GL.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "imitation_fashion_10"
 	},
@@ -37043,7 +37254,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_GL_weapon.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "imitation_fashion_10_w"
 	},
@@ -37354,7 +37565,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_fenlier.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "imitation_fashion_32"
 	},
@@ -37365,7 +37576,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_fenlier_weapon.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "imitation_fashion_32_w"
 	},
@@ -37566,6 +37777,28 @@
 			"海岸扬风扭蛋活动获取"
 		],
 		"id": "imitation_fashion_62_w"
+	},
+	"imitation_fashion_61": {
+		"name": "悠长夏日",
+		"description": "夏日悠长，度假中的梅丽尔小姐正在泳装店内挑选合适的泳衣。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"悠长夏日扭蛋活动获取"
+		],
+		"id": "imitation_fashion_61"
+	},
+	"imitation_fashion_61_w": {
+		"name": "冰糕有售",
+		"description": "度假还是执行任务？对于梅丽尔探员来说两者可以兼顾。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex_weapon.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"悠长夏日扭蛋活动获取"
+		],
+		"id": "imitation_fashion_61_w"
 	},
 	"imitation_33": {
 		"name": "默利尼娅",
@@ -41550,7 +41783,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_46.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "Avatar46"
 	},
@@ -43094,6 +43327,33 @@
 		"source": [],
 		"id": "Title_1_8_0_17"
 	},
+	"Title_1_8_0_18": {
+		"name": "潜行梦魇",
+		"description": "限时讨伐作战第六期结算时前八名获得。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_18"
+	},
+	"Title_1_8_0_19": {
+		"name": "夜行幻影",
+		"description": "限时讨伐作战第六期结算时第九至二十四名获得。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_19"
+	},
+	"Title_1_8_0_20": {
+		"name": "隐秘猎手",
+		"description": "限时讨伐作战第六期结算时第二十五至一百名获得。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_20"
+	},
 	"Title_0_8_0_1": {
 		"name": "诛兽狂客",
 		"description": "限时讨伐作战第一期结算时前八名获得。",
@@ -43336,6 +43596,33 @@
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "Title_0_8_0_27"
+	},
+	"Title_0_8_0_28": {
+		"name": "抑邪止恶",
+		"description": "限时讨伐作战第九期结算时前八名获得。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_28"
+	},
+	"Title_0_8_0_29": {
+		"name": "破除灾厄",
+		"description": "限时讨伐作战第九期结算时第九至二十四名获得。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_29"
+	},
+	"Title_0_8_0_30": {
+		"name": "消解咒怨",
+		"description": "限时讨伐作战第九期结算时第二十五至一百名获得。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_30"
 	},
 	"Title_1_6_4_1": {
 		"name": "银岸智者",
@@ -44076,7 +44363,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Avatar_Overseas_30i.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_Avatar_1"
 	},
@@ -44087,7 +44374,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Avatar_Overseas_Anniversary01i.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_Avatar_2"
 	},
@@ -44098,7 +44385,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_Avatar_3.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_Avatar_3"
 	},
@@ -44342,7 +44629,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/AvatarFrame_tencent_05i.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_AvatarFrame_1"
 	},
@@ -44353,7 +44640,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/AvatarFrame_Overseas_Anniversary01i.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_AvatarFrame_2"
 	},
@@ -44364,7 +44651,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_AvatarFrame_3.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_AvatarFrame_3"
 	},
@@ -44375,7 +44662,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_AvatarFrame_4.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_AvatarFrame_4"
 	},
@@ -44386,7 +44673,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_AvatarFrame_5.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_AvatarFrame_5"
 	},
@@ -44603,7 +44890,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_tencent_03.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_chat_qipao_1"
 	},
@@ -44614,7 +44901,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_chat_qipao_Overseas_Anniversary01.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_chat_qipao_2"
 	},
@@ -44625,7 +44912,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_CN_qipao_3.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_chat_qipao_3"
 	},
@@ -44636,7 +44923,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_CN_chat_qipao_4.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_chat_qipao_4"
 	},
@@ -44647,7 +44934,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_CN_chat_qipao_5.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2周年福利领取"
 		],
 		"id": "CN_chat_qipao_5"
 	},
@@ -45647,6 +45934,24 @@
 		"source": [],
 		"id": "Item_shellcoin"
 	},
+	"Item_icecreamcoin": {
+		"name": "冰淇淋",
+		"description": "这么热的天气，就连吃冰淇淋，也是一场与时间的赛跑！听说只要吃掉足够多的冰淇淋，就可以换奖品！",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_icecream.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Item_icecreamcoin"
+	},
+	"item_TDcoin": {
+		"name": "病毒数据碎片",
+		"description": "保护格网期间，病毒被消灭后掉落的病毒数据碎片，收集起来有利于海嘉德对病毒的进一步研究。",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/TD_Coin.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "item_TDcoin"
+	},
 	"Item_IceCrystalCoin": {
 		"name": "冰晶币",
 		"description": "在极寒地区开采的蕴含冰元素能源的水晶矿石制作的纪念币，握在手中就能感受到凉意,也有人将其作为饮料中的冰块使用。",
@@ -46204,7 +46509,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_116.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Avatar_116"
 	},
@@ -46335,7 +46640,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_116.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "AvatarFrame_116"
 	},
@@ -46457,7 +46762,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_116.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "chat_qipao_116"
 	},
@@ -49266,7 +49571,7 @@
 	},
 	"Item_Norn_ZWY_001": {
 		"name": "蒲公英徽章",
-		"description": "蒲公英海岸旅游文化中心发行的周边徽章，上面绘有蒲公英海岸最为招牌的蒲公英图案。",
+		"description": "蒲公英海岸旅游文化中心发行的周边徽章，上面绘有蒲公英海岸最为招牌的蒲公英图案。每周获取上限50。",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/Norn_pugongying.webp",
 		"type": "BARTER",
@@ -51151,12 +51456,14 @@
 		"id": "Avatar_157"
 	},
 	"Avatar_158": {
-		"name": "Avatar_158_name",
-		"description": "Avatar_158_des",
+		"name": "假日丽人",
+		"description": "结束工作的梅丽尔探员正在享受属于她的假期。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_158.webp",
 		"type": "AVATAR",
-		"source": [],
+		"source": [
+			"悠长夏日扭蛋活动获取"
+		],
 		"id": "Avatar_158"
 	},
 	"Avatar_159": {
@@ -51177,7 +51484,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_160.webp",
 		"type": "AVATAR",
 		"source": [
-			"海岸阳光狂欢活动获取"
+			"登录领取"
 		],
 		"id": "Avatar_160"
 	},
@@ -51220,16 +51527,20 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_164.webp",
 		"type": "AVATAR",
-		"source": [],
+		"source": [
+			"风行者盲盒活动获取"
+		],
 		"id": "Avatar_164"
 	},
 	"Avatar_165": {
-		"name": "Avatar_165_name",
-		"description": "Avatar_165_des",
+		"name": "红粉酷喵",
+		"description": "这是叛逆前卫的象征，是特立独行的基调。有句话怎么说来着——头像越粉，打架越狠。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_165.webp",
 		"type": "AVATAR",
-		"source": [],
+		"source": [
+			"二十期通行证奖励"
+		],
 		"id": "Avatar_165"
 	},
 	"Avatar_166": {
@@ -51487,12 +51798,14 @@
 		"id": "AvatarFrame_157"
 	},
 	"AvatarFrame_158": {
-		"name": "Avatarframe_158_name",
-		"description": "Avatarframe_158_des",
+		"name": "骄阳褪色",
+		"description": "令骄阳褪色的究竟是墨镜还是那位度假中的女士？",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_AvatarFrame_158.webp",
 		"type": "FRAME",
-		"source": [],
+		"source": [
+			"悠长夏日扭蛋活动获取"
+		],
 		"id": "AvatarFrame_158"
 	},
 	"AvatarFrame_159": {
@@ -51513,7 +51826,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_160.webp",
 		"type": "FRAME",
 		"source": [
-			"海岸阳光狂欢活动获取"
+			"登录领取"
 		],
 		"id": "AvatarFrame_160"
 	},
@@ -51556,16 +51869,20 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_164.webp",
 		"type": "FRAME",
-		"source": [],
+		"source": [
+			"风行者盲盒活动获取"
+		],
 		"id": "AvatarFrame_164"
 	},
 	"AvatarFrame_165": {
-		"name": "Avatarframe_165_name",
-		"description": "Avatarframe_165_des",
+		"name": "喵喵秋波",
+		"description": "接收到我的信号了吗？嗯……我的意思是，下次再敢登门挑衅，就做好跪地求饶的准备吧。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_165.webp",
 		"type": "FRAME",
-		"source": [],
+		"source": [
+			"二十期通行证奖励"
+		],
 		"id": "AvatarFrame_165"
 	},
 	"AvatarFrame_166": {
@@ -51823,13 +52140,13 @@
 		"id": "chat_qipao_157"
 	},
 	"chat_qipao_158": {
-		"name": "chat_qipao_158_name",
-		"description": "chat_qipao_158_des",
+		"name": "烈日荫长",
+		"description": "天气炎热，不如到遮阳伞下小憩一会。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_158.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"锦龙吟扭蛋活动获取"
+			"悠长夏日扭蛋活动获取"
 		],
 		"id": "chat_qipao_158"
 	},
@@ -51851,7 +52168,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_160.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"海岸阳光狂欢活动获取"
+			"登录领取"
 		],
 		"id": "chat_qipao_160"
 	},
@@ -51895,18 +52212,18 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_164.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"锦龙吟扭蛋活动获取"
+			"风行者盲盒活动获取"
 		],
 		"id": "chat_qipao_164"
 	},
 	"chat_qipao_165": {
-		"name": "chat_qipao_165_name",
-		"description": "chat_qipao_165_des",
+		"name": "猛人必备",
+		"description": "猛人必备的时尚单品。萌吗？打架更猛哦。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_165.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"锦龙吟扭蛋活动获取"
+			"二十期通行证奖励"
 		],
 		"id": "chat_qipao_165"
 	},
@@ -53259,7 +53576,7 @@
 	},
 	"Item_Room_Nora_DZ_01": {
 		"name": "杂志",
-		"description": "记录各种内容的杂志，供人茶余饭后阅读。\r\n解锁：吧台情景互动",
+		"description": "记录各种内容的杂志，供人茶余饭后阅读。\r\n解锁：沙发情景互动",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
@@ -53286,12 +53603,21 @@
 	},
 	"Item_Room_Nora_DZ_04": {
 		"name": "青涩之酿",
-		"description": "充满绿野气息的饮品，带来大自然的清爽。\r\n解锁：沙发情景互动",
+		"description": "充满绿野气息的饮品，带来大自然的清爽。\r\n解锁：吧台情景互动",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
 		"source": [],
 		"id": "Item_Room_Nora_DZ_04"
+	},
+	"Item_Room_Nora_DZ_05": {
+		"name": "手制咖啡",
+		"description": "诺拉亲手冲泡的咖啡\r\n解锁姿态：喝咖啡",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_sushe_jiaju_DZ_05.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_Nora_DZ_05"
 	},
 	"Item_Room_Nora_YZ_01": {
 		"name": "月光精灵",
@@ -53419,6 +53745,276 @@
 		"source": [],
 		"id": "Item_Room_Nora_SW_405"
 	},
+	"Item_Room_MLR_JJ_01": {
+		"name": "晶石陈列柜",
+		"description": "用于陈列收藏品的展示柜。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_01"
+	},
+	"Item_Room_MLR_JJ_02": {
+		"name": "水上摩托艇",
+		"description": "用于练习水上摩托驾驶。\r\n解锁动作：摩托休息\r\n额外效果：可与梅丽尔**•** 铠同乘指定载具（需要同时拥有对应拟态与动作）",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/LeisureRoom/jiaju/MLR/JJ/icon_sushe_jiaju_SMZJ.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_02"
+	},
+	"Item_Room_MLR_JJ_03": {
+		"name": "自助照相机",
+		"description": "可自助拍照的机器，照片可立出免冲洗。\r\n解锁效果：与机器交互可拍摄大头贴",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_03"
+	},
+	"Item_Room_MLR_JJ_04": {
+		"name": "美甲台",
+		"description": "做美甲的梳妆台。\r\n解锁动作：美甲",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_04"
+	},
+	"Item_Room_MLR_JJ_05": {
+		"name": "单人沙发床",
+		"description": "舒适又时尚的单人沙发床。\r\n解锁动作：休息",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_05"
+	},
+	"Item_Room_MLR_JJ_06": {
+		"name": "更衣隔间",
+		"description": "方便快速更衣的隔间。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_06"
+	},
+	"Item_Room_MLR_JJ_07": {
+		"name": "水族箱",
+		"description": "家用水族箱，可维持中小型水族生态以供观赏。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_07"
+	},
+	"Item_Room_MLR_JJ_08": {
+		"name": "小型抽屉柜",
+		"description": "小体型，大容量。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_08"
+	},
+	"Item_Room_MLR_JJ_09": {
+		"name": "小圆桌",
+		"description": "小型多用途圆桌。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_09"
+	},
+	"Item_Room_MLR_JJ_10": {
+		"name": "装饰挂画",
+		"description": "昆虫图样的装饰挂画，看起来像是标本。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_10"
+	},
+	"Item_Room_MLR_JJ_11": {
+		"name": "木艺装饰品",
+		"description": "上等木料雕刻的装饰品。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_11"
+	},
+	"Item_Room_MLR_JJ_12": {
+		"name": "家居摆件",
+		"description": "常见的家居摆件。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_12"
+	},
+	"Item_Room_MLR_DZ_01": {
+		"name": "更衣稍待",
+		"description": "更衣室换泳装（需要先获得更衣室才能购买）\r\n解锁：更换泳衣情景互动",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_01"
+	},
+	"Item_Room_MLR_DZ_02": {
+		"name": "午后小憩",
+		"description": "午后小憩\r\n解锁：午睡情景互动",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_02"
+	},
+	"Item_Room_MLR_DZ_03": {
+		"name": "美甲体验",
+		"description": "美甲体验\r\n解锁：美甲体验情景互动",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_03"
+	},
+	"Item_Room_MLR_YZ_01": {
+		"name": "月光精灵",
+		"description": "闪烁着月色般的光泽，照亮前行的路。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_YZ_01"
+	},
+	"Item_Room_MLR_YZ_02": {
+		"name": "星点",
+		"description": "星点夜空，伴君入梦。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_YZ_02"
+	},
+	"Item_Room_MLR_XZ_01": {
+		"name": "白月光",
+		"description": "今晚的月色真美，风也很温柔。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_01"
+	},
+	"Item_Room_MLR_XZ_02": {
+		"name": "香槟时光",
+		"description": "气泡点缀了你我金色的时光。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_02"
+	},
+	"Item_Room_MLR_XZ_03": {
+		"name": "繁星",
+		"description": "踏遍星河，但为君故。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_03"
+	},
+	"Item_Room_Nora_SW_MLR": {
+		"name": "夜幕",
+		"description": "长夜漫漫，情致未央。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_Nora_SW_MLR"
+	},
+	"Item_Room_MLR_SW_001": {
+		"name": "勇者",
+		"description": "鼓起勇气，直面向前。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_001"
+	},
+	"Item_Room_MLR_SW_002": {
+		"name": "银月",
+		"description": "一如新月的光挥洒在大地上。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_002"
+	},
+	"Item_Room_MLR_SW_101": {
+		"name": "奶昔",
+		"description": "就像奶昔一样的颜色，也有着奶昔的味道。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_101"
+	},
+	"Item_Room_MLR_SW_102": {
+		"name": "白色幻梦",
+		"description": "白色的薄纱散着梦色的光。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_102"
+	},
+	"Item_Room_MLR_SW_202": {
+		"name": "红白",
+		"description": "红色与白色，即有纯情，也怀热火。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_202"
+	},
+	"Item_Room_MLR_SW_301": {
+		"name": "日暮",
+		"description": "天色逐渐暗淡，夜色将至。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_301"
+	},
+	"Item_Room_MLR_SW_304": {
+		"name": "晨曦",
+		"description": "如同天边的一抹光，象征一天的开端。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_304"
+	},
+	"Item_Room_MLR_SW_401": {
+		"name": "渔网",
+		"description": "没有任何一条鱼能从这个洞眼中离开。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_401"
+	},
+	"Item_Room_MLR_SW_402": {
+		"name": "点滴",
+		"description": "就像与你共处的记忆，点点滴滴。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_402"
+	},
 	"Hotta_Ornament_1": {
 		"name": "好梦摇篮曲",
 		"description": "嘘，不要惊扰它，再不知疲倦的旅行者，也应被允许有做场美梦的时间。",
@@ -53515,6 +54111,72 @@
 		],
 		"id": "Hotta_Ornament_9"
 	},
+	"Hotta_Ornament_10": {
+		"name": "水族奇遇",
+		"description": "搭乘洋流在海底冒险，水族朋友好心传来提醒，小心前方，惊险的海沟深处，藏着巨大的怪物！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_226.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"限定活动获得"
+		],
+		"id": "Hotta_Ornament_10"
+	},
+	"Hotta_Ornament_11": {
+		"name": "纯洁的爱",
+		"description": "这不是普通的白玫瑰，是连叶片也雪白的纯白玫瑰，下雨时，整朵花都会变成透明，象征最纯洁的爱意。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_227.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"风行者盲盒活动获取"
+		],
+		"id": "Hotta_Ornament_11"
+	},
+	"Hotta_Ornament_12": {
+		"name": "悟空金箍",
+		"description": "在人类母星文化资料库里，有一个叫做悟空的文学形象，可惜相关的文字资料所剩无几，只留下了金箍的图像记录。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_228.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"限时活动获取"
+		],
+		"id": "Hotta_Ornament_12"
+	},
+	"Hotta_Ornament_13": {
+		"name": "心漾·简洁",
+		"description": "纯白色的缎带蝴蝶结，中间镶嵌了金色的五角星饰品，优雅而简洁的设计。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_229.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"限定活动获得"
+		],
+		"id": "Hotta_Ornament_13"
+	},
+	"Hotta_Ornament_14": {
+		"name": "心漾·飘带",
+		"description": "纯白色的缎带蝴蝶结，中间镶嵌了金色的五角星饰品，同时辅以蕾丝和飘带，更添温柔可爱。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_230.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"限定活动获得"
+		],
+		"id": "Hotta_Ornament_14"
+	},
+	"Hotta_Ornament_15": {
+		"name": "月兔戏清辉",
+		"description": "晴夜月圆，今天似乎连捣药的月兔也放假了。不信你看，那只小兔子就在偷懒呢！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_231.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"限定活动获得"
+		],
+		"id": "Hotta_Ornament_15"
+	},
 	"fragment_Hotta_Ornament_8": {
 		"name": "地驭护额碎片",
 		"description": "利用地驭掉落的机械眼改装的护额，失去目视能力的机械眼依然保留着发光的能力。",
@@ -53529,7 +54191,7 @@
 	},
 	"ActorBackground_1": {
 		"name": "幻塔之下·个人背景",
-		"description": "可用于解锁名片**•** 名片背景",
+		"description": "可用于解锁名片**•** 个人背景",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg01.webp",
 		"type": "CONSUMABLE",
@@ -53538,9 +54200,9 @@
 	},
 	"ActorBackground_2": {
 		"name": "极简·迷幻紫·个人背景",
-		"description": "可用于解锁名片**•** 名片边框",
+		"description": "可用于解锁名片**•** 个人背景",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_ModelBgACE.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg02.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "ActorBackground_2"
@@ -53549,7 +54211,7 @@
 		"name": "凉凉夏日·个人背景",
 		"description": "可用于解锁名片**•** 个人背景",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_ModelBgSummer.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_ModelBgSummer.webp",
 		"type": "CONSUMABLE",
 		"source": [
 			"海岸阳光狂欢活动获取"
@@ -53558,16 +54220,16 @@
 	},
 	"ActorBackground_4": {
 		"name": "夜色怪盗·个人背景",
-		"description": "可用于解锁名片**•** 个人相框",
+		"description": "可用于解锁名片**•** 个人背景",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_ModelBgSummer.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_ModelBgACE.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "ActorBackground_4"
 	},
 	"ActorBackground_5": {
 		"name": "水族箱·个人背景",
-		"description": "可用于解锁名片**•** 个人相框",
+		"description": "可用于解锁名片**•** 个人背景",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Decoration/icon_ModelBgHaiyang256.webp",
 		"type": "CONSUMABLE",
@@ -53575,6 +54237,72 @@
 			"沙滩排球玩法获取"
 		],
 		"id": "ActorBackground_5"
+	},
+	"ActorBackground_6": {
+		"name": "活力橙·个人背景",
+		"description": "可用于解锁名片**•** 个人背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "ActorBackground_6"
+	},
+	"ActorBackground_7": {
+		"name": "极简·凉夏绿·个人背景",
+		"description": "可用于解锁名片**•** 个人背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"沙滩排球玩法获取"
+		],
+		"id": "ActorBackground_7"
+	},
+	"ActorBackground_8": {
+		"name": "奢华红·个人背景",
+		"description": "可用于解锁名片**•** 个人背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "ActorBackground_8"
+	},
+	"ActorBackground_9": {
+		"name": "极简·霓虹粉·个人背景",
+		"description": "可用于解锁名片**•** 个人背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"沙滩排球玩法获取"
+		],
+		"id": "ActorBackground_9"
+	},
+	"ActorBackground_10": {
+		"name": "灵魂波动·个人背景",
+		"description": "可用于解锁名片**•** 个人背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_ModelBgGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"重启防御活动获取"
+		],
+		"id": "ActorBackground_10"
+	},
+	"ActorBackground_11": {
+		"name": "凝固时光·个人背景",
+		"description": "可用于解锁名片**•** 个人背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_ModelBgXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"沙滩排球玩法获取"
+		],
+		"id": "ActorBackground_11"
 	},
 	"CardBackground_1": {
 		"name": "幻塔之下·名片背景",
@@ -53587,16 +54315,16 @@
 	},
 	"CardBackground_2": {
 		"name": "极简·迷幻紫·名片背景",
-		"description": "可用于解锁名片**•** 名片边框",
+		"description": "可用于解锁名片**•** 名片背景",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_NmCardACE.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard02.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "CardBackground_2"
 	},
 	"CardBackground_3": {
 		"name": "凉凉夏日·名片背景",
-		"description": "可用于解锁名片**•** 个人背景",
+		"description": "可用于解锁名片**•** 名片背景",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_NmCardSummer.webp",
 		"type": "CONSUMABLE",
@@ -53607,16 +54335,76 @@
 	},
 	"CardBackground_4": {
 		"name": "夜色怪盗·名片背景",
-		"description": "可用于解锁名片**•** 个人相框",
+		"description": "可用于解锁名片**•** 名片背景",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_NmCardSummer.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_NmCardACE.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "CardBackground_4"
 	},
+	"CardBackground_6": {
+		"name": "活力橙·名片背景",
+		"description": "可用于解锁名片**•** 名片背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "CardBackground_6"
+	},
+	"CardBackground_7": {
+		"name": "极简·凉夏绿·名片背景",
+		"description": "可用于解锁名片**•** 名片背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_7"
+	},
+	"CardBackground_8": {
+		"name": "奢华红·名片背景",
+		"description": "可用于解锁名片**•** 名片背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "CardBackground_8"
+	},
+	"CardBackground_9": {
+		"name": "极简·霓虹粉·名片背景",
+		"description": "可用于解锁名片**•** 名片背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard06.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_9"
+	},
+	"CardBackground_10": {
+		"name": "灵魂波动·名片背景",
+		"description": "可用于解锁名片**•** 名片背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_NmCardGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"重启防御活动获取"
+		],
+		"id": "CardBackground_10"
+	},
+	"CardBackground_11": {
+		"name": "凝固时光·名片背景",
+		"description": "可用于解锁名片**•** 名片背景",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_NmCardXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_11"
+	},
 	"CardFrame_1": {
 		"name": "幻塔之下·名片边框",
-		"description": "可用于解锁名片**•** 名片背景",
+		"description": "可用于解锁名片**•** 名片边框",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame01.webp",
 		"type": "CONSUMABLE",
@@ -53627,14 +54415,14 @@
 		"name": "极简·迷幻紫·名片边框",
 		"description": "可用于解锁名片**•** 名片边框",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_NmCardFrameACE.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame02.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "CardFrame_2"
 	},
 	"CardFrame_3": {
 		"name": "凉凉夏日·名片边框",
-		"description": "可用于解锁名片**•** 个人背景",
+		"description": "可用于解锁名片**•** 名片边框",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_NmCardFrameSummer.webp",
 		"type": "CONSUMABLE",
@@ -53645,16 +54433,76 @@
 	},
 	"CardFrame_4": {
 		"name": "夜色怪盗·名片边框",
-		"description": "可用于解锁名片**•** 个人相框",
+		"description": "可用于解锁名片**•** 名片边框",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_NmCardFrameSummer.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_NmCardFrameACE.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "CardFrame_4"
 	},
+	"CardFrame_6": {
+		"name": "活力橙·名片边框",
+		"description": "可用于解锁名片**•** 名片边框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "CardFrame_6"
+	},
+	"CardFrame_7": {
+		"name": "极简·凉夏绿·名片边框",
+		"description": "可用于解锁名片**•** 名片边框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_7"
+	},
+	"CardFrame_8": {
+		"name": "奢华红·名片边框",
+		"description": "可用于解锁名片**•** 名片边框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "CardFrame_8"
+	},
+	"CardFrame_9": {
+		"name": "极简·霓虹粉·名片边框",
+		"description": "可用于解锁名片**•** 名片边框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame06.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_9"
+	},
+	"CardFrame_10": {
+		"name": "灵魂波动·名片边框",
+		"description": "可用于解锁名片**•** 名片边框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_NmCardFrameGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"重启防御活动获取"
+		],
+		"id": "CardFrame_10"
+	},
+	"CardFrame_11": {
+		"name": "凝固时光·名片边框",
+		"description": "可用于解锁名片**•** 名片边框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_NmCardFrameXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_11"
+	},
 	"ActorFrame_1": {
 		"name": "幻塔之下·个人相框",
-		"description": "可用于解锁名片**•** 名片背景",
+		"description": "可用于解锁名片**•** 个人相框",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame01.webp",
 		"type": "CONSUMABLE",
@@ -53663,16 +54511,16 @@
 	},
 	"ActorFrame_2": {
 		"name": "极简·迷幻紫·个人相框",
-		"description": "可用于解锁名片**•** 名片边框",
+		"description": "可用于解锁名片**•** 个人相框",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_ModelFrameACE.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame02.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "ActorFrame_2"
 	},
 	"ActorFrame_3": {
 		"name": "凉凉夏日·个人相框",
-		"description": "可用于解锁名片**•** 个人背景",
+		"description": "可用于解锁名片**•** 个人相框",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_ModelFrameSummer.webp",
 		"type": "CONSUMABLE",
@@ -53685,7 +54533,7 @@
 		"name": "夜色怪盗·个人相框",
 		"description": "可用于解锁名片**•** 个人相框",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_ModelFrameSummer.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_ModelFrameACE.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "ActorFrame_4"
@@ -53700,6 +54548,72 @@
 			"沙滩排球玩法获取"
 		],
 		"id": "ActorFrame_5"
+	},
+	"ActorFrame_6": {
+		"name": "活力橙·个人相框",
+		"description": "可用于解锁名片**•** 个人相框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "ActorFrame_6"
+	},
+	"ActorFrame_7": {
+		"name": "极简·凉夏绿·个人相框",
+		"description": "可用于解锁名片**•** 个人相框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"沙滩排球玩法获取"
+		],
+		"id": "ActorFrame_7"
+	},
+	"ActorFrame_8": {
+		"name": "奢华红·个人相框",
+		"description": "可用于解锁名片**•** 个人相框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "ActorFrame_8"
+	},
+	"ActorFrame_9": {
+		"name": "极简·霓虹粉·个人相框",
+		"description": "可用于解锁名片**•** 个人相框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"沙滩排球玩法获取"
+		],
+		"id": "ActorFrame_9"
+	},
+	"ActorFrame_10": {
+		"name": "灵魂波动·个人相框",
+		"description": "可用于解锁名片**•** 个人相框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_ModelFrameGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"重启防御活动获取"
+		],
+		"id": "ActorFrame_10"
+	},
+	"ActorFrame_11": {
+		"name": "凝固时光·个人相框",
+		"description": "可用于解锁名片**•** 个人相框",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_ModelFrameXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"沙滩排球玩法获取"
+		],
+		"id": "ActorFrame_11"
 	},
 	"Frag_Fruit_Watermelon": {
 		"name": "西瓜果切",
@@ -53827,9 +54741,7 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss01.webp",
 		"type": "EMBLEM",
-		"source": [
-			"果味特攻活动获取"
-		],
+		"source": [],
 		"id": "Badge_1_1_1"
 	},
 	"Badge_1_1_2": {
@@ -53838,9 +54750,7 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss02.webp",
 		"type": "EMBLEM",
-		"source": [
-			"果味特攻活动获取"
-		],
+		"source": [],
 		"id": "Badge_1_1_2"
 	},
 	"Badge_1_1_3": {
@@ -53849,10 +54759,46 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss03.webp",
 		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_3"
+	},
+	"Badge_1_1_4": {
+		"name": "英招·勇者之证",
+		"description": "开启40次英招宝箱获取",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss01.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_4"
+	},
+	"Badge_1_1_5": {
+		"name": "飞廉·勇者之证",
+		"description": "开启40次飞廉宝箱获取",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss02.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_5"
+	},
+	"Badge_1_1_6": {
+		"name": "刑天·勇者之证",
+		"description": "开启40次刑天宝箱获取",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss03.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_6"
+	},
+	"Badge_1_1_7": {
+		"name": "Badge_1_1_7_name",
+		"description": "Badge_1_1_7_des",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss03.webp",
+		"type": "EMBLEM",
 		"source": [
 			"果味特攻活动获取"
 		],
-		"id": "Badge_1_1_3"
+		"id": "Badge_1_1_7"
 	},
 	"MountWater8": {
 		"name": "盛夏幻想",
@@ -54041,6 +54987,50 @@
 		],
 		"id": "Sticks_Part_1_15"
 	},
+	"Sticks_Part_2_1": {
+		"name": "幽幽安可",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals16.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"重启防御活动获取"
+		],
+		"id": "Sticks_Part_2_1"
+	},
+	"Sticks_Part_2_2": {
+		"name": "幽幽梅丽尔",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals17.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"重启防御活动获取"
+		],
+		"id": "Sticks_Part_2_2"
+	},
+	"Sticks_Part_2_3": {
+		"name": "幽幽诺拉",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals18.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"重启防御活动获取"
+		],
+		"id": "Sticks_Part_2_3"
+	},
+	"Sticks_Part_2_4": {
+		"name": "幽幽洛斯琳",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals19.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"重启防御活动获取"
+		],
+		"id": "Sticks_Part_2_4"
+	},
 	"Sticks_All_1_1": {
 		"name": "怪盗假面",
 		"description": "可用于解锁名片**•** 贴纸",
@@ -54069,6 +55059,15 @@
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "Sticks_All_1_3"
+	},
+	"Sticks_All_1_4": {
+		"name": "跳跳糖",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Sticks_All_1_4"
 	},
 	"Sticks_All_1_5": {
 		"name": "悦动音符",
@@ -54183,6 +55182,17 @@
 		],
 		"id": "Sticks_choose_3"
 	},
+	"Sticks_choose_4": {
+		"name": "贴纸自选箱Ⅳ",
+		"description": "使用后可在椰树、西瓜、冰块、水果甜冰中选择一个",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_BoxNmcard.webp",
+		"type": "CHOOSE",
+		"source": [
+			"激浪逐风活动获取"
+		],
+		"id": "Sticks_choose_4"
+	},
 	"frag_Sticks_choose_3": {
 		"name": "贴纸自选箱Ⅲ碎片",
 		"description": "贴纸自选箱碎片",
@@ -54193,6 +55203,17 @@
 			"干杯！摇曳之夏活动获取"
 		],
 		"id": "frag_Sticks_choose_3"
+	},
+	"frag_Sticks_choose_4": {
+		"name": "贴纸自选箱Ⅳ碎片",
+		"description": "贴纸自选箱碎片",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_BoxNmcard.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"激浪逐风活动获取"
+		],
+		"id": "frag_Sticks_choose_4"
 	},
 	"Sticks_All_2_1": {
 		"name": "扇贝",
@@ -54226,6 +55247,281 @@
 			"干杯！摇曳之夏活动获取"
 		],
 		"id": "Sticks_All_2_3"
+	},
+	"Sticks_All_2_4": {
+		"name": "椰树",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"激浪逐风活动获取"
+		],
+		"id": "Sticks_All_2_4"
+	},
+	"Sticks_All_2_5": {
+		"name": "西瓜",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"激浪逐风活动获取"
+		],
+		"id": "Sticks_All_2_5"
+	},
+	"Sticks_All_2_6": {
+		"name": "冰块",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"激浪逐风活动获取"
+		],
+		"id": "Sticks_All_2_6"
+	},
+	"Sticks_All_2_7": {
+		"name": "水果甜冰",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer07.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"激浪逐风活动获取"
+		],
+		"id": "Sticks_All_2_7"
+	},
+	"Sticks_All_2_8": {
+		"name": "嘟！",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer08.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "Sticks_All_2_8"
+	},
+	"Sticks_All_2_9": {
+		"name": "嘟~嘟！",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer09.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "Sticks_All_2_9"
+	},
+	"Sticks_All_2_10": {
+		"name": "嘟嘟嘟嘟~",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer010.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "Sticks_All_2_10"
+	},
+	"Sticks_All_2_11": {
+		"name": "饮茶獭獭",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer011.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "Sticks_All_2_11"
+	},
+	"Sticks_All_2_12": {
+		"name": "亚夏时空",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer012.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "Sticks_All_2_12"
+	},
+	"Sticks_All_2_13": {
+		"name": "维拉时空",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer013.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"趣味游乐园活动获取"
+		],
+		"id": "Sticks_All_2_13"
+	},
+	"Sticks_All_2_14": {
+		"name": "九域时空",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer014.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_2_14"
+	},
+	"Sticks_All_2_15": {
+		"name": "格网时空",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer015.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_2_15"
+	},
+	"Sticks_All_3_1": {
+		"name": "淡蓝花束",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_01.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_1"
+	},
+	"Sticks_All_3_2": {
+		"name": "干花·翠雀",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_02.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_2"
+	},
+	"Sticks_All_3_3": {
+		"name": "木柄印章",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_3"
+	},
+	"Sticks_All_3_4": {
+		"name": "幻塔火漆印",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_4"
+	},
+	"Sticks_All_3_5": {
+		"name": "放映机",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_5"
+	},
+	"Sticks_All_3_6": {
+		"name": "中古烛台",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_07.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_6"
+	},
+	"Sticks_All_3_7": {
+		"name": "复古手提灯",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_08.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_7"
+	},
+	"Sticks_All_3_8": {
+		"name": "数码相机",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_09.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_8"
+	},
+	"Sticks_All_3_9": {
+		"name": "复古邮票",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_10.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_9"
+	},
+	"Sticks_All_3_10": {
+		"name": "戳破了",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_11.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_10"
+	},
+	"Sticks_All_3_11": {
+		"name": "远方来信",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_13.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_11"
+	},
+	"Sticks_All_3_12": {
+		"name": "微缩胶片",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_12"
+	},
+	"Sticks_All_3_13": {
+		"name": "相机底片",
+		"description": "可用于解锁名片**•** 贴纸",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Img_Decals_XJ_13.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "Sticks_All_3_13"
 	},
 	"Hacker_Norn_Power_021": {
 		"name": "小透明",
@@ -56430,7 +57726,7 @@
 		"name": "遗失的票据",
 		"description": "街边落在地上的票据，收集起来去和绿色亚夏的业务员兑换奖励吧！",
 		"rarity": 4,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/item_hide_yaxianew_trade03.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/item_hide_yaxianew_trade05.webp",
 		"type": "QUEST",
 		"source": [
 			"鎏金感应寻得"
@@ -56608,8 +57904,8 @@
 		"id": "item_hide_yaxianew_fenweibox04"
 	},
 	"item_hide_yaxianew_nuoyuan01": {
-		"name": "普通兑换卡",
-		"description": "略显低调的兑换卡。在商店兑换该卡后，使用可得少量诺元。",
+		"name": "高级兑换卡",
+		"description": "泛着光彩的兑换卡。在商店兑换该卡后，使用可得大量诺元。",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_red.webp",
 		"type": "GIFT",
@@ -56630,8 +57926,8 @@
 		"id": "item_hide_yaxianew_nuoyuan02"
 	},
 	"item_hide_yaxianew_nuoyuan03": {
-		"name": "高级兑换卡",
-		"description": "泛着光彩的兑换卡。在商店兑换该卡后，使用可得大量诺元。",
+		"name": "普通兑换卡",
+		"description": "略显低调的兑换卡。在商店兑换该卡后，使用可得少量诺元。",
 		"rarity": 2,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_greener.webp",
 		"type": "GIFT",
@@ -56688,8 +57984,92 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
 		"type": "MOUNT",
-		"source": [],
+		"source": [
+			"风行者盲盒活动获取"
+		],
 		"id": "Mount_Racing_003_guo"
+	},
+	"Item_norn_sidequest_v431101": {
+		"name": "可爱的玩偶",
+		"description": "名为多萝西小姐的可爱玩偶，拥有棕色的大眼睛和软乎乎的绒毛，是孩子们的好朋友。",
+		"rarity": 1,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/ImitationGift/UI_jingdu_icon_tuzi_256.webp",
+		"type": "QUEST",
+		"source": [],
+		"id": "Item_norn_sidequest_v431101"
+	},
+	"meilierx": {
+		"name": "梅丽尔·铠",
+		"description": "格网遇故人，再次出现在人们面前的是全副武装的梅丽尔。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_meilierkai.webp",
+		"type": "AVATAR",
+		"source": [],
+		"id": "meilierx"
+	},
+	"meilierx_lv2": {
+		"name": "梅丽尔·铠-觉醒",
+		"description": "我已寻觅到了要找的东西……",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_meilierkai2.webp",
+		"type": "AVATAR",
+		"source": [],
+		"id": "meilierx_lv2"
+	},
+	"SelfCardParticle_1": {
+		"name": "流年",
+		"description": "可用于解锁名片**•** 特效",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_345.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "SelfCardParticle_1"
+	},
+	"SelfCardParticle_2": {
+		"name": "幻梦",
+		"description": "可用于解锁名片**•** 特效",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_346.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "SelfCardParticle_2"
+	},
+	"SelfCardParticle_3": {
+		"name": "老式屏闪",
+		"description": "可用于解锁名片**•** 特效",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_346_1.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "SelfCardParticle_3"
+	},
+	"SelfCardParticle_4": {
+		"name": "灵魂电波",
+		"description": "可用于解锁名片**•** 特效",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_347.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"干杯！摇曳之夏活动获取"
+		],
+		"id": "SelfCardParticle_4"
+	},
+	"SelfCardParticle_5": {
+		"name": "闪星",
+		"description": "可用于解锁名片**•** 特效",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_348.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"概率对撞活动获取"
+		],
+		"id": "SelfCardParticle_5"
 	},
 	"fragment_chat_Action_km3_os": {
 		"name": "甜耳兔",
@@ -60313,6 +61693,15 @@
 		"source": [],
 		"id": "Nora_superpower_trial_OS"
 	},
+	"MerylX_thunder_trial_OS": {
+		"name": "破城之锋「24H」",
+		"description": "海嘉德研发的可变形武器，设计精妙，性能卓著，但由于结构复杂而难以解决量产问题。「破城攻坚，一剑足矣」设计人员给予了如此评价。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Icon/item_Weapon_SSR_meilierkai.webp",
+		"type": "WEAPON",
+		"source": [],
+		"id": "MerylX_thunder_trial_OS"
+	},
 	"bag_LizhouOpenSign_1_OS": {
 		"name": "云海礼盒Ⅰ",
 		"description": "离州府为各位执行者准备的礼物",
@@ -60438,6 +61827,15 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_frag_BP17_OS"
+	},
+	"choose_frag_BP20_OS": {
+		"name": "通行证源器碎片箱Ⅸ",
+		"description": "自选宝箱",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gift_artifact_frag_ssr.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_frag_BP20_OS"
 	},
 	"choose_frag_ssr_2_OS": {
 		"name": "ssr源器碎片箱Ⅱ",
@@ -60720,7 +62118,7 @@
 		"description": "柔软,轻盈,最重要的是美观!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-		"type": "MOUNT",
+		"type": "MATERIAL",
 		"source": [
 			"From events"
 		],
@@ -62168,7 +63566,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Ann_choosegift_ps"
 	},
@@ -62965,6 +64363,96 @@
 		"source": [],
 		"id": "Title_KoreaAnniversary16"
 	},
+	"Title_KoreaAnniversary17": {
+		"name": "幸运777",
+		"description": "渠道，活动获取",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_KoreaAnniversary17"
+	},
+	"Title_KoreaAnniversary18": {
+		"name": "天地守护者",
+		"description": "渠道，活动获取",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_KoreaAnniversary18"
+	},
+	"Title_KoreaAnniversary19": {
+		"name": "The King's Letters",
+		"description": "渠道，活动获取",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_KoreaAnniversary19"
+	},
+	"Title_KoreaAnniversary20": {
+		"name": "及格战略师",
+		"description": "渠道，活动获取",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_KoreaAnniversary20"
+	},
+	"Title_KoreaAnniversary21": {
+		"name": "甜蜜鲁道夫",
+		"description": "渠道，活动获取",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_KoreaAnniversary21"
+	},
+	"Title_KoreaAnniversary22": {
+		"name": "国家守护者",
+		"description": "渠道，活动获取",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_KoreaAnniversary22"
+	},
+	"Title_KoreaAnniversary23": {
+		"name": "甜蜜之奏",
+		"description": "渠道，活动获取",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_KoreaAnniversary23"
+	},
+	"Title_KoreaAnniversary24": {
+		"name": "大丰收",
+		"description": "渠道，活动获取",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_KoreaAnniversary24"
+	},
+	"Title_KoreaAnniversary25": {
+		"name": "乙巳年青蛇",
+		"description": "渠道，活动获取",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_KoreaAnniversary25"
+	},
+	"Title_KoreaAnniversary26": {
+		"name": "天上福星",
+		"description": "渠道，活动获取",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_KoreaAnniversary26"
+	},
 	"Title_PlayStation_03": {
 		"name": "夏日大作战",
 		"description": "渠道，活动获取",
@@ -63188,6 +64676,37 @@
 		],
 		"id": "Title_tencentshare_os_16"
 	},
+	"AvatarFrame_tencent_15": {
+		"name": "夏日清凉",
+		"description": "阳光，沙滩，派对，我来啦！",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_15.webp",
+		"type": "FRAME",
+		"source": [
+			"渠道、活动获取"
+		],
+		"id": "AvatarFrame_tencent_15"
+	},
+	"Item_ColosseumFood_bietou": {
+		"name": "竞斗饲料·极",
+		"description": "针对异兽中好斗个体研发的专用饲料，可以在保持其战斗本能的同时增加超大量经验。",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/zhuachong/doushou/itemicon/icon_DS_SL_04.webp",
+		"type": "MATERIAL",
+		"source": [],
+		"id": "Item_ColosseumFood_bietou"
+	},
+	"Avatar_Overseas_46": {
+		"name": "微笑梅丽尔·铠",
+		"description": "在此之前，我并没有见过你，但你却似乎认识我。",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/icon_Avatar_Overseas_46.webp",
+		"type": "AVATAR",
+		"source": [
+			"From events"
+		],
+		"id": "Avatar_Overseas_46"
+	},
 	"artifact_ssr_001": {
 		"name": "巨擎手臂",
 		"description": "当你不满足于自己手臂力量的时候，可以选择巨擎手臂。强而有力的手臂，光滑的机械外表，炫酷拉风的造型，不论是战斗还是旅行，都是你的不二选择。",
@@ -63369,6 +64888,15 @@
 		"type": "ARTIFACT",
 		"source": [],
 		"id": "artifact_ssr_023"
+	},
+	"artifact_ssr_024": {
+		"name": "增益力场",
+		"description": "",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"type": "ARTIFACT",
+		"source": [],
+		"id": "artifact_ssr_024"
 	},
 	"artifact_sr_001": {
 		"name": "浮游冰炮",

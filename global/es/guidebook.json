@@ -437,7 +437,7 @@
 		"array": [
 			{
 				"title": "Voleibol de playa",
-				"description": "Después de que comienza la competencia, por favor dirígete a la cancha de voleibol de playa para prepararte. Cada equipo en esta competencia tiene un número fijo de dos integrantes, y no se permiten sustituciones durante la partida. La competencia adopta el sistema de puntuación de rally y el sistema de puntuación de side-out. El equipo que anota gana el derecho de servir la próxima bola, y los dos jugadores del mismo equipo se turnan para servir.",
+				"description": "Después de que comienza la competencia, por favor ve a la cancha de voleibol de playa para prepararte. Cada equipo en esta competencia tiene un número fijo de dos integrantes, y no se permiten sustituciones durante la partida. La competencia adopta el sistema de puntuación de rally y el sistema de puntuación de side-out. El equipo que anota gana el derecho de servir la próxima bola, y los dos jugadores del mismo equipo se turnan para servir.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info1.webp"
 			},
 			{
@@ -462,7 +462,7 @@
 			},
 			{
 				"title": "Voleibol de playa",
-				"description": "Cuando el oponente golpea la pelota y tú estás en la cancha delantera, al tocar para saltar se mostrará el botón de Bloqueo. Presionarlo activará la acción de bloqueo, que puede interceptar la pelota golpeada por el oponente en el aire. El bloqueo requiere que predigas la trayectoria del golpe del oponente y el momento del bloqueo.",
+				"description": "Cuando el oponente golpea la pelota y tú estás en la cancha delantera, al tocar para saltar se mostrará el botón de Bloqueo. Presionarlo activará la acción de bloqueo, que puede interceptar la pelota golpeada por el oponente en el aire. Bloquear requiere que predigas la trayectoria del golpe del oponente y el momento del bloqueo.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info6.webp"
 			}
 		],
@@ -2725,6 +2725,25 @@
 		"menuType": "Weapon",
 		"id": "Nitai_Loslyn_SSR"
 	},
+	"Nitai_MerylX_SSR": {
+		"name": "Meryl Corazón de Hierro",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
+		"array": [
+			{
+				"title": "Meryl Corazón de Hierro: Filo de Asedio",
+				"description": "Desbloquea Filo de Asedio para aventurarte en el mundo de Tower of Fantasy como Meryl Corazón de Hierro, el Simulacrum del arma.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/es/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "Meryl Corazón de Hierro: Filo de Asedio",
+				"description": "Instrucciones para Filo de Asedio. Aprende cómo usar las habilidades de este tipo de arma.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/es/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"menuId": "imitate_role",
+		"menuType": "Weapon",
+		"id": "Nitai_MerylX_SSR"
+	},
 	"Nitai_tianlang_SSR": {
 		"name": "Tian Lang",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -3010,6 +3029,20 @@
 		"menuType": "WorldExploration",
 		"id": "Guide_MoveShoot"
 	},
+	"Guide_Norn_Bicycle": {
+		"name": "Bicicleta",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
+		"array": [
+			{
+				"title": "Bicicleta",
+				"description": "Alquila una bicicleta en la estación de bicicletas. Usa las teclas A/D o los botones izquierdo/derecho para pedalear y acelerar. Mueve el ratón o pulsa y mantén pulsados los botones izquierdo/derecho en el control para girar. Usa la tecla S o mantén pulsado el botón de abajo en el control para frenar y la tecla V para bajarte de la bicicleta.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_Bicycle.webp"
+			}
+		],
+		"menuId": "WorldExplore",
+		"menuType": "WorldExploration",
+		"id": "Guide_Norn_Bicycle"
+	},
 	"Guide_Norn_CD": {
 		"name": "Proyector de Batallas",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
@@ -3044,7 +3077,7 @@
 		"array": [
 			{
 				"title": "reparaciones de emergencia",
-				"description": "¡Emergencia de nivel 1 en Schuder Electronics! Una pequeña estación de suministro de omnio está en un estado anormal y necesita atención urgente. Por favor, controla la perilla para empujar la boya a la posición designada en el conducto para restaurar el suministro normal de energía lo más pronto posible.",
+				"description": "¡Emergencia en el Nivel 1 de Schuder Electronics! Una pequeña estación de suministro de omnio está en un estado anormal y necesita atención urgente. Por favor, controla la perilla para empujar la boya a la posición designada en el conducto para restaurar el suministro normal de energía lo más pronto posible.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Worldenergycharge.webp"
 			}
 		],
@@ -3133,7 +3166,7 @@
 		"array": [
 			{
 				"title": "Cacería de Caracolas",
-				"description": "Conchas especiales con funciones monetarias. El antiguo método de trueque se reproducirá en esta playa. Después de que recojas conchas especiales, el Recolector de Conchas calculará cuidadosamente su valor y comerciará contigo usando los Artículos a mano.",
+				"description": "Caracolas especiales con funciones monetarias. El antiguo método de trueque se reproducirá en esta playa. Después de que recojas caracolas especiales, el Coleccionista de Caracolas calculará cuidadosamente su valor y comerciará contigo usando los Artículos a mano.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/WorldShellSummon.webp"
 			}
 		],
@@ -3189,7 +3222,7 @@
 		"array": [
 			{
 				"title": "Brote de Piedra Gravitatoria",
-				"description": "Un dispositivo mecánico con forma de capullo de flor diseñado con biónica y sensible a la gravedad. El capullo de la flor solo se abrirá después de experimentar una fuerza descendente suficiente.",
+				"description": "Un dispositivo mecánico con forma de capullo de flor diseñado con biónica y sensible a la gravedad. El capullo de la flor solo se abrirá después de experimentar suficiente fuerza descendente.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_WaterFlower.webp"
 			}
 		],
@@ -3203,7 +3236,7 @@
 		"array": [
 			{
 				"title": "Carreras Acuáticas",
-				"description": "Prepárate para un espectáculo acuático que acelera el corazón. Usa tu patineta o toma vuelo dentro del límite de tiempo designado, maniobrando a través de todos los círculos de datos. Al ganador le espera una emocionante recompensa en la línea de meta.",
+				"description": "Prepárate para un espectáculo acuático que acelera el corazón. Usa tu patineta o despega dentro del límite de tiempo designado, maniobrando a través de todos los círculos de datos. Al ganador le espera una emocionante recompensa en la línea de meta.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Worldwaterjump.webp"
 			}
 		],
@@ -6118,6 +6151,13 @@
 		"menuType": "All",
 		"id": "Loslyn_ice"
 	},
+	"MerylX_thunder": {
+		"name": "Filo de Asedio",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_wfjq02.webp",
+		"menuId": "EQUIPMENT_SLOT_WEAPON",
+		"menuType": "All",
+		"id": "MerylX_thunder"
+	},
 	"Nitai_mimi_SSR": {
 		"name": "Huang",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -6648,7 +6688,7 @@
 		"array": [
 			{
 				"title": "Guardia de Armadura Pesada",
-				"description": "Personal élite entre la seguridad subcontratada, equipada con armadura de exoesqueleto reforzada. No solo pueden mantener el orden, sino también manejar muchas situaciones violentas de alto riesgo.",
+				"description": "Personal élite entre la seguridad subcontratada, equipado con armadura de exoesqueleto reforzada. No solo pueden mantener el orden, sino también manejar muchas situaciones violentas de alto riesgo.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/monster/mon_hum_199.webp"
 			}
 		],
@@ -6657,11 +6697,11 @@
 		"id": "Guide_mon_hum_199"
 	},
 	"Guide_mon_hum_200": {
-		"name": "Cortafuegos tipo Aniquilación",
+		"name": "Cortafuegos de tipo Aniquilación",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
 		"array": [
 			{
-				"title": "Cortafuegos tipo Aniquilación",
+				"title": "Cortafuegos de tipo Aniquilación",
 				"description": "El propio cortafuegos de tipo aniquilación de Gesthos, con un rendimiento superior al del cortafuegos de tipo filtro. Está diseñado para identificar y eliminar rápidamente los datos anormales para garantizar el funcionamiento regular de Gesthos. Una vez que se detectan datos que representan una amenaza potencial para Gesthos, se lanza un ataque inmediato.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/monster/mon_hum_200.webp"
 			}

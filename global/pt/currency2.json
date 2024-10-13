@@ -442,7 +442,7 @@
 	"WeaponFragment_UP1": {
 		"name": "Ouro incendiado (Lótus Vermelha)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -453,7 +453,7 @@
 	"WeaponFragment_UP2": {
 		"name": "Ouro incendiado (Arroubo)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -464,7 +464,7 @@
 	"WeaponFragment_UP3": {
 		"name": "Ouro incendiado (Lua Branca)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -475,7 +475,7 @@
 	"WeaponFragment_UP4": {
 		"name": "Ouro incendiado (Dawn)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -486,7 +486,7 @@
 	"WeaponFragment_UP5": {
 		"name": "Ouro incendiado (Renascimento)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -497,7 +497,7 @@
 	"WeaponFragment_UP6": {
 		"name": "Ouro incendiado (Coração de Ferro)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -508,7 +508,7 @@
 	"WeaponFragment_UP7": {
 		"name": "Ouro incendiado (Sol)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -519,7 +519,7 @@
 	"WeaponFragment_UP8": {
 		"name": "Ouro incendiado (Flow)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -530,7 +530,7 @@
 	"WeaponFragment_UP9": {
 		"name": "Ouro incendiado (Sombra)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda. Trocável por armas limitadas.\r\nLuzes ofuscantes se refratavam infinitamente, mas nunca se esvaíam.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como obras de arte do que uma moeda, estas podem ser trocadas por armas exclusivas. Trocável por armas limitadas.\r\nLuzes ofuscantes se refratavam infinitamente, mas nunca se esvaíam.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -541,7 +541,7 @@
 	"WeaponFragment_UP10": {
 		"name": "Ouro incendiado (Travessura)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -552,7 +552,7 @@
 	"WeaponFragment_UP11": {
 		"name": "Ouro incendiado (Candeia)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -563,7 +563,7 @@
 	"WeaponFragment_UP12": {
 		"name": "Ouro incendiado (Estrelas)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -574,7 +574,7 @@
 	"WeaponFragment_UP13": {
 		"name": "Ouro incendiado (Decreto)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -585,7 +585,7 @@
 	"WeaponFragment_UP14": {
 		"name": "Ouro incendiado (Fusão)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -596,7 +596,7 @@
 	"WeaponFragment_UP15": {
 		"name": "Ouro incendiado (Flor de Amoreira)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -607,7 +607,7 @@
 	"WeaponFragment_UP16": {
 		"name": "Ouro incendiado (Gingado)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -618,7 +618,7 @@
 	"WeaponFragment_UP17": {
 		"name": "Ouro incendiado (Pena Vermelha)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -629,7 +629,7 @@
 	"WeaponFragment_UP18": {
 		"name": "Ouro incendiado",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -640,7 +640,7 @@
 	"WeaponFragment_UP19": {
 		"name": "Ouro incendiado",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Troque por armas de edição limitada <Red>(são convertidas em ouro negro de valor equivalente no fim do Pedido Limitado)</>."
 		],
@@ -651,7 +651,7 @@
 	"WeaponFragment_UP20": {
 		"name": "Ouro incendiado (Constância)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Está mais para um artefato que circula em um canal especial do que uma moeda.",
+		"description": "Ficha forjada por ferreiros a partir de armas de Omnium específicas recicladas. Mais como peças de arte do que uma moeda, estas podem ser trocadas por armas exclusivas.",
 		"source": [
 			"Utilizado para adquirir armas na Loja de Armas."
 		],

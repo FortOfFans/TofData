@@ -356,7 +356,7 @@
 		"id": "artifact_adv_016"
 	},
 	"1107": {
-		"description": "Mengisi 1 Charge setiap **100** detik. Glide tidak lagi butuh Stamina.",
+		"description": "Mengisi 1 Charge setiap **20** detik. Meluncur tidak lagi menghabiskan stamina.",
 		"id": "artifact_adv_015"
 	},
 	"1109": {
@@ -364,7 +364,7 @@
 		"id": "artifact_adv_015"
 	},
 	"1110": {
-		"description": "Mengisi **1** Charge setiap 60 detik.",
+		"description": "Dapatkan kembali 1 isi daya setiap **15** detik.",
 		"id": "artifact_adv_015"
 	},
 	"1111": {
@@ -1140,23 +1140,23 @@
 		"id": "artifact_adv_047"
 	},
 	"1327": {
-		"description": "",
+		"description": "Meningkatkan efek DMG Reduction menjadi **20%** saat dalam bentuk defensif.",
 		"id": "artifact_adv_048"
 	},
 	"1328": {
-		"description": "",
+		"description": "Meningkatkan efek Damage Boost menjadi **11%** saat dalam bentuk ofensif.",
 		"id": "artifact_adv_048"
 	},
 	"1329": {
-		"description": "",
+		"description": "Mengurangi interval pemicu untuk memblokir Damage Mematikan menjadi satu kali setiap **120** detik.",
 		"id": "artifact_adv_048"
 	},
 	"1330": {
-		"description": "",
+		"description": "Meningkatkan Altered Resistance sebesar **2%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
 		"id": "artifact_adv_048"
 	},
 	"1331": {
-		"description": "",
+		"description": "Meningkatkan efek Damage Boost menjadi **16%** saat dalam bentuk ofensif.",
 		"id": "artifact_adv_048"
 	}
 }

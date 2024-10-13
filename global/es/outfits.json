@@ -1,8 +1,25 @@
 {
+	"fashion_dress_73": {
+		"name": "Momentos de inactividad",
+		"description": "Pausa todas las actividades de trabajo y estudio. Es hora de descansar. ¡Tomemos un descanso por... un siglo!",
+		"type": "Dress",
+		"source": "De los eventos",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"id": "fashion_dress_73"
+	},
+	"fashion_dress_74": {
+		"name": "Flores de Cielo Despejado",
+		"description": "Un ave se lanza a través del cielo despejado, las plumas espiralando hacia abajo con las flores cayendo, despertando al viajero que dormita debajo del árbol.",
+		"type": "Dress",
+		"source": "Disponible por tiempo limitado con el pase avanzado",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"id": "fashion_dress_74"
+	},
 	"fashion_dress_72": {
 		"name": "Especial de Verano",
-		"description": "¿Cuál es tu impresión del verano: dulce o ácido? ¿Es caliente y soleado o relajado como una brisa marina? Es difícil de definir, así que ¿por qué no mezclar todos esos sentimientos, verlos convertirse en burbujas rosadas, y tragártelo todo?",
+		"description": "¿Cuál es tu impresión del verano: dulce o ácido? ¿Es caliente y soleado o relajado como una brisa marina? Es difícil de definir, así que ¿por qué no mezclar todos esos sentimientos juntos, verlos convertir en burbujas rosadas, y tragarlo todo?",
 		"type": "Dress",
+		"source": "Se obtiene en el evento gachapon Especial de Verano",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_Swim_2024.webp",
 		"id": "fashion_dress_72"
 	},
@@ -1266,9 +1283,17 @@
 		"name": "Alas robóticas de neón",
 		"description": "Extiende tus alas y vuela libremente. Un arco iris atraviesa la noche lluviosa, proclamando al rey de la ciudad.",
 		"type": "Glider",
-		"source": "Edición limitada del 2.º Aniversario",
+		"source": "Se obtiene del 2do aniversario",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"id": "fashion_glider_5"
+	},
+	"fashion_glider_SP": {
+		"name": "Arco Nocturno",
+		"description": "La última leyenda urbana, un arcoíris que solo aparece por la noche, es en realidad la creación de este propulsor. En cuanto a quién está detrás de ello... eso sigue siendo un misterio.",
+		"type": "Glider",
+		"source": "De los eventos",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"id": "fashion_glider_SP"
 	},
 	"fashion_skateboard_1": {
 		"name": "Deslizador 2",

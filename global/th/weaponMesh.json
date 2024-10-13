@@ -221,11 +221,13 @@
 	},
 	"nora_superpower": {
 		"name": "รัมเบิล",
+		"avatar": "นอร่า",
 		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponNora_SuperPower_SSR",
 		"id": "nora_superpower"
 	},
 	"nora_superpower_fashion": {
 		"name": "รัมเบิล",
+		"avatar": "นอร่า",
 		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponNora_SuperPower_SSR_fashion",
 		"id": "nora_superpower_fashion"
 	},
@@ -302,6 +304,23 @@
 		"name": "น้ำนิ่ง",
 		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponLoslyn_Ice_SSR_Level3",
 		"id": "loslyn_ice_level3"
+	},
+	"merylx_thunder": {
+		"name": "ซีจเอดจ์",
+		"avatar": "เมอริล ไอรอนฮาร์ท",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/WeaponMerylX_Thu_SSR",
+		"id": "merylx_thunder"
+	},
+	"merylx_thunder_fashion": {
+		"name": "ซีจเอดจ์",
+		"avatar": "เมอริล ไอรอนฮาร์ท",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Fashion/WeaponMerylX_Thu_SSR_fashion",
+		"id": "merylx_thunder_fashion"
+	},
+	"merylx_thunder_level3": {
+		"name": "ซีจเอดจ์",
+		"meshPath": "/Game/Resources/CoreBlueprints/Weapons/Player/SSR/Upgrade/WeaponMerylX_Thu_SSR_Level3",
+		"id": "merylx_thunder_level3"
 	},
 	"suspension_thunder": {
 		"name": "วีนัส",

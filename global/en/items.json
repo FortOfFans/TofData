@@ -1,7 +1,7 @@
 {
 	"WeaponFragment_DoubleUP_Common": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -320,13 +320,14 @@
 	},
 	"fan_superpower_tonggan": {
 		"name": "Shadoweave Sensory Material",
-		"description": "An upgrade drive module developed by Hykros to further upgrade the Simulacrum system. Can be used to improve the combat capabilities of an Aesperia Simulacrum.",
+		"description": "",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_tonggan_linye.webp",
 		"type": "MATERIAL",
 		"source": [
 			"Purchased from the Card Pool Store",
-			"Purchased from the Synesthesia Material Store"
+			"Order duplicate 6-star weapons with red nucleus to obtain",
+			"Crystal Dust Store"
 		],
 		"id": "fan_superpower_tonggan"
 	},
@@ -639,6 +640,17 @@
 			"Repeatedly obtain the same weapon"
 		],
 		"id": "Nora_superpower_plasm"
+	},
+	"MerylX_thunder_plasm": {
+		"name": "Siege Edge Fusion Core",
+		"description": "Fusion cores converted from duplicate weapons.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/item_weapon_upstar_.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"Repeatedly obtain the same weapon"
+		],
+		"id": "MerylX_thunder_plasm"
 	},
 	"Likeability_unlock1": {
 		"name": "Upgrade Drive: Aesperia",
@@ -4918,7 +4930,7 @@
 	},
 	"Item_pinkshell": {
 		"name": "Pink Shell",
-		"description": "",
+		"description": "A pink shell picked up on the Norns Central District beach. Tastes sweet on the tongue!",
 		"rarity": 1,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Icon_ShellPink.webp",
 		"type": "FOOD",
@@ -4929,7 +4941,7 @@
 	},
 	"Item_yellowshell": {
 		"name": "Yellow Shell",
-		"description": "",
+		"description": "A yellow shell picked up on the Norns Central District beach. Tastes salty and bitter on the tongue!",
 		"rarity": 1,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Icon_ShellYellow.webp",
 		"type": "FOOD",
@@ -4951,7 +4963,7 @@
 	},
 	"Item_redshell": {
 		"name": "Red Shell",
-		"description": "",
+		"description": "A red shell picked up on the Norns Central District beach. Tastes spicy on the tongue!",
 		"rarity": 1,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Icon_ShellRed.webp",
 		"type": "FOOD",
@@ -7786,6 +7798,24 @@
 		"source": [],
 		"id": "Blindbox_coin_mix2"
 	},
+	"Blindbox_coin_mix3": {
+		"name": "Mystery Box Ticket (Starlight & Fantasy)",
+		"description": "Buy Mystery Boxes to get Tickets. Mystery Box Tickets can be used to exchange goods at the Mystery Box Store.",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Activity/ThemeActivity/BlindBox_Reimu/Fashion/liuguanghuobi03.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Blindbox_coin_mix3"
+	},
+	"Blindbox_coin_PS": {
+		"name": "Mystery Box Ticket (Vehicle)",
+		"description": "Buy Mystery Boxes to get Tickets. Mystery Box Tickets can be used to exchange goods at the Mystery Box Store.",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanghuobi04.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Blindbox_coin_PS"
+	},
 	"Item_Condiment_01": {
 		"name": "Carbonated water",
 		"description": "Pretty bland but gives off a tingling sensation. Probably better when blended with something else.",
@@ -9082,7 +9112,7 @@
 		"id": "EquipFragment_UP52"
 	},
 	"EquipFragment_UP53": {
-		"name": "Overclocking Chip",
+		"name": "Overclocking Chip (White Rose)",
 		"description": "Raw material processed through complex procedures for specific chip production. Redeemable for Matrix chips.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/matrixfragment_up.webp",
@@ -9611,7 +9641,7 @@
 	},
 	"WeaponFragment_UP1": {
 		"name": "Flame gold (Red Lotus)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9622,7 +9652,7 @@
 	},
 	"WeaponFragment_UP2": {
 		"name": "Flame Gold (Blaze)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9633,7 +9663,7 @@
 	},
 	"WeaponFragment_UP3": {
 		"name": "Flame gold (White Moon)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9644,7 +9674,7 @@
 	},
 	"WeaponFragment_UP4": {
 		"name": "Flame gold (Dawn)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9655,7 +9685,7 @@
 	},
 	"WeaponFragment_UP5": {
 		"name": "Flame gold (Rebirth)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9666,7 +9696,7 @@
 	},
 	"WeaponFragment_UP6": {
 		"name": "Flame gold (Ironheart)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9677,7 +9707,7 @@
 	},
 	"WeaponFragment_UP7": {
 		"name": "Flame Gold (Sun)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9688,7 +9718,7 @@
 	},
 	"WeaponFragment_UP8": {
 		"name": "Flame Gold (Flow)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9699,7 +9729,7 @@
 	},
 	"WeaponFragment_UP9": {
 		"name": "Flame Gold (Shadow)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel. Redeemable for limited weapons.\r\nDazzling lights refracted endlessly yet frighteningly never fade away.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons. Redeemable for limited weapons.\r\nDazzling lights refracted endlessly yet frighteningly never fade away.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9710,7 +9740,7 @@
 	},
 	"WeaponFragment_UP10": {
 		"name": "Flame Gold (Trickery)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9721,7 +9751,7 @@
 	},
 	"WeaponFragment_UP11": {
 		"name": "Flame Gold (Waxen)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9732,7 +9762,7 @@
 	},
 	"WeaponFragment_UP12": {
 		"name": "Flame Gold (Stars)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9743,7 +9773,7 @@
 	},
 	"WeaponFragment_UP13": {
 		"name": "Flame Gold (Decree)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9754,7 +9784,7 @@
 	},
 	"WeaponFragment_UP14": {
 		"name": "Flame Gold (Merger)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9765,7 +9795,7 @@
 	},
 	"WeaponFragment_UP15": {
 		"name": "Flame Gold (Tea Millet)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9776,7 +9806,7 @@
 	},
 	"WeaponFragment_UP16": {
 		"name": "Flame Gold (Movement)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9787,7 +9817,7 @@
 	},
 	"WeaponFragment_UP17": {
 		"name": "Flame Gold (Vermilion Feather)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9798,7 +9828,7 @@
 	},
 	"WeaponFragment_UP18": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9809,7 +9839,7 @@
 	},
 	"WeaponFragment_UP19": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9820,7 +9850,7 @@
 	},
 	"WeaponFragment_UP20": {
 		"name": "Flame Gold (Constant)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "CURRENCY",
@@ -9831,7 +9861,7 @@
 	},
 	"WeaponFragment_UP21": {
 		"name": "Flame Gold (Movement)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9842,7 +9872,7 @@
 	},
 	"WeaponFragment_UP22": {
 		"name": "Flame Gold (Decree)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9853,7 +9883,7 @@
 	},
 	"WeaponFragment_UP23": {
 		"name": "Flame Gold (Flow)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9864,7 +9894,7 @@
 	},
 	"WeaponFragment_UP24": {
 		"name": "Flame Gold (Fallen)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9875,7 +9905,7 @@
 	},
 	"WeaponFragment_UP25": {
 		"name": "Flame Gold (Merger)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9886,7 +9916,7 @@
 	},
 	"WeaponFragment_UP26": {
 		"name": "Flame Gold (Shadow)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9897,7 +9927,7 @@
 	},
 	"WeaponFragment_UP27": {
 		"name": "Flame Gold (Ironheart)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9908,7 +9938,7 @@
 	},
 	"WeaponFragment_UP28": {
 		"name": "Flame Gold (Luminar)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9919,7 +9949,7 @@
 	},
 	"WeaponFragment_UP29": {
 		"name": "Flame Gold (Sun)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9930,7 +9960,7 @@
 	},
 	"WeaponFragment_UP30": {
 		"name": "Flame Gold (Waxen)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9941,7 +9971,7 @@
 	},
 	"WeaponFragment_UP31": {
 		"name": "Flame Gold (Stars)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9952,7 +9982,7 @@
 	},
 	"WeaponFragment_UP32": {
 		"name": "Flame Gold (Tea Millet)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9963,7 +9993,7 @@
 	},
 	"WeaponFragment_UP33": {
 		"name": "Flame Gold (Vermilion Feather)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9974,7 +10004,7 @@
 	},
 	"WeaponFragment_UP34": {
 		"name": "Flame Gold (Darkweed)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9985,7 +10015,7 @@
 	},
 	"WeaponFragment_UP35": {
 		"name": "Flame Gold (Legacy)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -9996,7 +10026,7 @@
 	},
 	"WeaponFragment_UP36": {
 		"name": "Flame Gold (Baji)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10007,7 +10037,7 @@
 	},
 	"WeaponFragment_UP37": {
 		"name": "Flame Gold (Steady Steps)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10018,7 +10048,7 @@
 	},
 	"WeaponFragment_UP38": {
 		"name": "Flame Gold (Clear Lens)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10029,7 +10059,7 @@
 	},
 	"WeaponFragment_UP39": {
 		"name": "Flame Gold (Azure Scales)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10040,7 +10070,7 @@
 	},
 	"WeaponFragment_UP40": {
 		"name": "Flame Gold (Darkshadow)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10051,7 +10081,7 @@
 	},
 	"WeaponFragment_UP41": {
 		"name": "Flame Gold (Heartblade)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10062,7 +10092,7 @@
 	},
 	"WeaponFragment_UP42": {
 		"name": "Flame Gold (Butterfly Wing)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10073,7 +10103,7 @@
 	},
 	"WeaponFragment_UP43": {
 		"name": "Flame Gold (Great Blades)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10084,7 +10114,7 @@
 	},
 	"WeaponFragment_UP44": {
 		"name": "Flame Gold (Rosecore)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10095,7 +10125,7 @@
 	},
 	"WeaponFragment_UP45": {
 		"name": "Flame Gold (Calculation)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10106,7 +10136,7 @@
 	},
 	"WeaponFragment_UP46": {
 		"name": "Flame Gold (Twin Blades)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10117,7 +10147,7 @@
 	},
 	"WeaponFragment_UP47": {
 		"name": "Flame Gold (Asuka)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10128,7 +10158,7 @@
 	},
 	"WeaponFragment_UP48": {
 		"name": "Flame Gold (Rei)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10139,7 +10169,7 @@
 	},
 	"WeaponFragment_UP49": {
 		"name": "Flame Gold (Power)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10150,7 +10180,7 @@
 	},
 	"WeaponFragment_UP50": {
 		"name": "Flame Gold (Nexus)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10161,7 +10191,7 @@
 	},
 	"WeaponFragment_UP51": {
 		"name": "Flame Gold (Noblethief)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10172,7 +10202,7 @@
 	},
 	"WeaponFragment_UP52": {
 		"name": "Flame Gold (Seared)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10182,8 +10212,8 @@
 		"id": "WeaponFragment_UP52"
 	},
 	"WeaponFragment_UP53": {
-		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"name": "Flame Gold (White Rose)",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10194,7 +10224,7 @@
 	},
 	"WeaponFragment_UP54": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10205,7 +10235,7 @@
 	},
 	"WeaponFragment_UP55": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10216,7 +10246,7 @@
 	},
 	"WeaponFragment_UP56": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10227,7 +10257,7 @@
 	},
 	"WeaponFragment_UP57": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10238,7 +10268,7 @@
 	},
 	"WeaponFragment_UP58": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10249,7 +10279,7 @@
 	},
 	"WeaponFragment_UP59": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10260,7 +10290,7 @@
 	},
 	"WeaponFragment_UP60": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10271,7 +10301,7 @@
 	},
 	"WeaponFragment_UP61": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10282,7 +10312,7 @@
 	},
 	"WeaponFragment_UP62": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10293,7 +10323,7 @@
 	},
 	"WeaponFragment_UP63": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10304,7 +10334,7 @@
 	},
 	"WeaponFragment_UP64": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10315,7 +10345,7 @@
 	},
 	"WeaponFragment_UP65": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10326,7 +10356,7 @@
 	},
 	"WeaponFragment_UP66": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10337,7 +10367,7 @@
 	},
 	"WeaponFragment_UP67": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10348,7 +10378,7 @@
 	},
 	"WeaponFragment_UP68": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10359,7 +10389,7 @@
 	},
 	"WeaponFragment_UP69": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10370,7 +10400,7 @@
 	},
 	"WeaponFragment_UP70": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10381,7 +10411,7 @@
 	},
 	"WeaponFragment_UP71": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10392,7 +10422,7 @@
 	},
 	"WeaponFragment_UP72": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10403,7 +10433,7 @@
 	},
 	"WeaponFragment_UP73": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10414,7 +10444,7 @@
 	},
 	"WeaponFragment_UP74": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10425,7 +10455,7 @@
 	},
 	"WeaponFragment_UP75": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10436,7 +10466,7 @@
 	},
 	"WeaponFragment_UP76": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10447,7 +10477,7 @@
 	},
 	"WeaponFragment_UP77": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10458,7 +10488,7 @@
 	},
 	"WeaponFragment_UP78": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10469,7 +10499,7 @@
 	},
 	"WeaponFragment_UP79": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10480,7 +10510,7 @@
 	},
 	"WeaponFragment_UP80": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10491,7 +10521,7 @@
 	},
 	"WeaponFragment_UP81": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10502,7 +10532,7 @@
 	},
 	"WeaponFragment_UP82": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10513,7 +10543,7 @@
 	},
 	"WeaponFragment_UP83": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10524,7 +10554,7 @@
 	},
 	"WeaponFragment_UP84": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10535,7 +10565,7 @@
 	},
 	"WeaponFragment_UP85": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10546,7 +10576,7 @@
 	},
 	"WeaponFragment_UP86": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10557,7 +10587,7 @@
 	},
 	"WeaponFragment_UP87": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10568,7 +10598,7 @@
 	},
 	"WeaponFragment_UP88": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10579,7 +10609,7 @@
 	},
 	"WeaponFragment_UP89": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10590,7 +10620,7 @@
 	},
 	"WeaponFragment_UP90": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10601,7 +10631,7 @@
 	},
 	"WeaponFragment_UP91": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10612,7 +10642,7 @@
 	},
 	"WeaponFragment_UP92": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10623,7 +10653,7 @@
 	},
 	"WeaponFragment_UP93": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10634,7 +10664,7 @@
 	},
 	"WeaponFragment_UP94": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10645,7 +10675,7 @@
 	},
 	"WeaponFragment_UP95": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10656,7 +10686,7 @@
 	},
 	"WeaponFragment_UP96": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10667,7 +10697,7 @@
 	},
 	"WeaponFragment_UP97": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10678,7 +10708,7 @@
 	},
 	"WeaponFragment_UP98": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10689,7 +10719,7 @@
 	},
 	"WeaponFragment_UP99": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -10700,7 +10730,7 @@
 	},
 	"WeaponFragment_UP100": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -11788,6 +11818,15 @@
 		"source": [],
 		"id": "choose_dressbox3"
 	},
+	"choose_dressbox_mix3": {
+		"name": "Outfit Box",
+		"description": "Box containing Outfits. You can choose one of the outfits in the box when you obtain it.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Activity/ThemeActivity/BlindBox_Reimu/icon_shizhuang_manghe_Starlight.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_dressbox_mix3"
+	},
 	"choose_hat_sr_1": {
 		"name": "Accessories Kit Box I",
 		"description": "General box",
@@ -11805,6 +11844,24 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_hat_ssr_1"
+	},
+	"choose_hat_sr_2": {
+		"name": "Accessories Kit Box III",
+		"description": "General box",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_choose_hat_sr_01.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_hat_sr_2"
+	},
+	"choose_hat_ssr_2": {
+		"name": "Accessories Kit Box IV",
+		"description": "General box",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_choose_hat_ssr_01.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_hat_ssr_2"
 	},
 	"choose_sr": {
 		"name": "SR Relic box",
@@ -11931,6 +11988,15 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_frag_BP21"
+	},
+	"choose_frag_BP24": {
+		"name": "Pass Relic Shard Box IX",
+		"description": "General box",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gift_artifact_frag_ssr.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_frag_BP24"
 	},
 	"choose_frag_sr": {
 		"name": "SR Relic Shard Box",
@@ -13346,10 +13412,10 @@
 		"id": "choose_matrix_SSR48"
 	},
 	"choose_matrix_SSR49": {
-		"name": "Yanuo Matrix Box",
-		"description": "A box containing all Yanuo Matrices.",
+		"name": "Meryl Ironheart Matrix Box",
+		"description": "A box containing all Meryl Ironheart Matrices.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_matrix_ssr42.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_matrix_ssr49.webp",
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_matrix_SSR49"
@@ -15115,6 +15181,26 @@
 		"source": [],
 		"id": "Blindbox_mix2"
 	},
+	"Blindbox_mix3": {
+		"name": "Outfit Mystery Box",
+		"description": "Mystery box containing outfits. May you obtain your favorite one in it.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_mix3"
+	},
+	"Blindbox_PS": {
+		"name": "Vehicle Mystery Box (Wind Walker)",
+		"description": "Mystery box containing vehicles. May you obtain your favorite one in it.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"source": [
+			"Obtained from the Wind Walker Mystery Box event"
+		],
+		"id": "Blindbox_PS"
+	},
 	"Blindbox_03_pack": {
 		"name": "Apricity Giftbox",
 		"description": "Limited-Time giftbox offered to celebrate the arrival of spring. It's always a mixture of anticipation and trepidation when you open the box.",
@@ -15168,6 +15254,24 @@
 		"type": "GIFT",
 		"source": [],
 		"id": "Blindbox_mix2_pack"
+	},
+	"Blindbox_mix3_pack": {
+		"name": "Outfit Mystery Box",
+		"description": "Mystery box containing outfits. May you obtain your favorite one in it.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_mix3_pack"
+	},
+	"Blindbox_PS_pack": {
+		"name": "Vehicle Mystery Box (Wind Walker)",
+		"description": "Mystery box containing vehicles. May you obtain your favorite one in it.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_PS_pack"
 	},
 	"gift_BigClient_01": {
 		"name": "Wanderer's Welcome Pack",
@@ -16094,7 +16198,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_1"
 	},
@@ -16105,7 +16209,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_2"
 	},
@@ -16116,7 +16220,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_3"
 	},
@@ -16127,7 +16231,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_4"
 	},
@@ -16138,7 +16242,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_5"
 	},
@@ -16248,7 +16352,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Ann_choosegift"
 	},
@@ -16435,6 +16539,15 @@
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_MidAutumnFestival_12"
+	},
+	"bag_equip8_ssr_autouse": {
+		"name": "Fortress Combat Equipment Kit",
+		"description": "Chest",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "bag_equip8_ssr_autouse"
 	},
 	"gift_equip_white": {
 		"name": "Random equipment box",
@@ -16863,7 +16976,7 @@
 		"name": "Stellarway Pack IV",
 		"description": "Executors returning from the break, I hope all of you haven't forgotten how to fight, and better believe that all efforts shall be rewarded.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_3.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_operation_2.webp",
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_GreatRegression_4"
@@ -16872,7 +16985,7 @@
 		"name": "Stellarway Pack V",
 		"description": "Executors returning from the break, I hope all of you haven't forgotten how to fight, and better believe that all efforts shall be rewarded.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_core_orange.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_gacha_5.webp",
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_GreatRegression_5"
@@ -17469,6 +17582,15 @@
 		"source": [],
 		"id": "item_ticket_Nora_superpower"
 	},
+	"item_ticket_MerylX_thunder": {
+		"name": "Special Voucher: Erased Enmity",
+		"description": "Tower of Fantasy Industries orders, with Matrix chip delivered right to your doorstep.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/item_ticket_meilierkai.webp",
+		"type": "MATERIAL",
+		"source": [],
+		"id": "item_ticket_MerylX_thunder"
+	},
 	"fragment_artifact_ssr_001": {
 		"name": "Colossus Arm Shard",
 		"description": "Collect 30 shards to fuse the SSR Relic, Colossus Arm. Any surplus can be used to advance the Relic.",
@@ -17715,11 +17837,14 @@
 		"id": "fragment_artifact_ssr_023"
 	},
 	"fragment_artifact_ssr_024": {
-		"name": "Bioelectric Control Rifle Shard",
-		"description": "Collect 30 shards to fuse the Relic, Bioelectric Control Rifle. Any surplus can be used to advance the Relic.",
+		"name": "Buff Dealer Shard",
+		"description": "Collect 30 shards to fuse the Relic, Buff Dealer. Any surplus shards can be used to advance the Relic.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_023.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
 		"type": "FRAGMENT",
+		"source": [
+			"Pass: Advanced Reward"
+		],
 		"id": "fragment_artifact_ssr_024"
 	},
 	"fragment_artifact_sr_001": {
@@ -21716,6 +21841,28 @@
 		],
 		"id": "fashion_dress_72_4"
 	},
+	"fashion_dress_73_4": {
+		"name": "Idle Moments",
+		"description": "Pause all work and study activities. It's time to rest. Let's take a break for... a century!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Wind Walker Mystery Box event"
+		],
+		"id": "fashion_dress_73_4"
+	},
+	"fashion_dress_74_4": {
+		"name": "Clear-sky Blossoms",
+		"description": "A bird darts through the clear sky, feathers spiraling down with the falling blossoms, waking up the traveler dozing beneath the tree.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Twentieth Pass Rewards"
+		],
+		"id": "fashion_dress_74_4"
+	},
 	"fragment_bag_chat_qipao91": {
 		"name": "Old Friend Giftbox Shard",
 		"description": "Sky clear, moon full.",
@@ -22898,7 +23045,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_162.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Hat_79_4_4"
 	},
@@ -22914,13 +23061,13 @@
 		"id": "Hat_80_4_4"
 	},
 	"Hat_81_4_4": {
-		"name": "Tata's Support",
+		"name": "Tata's Ultimate Support",
 		"description": "Executor, happy two-year anniversary! Tata loves you the most in the entire universe, crazy and head-over-heels for you! Long live the Executor!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_170.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Hat_81_4_4"
 	},
@@ -24346,7 +24493,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_206.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the limited event."
+			"Obtained from the Reactivate Firewall event"
 		],
 		"id": "fashion_decoration_110_4"
 	},
@@ -24511,9 +24658,20 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "fashion_glider_5_4"
+	},
+	"fashion_glider_SP": {
+		"name": "Nightbow",
+		"description": "The latest urban legend, a rainbow that only appears at night, is actually the creation of this jetpack. As for who's behind it... that remains a mystery.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Wind Walker Mystery Box event"
+		],
+		"id": "fashion_glider_SP"
 	},
 	"NPF_Energy": {
 		"name": "Fractured Energy",
@@ -24763,6 +24921,15 @@
 		"type": "MATERIAL",
 		"source": [],
 		"id": "Item_Gem_Nora_superpower"
+	},
+	"Item_Gem_MerylX_thunder": {
+		"name": "Red Nucleus: Erased Enmity",
+		"description": "A dark sphere, naturally generated by the unknown influence of Omnium. It shines with an ominous scarlet light. One can only imagine the tremendous power contained within it.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Gem_meilierkai.webp",
+		"type": "MATERIAL",
+		"source": [],
+		"id": "Item_Gem_MerylX_thunder"
 	},
 	"choose_Gem_JiuYu": {
 		"name": "Exclusive Red Nucleus Box",
@@ -31725,16 +31892,38 @@
 		],
 		"id": "bag_chat_qipao156"
 	},
+	"bag_chat_qipao158": {
+		"name": "Vacationing Beauty Giftbox",
+		"description": "Meryl's off-duty and finally enjoying some well-deserved vacation time.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao158.webp",
+		"type": "GIFT",
+		"source": [
+			"Available from the Everlasting Summer gachapon event."
+		],
+		"id": "bag_chat_qipao158"
+	},
 	"bag_chat_qipao161": {
 		"name": "Endless Summer Giftbox",
 		"description": "Each luscious scoop of ice cream assures me that this summer shall never fade away.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao161.webp",
 		"type": "GIFT",
 		"source": [
 			"Obtained from the Summer Special gachapon event"
 		],
 		"id": "bag_chat_qipao161"
+	},
+	"bag_chat_qipao164": {
+		"name": "Icy Blue Rose Giftbox",
+		"description": "The icy blue rose blooms halfway, as if expecting the knight from the prophecy to come and pluck it.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao164.webp",
+		"type": "GIFT",
+		"source": [
+			"Obtained from the Summer Special gachapon event"
+		],
+		"id": "bag_chat_qipao164"
 	},
 	"CN_bag_1": {
 		"name": "Serenade Music I",
@@ -33069,7 +33258,7 @@
 		"id": "AvatarFrame_85"
 	},
 	"Avatar03": {
-		"name": "Shirli",
+		"name": "Shirli!",
 		"description": "Remember not to burn the food again!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/touxiang_shali.webp",
@@ -35863,13 +36052,26 @@
 		"id": "chat_Action_zuoyi"
 	},
 	"chat_miaAction_juqi": {
-		"name": "Lift",
-		"description": "Chat action",
+		"name": "Lift Me Up",
+		"description": "Lift up the adorable Mi-a!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/liaotian/dongzuo/action_mi-a_Lift.webp",
 		"type": "CONSUMABLE",
-		"source": [],
+		"source": [
+			"Obtained from the Lift Me Up event"
+		],
 		"id": "chat_miaAction_juqi"
+	},
+	"frag_chat_miaAction_juqi": {
+		"name": "Lift Me Up Shard",
+		"description": "Chat action",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/liaotian/dongzuo/action_mi-a_Lift.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"Obtained from the Lift Me Up event"
+		],
+		"id": "frag_chat_miaAction_juqi"
 	},
 	"chat_miaAction_kaiqiang": {
 		"name": "Shoot",
@@ -36648,7 +36850,7 @@
 		"id": "imitation_fashion_21_bag"
 	},
 	"imitation_fashion_17": {
-		"name": "Shirli",
+		"name": "Shirli!",
 		"description": "It's an image extracted from memories... It's just an illusion.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_SL.webp",
@@ -37210,6 +37412,28 @@
 			"Obtained from the Windswept Coast Gachapon event"
 		],
 		"id": "imitation_fashion_62_w"
+	},
+	"imitation_fashion_61": {
+		"name": "Everlasting Summer",
+		"description": "It's a long summer day. Miss Meryl, currently on vacation, is picking out a swimsuit at a swimwear shop.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Available from the Everlasting Summer gachapon event."
+		],
+		"id": "imitation_fashion_61"
+	},
+	"imitation_fashion_61_w": {
+		"name": "Frozen Treats",
+		"description": "Mission or vacation? For Agent Meryl, why not both?",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex_weapon.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Available from the Everlasting Summer gachapon event."
+		],
+		"id": "imitation_fashion_61_w"
 	},
 	"imitation_33": {
 		"name": "Molinia",
@@ -42729,6 +42953,33 @@
 		"source": [],
 		"id": "Title_1_8_0_17"
 	},
+	"Title_1_8_0_18": {
+		"name": "Stealth Nightmare",
+		"description": "Rank Top 8 in Phase 6 of the Limited-Time Raid at the results tally.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_18"
+	},
+	"Title_1_8_0_19": {
+		"name": "Midnight Phantom",
+		"description": "Rank 9–24 in Phase 6 of the Limited-Time Raid at the results tally.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_19"
+	},
+	"Title_1_8_0_20": {
+		"name": "Secret Hunter",
+		"description": "Rank 25–100 in Phase 6 of the Limited-Time Raid at the results tally.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_20"
+	},
 	"Title_0_8_0_1": {
 		"name": "Beast Slayer Fanatic",
 		"description": "Rank Top 8 in Phase 1 of the Limited-Time Raid at the results tally.",
@@ -42971,6 +43222,33 @@
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "Title_0_8_0_27"
+	},
+	"Title_0_8_0_28": {
+		"name": "Suppressor of Evil",
+		"description": "Rank Top 8 in Phase 9 of the Limited-Time Raid at the results tally.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_28"
+	},
+	"Title_0_8_0_29": {
+		"name": "Calamity Eliminator",
+		"description": "Rank 9–24 in Phase 9 of the Limited-Time Raid at the results tally.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_29"
+	},
+	"Title_0_8_0_30": {
+		"name": "Curse Dispeller",
+		"description": "Rank 25–100 in Phase 9 of the Limited-Time Raid at the results tally.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_30"
 	},
 	"Title_1_6_4_1": {
 		"name": "Silvercoast Sage",
@@ -45188,6 +45466,24 @@
 		"source": [],
 		"id": "Item_shellcoin"
 	},
+	"Item_icecreamcoin": {
+		"name": "Ice Cream",
+		"description": "It's so hot outside that even eating ice cream feels like a race against time! I heard if you eat enough ice cream, you can score some prizes!",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_icecream.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Item_icecreamcoin"
+	},
+	"item_TDcoin": {
+		"name": "Virus Data Shard",
+		"description": "When you're defending the network, pick up those virus data shards that drop after defeating viruses. They'll help Hykros with its virus research.",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/TD_Coin.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "item_TDcoin"
+	},
 	"Item_IceCrystalCoin": {
 		"name": "Ice Crystal",
 		"description": "Commemorative coins containing frost energy made from crystalline ore mined in extremely cold regions. Feels cold to the touch when you hold one. Some also use them as ice for their drinks.",
@@ -45745,7 +46041,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_116.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Avatar_116"
 	},
@@ -45849,7 +46145,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_116.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "AvatarFrame_116"
 	},
@@ -45971,7 +46267,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_116.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "chat_qipao_116"
 	},
@@ -48742,7 +49038,7 @@
 	},
 	"Item_Norn_ZWY_001": {
 		"name": "Dandelion Badge",
-		"description": "A merch badge issued by the Dandelion Coast Tourism and Culture Center, featuring the iconic dandelion pattern of Dandelion Coast.",
+		"description": "A badge issued by the Dandelion Coast Tourism and Culture Center, featuring the iconic dandelion pattern of Dandelion Coast. Weekly Limit: 50.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/Norn_pugongying.webp",
 		"type": "BARTER",
@@ -50617,6 +50913,17 @@
 		],
 		"id": "Avatar_157"
 	},
+	"Avatar_158": {
+		"name": "Vacationing Beauty",
+		"description": "Meryl's off-duty and finally enjoying some well-deserved vacation time.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_158.webp",
+		"type": "AVATAR",
+		"source": [
+			"Available from the Everlasting Summer gachapon event."
+		],
+		"id": "Avatar_158"
+	},
 	"Avatar_159": {
 		"name": "Snorkel Expert",
 		"description": "Grab your goggles and snorkel, join Mi-a in admiring the beauty of the shallow sea!",
@@ -50635,7 +50942,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_160.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from Seaside Summer Bash event"
+			"Log In to Claim"
 		],
 		"id": "Avatar_160"
 	},
@@ -50671,6 +50978,28 @@
 			"Nineteenth Pass Rewards"
 		],
 		"id": "Avatar_163"
+	},
+	"Avatar_164": {
+		"name": "Icy Blue Rose",
+		"description": "The icy blue rose blooms halfway, as if expecting the knight from the prophecy to come and pluck it.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_164.webp",
+		"type": "AVATAR",
+		"source": [
+			"Obtained from the Wind Walker Mystery Box event"
+		],
+		"id": "Avatar_164"
+	},
+	"Avatar_165": {
+		"name": "Rose-Tinted Coolness",
+		"description": "It's all about the rebellious style and the bold statement. You know how it goes—the pinker the avatar, the harder they strike.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_165.webp",
+		"type": "AVATAR",
+		"source": [
+			"Twentieth Pass Rewards"
+		],
+		"id": "Avatar_165"
 	},
 	"AvatarFrame_147": {
 		"name": "Virtual Reality",
@@ -50780,6 +51109,17 @@
 		],
 		"id": "AvatarFrame_157"
 	},
+	"AvatarFrame_158": {
+		"name": "Faded Sun",
+		"description": "What's really making the sun fade, the sunglasses or the lady on her vacation?",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_AvatarFrame_158.webp",
+		"type": "FRAME",
+		"source": [
+			"Available from the Everlasting Summer gachapon event."
+		],
+		"id": "AvatarFrame_158"
+	},
 	"AvatarFrame_159": {
 		"name": "Deep Sea Mysteries",
 		"description": "Deep-sea creatures seldom reveal their true visage. Patiently explore their mysteries.",
@@ -50798,7 +51138,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_160.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from Seaside Summer Bash event"
+			"Log In to Claim"
 		],
 		"id": "AvatarFrame_160"
 	},
@@ -50834,6 +51174,28 @@
 			"Nineteenth Pass Rewards"
 		],
 		"id": "AvatarFrame_163"
+	},
+	"AvatarFrame_164": {
+		"name": "Heart of the Icy Blue",
+		"description": "In the prophecy, a knight with an icy blue rose on his chest will end the war and bring peace.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_164.webp",
+		"type": "FRAME",
+		"source": [
+			"Obtained from the Wind Walker Mystery Box event"
+		],
+		"id": "AvatarFrame_164"
+	},
+	"AvatarFrame_165": {
+		"name": "Feline Eyes",
+		"description": "Did you catch my drift? Yeah... What I'm saying is, if you cross the line again, you better be ready to beg for mercy.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_165.webp",
+		"type": "FRAME",
+		"source": [
+			"Twentieth Pass Rewards"
+		],
+		"id": "AvatarFrame_165"
 	},
 	"chat_qipao_147": {
 		"name": "Anonymous Exchange",
@@ -50943,6 +51305,17 @@
 		],
 		"id": "chat_qipao_157"
 	},
+	"chat_qipao_158": {
+		"name": "Refreshing Shade",
+		"description": "It's super hot—how about chilling under the sunshade for a bit?",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_158.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Available from the Everlasting Summer gachapon event."
+		],
+		"id": "chat_qipao_158"
+	},
 	"chat_qipao_159": {
 		"name": "Surf Slang",
 		"description": "Hear the enchanting song of the ocean in the rhythm of the sea breeze and the crash of the waves.",
@@ -50961,7 +51334,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_160.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from Seaside Summer Bash event"
+			"Log In to Claim"
 		],
 		"id": "chat_qipao_160"
 	},
@@ -50997,6 +51370,28 @@
 			"Nineteenth Pass Rewards"
 		],
 		"id": "chat_qipao_163"
+	},
+	"chat_qipao_164": {
+		"name": "Rose Whispers",
+		"description": "Peace has arrived, and icy blue roses are blooming all over the land. At night, you might even hear the roses whispering the knight's deeds.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_164.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Wind Walker Mystery Box event"
+		],
+		"id": "chat_qipao_164"
+	},
+	"chat_qipao_165": {
+		"name": "Adventurer's Essential",
+		"description": "A must-have fashion item for the tough ones. Adorable? Maybe, but they pack a punch!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_165.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Twentieth Pass Rewards"
+		],
+		"id": "chat_qipao_165"
 	},
 	"Hacker_Norn_Power_001": {
 		"name": "Public Security Access I",
@@ -51844,7 +52239,7 @@
 		"id": "Item_Room_Nora_JJ_01"
 	},
 	"Item_Room_Nora_JJ_02": {
-		"name": "Hanging Painting",
+		"name": "Hung Painting",
 		"description": "A common indoor decorative item that can add more color to the residence.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
@@ -51926,7 +52321,7 @@
 	},
 	"Item_Room_Nora_JJ_11": {
 		"name": "Motorcycle: Rumble",
-		"description": "Nola usually parks Rumble in her own dormitory for daily maintenance.\r\nUnlock Action: Riding Motorcycle",
+		"description": "Nola usually parks Rumble in her own dormitory for daily maintenance.\r\nUnlock Action: Ride Motorcycle.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
@@ -51953,7 +52348,7 @@
 	},
 	"Item_Room_Nora_DZ_01": {
 		"name": "Magazine",
-		"description": "A magazine that records various content for people to read in their spare time.\r\nUnlock: Bar scene interaction.",
+		"description": "A magazine containing various content for people to read in their spare time.\r\nUnlocks: Sofa scene interaction.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
@@ -51980,12 +52375,21 @@
 	},
 	"Item_Room_Nora_DZ_04": {
 		"name": "Green Brew",
-		"description": "A drink full of the atmosphere of green fields, bringing the freshness of nature.\r\nUnlock: Sofa scene interaction.",
+		"description": "A drink brimming with the atmosphere of green fields, bringing with it the freshness of nature.\r\nUnlocks: Bar scene interaction.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
 		"source": [],
 		"id": "Item_Room_Nora_DZ_04"
+	},
+	"Item_Room_Nora_DZ_05": {
+		"name": "Handmade Coffee",
+		"description": "Enjoy a cup of Nola's freshly brewed coffee.\r\nUnlock Stance: Drink Coffee",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_sushe_jiaju_DZ_05.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_Nora_DZ_05"
 	},
 	"Item_Room_Nora_YZ_01": {
 		"name": "Lunar Fairy",
@@ -52113,6 +52517,276 @@
 		"source": [],
 		"id": "Item_Room_Nora_SW_405"
 	},
+	"Item_Room_MLR_JJ_01": {
+		"name": "Crystal Cabinet",
+		"description": "Display cabinet for showcasing collectibles.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_01"
+	},
+	"Item_Room_MLR_JJ_02": {
+		"name": "Water Scooter",
+		"description": "Used for practicing water scooter driving.\r\nUnlocks emote: Rest on a motorboat.\r\nAdditional effect: Can ride specified vehicles with Meryl Ironheart (requires the corresponding Simulacrum and action).",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/LeisureRoom/jiaju/MLR/JJ/icon_sushe_jiaju_SMZJ.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_02"
+	},
+	"Item_Room_MLR_JJ_03": {
+		"name": "Instant Camera",
+		"description": "A machine that takes and instantly prints selfies.\r\nUnlocks effect: Interact with the machine to take selfies",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_03"
+	},
+	"Item_Room_MLR_JJ_04": {
+		"name": "Nail Station",
+		"description": "A vanity table for manicure.\r\nUnlocks emote: Manicure",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_04"
+	},
+	"Item_Room_MLR_JJ_05": {
+		"name": "Single Sofa Bed",
+		"description": "Cozy and trendy single sofa bed.\r\nUnlocks emote: Rest.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_05"
+	},
+	"Item_Room_MLR_JJ_06": {
+		"name": "Changing Booth",
+		"description": "A convenient changing booth.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_06"
+	},
+	"Item_Room_MLR_JJ_07": {
+		"name": "Aquarium",
+		"description": "A household fish tank supports small to medium aquatic life for display.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_07"
+	},
+	"Item_Room_MLR_JJ_08": {
+		"name": "Compact Drawer",
+		"description": "Compact yet spacious.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_08"
+	},
+	"Item_Room_MLR_JJ_09": {
+		"name": "Compact Round Table",
+		"description": "Compact multi-purpose roundtable.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_09"
+	},
+	"Item_Room_MLR_JJ_10": {
+		"name": "Decorative Wall Art",
+		"description": "Decorative wall art with insect designs that look like a specimen.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_10"
+	},
+	"Item_Room_MLR_JJ_11": {
+		"name": "Wooden Ornament",
+		"description": "Ornament crafted from premium wood.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_11"
+	},
+	"Item_Room_MLR_JJ_12": {
+		"name": "Home Decor",
+		"description": "Common home decor.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_12"
+	},
+	"Item_Room_MLR_DZ_01": {
+		"name": "Please Wait",
+		"description": "Change into a swimsuit in the dressing room. (Requires unlocking the \"Dressing Room\" to purchase.)\r\nUnlocks: Swimsuit-changing interaction.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_01"
+	},
+	"Item_Room_MLR_DZ_02": {
+		"name": "Afternoon Nap",
+		"description": "Afternoon nap.\r\nUnlocks: Afternoon nap interaction",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_02"
+	},
+	"Item_Room_MLR_DZ_03": {
+		"name": "Manicure Experience",
+		"description": "Manicure experience.\r\nUnlocks: Manicure interaction",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_03"
+	},
+	"Item_Room_MLR_YZ_01": {
+		"name": "Lunar Fairy",
+		"description": "Shimmering with lunar sheen, guiding your path.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_YZ_01"
+	},
+	"Item_Room_MLR_YZ_02": {
+		"name": "Stardust",
+		"description": "A sky full of stars that lead you into slumber.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_YZ_02"
+	},
+	"Item_Room_MLR_XZ_01": {
+		"name": "Silvery Moonlight",
+		"description": "The moon is stunning tonight, with a gentle breeze.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_01"
+	},
+	"Item_Room_MLR_XZ_02": {
+		"name": "Champagne Moments",
+		"description": "Bubbles adorn our golden moments.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_02"
+	},
+	"Item_Room_MLR_XZ_03": {
+		"name": "Starry Sky",
+		"description": "Traversing the galaxy just for you.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_03"
+	},
+	"Item_Room_Nora_SW_MLR": {
+		"name": "Nightfall",
+		"description": "A long, sentimental night that seems to never fade.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_Nora_SW_MLR"
+	},
+	"Item_Room_MLR_SW_001": {
+		"name": "Warrior",
+		"description": "Work up the courage and move forward.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_001"
+	},
+	"Item_Room_MLR_SW_002": {
+		"name": "Silver Moon",
+		"description": "Like the crescent moonlight spills over the ground.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_002"
+	},
+	"Item_Room_MLR_SW_101": {
+		"name": "Milkshake",
+		"description": "Looks and tastes just like a milkshake.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_101"
+	},
+	"Item_Room_MLR_SW_102": {
+		"name": "White Fantasy",
+		"description": "The white veil radiates dreamy light.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_102"
+	},
+	"Item_Room_MLR_SW_202": {
+		"name": "Red and White",
+		"description": "White and red, blending innocence with heat.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_202"
+	},
+	"Item_Room_MLR_SW_301": {
+		"name": "Twilight",
+		"description": "The sky darkens as night approaches.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_301"
+	},
+	"Item_Room_MLR_SW_304": {
+		"name": "Chenxi",
+		"description": "Like a ray of light on the horizon, symbolizing the start of a new day.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_304"
+	},
+	"Item_Room_MLR_SW_401": {
+		"name": "Fishnet Stockings",
+		"description": "Not a single fish can swim out of this hole.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_401"
+	},
+	"Item_Room_MLR_SW_402": {
+		"name": "Moments",
+		"description": "As if recalling our moments together, piece by piece.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_402"
+	},
 	"Hotta_Ornament_1": {
 		"name": "Sweet Dream Lullaby",
 		"description": "Shh, don't disturb it. Even a tireless traveler should be allowed to have some time to have a good dream.",
@@ -52209,6 +52883,72 @@
 		],
 		"id": "Hotta_Ornament_9"
 	},
+	"Hotta_Ornament_10": {
+		"name": "Aquatic Adventure",
+		"description": "While drifting with the ocean currents on an underwater adventure, your aquatic friends kindly remind you: beware, a massive monster lurks in the depths of the sea trench!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_226.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the limited event."
+		],
+		"id": "Hotta_Ornament_10"
+	},
+	"Hotta_Ornament_11": {
+		"name": "Pure Love",
+		"description": "Not your average white rose, but a snow-white rose whose the petals turn transparent in rain, symbolizing the purest form of love.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_227.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Wind Walker Mystery Box event"
+		],
+		"id": "Hotta_Ornament_11"
+	},
+	"Hotta_Ornament_12": {
+		"name": "Wukong's Golden Headband",
+		"description": "Within the cultural archives of Earth, a literary figure named Wukong is documented, yet scarce textual evidence remains, leaving behind only visual records of his golden headband.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_228.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtain from the limited-time event."
+		],
+		"id": "Hotta_Ornament_12"
+	},
+	"Hotta_Ornament_13": {
+		"name": "Heartflow: Purity",
+		"description": "A pure white ribbon bow with a gold star in the middle—stylish and simple.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_229.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the limited event."
+		],
+		"id": "Hotta_Ornament_13"
+	},
+	"Hotta_Ornament_14": {
+		"name": "Heartflow: Ribbons",
+		"description": "A white ribbon bow with a gold star in the middle, complemented with lace and streamers for a sweet and gentle look.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_230.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the limited event."
+		],
+		"id": "Hotta_Ornament_14"
+	},
+	"Hotta_Ornament_15": {
+		"name": "Moonrabbit Frolic",
+		"description": "A clear night with a full moon, and it looks like the moon rabbit's on holiday too. See? It's just chilling around!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_231.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the limited event."
+		],
+		"id": "Hotta_Ornament_15"
+	},
 	"fragment_Hotta_Ornament_8": {
 		"name": "Ground Controller Headband Shard",
 		"description": "A headgear refitted from the mechanical eye dropped by the Ground Controller. The mechanical eye that has lost its visual ability still retains the ability to emit light.",
@@ -52223,27 +52963,45 @@
 	},
 	"ActorBackground_1": {
 		"name": "Under the Tower: Personal Background",
-		"description": "Used to unlock Namepage: Namepage Background",
+		"description": "Used to unlock Personal Card: Personal Background",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg01.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "ActorBackground_1"
 	},
+	"ActorBackground_2": {
+		"name": "Minimalist: Trippy Purple - Personal Background",
+		"description": "Used to unlock Personal Card: Personal Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorBackground_2"
+	},
 	"ActorBackground_3": {
 		"name": "Cool Summer: Personal Background",
-		"description": "Used to unlock Namepage: Personal Background",
+		"description": "Used to unlock Personal Card: Personal Background",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_ModelBgSummer.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_ModelBgSummer.webp",
 		"type": "CONSUMABLE",
 		"source": [
 			"Obtained from Seaside Summer Bash event"
 		],
 		"id": "ActorBackground_3"
 	},
+	"ActorBackground_4": {
+		"name": "Phantom Thief of the Night: Personal Background",
+		"description": "Used to unlock Personal Card: Personal Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_ModelBgACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorBackground_4"
+	},
 	"ActorBackground_5": {
 		"name": "Aquarium: Personal Background",
-		"description": "Used to unlock Namepage: Personal Picture Frame",
+		"description": "Used to unlock Personal Card: Personal Background",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Decoration/icon_ModelBgHaiyang256.webp",
 		"type": "CONSUMABLE",
@@ -52252,18 +53010,93 @@
 		],
 		"id": "ActorBackground_5"
 	},
+	"ActorBackground_6": {
+		"name": "Radiant Orange: Personal Background",
+		"description": "Used to unlock Personal Card: Personal Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "ActorBackground_6"
+	},
+	"ActorBackground_7": {
+		"name": "Minimalist Serene Green: Personal Background",
+		"description": "Used to unlock Personal Card: Personal Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Beach Volleyball gameplay"
+		],
+		"id": "ActorBackground_7"
+	},
+	"ActorBackground_8": {
+		"name": "Luxurious Red: Personal Background",
+		"description": "Used to unlock Personal Card: Personal Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "ActorBackground_8"
+	},
+	"ActorBackground_9": {
+		"name": "Minimalist Opulent Pink: Personal Background",
+		"description": "Used to unlock Personal Card: Personal Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Beach Volleyball gameplay"
+		],
+		"id": "ActorBackground_9"
+	},
+	"ActorBackground_10": {
+		"name": "Soulwave: Personal Background",
+		"description": "Used to unlock Personal Card: Personal Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_ModelBgGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Reactivate Firewall event"
+		],
+		"id": "ActorBackground_10"
+	},
+	"ActorBackground_11": {
+		"name": "Time Frost: Personal Background",
+		"description": "Used to unlock Personal Card: Personal Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_ModelBgXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Beach Volleyball gameplay"
+		],
+		"id": "ActorBackground_11"
+	},
 	"CardBackground_1": {
-		"name": "Under the Tower: Namepage Background",
-		"description": "Used to unlock Namepage: Namepage Background",
+		"name": "Under the Tower: Personal Card Background",
+		"description": "Used to unlock Personal Card: Personal Card Background",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard01.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "CardBackground_1"
 	},
+	"CardBackground_2": {
+		"name": "Minimalist: Trippy Purple - Personal Card Background",
+		"description": "Used to unlock Personal Card: Personal Card Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_2"
+	},
 	"CardBackground_3": {
-		"name": "Cool Summer: Namepage Background",
-		"description": "Used to unlock Namepage: Personal Background",
+		"name": "Cool Summer: Personal Card Background",
+		"description": "Used to unlock Personal Card: Personal Card Background",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_NmCardSummer.webp",
 		"type": "CONSUMABLE",
@@ -52272,18 +53105,96 @@
 		],
 		"id": "CardBackground_3"
 	},
+	"CardBackground_4": {
+		"name": "Phantom Thief of the Night: Personal Card Background",
+		"description": "Used to unlock Personal Card: Personal Card Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_NmCardACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_4"
+	},
+	"CardBackground_6": {
+		"name": "Radiant Orange: Personal Card Background",
+		"description": "Used to unlock Personal Card: Personal Card Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "CardBackground_6"
+	},
+	"CardBackground_7": {
+		"name": "Minimalist Serene Green: Personal Card Background",
+		"description": "Used to unlock Personal Card: Personal Card Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_7"
+	},
+	"CardBackground_8": {
+		"name": "Luxurious Red: Personal Card Background",
+		"description": "Used to unlock Personal Card: Personal Card Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "CardBackground_8"
+	},
+	"CardBackground_9": {
+		"name": "Minimalist Opulent Pink: Personal Card Background",
+		"description": "Used to unlock Personal Card: Personal Card Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard06.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_9"
+	},
+	"CardBackground_10": {
+		"name": "Soulwave: Personal Card Background",
+		"description": "Used to unlock Personal Card: Personal Card Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_NmCardGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Reactivate Firewall event"
+		],
+		"id": "CardBackground_10"
+	},
+	"CardBackground_11": {
+		"name": "Time Frost: Personal Card Background",
+		"description": "Used to unlock Personal Card: Personal Card Background",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_NmCardXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_11"
+	},
 	"CardFrame_1": {
-		"name": "Under the Tower: Namepage Frame",
-		"description": "Used to unlock Namepage: Namepage Background",
+		"name": "Under the Tower: Personal Card Frame",
+		"description": "Used to unlock Personal Card: Personal Card Frame",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame01.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "CardFrame_1"
 	},
+	"CardFrame_2": {
+		"name": "Minimalist: Trippy Purple - Personal Card Frame",
+		"description": "Used to unlock Personal Card: Personal Card Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_2"
+	},
 	"CardFrame_3": {
-		"name": "Cool Summer: Namepage Frame",
-		"description": "Used to unlock Namepage: Personal Background",
+		"name": "Cool Summer: Personal Card Frame",
+		"description": "Used to unlock Personal Card: Personal Card Frame",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_NmCardFrameSummer.webp",
 		"type": "CONSUMABLE",
@@ -52292,18 +53203,96 @@
 		],
 		"id": "CardFrame_3"
 	},
+	"CardFrame_4": {
+		"name": "Phantom Thief of the Night: Personal Card Frame",
+		"description": "Used to unlock Personal Card: Personal Card Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_NmCardFrameACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_4"
+	},
+	"CardFrame_6": {
+		"name": "Radiant Orange: Personal Card Frame",
+		"description": "Used to unlock Personal Card: Personal Card Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "CardFrame_6"
+	},
+	"CardFrame_7": {
+		"name": "Minimalist Serene Green: Personal Card Frame",
+		"description": "Used to unlock Personal Card: Personal Card Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_7"
+	},
+	"CardFrame_8": {
+		"name": "Luxurious Red: Personal Card Frame",
+		"description": "Used to unlock Personal Card: Personal Card Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "CardFrame_8"
+	},
+	"CardFrame_9": {
+		"name": "Minimalist Opulent Pink: Personal Card Frame",
+		"description": "Used to unlock Personal Card: Personal Card Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame06.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_9"
+	},
+	"CardFrame_10": {
+		"name": "Soulwave: Personal Card Frame",
+		"description": "Used to unlock Personal Card: Personal Card Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_NmCardFrameGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Reactivate Firewall event"
+		],
+		"id": "CardFrame_10"
+	},
+	"CardFrame_11": {
+		"name": "Time Frost: Personal Card Frame",
+		"description": "Used to unlock Personal Card: Personal Card Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_NmCardFrameXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_11"
+	},
 	"ActorFrame_1": {
 		"name": "Under the Tower: Personal Picture Frame",
-		"description": "Used to unlock Namepage: Namepage Background",
+		"description": "Used to unlock Personal Card: Personal Frame",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame01.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "ActorFrame_1"
 	},
+	"ActorFrame_2": {
+		"name": "Minimalist: Trippy Purple - Personal Picture Frame",
+		"description": "Used to unlock Personal Card: Personal Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorFrame_2"
+	},
 	"ActorFrame_3": {
 		"name": "Cool Summer: Personal Picture Frame",
-		"description": "Used to unlock Namepage: Personal Background",
+		"description": "Used to unlock Personal Card: Personal Frame",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_ModelFrameSummer.webp",
 		"type": "CONSUMABLE",
@@ -52312,9 +53301,18 @@
 		],
 		"id": "ActorFrame_3"
 	},
+	"ActorFrame_4": {
+		"name": "Phantom Thief of the Night: Personal Picture Frame",
+		"description": "Used to unlock Personal Card: Personal Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_ModelFrameACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorFrame_4"
+	},
 	"ActorFrame_5": {
 		"name": "Aquarium: Personal Picture Frame",
-		"description": "Used to unlock Namepage: Personal Picture Frame",
+		"description": "Used to unlock Personal Card: Personal Frame",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Decoration/icon_ModelFrameHaiyang256.webp",
 		"type": "CONSUMABLE",
@@ -52322,6 +53320,72 @@
 			"Obtained from Beach Volleyball gameplay"
 		],
 		"id": "ActorFrame_5"
+	},
+	"ActorFrame_6": {
+		"name": "Radiant Orange: Personal Picture Frame",
+		"description": "Used to unlock Personal Card: Personal Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "ActorFrame_6"
+	},
+	"ActorFrame_7": {
+		"name": "Minimalist Serene Green: Personal Picture Frame",
+		"description": "Used to unlock Personal Card: Personal Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Beach Volleyball gameplay"
+		],
+		"id": "ActorFrame_7"
+	},
+	"ActorFrame_8": {
+		"name": "Luxurious Red: Personal Picture Frame",
+		"description": "Used to unlock Personal Card: Personal Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "ActorFrame_8"
+	},
+	"ActorFrame_9": {
+		"name": "Minimalist Opulent Pink: Personal Picture Frame",
+		"description": "Used to unlock Personal Card: Personal Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Beach Volleyball gameplay"
+		],
+		"id": "ActorFrame_9"
+	},
+	"ActorFrame_10": {
+		"name": "Soulwave: Personal Picture Frame",
+		"description": "Used to unlock Personal Card: Personal Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_ModelFrameGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Reactivate Firewall event"
+		],
+		"id": "ActorFrame_10"
+	},
+	"ActorFrame_11": {
+		"name": "Time Frost: Personal Picture Frame",
+		"description": "Used to unlock Personal Card: Personal Frame",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_ModelFrameXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Beach Volleyball gameplay"
+		],
+		"id": "ActorFrame_11"
 	},
 	"Frag_Fruit_Watermelon": {
 		"name": "Watermelon Slice",
@@ -52449,9 +53513,7 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss01.webp",
 		"type": "EMBLEM",
-		"source": [
-			"Obtained from Fruit Attack event"
-		],
+		"source": [],
 		"id": "Badge_1_1_1"
 	},
 	"Badge_1_1_2": {
@@ -52460,9 +53522,7 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss02.webp",
 		"type": "EMBLEM",
-		"source": [
-			"Obtained from Fruit Attack event"
-		],
+		"source": [],
 		"id": "Badge_1_1_2"
 	},
 	"Badge_1_1_3": {
@@ -52471,10 +53531,35 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss03.webp",
 		"type": "EMBLEM",
-		"source": [
-			"Obtained from Fruit Attack event"
-		],
+		"source": [],
 		"id": "Badge_1_1_3"
+	},
+	"Badge_1_1_4": {
+		"name": "Ying Zhao: Badge of Valor",
+		"description": "Obtained by opening Ying Zhao Chest 40 times",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss01.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_4"
+	},
+	"Badge_1_1_5": {
+		"name": "Fei Lian: Badge of Valor",
+		"description": "Obtained by opening Fei Lian Chest 40 times",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss02.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_5"
+	},
+	"Badge_1_1_6": {
+		"name": "Xingtian: Badge of Valor",
+		"description": "Obtained by opening Xingtian Chest 40 times",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss03.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_6"
 	},
 	"MountWater8": {
 		"name": "Midsummer Fantasy",
@@ -52500,7 +53585,7 @@
 	},
 	"Sticks_Part_1_1": {
 		"name": "Yummy-Yummy",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals01.webp",
 		"type": "CONSUMABLE",
@@ -52511,7 +53596,7 @@
 	},
 	"Sticks_Part_1_2": {
 		"name": "Conch Shell",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals02.webp",
 		"type": "CONSUMABLE",
@@ -52522,7 +53607,7 @@
 	},
 	"Sticks_Part_1_3": {
 		"name": "Foodie Mi-a",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals03.webp",
 		"type": "CONSUMABLE",
@@ -52533,7 +53618,7 @@
 	},
 	"Sticks_Part_1_4": {
 		"name": "Starfish",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals04.webp",
 		"type": "CONSUMABLE",
@@ -52544,7 +53629,7 @@
 	},
 	"Sticks_Part_1_5": {
 		"name": "Box Jellyfish",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals05.webp",
 		"type": "CONSUMABLE",
@@ -52555,7 +53640,7 @@
 	},
 	"Sticks_Part_1_6": {
 		"name": "Question Mark",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals06.webp",
 		"type": "CONSUMABLE",
@@ -52566,7 +53651,7 @@
 	},
 	"Sticks_Part_1_7": {
 		"name": "Cool Shades",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals07.webp",
 		"type": "CONSUMABLE",
@@ -52577,7 +53662,7 @@
 	},
 	"Sticks_Part_1_8": {
 		"name": "Sunglasses",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals08.webp",
 		"type": "CONSUMABLE",
@@ -52588,7 +53673,7 @@
 	},
 	"Sticks_Part_1_9": {
 		"name": "Jellyfish",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals09.webp",
 		"type": "CONSUMABLE",
@@ -52599,7 +53684,7 @@
 	},
 	"Sticks_Part_1_10": {
 		"name": "Exclamation Point",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals10.webp",
 		"type": "CONSUMABLE",
@@ -52610,7 +53695,7 @@
 	},
 	"Sticks_Part_1_11": {
 		"name": "Shell Encyclopedia",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals11.webp",
 		"type": "CONSUMABLE",
@@ -52621,7 +53706,7 @@
 	},
 	"Sticks_Part_1_12": {
 		"name": "First Encounter with Roslyn",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals12.webp",
 		"type": "CONSUMABLE",
@@ -52632,7 +53717,7 @@
 	},
 	"Sticks_Part_1_13": {
 		"name": "Flash of Inspiration",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals13.webp",
 		"type": "CONSUMABLE",
@@ -52643,7 +53728,7 @@
 	},
 	"Sticks_Part_1_14": {
 		"name": "Pink Shell",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals14.webp",
 		"type": "CONSUMABLE",
@@ -52654,7 +53739,7 @@
 	},
 	"Sticks_Part_1_15": {
 		"name": "Dandelion",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals15.webp",
 		"type": "CONSUMABLE",
@@ -52663,9 +53748,53 @@
 		],
 		"id": "Sticks_Part_1_15"
 	},
+	"Sticks_Part_2_1": {
+		"name": "Spirit Anka",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals16.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Reactivate Firewall event"
+		],
+		"id": "Sticks_Part_2_1"
+	},
+	"Sticks_Part_2_2": {
+		"name": "Spirit Meryl",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals17.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Reactivate Firewall event"
+		],
+		"id": "Sticks_Part_2_2"
+	},
+	"Sticks_Part_2_3": {
+		"name": "Spirit Nola",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals18.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Reactivate Firewall event"
+		],
+		"id": "Sticks_Part_2_3"
+	},
+	"Sticks_Part_2_4": {
+		"name": "Spirit Roslyn",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals19.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Reactivate Firewall event"
+		],
+		"id": "Sticks_Part_2_4"
+	},
 	"Sticks_All_1_1": {
 		"name": "Masked Phantom Thief",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE01.webp",
 		"type": "CONSUMABLE",
@@ -52676,7 +53805,7 @@
 	},
 	"Sticks_All_1_2": {
 		"name": "Witch of Time",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE02.webp",
 		"type": "CONSUMABLE",
@@ -52685,16 +53814,25 @@
 	},
 	"Sticks_All_1_3": {
 		"name": "Wednesday",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE03.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "Sticks_All_1_3"
 	},
+	"Sticks_All_1_4": {
+		"name": "Poppin' Stick",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Sticks_All_1_4"
+	},
 	"Sticks_All_1_5": {
 		"name": "Bouncing Notes",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE05.webp",
 		"type": "CONSUMABLE",
@@ -52703,7 +53841,7 @@
 	},
 	"Sticks_All_1_6": {
 		"name": "City Skyline",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE06.webp",
 		"type": "CONSUMABLE",
@@ -52712,7 +53850,7 @@
 	},
 	"Sticks_All_1_7": {
 		"name": "ToF Skyline",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE07.webp",
 		"type": "CONSUMABLE",
@@ -52721,7 +53859,7 @@
 	},
 	"Sticks_All_1_8": {
 		"name": "Phantom Thief ACE Card IV",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE08.webp",
 		"type": "CONSUMABLE",
@@ -52732,7 +53870,7 @@
 	},
 	"Sticks_All_1_9": {
 		"name": "Phantom Thief ACE Card III",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE09.webp",
 		"type": "CONSUMABLE",
@@ -52743,7 +53881,7 @@
 	},
 	"Sticks_All_1_10": {
 		"name": "Phantom Thief ACE Card II",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE10.webp",
 		"type": "CONSUMABLE",
@@ -52754,7 +53892,7 @@
 	},
 	"Sticks_All_1_11": {
 		"name": "Phantom Thief ACE Card I",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE11.webp",
 		"type": "CONSUMABLE",
@@ -52765,7 +53903,7 @@
 	},
 	"Sticks_All_1_12": {
 		"name": "Poker",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE12.webp",
 		"type": "CONSUMABLE",
@@ -52805,6 +53943,17 @@
 		],
 		"id": "Sticks_choose_3"
 	},
+	"Sticks_choose_4": {
+		"name": "Sticker Box IV",
+		"description": "Choose one of the following: Coconut Tree, Watermelon, Ice Cubes, or Shaved Ice with Fruit",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_BoxNmcard.webp",
+		"type": "CHOOSE",
+		"source": [
+			"Obtained from the Galeborn Waves event"
+		],
+		"id": "Sticks_choose_4"
+	},
 	"frag_Sticks_choose_3": {
 		"name": "Sticker Box III Shard",
 		"description": "Sticker Box Shard",
@@ -52816,9 +53965,20 @@
 		],
 		"id": "frag_Sticks_choose_3"
 	},
+	"frag_Sticks_choose_4": {
+		"name": "Sticker Box IV Shard",
+		"description": "Sticker Box Shard",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_BoxNmcard.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"Obtained from the Galeborn Waves event"
+		],
+		"id": "frag_Sticks_choose_4"
+	},
 	"Sticks_All_2_1": {
 		"name": "Scallop",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer01.webp",
 		"type": "CONSUMABLE",
@@ -52829,7 +53989,7 @@
 	},
 	"Sticks_All_2_2": {
 		"name": "Volleyball",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer02.webp",
 		"type": "CONSUMABLE",
@@ -52840,7 +54000,7 @@
 	},
 	"Sticks_All_2_3": {
 		"name": "Ice Cream Cone",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer03.webp",
 		"type": "CONSUMABLE",
@@ -52848,6 +54008,281 @@
 			"Obtained from Cheers! Summer Dance Off! event"
 		],
 		"id": "Sticks_All_2_3"
+	},
+	"Sticks_All_2_4": {
+		"name": "Coconut Tree",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Galeborn Waves event"
+		],
+		"id": "Sticks_All_2_4"
+	},
+	"Sticks_All_2_5": {
+		"name": "Watermelon",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Galeborn Waves event"
+		],
+		"id": "Sticks_All_2_5"
+	},
+	"Sticks_All_2_6": {
+		"name": "Ice Cubes",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Galeborn Waves event"
+		],
+		"id": "Sticks_All_2_6"
+	},
+	"Sticks_All_2_7": {
+		"name": "Shaved Ice with Fruit",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer07.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Galeborn Waves event"
+		],
+		"id": "Sticks_All_2_7"
+	},
+	"Sticks_All_2_8": {
+		"name": "Toot!",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer08.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "Sticks_All_2_8"
+	},
+	"Sticks_All_2_9": {
+		"name": "Toot-Toot!",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer09.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "Sticks_All_2_9"
+	},
+	"Sticks_All_2_10": {
+		"name": "Toot-Toot-Toot!",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer010.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "Sticks_All_2_10"
+	},
+	"Sticks_All_2_11": {
+		"name": "Otter with Tea",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer011.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "Sticks_All_2_11"
+	},
+	"Sticks_All_2_12": {
+		"name": "Aesperia Sector",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer012.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "Sticks_All_2_12"
+	},
+	"Sticks_All_2_13": {
+		"name": "Vera Sector",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer013.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Funtastic Fiesta event"
+		],
+		"id": "Sticks_All_2_13"
+	},
+	"Sticks_All_2_14": {
+		"name": "Domain 9 Sector",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer014.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_2_14"
+	},
+	"Sticks_All_2_15": {
+		"name": "Network Sector",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer015.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_2_15"
+	},
+	"Sticks_All_3_1": {
+		"name": "Soft Blue Bouquet",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_01.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_1"
+	},
+	"Sticks_All_3_2": {
+		"name": "Dried Blossom: Verdant Finch",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_02.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_2"
+	},
+	"Sticks_All_3_3": {
+		"name": "Wooden Handle Seal",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_3"
+	},
+	"Sticks_All_3_4": {
+		"name": "Fire Seal, the Tower of Fantasy",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_4"
+	},
+	"Sticks_All_3_5": {
+		"name": "Projector",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_5"
+	},
+	"Sticks_All_3_6": {
+		"name": "Vintage Candlestick",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_07.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_6"
+	},
+	"Sticks_All_3_7": {
+		"name": "Retro Lantern",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_08.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_7"
+	},
+	"Sticks_All_3_8": {
+		"name": "Digital Camera",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_09.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_8"
+	},
+	"Sticks_All_3_9": {
+		"name": "Retro Stamp",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_10.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_9"
+	},
+	"Sticks_All_3_10": {
+		"name": "Pierced",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_11.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_10"
+	},
+	"Sticks_All_3_11": {
+		"name": "Letter from Afar",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_13.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_11"
+	},
+	"Sticks_All_3_12": {
+		"name": "Microfilm",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_12"
+	},
+	"Sticks_All_3_13": {
+		"name": "Camera Film",
+		"description": "Used to unlock Personal Card: Sticker",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Img_Decals_XJ_13.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "Sticks_All_3_13"
 	},
 	"Hacker_Norn_Power_021": {
 		"name": "Nobody",
@@ -53633,7 +55068,7 @@
 		"id": "Hacker_Norn_collection_277"
 	},
 	"Hacker_Norn_collection_278": {
-		"name": "A Seagull's Life",
+		"name": "Life Secret Fries",
 		"description": "Delicacies from the Network's restaurants. Surely there's something for everyone.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_RSAYST.webp",
@@ -53885,7 +55320,7 @@
 		"id": "Hacker_Norn_collection_305"
 	},
 	"Hacker_Norn_collection_306": {
-		"name": "Imitation Landline Phone",
+		"name": "Replica Landline Phone",
 		"description": "Noa Appliances will give your home a new look.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_DQ_zuoji.webp",
@@ -53930,7 +55365,7 @@
 		"id": "Hacker_Norn_collection_310"
 	},
 	"Hacker_Norn_collection_311": {
-		"name": "Self-adaptive Temperature Control Device",
+		"name": "Automated Temperature Regulator",
 		"description": "Noa Appliances will give your home a new look.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_DQ_kongzhiqi.webp",
@@ -54047,7 +55482,7 @@
 		"id": "Hacker_Norn_collection_323"
 	},
 	"Hacker_Norn_collection_324": {
-		"name": "A Ceramic Vase",
+		"name": "Ceramic Vase",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_HP01.webp",
@@ -54056,7 +55491,7 @@
 		"id": "Hacker_Norn_collection_324"
 	},
 	"Hacker_Norn_collection_325": {
-		"name": "A Ceramic Vase",
+		"name": "Ceramic Vase",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_HP02.webp",
@@ -54137,7 +55572,7 @@
 		"id": "Hacker_Norn_collection_333"
 	},
 	"Hacker_Norn_collection_334": {
-		"name": "The Charm of the Discus",
+		"name": "Charm of the Discus",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_TQ01.webp",
@@ -54146,7 +55581,7 @@
 		"id": "Hacker_Norn_collection_334"
 	},
 	"Hacker_Norn_collection_335": {
-		"name": "The Mystique of the Shot Put",
+		"name": "Mystique of the Shot Put",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_TQ02.webp",
@@ -54155,7 +55590,7 @@
 		"id": "Hacker_Norn_collection_335"
 	},
 	"Hacker_Norn_collection_336": {
-		"name": "The Galloping Wild Horse",
+		"name": "Galloping Wild Horse",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_MA01.webp",
@@ -54164,7 +55599,7 @@
 		"id": "Hacker_Norn_collection_336"
 	},
 	"Hacker_Norn_collection_337": {
-		"name": "The Pensive Wild Ox",
+		"name": "Pensive Wild Ox",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_MA02.webp",
@@ -54173,7 +55608,7 @@
 		"id": "Hacker_Norn_collection_337"
 	},
 	"Hacker_Norn_collection_338": {
-		"name": "The Head Bowed in Thought",
+		"name": "Head Bowed in Thought",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_CSZ01.webp",
@@ -54191,7 +55626,7 @@
 		"id": "Hacker_Norn_collection_339"
 	},
 	"Hacker_Norn_collection_340": {
-		"name": "A Diamond Ring",
+		"name": "Diamond Ring",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_ZS01.webp",
@@ -54200,7 +55635,7 @@
 		"id": "Hacker_Norn_collection_340"
 	},
 	"Hacker_Norn_collection_341": {
-		"name": "A Cubic Zirconia Ring",
+		"name": "Cubic Zirconia Ring",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_ZS02.webp",
@@ -54227,7 +55662,7 @@
 		"id": "Hacker_Norn_collection_343"
 	},
 	"Hacker_Norn_collection_344": {
-		"name": "A Brand-name Watch",
+		"name": "Brand-name Watch",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_SB01.webp",
@@ -54236,7 +55671,7 @@
 		"id": "Hacker_Norn_collection_344"
 	},
 	"Hacker_Norn_collection_345": {
-		"name": "A Brand-name Watch",
+		"name": "Brand-name Watch",
 		"description": "All kinds of antiques available, but authenticity not guaranteed.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/icon_SJP_SB02.webp",
@@ -54299,7 +55734,7 @@
 		"id": "Hacker_Norn_collection_353"
 	},
 	"Hacker_Norn_collection_354": {
-		"name": "A Fishing Log",
+		"name": "Fishing Log",
 		"description": "A Gesthos network data file. There must be something in it that you are interested in.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/Norn_zhenying02.webp",
@@ -55034,7 +56469,7 @@
 		"name": "Lost Bill",
 		"description": "Bill dropped on the street. Collect them and go exchange for rewards with the clerk of Green Asperia!",
 		"rarity": 4,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/item_hide_yaxianew_trade03.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/item_hide_yaxianew_trade05.webp",
 		"type": "QUEST",
 		"source": [
 			"Found through Gilded Detection"
@@ -55074,7 +56509,7 @@
 	},
 	"Nora_lv2": {
 		"name": "Nola: Awakened",
-		"description": "The lost memories have become she pursuit. She's eager to discover what kind of person she was in the past.",
+		"description": "The lost memories have become what she pursues. She's eager to discover what kind of person she was in the past.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_nuola2.webp",
 		"type": "AVATAR",
@@ -55147,7 +56582,7 @@
 	},
 	"frag_Sticks_Part_1_11": {
 		"name": "Shell Encyclopedia Shard",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals11.webp",
 		"type": "FRAGMENT",
@@ -55158,7 +56593,7 @@
 	},
 	"frag_Sticks_Part_1_14": {
 		"name": "Pink Shell Shard",
-		"description": "Used to unlock Namepage: Sticker",
+		"description": "Used to unlock Personal Card: Sticker",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals14.webp",
 		"type": "FRAGMENT",
@@ -55212,8 +56647,8 @@
 		"id": "item_hide_yaxianew_fenweibox04"
 	},
 	"item_hide_yaxianew_nuoyuan01": {
-		"name": "Common Exchange Card",
-		"description": "A low-key exchange card. Use it after redeeming at the store to get a small amount of Norn.",
+		"name": "Advanced Exchange Card",
+		"description": "A glorious exchange card. Use it after redeeming at the store to get a large amount of Norn.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_red.webp",
 		"type": "GIFT",
@@ -55234,8 +56669,8 @@
 		"id": "item_hide_yaxianew_nuoyuan02"
 	},
 	"item_hide_yaxianew_nuoyuan03": {
-		"name": "Advanced Exchange Card",
-		"description": "A glorious exchange card. Use it after redeeming at the store to get a large amount of Norn.",
+		"name": "Common Exchange Card",
+		"description": "A low-key exchange card. Use it after redeeming at the store to get a small amount of Norn.",
 		"rarity": 2,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_greener.webp",
 		"type": "GIFT",
@@ -55292,8 +56727,92 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
 		"type": "MOUNT",
-		"source": [],
+		"source": [
+			"Obtained from the Wind Walker Mystery Box event"
+		],
 		"id": "Mount_Racing_003_guo"
+	},
+	"Item_norn_sidequest_v431101": {
+		"name": "Darling Dolly",
+		"description": "An adorable doll named Miss Dorothea. With big brown eyes and plushy soft fur, it is a child's cherished companion.",
+		"rarity": 1,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/ImitationGift/UI_jingdu_icon_tuzi_256.webp",
+		"type": "QUEST",
+		"source": [],
+		"id": "Item_norn_sidequest_v431101"
+	},
+	"meilierx": {
+		"name": "Meryl Ironheart",
+		"description": "Meeting an old acquaintance in the network—it's Meryl in full armor.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_meilierkai.webp",
+		"type": "AVATAR",
+		"source": [],
+		"id": "meilierx"
+	},
+	"meilierx_lv2": {
+		"name": "Meryl Ironheart: Awakened",
+		"description": "I've found what I was seeking...",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_meilierkai2.webp",
+		"type": "AVATAR",
+		"source": [],
+		"id": "meilierx_lv2"
+	},
+	"SelfCardParticle_1": {
+		"name": "Fleeting Years",
+		"description": "Used to unlock Personal Card: Quirk",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_345.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "SelfCardParticle_1"
+	},
+	"SelfCardParticle_2": {
+		"name": "Fantasy",
+		"description": "Used to unlock Personal Card: Quirk",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_346.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "SelfCardParticle_2"
+	},
+	"SelfCardParticle_3": {
+		"name": "Retro Screen Flicker",
+		"description": "Used to unlock Personal Card: Quirk",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_346_1.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "SelfCardParticle_3"
+	},
+	"SelfCardParticle_4": {
+		"name": "Soul Pulse",
+		"description": "Used to unlock Personal Card: Quirk",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_347.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from Cheers! Summer Dance Off! event"
+		],
+		"id": "SelfCardParticle_4"
+	},
+	"SelfCardParticle_5": {
+		"name": "Shooting Star",
+		"description": "Used to unlock Personal Card: Quirk",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_348.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from the Probability Clash event"
+		],
+		"id": "SelfCardParticle_5"
 	},
 	"fragment_chat_Action_km3_os": {
 		"name": "Sweet Bunny",
@@ -56294,7 +57813,7 @@
 	},
 	"WeaponFragment_DoubleUP1": {
 		"name": "Flame Gold (Icefrost)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/weaponfragment_up_ice_OS.webp",
 		"type": "BARTER",
@@ -56305,7 +57824,7 @@
 	},
 	"WeaponFragment_DoubleUP2_OS": {
 		"name": "Flame Gold (Firestorm)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/weaponfragment_up_fire_OS.webp",
 		"type": "BARTER",
@@ -56316,7 +57835,7 @@
 	},
 	"WeaponFragment_DoubleUP3_OS": {
 		"name": "Flame Gold (Icefrost)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/weaponfragment_up_ice_OS.webp",
 		"type": "BARTER",
@@ -56327,7 +57846,7 @@
 	},
 	"WeaponFragment_DoubleUP4_OS": {
 		"name": "Flame Gold (Physical)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/weaponfragment_up_phy_OS.webp",
 		"type": "BARTER",
@@ -56338,7 +57857,7 @@
 	},
 	"WeaponFragment_DoubleUP5_OS": {
 		"name": "Flame Gold (Volt)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/weaponfragment_up_thu_OS.webp",
 		"type": "BARTER",
@@ -56349,7 +57868,7 @@
 	},
 	"WeaponFragment_DoubleUP6_OS": {
 		"name": "Flame Gold (Firestorm)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/weaponfragment_up_fire_OS.webp",
 		"type": "BARTER",
@@ -56360,7 +57879,7 @@
 	},
 	"WeaponFragment_DoubleUP7_OS": {
 		"name": "Flame Gold (Icefrost)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/weaponfragment_up_ice_OS.webp",
 		"type": "BARTER",
@@ -56371,7 +57890,7 @@
 	},
 	"WeaponFragment_Anniversary_OS": {
 		"name": "Flame Gold (Anniversary)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -56382,7 +57901,7 @@
 	},
 	"WeaponFragment_DoubleUP8_OS": {
 		"name": "Flame Gold (Volt)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/weaponfragment_up_thu_OS.webp",
 		"type": "BARTER",
@@ -56393,7 +57912,7 @@
 	},
 	"WeaponFragment_DoubleUP9_OS": {
 		"name": "Flame Gold (Firestorm)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/weaponfragment_up_fire_OS.webp",
 		"type": "BARTER",
@@ -56404,7 +57923,7 @@
 	},
 	"WeaponFragment_DoubleUP10_OS": {
 		"name": "Flame Gold (Icefrost)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/weaponfragment_up_ice_OS.webp",
 		"type": "BARTER",
@@ -56415,7 +57934,7 @@
 	},
 	"WeaponFragment_DoubleUP11_OS": {
 		"name": "Flame Gold (Altered)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -56426,7 +57945,7 @@
 	},
 	"WeaponFragment_ALLUP_OS": {
 		"name": "Flame Gold (Journey)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"type": "BARTER",
@@ -57779,6 +59298,15 @@
 		"source": [],
 		"id": "Nora_superpower_trial_OS"
 	},
+	"MerylX_thunder_trial_OS": {
+		"name": "Siege Edge (24h)",
+		"description": "Developed by Hykros, this transformable weapon boasts remarkable design and performance, though it's hard to mass-produce due to its complexity. \"One strike is all it takes to breach a fortress.\"—commented its designer.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Icon/item_Weapon_SSR_meilierkai.webp",
+		"type": "WEAPON",
+		"source": [],
+		"id": "MerylX_thunder_trial_OS"
+	},
 	"bag_LizhouOpenSign_1_OS": {
 		"name": "Cloud Giftbox I",
 		"description": "A special gift from Ignisville Mansion to Executors.",
@@ -57904,6 +59432,15 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_frag_BP17_OS"
+	},
+	"choose_frag_BP20_OS": {
+		"name": "Pass Relic Shard Box IX",
+		"description": "General box",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gift_artifact_frag_ssr.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_frag_BP20_OS"
 	},
 	"choose_frag_ssr_2_OS": {
 		"name": "SSR Relic Shard Box II",
@@ -58186,7 +59723,7 @@
 		"description": "Soft, light, and most importantly, it's gorgeous!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-		"type": "MOUNT",
+		"type": "MATERIAL",
 		"source": [
 			"From events"
 		],
@@ -60039,7 +61576,7 @@
 		"id": "Blindbox_6_OS_pack"
 	},
 	"Blindbox_5_hazx_OS": {
-		"name": "Beach Star",
+		"name": "Seaside Star",
 		"description": "Fill your heart with sunshine, enjoy beach party goodies, and make every moment a surprise!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",
@@ -60048,7 +61585,7 @@
 		"id": "Blindbox_5_hazx_OS"
 	},
 	"Blindbox_5_hazx_OS_pack": {
-		"name": "Beach Star",
+		"name": "Seaside Star",
 		"description": "Fill your heart with sunshine, enjoy beach party goodies, and make every moment a surprise!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",
@@ -60087,6 +61624,17 @@
 		],
 		"id": "Avatar_Overseas_42"
 	},
+	"Avatar_ps_03": {
+		"name": "Grateful for Your Company",
+		"description": "For accompanying us through every moment!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/icon_Avatar_Ps_03.webp",
+		"type": "AVATAR",
+		"source": [
+			"Acquired in the Event"
+		],
+		"id": "Avatar_ps_03"
+	},
 	"AvatarFrame_tencent_09": {
 		"name": "The Game Continues",
 		"description": "The outcome is still undecided.",
@@ -60109,6 +61657,17 @@
 		],
 		"id": "AvatarFrame_tencent_10"
 	},
+	"AvatarFrame_PlayStation_03": {
+		"name": "Grateful for Your Devotion",
+		"description": "For your devotion to making our world so lively and exciting!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_PlayStation_03i.webp",
+		"type": "FRAME",
+		"source": [
+			"Obtained from an event"
+		],
+		"id": "AvatarFrame_PlayStation_03"
+	},
 	"chat_qipao_tencent_04": {
 		"name": "Blooming Friendship",
 		"description": "Let's plant flowers together! They will bloom all over Aida!",
@@ -60119,6 +61678,17 @@
 			"Obtained from an event"
 		],
 		"id": "chat_qipao_tencent_04"
+	},
+	"chat_qipao_ps_03": {
+		"name": "Grateful to Be With You",
+		"description": "For being by our side. Let's face the future together!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_ps_03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from an event"
+		],
+		"id": "chat_qipao_ps_03"
 	},
 	"Title_KoreaAnniversary07": {
 		"name": "Team Leader",
@@ -60186,6 +61756,149 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_chat_miaaction_4_OS"
+	},
+	"Avatar_Overseas_44": {
+		"name": "Smiling Nola",
+		"description": "Nola, Fang, boss, whatever.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/icon_Avatar_Overseas_44.webp",
+		"type": "AVATAR",
+		"source": [
+			"From events"
+		],
+		"id": "Avatar_Overseas_44"
+	},
+	"Avatar_Overseas_45": {
+		"name": "Mi-a's B-Day Surprise",
+		"description": "Mi-a loves a lively birthday party, promise you'll be there?",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/icon_Avatar_Overseas_45.webp",
+		"type": "AVATAR",
+		"source": [
+			"From events"
+		],
+		"id": "Avatar_Overseas_45"
+	},
+	"AvatarFrame_tencent_12": {
+		"name": "Heart Thief",
+		"description": "Better hide it, or I'll snatch it!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_12.webp",
+		"type": "FRAME",
+		"source": [
+			"Obtained from an event"
+		],
+		"id": "AvatarFrame_tencent_12"
+	},
+	"AvatarFrame_tencent_13": {
+		"name": "Aida-Pionier 6",
+		"description": "The prize of the Outstanding Creator award in the sixth Aida Pioneer.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_13.webp",
+		"type": "FRAME",
+		"source": [
+			"Obtained from an event"
+		],
+		"id": "AvatarFrame_tencent_13"
+	},
+	"AvatarFrame_tencent_14": {
+		"name": "Mi-a Cheers",
+		"description": "Wave your glow sticks with Mi-a to celebrate Tower of Fantasy's 2nd Anniversary!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_14.webp",
+		"type": "FRAME",
+		"source": [
+			"Obtained from an event"
+		],
+		"id": "AvatarFrame_tencent_14"
+	},
+	"chat_qipao_tencent_05": {
+		"name": "2 Years of Companionship",
+		"description": "Thanks for being with Mi-a on this heartwarming journey.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_tencent_05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Obtained from an event"
+		],
+		"id": "chat_qipao_tencent_05"
+	},
+	"Title_iwshare_os_8": {
+		"name": "I'm two years old this year",
+		"description": "1, 2... (Counting fingers, Happy 2nd Anniversary to Tower of Fantasy~",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"Publish in the operation community"
+		],
+		"id": "Title_iwshare_os_8"
+	},
+	"Title_tencentshare_os_12": {
+		"name": "Sweat Dripping",
+		"description": "2nd Anniversary Interactive Video Ending: Meryl after training.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_12"
+	},
+	"Title_tencentshare_os_13": {
+		"name": "Ice Cream Lover",
+		"description": "2nd Anniversary Interactive Video Ending: Summer is all about... enjoying ice cream!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_13"
+	},
+	"Title_tencentshare_os_14": {
+		"name": "My Mean Girl",
+		"description": "2nd Anniversary Interactive Video Ending: Love getting hit.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_14"
+	},
+	"Title_tencentshare_os_15": {
+		"name": "Told by the Moon",
+		"description": "2nd Anniversary Interactive Video Ending: My truth, her dare.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_15"
+	},
+	"Title_tencentshare_os_16": {
+		"name": "ToF&u",
+		"description": "Unlocks in the limited community event.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_16"
+	},
+	"AvatarFrame_tencent_15": {
+		"name": "Summer Refreshment",
+		"description": "Sunshine, beach, party, here I come!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_15.webp",
+		"type": "FRAME",
+		"source": [
+			"Obtained from an event"
+		],
+		"id": "AvatarFrame_tencent_15"
 	},
 	"artifact_ssr_001": {
 		"name": "Colossus Arm",
@@ -60368,6 +62081,15 @@
 		"type": "ARTIFACT",
 		"source": [],
 		"id": "artifact_ssr_023"
+	},
+	"artifact_ssr_024": {
+		"name": "Buff Dealer",
+		"description": "",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"type": "ARTIFACT",
+		"source": [],
+		"id": "artifact_ssr_024"
 	},
 	"artifact_sr_001": {
 		"name": "Hovering Cannon",
@@ -62317,7 +64039,7 @@
 	},
 	"matrix_SSR18_4": {
 		"name": "Lin: Black Fox Mask",
-		"description": "Sometimes, she transforms into a shadow that moves freely between the building.",
+		"description": "Sometimes, she transforms into a shadow that moves freely between buildings.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR18_512.webp",
 		"type": "MATRIX",

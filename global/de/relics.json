@@ -659,6 +659,39 @@
 		"version": "3.7",
 		"id": "artifact_ssr_023"
 	},
+	"artifact_ssr_024": {
+		"name": "Buff Verkäufer",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "",
+		"source": "",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"rarity": 5,
+		"AttributeID": "artifact_adv_048",
+		"advancement": [
+			{
+				"description": "Erhöht den Effekt der Schadensreduktion auf **20%**, während in der Verteidigungsform.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Erhöht den Schadensbonus-Effekt auf **11%**, während in der offensiven Form.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Verringert das Auslöse-Intervall für das Blockieren von tödlichem Schaden auf einmal alle **120** Sekunden.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Erhöht den Veränderungswiderstand um **2%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Erhöht den Schadensbonus-Effekt auf **16%**, während in der offensiven Form.",
+				"id": "artifact_adv_048"
+			}
+		],
+		"version": "CN-Only",
+		"id": "artifact_ssr_024"
+	},
 	"artifact_sr_001": {
 		"name": "Schwebende Kanone",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -702,7 +735,7 @@
 		"AttributeID": "artifact_adv_015",
 		"advancement": [
 			{
-				"description": "Gewährt alle **100** Sek. 1 Aufladung. Gleiten verbraucht keine Ausdauer mehr.",
+				"description": "Gewährt alle **20** Sek. 1 Aufladung. Gleiten verbraucht keine Ausdauer mehr.",
 				"id": "artifact_adv_015"
 			},
 			{
@@ -710,7 +743,7 @@
 				"id": "artifact_adv_015"
 			},
 			{
-				"description": "Gewährt alle 60 Sek. **1** Aufladung.",
+				"description": "Erhalte alle **15** Sekunden 1 Ladung zurück.",
 				"id": "artifact_adv_015"
 			},
 			{

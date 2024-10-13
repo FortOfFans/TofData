@@ -1315,7 +1315,7 @@
 					"description": "Doux, léger mais avant tout magnifique !",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-					"type": "MOUNT",
+					"type": "MATERIAL",
 					"source": [
 						"From events"
 					],
@@ -1488,7 +1488,7 @@
 	},
 	"MountWater8": {
 		"name": "Fantaisie du solstice",
-		"description": " Il ressemble à un délicieux flotteur en forme de beignet, parfaitement adapté à l'océan estival. Allongé dessus, sentant la brise marine, le soleil ardent se transforme en un œuf à la coque doux, et l'océan devient du sirop de mandarine bleu … Il suffit de se balancer doucement et de plonger dans la fantaisie.",
+		"description": " Ça ressemble à un délicieux flotteur en forme de beignet, parfaitement adapté pour l'océan d'été. Allongé dessus, la brise marine caresse votre peau, et le soleil ardent se transforme en un œuf à la coque. L'océan en dessous scintille comme du sirop de mandarine bleu. Balancez-vous doucement et laissez-vous emporter dans une fantaisie rêveuse.",
 		"rarity": 5,
 		"source": [],
 		"assets": {
@@ -1499,7 +1499,7 @@
 			{
 				"item": {
 					"name": "Fantaisie du solstice",
-					"description": "Il ressemble à un délicieux flotteur en forme de beignet, parfaitement adapté à l'océan estival. Allongé dessus, sentant la brise marine, le soleil ardent se transforme en un œuf à la coque doux, et l'océan devient du sirop de mandarine bleu … Il suffit de se balancer doucement et de plonger dans la fantaisie.",
+					"description": "Il ressemble à un délicieux beignet en forme de flotteur de piscine, parfaitement adapté à l'océan d'été. Allongé dessus, sentant la brise marine, le soleil ardent se transforme en un œuf à la coque doux, et l'océan devient du sirop de mandarine bleu … Il suffit de se balancer doucement et de s'enfoncer dans la fantaisie.",
 					"rarity": 5,
 					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/MountWater8.webp",
 					"type": "MOUNT",
@@ -1538,7 +1538,7 @@
 			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_Water_9_1.webp"
 		},
 		"unlockItems": [],
-		"version": "CN-Only",
+		"version": "4.2",
 		"fashion": [
 			{
 				"Requin féroce": "None.webp"
@@ -1816,5 +1816,39 @@
 		],
 		"colors": [],
 		"id": "Mount32"
+	},
+	"MountRacing3_guo": {
+		"name": "Walker du vent",
+		"description": " \"Chevaucher le vent\" est sa devise. Il est en compétition avec les rafales sauvages pour prouver qui est le plus rapide.",
+		"rarity": 5,
+		"source": [],
+		"assets": {
+			"Icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp",
+			"ShowImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Mount/zuoqi_tubiap_TX_saiche.webp"
+		},
+		"unlockItems": [
+			{
+				"item": {
+					"name": "Walker du vent",
+					"description": "\"Chevaucher le vent\" est sa devise. Il est en course avec les rafales sauvages pour prouver qui est le plus rapide.",
+					"rarity": 5,
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
+					"type": "MOUNT",
+					"source": [
+						"S'obtient lors de l'événement boîte mystère Marcheur des vents."
+					],
+					"id": "Mount_Racing_003_guo"
+				},
+				"amount": 1
+			}
+		],
+		"version": "CN-Only",
+		"fashion": [
+			{
+				"Default skin": "None.webp"
+			}
+		],
+		"colors": [],
+		"id": "MountRacing3_guo"
 	}
 }

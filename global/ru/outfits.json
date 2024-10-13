@@ -1,8 +1,25 @@
 {
+	"fashion_dress_73": {
+		"name": "Моменты бездействия",
+		"description": "Приостановите все рабочие и учебные занятия. Пора отдохнуть. Давайте сделаем перерыв на... столетие!",
+		"type": "Dress",
+		"source": "Из событий",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"id": "fashion_dress_73"
+	},
+	"fashion_dress_74": {
+		"name": "Небесное цветение",
+		"description": "Птица стремительно пролетает по чистому небу, перья спиралируют вниз вместе с падающими цветами, будя путешественника, дремлющего под деревом.",
+		"type": "Dress",
+		"source": "Можно получить в течение ограниченного времени за покупку улучшенного пропуска",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"id": "fashion_dress_74"
+	},
 	"fashion_dress_72": {
 		"name": "Летний коктейль",
 		"description": "Какие ассоциации вызывает у вас лето: сладкое или кислое? Жаркое и солнечное или расслабленное, как морской бриз? Трудно определить, так почему бы не смешать все эти ощущения вместе, наблюдать, как они превращаются в розовые пузырьки, и проглотить все это?",
 		"type": "Dress",
+		"source": "Получено на лотерее \"Летний коктейль\"",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_Swim_2024.webp",
 		"id": "fashion_dress_72"
 	},
@@ -1266,9 +1283,17 @@
 		"name": "Неоновые механические крылья",
 		"description": "Расправьте крылья и сорвитесь в свободный полет. Дождливую ночь рассекает радуга, коронуя правителя города.",
 		"type": "Glider",
-		"source": "Ограниченная серия ко второй годовщине",
+		"source": "Получено в событии, посвященном 2-й годовщине проекта.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"id": "fashion_glider_5"
+	},
+	"fashion_glider_SP": {
+		"name": "Ночной лук",
+		"description": "Последняя городская легенда о радуге, которая появляется только ночью, на самом деле является творением этого реактивного ранца. Кто за этим стоит... это остается загадкой.",
+		"type": "Glider",
+		"source": "Из событий",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"id": "fashion_glider_SP"
 	},
 	"fashion_skateboard_1": {
 		"name": "Турбоглайдер 2",

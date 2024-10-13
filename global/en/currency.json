@@ -265,13 +265,13 @@
 	},
 	"WeaponFragmentUP1": {
 		"name": "Flame gold (Red Lotus)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP1"
 	},
 	"WeaponFragmentUP2": {
 		"name": "Flame Gold (Blaze)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP2"
 	},
@@ -301,109 +301,109 @@
 	},
 	"WeaponFragmentUP3": {
 		"name": "Flame gold (White Moon)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP3"
 	},
 	"WeaponFragmentUP4": {
 		"name": "Flame gold (Dawn)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP4"
 	},
 	"WeaponFragmentUP5": {
 		"name": "Flame gold (Rebirth)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP5"
 	},
 	"WeaponFragmentUP6": {
 		"name": "Flame gold (Ironheart)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP6"
 	},
 	"WeaponFragmentUP7": {
 		"name": "Flame Gold (Sun)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP7"
 	},
 	"WeaponFragmentUP8": {
 		"name": "Flame Gold (Flow)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP8"
 	},
 	"WeaponFragmentUP9": {
 		"name": "Flame Gold (Shadow)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel. Redeemable for limited weapons.\r\nDazzling lights refracted endlessly yet frighteningly never fade away.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons. Redeemable for limited weapons.\r\nDazzling lights refracted endlessly yet frighteningly never fade away.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP9"
 	},
 	"WeaponFragmentUP10": {
 		"name": "Flame Gold (Trickery)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP10"
 	},
 	"WeaponFragmentUP11": {
 		"name": "Flame Gold (Waxen)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP11"
 	},
 	"WeaponFragmentUP12": {
 		"name": "Flame Gold (Stars)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP12"
 	},
 	"WeaponFragmentUP13": {
 		"name": "Flame Gold (Decree)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP13"
 	},
 	"WeaponFragmentUP14": {
 		"name": "Flame Gold (Merger)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP14"
 	},
 	"WeaponFragmentUP15": {
 		"name": "Flame Gold (Tea Millet)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP15"
 	},
 	"WeaponFragmentUP16": {
 		"name": "Flame Gold (Movement)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP16"
 	},
 	"WeaponFragmentUP17": {
 		"name": "Flame Gold (Vermilion Feather)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP17"
 	},
 	"WeaponFragmentUP18": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP18"
 	},
 	"WeaponFragmentUP19": {
 		"name": "Flame Gold",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP19"
 	},
 	"WeaponFragmentUP20": {
 		"name": "Flame Gold (Constant)",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP20"
 	},

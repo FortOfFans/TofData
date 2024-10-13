@@ -659,6 +659,39 @@
 		"version": "3.7",
 		"id": "artifact_ssr_023"
 	},
+	"artifact_ssr_024": {
+		"name": "Repartidor de Mejoras",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "",
+		"source": "",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"rarity": 5,
+		"AttributeID": "artifact_adv_048",
+		"advancement": [
+			{
+				"description": "Aumenta el efecto de reducción de daño a **20%** mientras estás en forma defensiva.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Aumenta el efecto de refuerzo de daño a **11%** mientras estás en forma ofensiva.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Reduce el intervalo de activación para bloquear el daño letal a una vez cada **120** segundos.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Aumenta la resistencia alterada en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Aumenta el efecto de refuerzo de daño a **16%** mientras estás en forma ofensiva.",
+				"id": "artifact_adv_048"
+			}
+		],
+		"version": "CN-Only",
+		"id": "artifact_ssr_024"
+	},
 	"artifact_sr_001": {
 		"name": "Cañón Flotante",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -702,7 +735,7 @@
 		"AttributeID": "artifact_adv_015",
 		"advancement": [
 			{
-				"description": "Recupera 1 carga cada **100** segundos. Planear ya no gasta resistencia.",
+				"description": "Recupera 1 carga cada **20** segundos. Planear ya no gasta resistencia.",
 				"id": "artifact_adv_015"
 			},
 			{
@@ -710,7 +743,7 @@
 				"id": "artifact_adv_015"
 			},
 			{
-				"description": "Recupera **1** carga cada 60 segundos.",
+				"description": "Recupera 1 carga cada **15** segundos.",
 				"id": "artifact_adv_015"
 			},
 			{

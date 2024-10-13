@@ -4226,8 +4226,8 @@
 		"id": "Mark_physic_ssr_star_6"
 	},
 	"MerylX_thunder_ssr_star_0": {
-		"advancement": "<shuzhi>ฟิวชันน้ำแข็งไฟฟ้า</>: ดาเมจของอาวุธนี้จะคำนวณตาม ATK พื้นฐานน้ำแข็ง/ไฟฟ้าสูงสุด, เปอร์เซ็นต์ ATK น้ำแข็ง/ไฟฟ้าสูงสุด, เพิ่มดาเมจน้ำแข็ง/ไฟฟ้าสูงสุดของอาวุธที่ติดตั้ง และจะถือว่าอาวุธนี้เป็นอาวุธธาตุน้ำแข็งและธาตุไฟฟ้า\r\n<shuzhi>เรโซแนนซ์น้ำแข็ง</>: เปิดใช้งานเมื่อติดตั้งอาวุธน้ำแข็ง <shuzhi>2</> ชิ้นขึ้นไป จะเพิ่ม ATK น้ำแข็ง <shuzhi>20%</> และค่าต้านทานน้ำแข็ง <shuzhi>40%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องอาวุธรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์น้ำแข็ง/ปฏิกิริยาน้ำแข็งอื่นได้ ซึ่งเรโซแนนซ์น้ำแข็งจะมีผลก่อน)\r\n<shuzhi>เรโซแนนซ์ไฟฟ้า</>: เปิดใช้งานเมื่อติดตั้งอาวุธไฟฟ้า <shuzhi>2</> ชิ้นขึ้นไป จะเพิ่ม ATK ไฟฟ้า <shuzhi>20%</> และค่าต้านทานไฟฟ้า <shuzhi>40%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องอาวุธรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์ไฟฟ้า/ปฏิกิริยาไฟฟ้าอื่นได้ ซึ่งเรโซแนนซ์ไฟฟ้าจะมีผลก่อน)\r\n<shuzhi>คมน้ำค้าง: ตัดฉับพลัน</>: เมื่อติดตั้ง<shuzhi>น้ำนิ่ง</> หลังจากสกิลคอมโบอาวุธใดโจมตีโดนเป้าหมาย จะสร้างดาเมจแรกต่อเป้าหมายที่อยู่ใกล้เคียงเท่ากับ <shuzhi>{0}%</> ของ HP สูงสุดของตนเอง + <shuzhi>{1}%</> ของ ATK น้ำแข็ง + <shuzhi>{2}%</> ของผลรวมของค่าต้านทานทุกธาตุ + <shuzhi>{3}%</> ของค่าดาเมจคริติคอล เมื่ออยู่ในสถานะต่อสู้ทุก <shuzhi>0.5</> วินาที ดาเมจตัดฉับพลันครั้งต่อไปจะเพิ่มขึ้น <shuzhi>1</> เท่า เพิ่มสูงสุดถึง <shuzhi>30</> ครั้ง เมื่อมีดาเมจตัดฉับพลันหลายครั้ง จะคำนวณด้วยค่าเริ่มต้นสูงสุด ดาเมจตัดฉับพลันถือเป็นดาเมจคอมโบ หากติดตั้งอาวุธกายภาพ/ไฟใดก็ได้ 1 ชิ้น ดาเมจคมน้ำค้างจะเพิ่มขึ้น <shuzhi>2.5</> เท่า นอกจากนี้ ดาเมจคมน้ำค้างจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากของอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย\r\nเมื่อน้ำนิ่งสลับไปยังช่องอาวุธรอง จะสร้างดาเมจเบิสต์หนึ่งครั้ง หากศัตรูมีแฟลชฟรีซจะลบล้างแฟลชฟรีซจากร่างศัตรู และสร้างดาเมจช่องอาวุธรองต่อศัตรูเป็นเวลา <shuzhi>{4}</> วินาที",
-		"numbermap": "LoslynEffectFigure",
+		"advancement": "<shuzhi>ฟิวชันไฟฟ้าน้ำแข็ง</>: เมื่อคำนวณดาเมจของอาวุธนี้ จะคำนวณ ATK พื้นฐานไฟฟ้า/น้ำแข็งสูงสุด, เปอร์เซ็นต์ ATK ไฟฟ้า/น้ำแข็งสูงสุด, เพิ่มดาเมจไฟฟ้า/น้ำแข็งสูงสุดของอาวุธที่ติดตั้ง อีกทั้งในขณะเดียวกันอาวุธนี้จะถือว่าเป็นอาวุธธาตุไฟฟ้าและน้ำแข็ง\r\n<shuzhi>เรโซแนนซ์ไฟฟ้า</>: เปิดใช้งานเมื่อติดตั้งอาวุธไฟฟ้า <shuzhi>2</> ชิ้นขึ้นไป จะเพิ่ม ATK ไฟฟ้า <shuzhi>15%</> และค่าต้านทานไฟฟ้า <shuzhi>25%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องอาวุธรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์ไฟฟ้า/ปฏิกิริยาไฟฟ้าอื่นได้ ซึ่งเรโซแนนซ์ไฟฟ้าจะมีผลก่อน)\r\n <shuzhi>เรโซแนนซ์น้ำแข็ง</>: เปิดใช้งานเมื่อติดตั้งอาวุธน้ำแข็ง <shuzhi>2</> ชิ้นขึ้นไป จะเพิ่ม ATK น้ำแข็ง <shuzhi>15%</> และค่าต้านทานน้ำแข็ง <shuzhi>25%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องอาวุธรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์น้ำแข็ง/ปฏิกิริยาน้ำแข็งอื่นได้ ซึ่งเรโซแนนซ์น้ำแข็งจะมีผลก่อน)\r\n<shuzhi>อิเล็คโตรเบลด: ตัดฉับพลัน</>: เมื่อติดตั้ง<shuzhi>อาวุธ-ซีจเอดจ์</> จะปล่อยสกิลคอมโบอาวุธสร้างดาเมจเริ่มต้น <shuzhi>{0}%</> ของค่า HP สูงสุดของตนเอง + <shuzhi>{1}%</> ATK ไฟฟ้า + <shuzhi>{2}%</> ของผลรวมของค่าต้านทานทุกธาตุ + <shuzhi>{3}%</> ของค่าคริติคอลใส่เป้าหมายใกล้เคียง เมื่ออยู่ในสถานะต่อสู้ ทุก ๆ <shuzhi>0.5</> วินาที ดาเมจตัดฉับพลันครั้งต่อไปจะเพิ่มขึ้น <shuzhi>1</> เท่า เพิ่มขึ้นสูงสุด <shuzhi>30</> ครั้ง เมื่ออยู่ในดาเมจตัดฉับพลันหลายครั้ง จะทำการใช้ค่าเริ่มต้นสูงสุดในการคำนวณ ดาเมจตัดฉับพลันถือเป็นดาเมจต่อเนื่อง หากติดตั้งอาวุธธาตุกายภาพ/ไฟใดก็ได้ 1 ชิ้น ดาเมจอิเล็คโตรเบลดจะเพิ่มขึ้น <shuzhi>1.3</> เท่า นอกจากนี้ ดาเมจอิเล็คโตรเบลดจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากของอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย\r\n<shuzhi>เปลี่ยนแปลงประสาทสัมผัส</>: <shuzhi>อาวุธ-ซีจเอดจ์</> การโจมตีของซีจเอดจ์จะอยู่ในรูปแบบของดาบใหญ่และดาบยาว การโจมตีด้วยรูปแบบดาบใหญ่ จะสร้างโล่เท่ากับ <shuzhi>2%</> ของค่า HP สูงสุดของตนเอง เป็นเวลา <shuzhi>5</> วินาที ซ้อนทับได้สูงสุด <shuzhi>5</> ชั้น ส่วนการโจมตีในรูปแบบดาบยาว จะทำการสะสมสแต็กของอิเล็คโตรเบลด โดยจะซ้อนทับได้สูงสุด <shuzhi>5</> ชั้น และจะได้รับการเสริมพลังอิเล็คโตรเบลด ทำให้ตัวคูณดาเมจของสกิลถัดไปเพิ่มขึ้น <shuzhi>100%</> เมื่อออกจากการต่อสู้ อิเล็คโตรเบลดและการเสริมพลังอิเล็คโตรเบลดจะถูกล้าง",
+		"numbermap": "MerylXEffectFigure",
 		"multiplicators": [
 			{
 				"PropName": "CommonAtkAdded",
@@ -4248,23 +4248,23 @@
 		],
 		"numbers": [
 			{
-				"key": "LoslynEXChangeWeaponCoefficientMaxHp",
+				"key": "MerylXEXChangeWeaponCoefficientMaxHp",
 				"value": 1
 			},
 			{
-				"key": "LoslynEXChangeWeaponCoefficientIceAttack",
+				"key": "MerylXEXChangeWeaponCoefficientThunderAttack",
 				"value": 1
 			},
 			{
-				"key": "LoslynEXChangeWeaponCoefficientDef",
+				"key": "MerylXEXChangeWeaponCoefficientDef",
 				"value": 1
 			},
 			{
-				"key": "LoslynEXChangeWeaponCoefficientCrit",
+				"key": "MerylXEXChangeWeaponCoefficientCrit",
 				"value": 1
 			},
 			{
-				"key": "LoslynSpecChangeWeaponDotDuration",
+				"key": "MerylXEXChangeWeaponCoefficientCrit",
 				"value": 1
 			}
 		],
@@ -4278,8 +4278,8 @@
 		"id": "MerylX_thunder_ssr_star_0"
 	},
 	"MerylX_thunder_ssr_star_1": {
-		"advancement": "เมื่อเรียกใช้<shuzhi>สกิล: ออร่าฟรอสต์ลิงค์</> จะได้รับโล่เท่ากับ <shuzhi>{0}%</> ของ HP สูงสุดของตนเอง เป็นเวลา <shuzhi>{1}</> วินาที",
-		"numbermap": "LoslynEffectFigure",
+		"advancement": "เมื่อติดตั้ง<shuzhi>อาวุธ-ซีจเอดจ์</>ในช่องอาวุธหลัก <shuzhi>คอมโบ-โซ่ไฟฟ้าสถิต</>มีโอกาส <shuzhi>{0}%</> ที่จะปลดปล่อยพายุสุริยะ และทำดาเมจต่อเป้าหมายเท่ากับ 500% ของ ATK (นับเป็นสกิลดาเมจ) จะสามารถปลดปล่อยได้มากสุด 1 ครั้ง ทุก ๆ <shuzhi>{1}</> วินาที\r\nเมื่อสลับ<shuzhi>อาวุธ-ซีจเอดจ์</>ไปอยู่ในช่องอาวุธรอง ในขณะที่อยู่ในสถานะ<shuzhi>คอมโบ-รบกวนคลื่นแม่เหล็กไฟฟ้า</> จะปลดปล่อยเอฟเฟกต์ชาร์จเป็นเวลา <shuzhi>{2}</> วินาที ทุกวินาทีจะได้รับแต้มชาร์จอาวุธ <shuzhi>{3}</> หน่วย",
+		"numbermap": "MerylXEffectFigure",
 		"multiplicators": [
 			{
 				"PropName": "CommonAtkAdded",
@@ -4300,16 +4300,24 @@
 		],
 		"numbers": [
 			{
-				"key": "LoslynShieldMaxHp",
+				"key": "MerylX_ThunderStorm_ProbabilityL1",
 				"value": 1
 			},
 			{
-				"key": "LoslynShieldDuration",
+				"key": "Buff_MerylX_ThunderStorm_CD",
+				"value": 1
+			},
+			{
+				"key": "Buff_MerylX_WeaponChargeL1_Add_Duration",
+				"value": 1
+			},
+			{
+				"key": "Buff_MerylX_WeaponChargeL1",
 				"value": 1
 			}
 		],
 		"cost": 1000,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -4339,7 +4347,7 @@
 		],
 		"numbers": [],
 		"cost": 2000,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -4348,8 +4356,7 @@
 		"id": "MerylX_thunder_ssr_star_2"
 	},
 	"MerylX_thunder_ssr_star_3": {
-		"advancement": "เมื่อโจมตีเป้าหมายติดเอฟเฟกต์<shuzhi>คอมโบ: น้ำแข็งจู่โจม</> จะสร้างดาเมจเพิ่มเติมเท่ากับจำนวนชั้น<shuzhi>น้ำแข็งจู่โจม</>* <shuzhi>{0}%</> ของ ATK",
-		"numbermap": "LoslynEffectFigure",
+		"advancement": "สกิลอาวุธไฟฟ้า คอมโบใด ๆ ก็ตาม <shuzhi>โจมตีปกติ-โซลาร์ช็อต</> / <shuzhi>หลบหลีก-ก้าวถอยหลังเพื่อยิง</> / <shuzhi>หลบหลีก-ปลดปล่อยแม่เหล็กไฟฟ้า</> จะได้รับพลังงานพิเศษ เมื่อพลังงานพิเศษเต็ม จะใช้พลังงานพิเศษทั้งหมดเพื่อปลดปล่อย<shuzhi>คอมโบ-ปืนใหญ่รังสีแม่เหล็ก</> และเสริมพลัง<shuzhi>คอมโบ-รบกวนคลื่นแม่เหล็กไฟฟ้า</> โอกาสในการปลดปล่อยสถานะ: <shuzhi>คอมโบ-โซ่ไฟฟ้าสถิต</> และ <shuzhi>พายุสุริยะ</> เพิ่มถึง <shuzhi>100%</> \r\nเมื่อเข้าสู่สถานะต่อสู้ จะได้รับพลังงานพิเศษเต็มจำนวน",
 		"multiplicators": [
 			{
 				"PropName": "CommonAtkAdded",
@@ -4368,14 +4375,9 @@
 				"PropCoefficient": 1.5
 			}
 		],
-		"numbers": [
-			{
-				"key": "LoslynFrozenAddStackDmgMult",
-				"value": 1
-			}
-		],
+		"numbers": [],
 		"cost": 4000,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -4405,7 +4407,7 @@
 		],
 		"numbers": [],
 		"cost": 6000,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -4414,8 +4416,8 @@
 		"id": "MerylX_thunder_ssr_star_4"
 	},
 	"MerylX_thunder_ssr_star_5": {
-		"advancement": "สถานะ<shuzhi>คอมโบ: หนาวยะเยือก</>ระยะเวลานานขึ้นถึง <shuzhi>{0}</> วินาที เพิ่มเอฟเฟกต์ลด ATK ของเป้าหมายที่ติดสถานะ<shuzhi>สกิล: แฟลชฟรีซ</>ถึง <shuzhi>{1}%</>",
-		"numbermap": "LoslynEffectFigure",
+		"advancement": "ดาเมจสุดท้ายเพิ่มขึ้น <shuzhi>{0}%</> เอฟเฟกต์เซตนี้ยังสามารถใช้งานได้ในช่องอาวุธรอง",
+		"numbermap": "MerylXEffectFigure",
 		"multiplicators": [
 			{
 				"PropName": "CommonAtkAdded",
@@ -4436,16 +4438,12 @@
 		],
 		"numbers": [
 			{
-				"key": "Buff_Loslyn_SpecFrozenL1",
+				"key": "Buff_MerylX_DmgUp_L5",
 				"value": 1
-			},
-			{
-				"key": "LoslynSkillDebuffAtkDownL5",
-				"value": -100
 			}
 		],
 		"cost": 9000,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -4454,8 +4452,8 @@
 		"id": "MerylX_thunder_ssr_star_5"
 	},
 	"MerylX_thunder_ssr_star_6": {
-		"advancement": "เมื่อเรียกใช้<shuzhi>สกิล: ออร่าฟรอสต์ลิงค์</> นักพเนจรจะได้รับเอฟเฟกต์เพิกเฉยค่าต้านทานน้ำแข็งของเป้าหมาย <shuzhi>{0}%</> (ค่ารวมของการเพิกเฉยต่อค่าต้านทานของแต่ละธาตุทั้งหมดห้ามเกิน <shuzhi>50%</>) และจะเพิ่มดาเมจสุดท้ายถึง <shuzhi>{1}%</> เป็นเวลา <shuzhi>{2}</> วินาที",
-		"numbermap": "LoslynEffectFigure",
+		"advancement": "ในขณะที่อยู่สถานะเสริมพลัง<shuzhi>คอมโบ-รบกวนคลื่นแม่เหล็กไฟฟ้า</> จะเพิ่มตัวคูณดาเมจของ<shuzhi>คอมโบ-โซ่ไฟฟ้าสถิต</>และ<shuzhi>พายุสุริยะ</>ขึ้น <shuzhi>100%</>\r\nเมื่อเปิดใช้งาน<shuzhi>เรโซแนนซ์ความอดทน</> และเมื่อปลดปล่อย<shuzhi>คุณลักษณะ-เสริมพลังอิเล็คโตรเบลด</>ของ<shuzhi>สกิล-คอสมิกธันเดอร์</> ตนเองและเพื่อนร่วมทีมใกล้เคียงจะได้รับเอฟเฟกต์ลดดาเมจ <shuzhi>{1}%</> เป็นเวลา <shuzhi>{0}</> วินาที และได้รับโล่เท่ากับ <shuzhi>{3}%</> ของของ HP สูงสุด เป็นเวลา <shuzhi>{2}</> วินาที",
+		"numbermap": "MerylXEffectFigure",
 		"multiplicators": [
 			{
 				"PropName": "CommonAtkAdded",
@@ -4476,20 +4474,24 @@
 		],
 		"numbers": [
 			{
-				"key": "Buff_Loslyn_Skill_DmgUp_IgnoreIceDef",
+				"key": "Buff_MerylX_TankSkill_DmgedDown_Duration",
 				"value": 1
 			},
 			{
-				"key": "Buff_Loslyn_Skill_DmgUp",
+				"key": "Buff_MerylX_TankSkill_DmgedDown",
 				"value": 1
 			},
 			{
-				"key": "Buff_Loslyn_Skill_DmgUp_Duration",
+				"key": "Buff_MerylX_TankSkillShield_Duration",
+				"value": 1
+			},
+			{
+				"key": "Buff_MerylX_TankSkillShield_Coff",
 				"value": 1
 			}
 		],
 		"cost": 13500,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -7770,7 +7772,7 @@
 		"id": "Asuka_physic_ssr_star_0"
 	},
 	"Asuka_physic_ssr_star_1": {
-		"advancement": "ขีดจำกัดของสกิล: ช่วงชั้นล้างแค้นเพิ่มจาก <shuzhi>{0}</> ชั้นเป็น <shuzhi>{1}</> ชั้น และหลังจากใช้ชั้นทั้งหมดแล้วจะทำการเรียกหอกแห่งลองกินุสขนาดยักษ์ออกมา 1 เล่ม หากประเภทธาตุของดาเมจของอาวุธเป็น<shuzhi>กายภาพ</>หรือ<shuzhi>ไฟ</> จะสร้างดาเมจ <shuzhi>{2}%</> ของ ATK ของประเภทธาตุดาเมจนั้น ๆ ใส่เป้าหมายใกล้เคียง",
+		"advancement": "ขีดจำกัดของสกิล: ช่วงชั้นล้างแค้นเพิ่มจาก <shuzhi>{0}</> ชั้น เป็น <shuzhi>{1}</> ชั้น และหลังจากใช้ชั้นทั้งหมดแล้ว จะทำการเรียกหอกแห่งลองกินุสขนาดยักษ์ออกมา 1 เล่ม หากประเภทธาตุของดาเมจของอาวุธเป็น<shuzhi>กายภาพ</>หรือ<shuzhi>ไฟ</> จะสร้างดาเมจ <shuzhi>{2}%</> ของ ATK ของประเภทธาตุดาเมจนั้น ๆ ใส่เป้าหมายใกล้เคียง",
 		"numbermap": "AsukaEffectFigure",
 		"multiplicators": [
 			{
@@ -8796,6 +8798,270 @@
 			"charge": 8
 		},
 		"id": "tianlang_thunder_ssr_star_6"
+	},
+	"Tkatana_fire_ssr_star_0": {
+		"advancement": "<shuzhi>ฟิวชันกายภาพไฟ</>: เมื่อคำนวณดาเมจของอุปกรณ์นี้ จะคำนวณ ATK พื้นฐานกายภาพ/ไฟสูงสุด, เปอร์เซ็นต์ ATK กายภาพ/ไฟสูงสุด, เพิ่มดาเมจกายภาพ/ไฟสูงสุดของอาวุธที่ติดตั้ง อีกทั้ง ในขณะเดียวกัน อาวุธนี้จะถือว่าเป็นอาวุธกายภาพและอาวุธธาตุไฟ\r\n<shuzhi>เรโซแนนซ์กายภาพ</>: เปิดใช้งานเมื่อติดตั้งอาวุธกายภาพ <shuzhi>2</> ชิ้นขึ้นไป จะเพิ่ม ATK กายภาพ <shuzhi>20%</> และค่าต้านทานกายภาพ <shuzhi>40%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องอาวุธรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์กายภาพ/ปฏิกิริยากายภาพอื่นได้ ซึ่งเรโซแนนซ์กายภาพจะมีผลก่อน)\r\n<shuzhi>เรโซแนนซ์ไฟ</>: เปิดใช้งานเมื่อติดตั้งอาวุธไฟ <shuzhi>2</> ชิ้นขึ้นไป จะเพิ่ม ATK ไฟ <shuzhi>20%</> และค่าต้านทานไฟ <shuzhi>40%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องอาวุธรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์ไฟ/ปฏิกิริยาไฟอื่นได้ ซึ่งเรโซแนนซ์ไฟจะมีผลก่อน)\r\n<shuzhi>รัศมีสุริยา: อยู่ในสนาม</>: เมื่อ<shuzhi>ไร้ทิศ</>โจมตีโดนอะไรก็ได้ จะสร้างดาเมจแก่เป้าหมายที่อยู่ใกล้เคียง <shuzhi>{0}%</> ของ ATK ไฟ + <shuzhi>{1}%</> ของค่า HP สูงสุดของตนเอง + <shuzhi>{2}%</> ของผลรวมของค่าต้านทานทุกธาตุ + <shuzhi>{3}%</> ของค่าคริติคอล เรียกใช้ได้สูงสุดถึง 1 ครั้ง ทุก <shuzhi>1.5</> วินาที ดาเมจรัศมีสุริยาจะถือว่าเป็นดาเมจโจมตีปกติ หากติดตั้งอาวุธธาตุน้ำแข็ง/ไฟฟ้าใดก็ได้ <shuzhi>1</> ชิ้น ดาเมจรัศมีสุริยาจะเพิ่มขึ้นถึง <shuzhi>{4}</> เท่า นอกจากนี้ ดาเมจรัศมีสุริยาจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากจากอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
+		"numbermap": "DFishChessEffectFigure",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 1
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1
+			}
+		],
+		"numbers": [
+			{
+				"key": "DFishChessSpecialATKCoefficient",
+				"value": 1
+			},
+			{
+				"key": "DFishChessSpecialMaxHPCoefficient",
+				"value": 1
+			},
+			{
+				"key": "DFishChessSpecialDEFCoefficient",
+				"value": 1
+			},
+			{
+				"key": "DFishChessSpecialCritCoefficient",
+				"value": 1
+			},
+			{
+				"key": "DFishChessSpecialFinCoefficient",
+				"value": 1
+			}
+		],
+		"cost": 0,
+		"need": "None",
+		"needamt": null,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_0"
+	},
+	"Tkatana_fire_ssr_star_1": {
+		"advancement": "N/A",
+		"numbermap": "DFishChessEffectFigure",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 1.166667
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1.166667
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1.166667
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1.166667
+			}
+		],
+		"numbers": [
+			{
+				"key": "GameTheory_PerChessDMGUp_Level1",
+				"value": 1
+			},
+			{
+				"key": "GameTheory_MaxChessCount_Level1",
+				"value": 1
+			}
+		],
+		"cost": 1000,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_1"
+	},
+	"Tkatana_fire_ssr_star_2": {
+		"advancement": "เพิ่ม ATK พื้นฐานของอาวุธปัจจุบัน <shuzhi>16%</>",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 1.493333
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1.333333
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1.333333
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1.333333
+			}
+		],
+		"numbers": [],
+		"cost": 2000,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_2"
+	},
+	"Tkatana_fire_ssr_star_3": {
+		"advancement": "N/A",
+		"numbermap": "DFishChessEffectFigure",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 1.66
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1.5
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1.5
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1.5
+			}
+		],
+		"numbers": [
+			{
+				"key": "IgnoreDef_Fire_Level3",
+				"value": 1
+			}
+		],
+		"cost": 4000,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_3"
+	},
+	"Tkatana_fire_ssr_star_4": {
+		"advancement": "เพิ่ม ATK พื้นฐานของอาวุธปัจจุบัน <shuzhi>32%</>",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 2.146667
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1.666667
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1.666667
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1.666667
+			}
+		],
+		"numbers": [],
+		"cost": 6000,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_4"
+	},
+	"Tkatana_fire_ssr_star_5": {
+		"advancement": "N/A",
+		"numbermap": "DFishChessEffectFigure",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 2.313333
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1.833333
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1.833333
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1.833333
+			}
+		],
+		"numbers": [
+			{
+				"key": "BeDMGDown_InGameTheory_Level5",
+				"value": 1
+			},
+			{
+				"key": "FirstAid_Recover_InGameTheory_Level5",
+				"value": 1
+			}
+		],
+		"cost": 9000,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_5"
+	},
+	"Tkatana_fire_ssr_star_6": {
+		"advancement": "N/A",
+		"numbermap": "DFishChessEffectFigure",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 2.48
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 2
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 2
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 2
+			}
+		],
+		"numbers": [
+			{
+				"key": "FireDMGUp_PerAreaStackCount_Level6",
+				"value": 1
+			}
+		],
+		"cost": 13500,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_6"
 	},
 	"umbrella_fire_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์ไฟ</>: เพิ่ม ATK ไฟ <shuzhi>15%</> และเพิ่มการต้านทานไฟขึ้น <shuzhi>25%</> เปิดใช้งานได้ด้วยการติดตั้งอาวุธไฟ <shuzhi>2</> ชิ้นหรือมากกว่า เอฟเฟกต์เซตนี้ใช้งานได้ในช่องอาวุธรอง และเอฟเฟกต์ประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้",
@@ -12765,7 +13031,7 @@
 		"id": "Nora_superpower_ssr_star_4"
 	},
 	"Nora_superpower_ssr_star_5": {
-		"advancement": "หลังจากใช้งาน<shuzhi>ระเบิดพลังงาน</> จะฟื้นฟู <shuzhi>{1}%</> ของค่า HP สูงสุดทุก ๆ วินาที (ไม่ได้รับผลจากเอฟเฟกต์การฟื้นฟู) เป็นเวลา <shuzhi>{2}</> วินาที หลังจากโหมดซุปเปอร์สปีดจบลง เอฟเฟกต์การฟื้นฟู HP จะหายไป เอฟเฟกต์เซตนี้ใช้งานได้ในช่องอาวุธรอง",
+		"advancement": "หลังจากใช้งาน<shuzhi>เสียงทรงพลัง</> จะฟื้นฟู <shuzhi>{1}%</> ของค่า HP สูงสุดทุก ๆ วินาที (ไม่ได้รับผลจากเอฟเฟกต์การฟื้นฟู) เป็นเวลา <shuzhi>{2}</> วินาที หลังจากโหมดซุปเปอร์สปีดจบลง เอฟเฟกต์การฟื้นฟู HP จะหายไป เอฟเฟกต์เซตนี้ใช้งานได้ในช่องอาวุธรอง",
 		"numbermap": "NoraEffectFigure",
 		"multiplicators": [
 			{

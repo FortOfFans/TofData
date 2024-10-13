@@ -356,7 +356,7 @@
 		"id": "artifact_adv_016"
 	},
 	"1107": {
-		"description": "Régénère 1recharge toutes les **100**secondes. La glisse ne vous coûte plus d'endurance.",
+		"description": "Régénère 1recharge toutes les **20**secondes. La glisse ne vous coûte plus d'endurance.",
 		"id": "artifact_adv_015"
 	},
 	"1109": {
@@ -364,7 +364,7 @@
 		"id": "artifact_adv_015"
 	},
 	"1110": {
-		"description": "Régénère 1recharge toutes les **60**secondes.",
+		"description": "Regagne 1recharge toutes les **15**secondes.",
 		"id": "artifact_adv_015"
 	},
 	"1111": {
@@ -1140,23 +1140,23 @@
 		"id": "artifact_adv_047"
 	},
 	"1327": {
-		"description": "",
+		"description": "Augmente l'effet de réduction des dégâts à **20%** en forme défensive.",
 		"id": "artifact_adv_048"
 	},
 	"1328": {
-		"description": "",
+		"description": "Augmente l'effet de bonus de dégâts à **11%** en forme offensive.",
 		"id": "artifact_adv_048"
 	},
 	"1329": {
-		"description": "",
+		"description": "Réduit l'intervalle de déclenchement pour bloquer les dégâts fatals à une fois toutes les **120** secondes.",
 		"id": "artifact_adv_048"
 	},
 	"1330": {
-		"description": "",
+		"description": "Accroît de **2%** la résistance altérée, même si elle n'est pas déployée. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_048"
 	},
 	"1331": {
-		"description": "",
+		"description": "Augmente l'effet du bonus de dégâts à **16%** en forme offensive.",
 		"id": "artifact_adv_048"
 	}
 }

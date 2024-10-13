@@ -8620,6 +8620,179 @@
 	"GA_FPlayerMarkSkillPhy_Sub_ChangeSkill": {
 		"skills": []
 	},
+	"GA_FPlayerMerylXChangeSkill": {
+		"skills": [
+			{
+				"name": "磁雷光炮",
+				"description": "当<red>武器充能满</>或触发<red>幻时</>时，从其他武器切换到该武器时<shuzhi>清除自身负面状态</>，破城之锋切换为电磁炮形态发动强力炮击，对前方目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，期间免疫伤害持续<shuzhi>1.5</>秒（巅峰联赛不生效）。\r\n释放磁雷光炮后，提升自身雷电攻击<shuzhi>10%</>，持续<shuzhi>20</>秒；自身进入<shuzhi>22</>秒电磁扰动状态：期间自身获得霸体效果，释放任意雷武器技能额外获得<shuzhi>500</>点武器充能值，雷电伤害<shuzhi>25%</>几率触发静电链，连接至多<shuzhi>7</>个目标造成<shuzhi>50%</>攻击力的伤害（视为普攻伤害但不触发普攻效果），每<shuzhi>0.5</>秒至多触发1次，击杀目标后会再次触发静电链，此效果每<shuzhi>0.1</>秒至多触发1次。\r\n激活<shuzhi>坚毅共鸣</>时：\r\n电磁扰动状态下每<shuzhi>2</>秒嘲讽附近目标，同时自身获得<shuzhi>20%</>最大生命值的护盾，持续<shuzhi>2</>秒。\r\n激活<shuzhi>非坚毅共鸣</>时：\r\n电磁扰动状态下<shuzhi>武器-破城之锋</>攻击会对目标添加静电状态，减速<shuzhi>30%</>，持续<shuzhi>20</>秒。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_changeskill.webp",
+				"operations": [],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXChangeSkill_Success"
+			}
+		]
+	},
+	"GA_FPlayerMerylXEvade": {
+		"skills": [
+			{
+				"name": "闪避",
+				"description": "在被命中前闪避，可触发幻时，使一定范围内的目标动作速率变缓；闪避过程中，免疫硬直效果。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/common_evade.webp",
+				"operations": [
+					"Movement",
+					"Dash"
+				],
+				"tags": [],
+				"id": "GA_FPlayerMerylXEvade_Evade"
+			},
+			{
+				"name": "脉冲回旋",
+				"description": "方向键加闪避键触发的前闪避短暂时间内，点击普攻，可触发脉冲回旋，对前方目标至多造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_fevadeattack.webp",
+				"operations": [
+					"Movement",
+					"Dash",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "撤步射击",
+				"description": "闪避之后的短暂时间内，点击普攻，可触发撤步射击，对命中目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_bevadeattack.webp",
+				"operations": [
+					"Dash",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_BackAttack"
+			},
+			{
+				"name": "磁电炮击",
+				"description": "闪避之后的短暂时间内，长按普攻，可触发磁电炮击，根据蓄力时长分为威力递增的三级，对前方目标分别至多造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害、<shuzhi>{2}%</>*攻击力+<shuzhi>{3}</>点伤害、<shuzhi>{4}%</>*攻击力+<shuzhi>{5}</>点伤害，蓄力至最大可斩杀30%血量以下的非boss目标（对玩家不生效）。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_evadepowerattack.webp",
+				"operations": [
+					"Dash",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXEvadeAttack_PowerAttack"
+			}
+		]
+	},
+	"GA_FPlayerMerylXMelee": {
+		"skills": [
+			{
+				"name": "振荡连斩",
+				"description": "在地面时，点击普攻可连续进行五次攻击。\r\n第一次攻击对目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，并击退目标。\r\n第二次攻击对目标造成<shuzhi>{2}%</>*攻击力+<shuzhi>{3}</>点伤害，并击退目标。\r\n第三次攻击对目标造成<shuzhi>{4}%</>*攻击力+<shuzhi>{5}</>点伤害，并击退目标。\r\n第四次攻击对目标至多造成<shuzhi>{6}%</>*攻击力+<shuzhi>{7}</>点伤害，并击退目标。\r\n第五次攻击对目标造成<shuzhi>{8}%</>*攻击力+<shuzhi>{9}</>点伤害，并击退目标。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_melee.webp",
+				"operations": [
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Melee"
+			},
+			{
+				"name": "疾跃连斩",
+				"description": "当拓荒者滞空时，点击普攻可在空中连续进行五次攻击，并消耗耐力。\r\n第一次攻击对目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，并击退目标\r\n第二次攻击对目标造成<shuzhi>{2}%</>*攻击力+<shuzhi>{3}</>点伤害，并击退目标\r\n第三次攻击对目标造成<shuzhi>{4}%</>*攻击力+<shuzhi>{5}</>点伤害，并击退目标\r\n第四次攻击对目标至多造成<shuzhi>{6}%</>*攻击力+<shuzhi>{7}</>点伤害，并击退目标\r\n第五次攻击对目标造成<shuzhi>{8}%</>*攻击力+<shuzhi>{9}</>点伤害，并击退目标",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_airattack.webp",
+				"operations": [
+					"Jump",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack",
+					"Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_AirAttack"
+			},
+			{
+				"name": "崩雷裁断",
+				"description": "在地面普攻时，使用第一次至第二次普攻中，长按普攻可触发崩雷裁断。\r\n舞动破城之锋向前方连续下劈，对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch.webp",
+				"operations": [
+					"Attack",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Branch"
+			},
+			{
+				"name": "电掣一挑",
+				"description": "在地面普攻时，使用第三次至第四次普攻中，长按普攻可触发电掣一挑。\r\n发动迅猛的上挑攻击，对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_branch1.webp",
+				"operations": [
+					"Attack",
+					"Attack",
+					"Attack",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_Branch1"
+			},
+			{
+				"name": "阳电射击",
+				"description": "在地面时，长按普攻可触发阳电射击。\r\n向目标发射蓄力弹，命中目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_aimattack.webp",
+				"operations": [
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_PowerAttack"
+			},
+			{
+				"name": "荷电瞬身",
+				"description": "滞空时长按普攻（存在敌方目标时点按），攀爬，反向跳攻击或使用喷气背包普攻，可触发荷电瞬身。\r\n从空中下落，落地过程中对命中的敌人每次造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，落地后对附近目标造成<shuzhi>{2}%</>*攻击力+<shuzhi>{3}</>点伤害。",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_jumpattack.webp",
+				"operations": [
+					"Jump",
+					"Hold Attack"
+				],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXMelee_JumpAttack"
+			}
+		]
+	},
+	"GA_FPlayerMerylXSkill": {
+		"skills": [
+			{
+				"name": "星流霆击",
+				"description": "将破城之锋切换为长剑形态，对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害（不积攒<shuzhi>特质-电刃值</>），冷却<shuzhi>20</>秒（不受任何冷却时间清除、重置、变化效果的影响）。\r\n激活<shuzhi>坚毅共鸣</>时：释放星流霆击时附近队友获得霸体，持续<shuzhi>10</>秒；释放<shuzhi>特质-电刃强化</>的星流霆击时吸附并使附近目标全抗降低<shuzhi>10%</>，持续<shuzhi>20</>秒",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/skill/WeaponSkill/skill_merylx_skill.webp",
+				"operations": [],
+				"tags": [
+					"Damage"
+				],
+				"id": "GA_FPlayerMerylXSkill_Skill"
+			}
+		]
+	},
 	"GA_FPlayerMiMiChangeSkill": {
 		"skills": [
 			{

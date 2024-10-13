@@ -320,13 +320,14 @@
 	},
 	"fan_superpower_tonggan": {
 		"name": "วัสดุประสาทสัมผัสชาโดว์วีฟ",
-		"description": "โมดูลไดร์เวอร์ที่พัฒนาโดยไฮครอสเพื่ออัปเกรดระบบซิมูลาครัม สามารถใช้เพื่อปรับปรุงความสามารถในการต่อสู้ของซิมูลาครัมแอสเพอเรียได้",
+		"description": "",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_tonggan_linye.webp",
 		"type": "MATERIAL",
 		"source": [
 			"ซื้อที่ร้านค้ากองกลางเลือกเอง",
-			"ซื้อที่ร้านค้าวัสดุการรับรู้ร่วมกัน"
+			"หลังจากที่อาวุธได้รับ 6 ดาวแล้ว ใช้นิวเคลียสแดงสั่งซื้อพิเศษและได้รับอาวุธเดิมซ้ำ",
+			"ร้านค้าธุลีคริสตัล"
 		],
 		"id": "fan_superpower_tonggan"
 	},
@@ -639,6 +640,17 @@
 			"ได้รับอาวุธเดิมซ้ำ"
 		],
 		"id": "Nora_superpower_plasm"
+	},
+	"MerylX_thunder_plasm": {
+		"name": "แก่นฟิวชันซีจเอดจ์",
+		"description": "แก่นฟิวชันที่แปลงมาจากอาวุธซ้ำ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/item_weapon_upstar_.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"ได้รับอาวุธเดิมซ้ำ"
+		],
+		"id": "MerylX_thunder_plasm"
 	},
 	"Likeability_unlock1": {
 		"name": "ไดรเวอร์อัปเกรด: แอสเพอเรีย",
@@ -4918,7 +4930,7 @@
 	},
 	"Item_pinkshell": {
 		"name": "เปลือกหอยสีชมพู",
-		"description": "",
+		"description": "เปลือกหอยสีชมพูที่เก็บได้จากชายหาดในพื้นที่ศูนย์กลางแห่งนอร์นส ถ้าเอามาใส่ในปากจะรู้สึกหวานๆ!",
 		"rarity": 1,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Icon_ShellPink.webp",
 		"type": "FOOD",
@@ -4929,7 +4941,7 @@
 	},
 	"Item_yellowshell": {
 		"name": "เปลือกหอยสีเหลือง",
-		"description": "",
+		"description": "เปลือกหอยสีเหลืองที่เก็บได้จากชายหาดในพื้นที่ศูนย์กลางแห่งนอร์นส ถ้าเอามาคร่อมในปากจะรู้สึกเค็มขม!",
 		"rarity": 1,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Icon_ShellYellow.webp",
 		"type": "FOOD",
@@ -4951,7 +4963,7 @@
 	},
 	"Item_redshell": {
 		"name": "เปลือกหอยสีแดง",
-		"description": "",
+		"description": "เปลือกหอยสีแดงที่เก็บได้จากชายหาดในพื้นที่ศูนย์กลางแห่งนอร์นส ถ้าเอามาครอบครัวในปากจะรู้สึกเผ็ดร้อน!",
 		"rarity": 1,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/shicai/Icon_ShellRed.webp",
 		"type": "FOOD",
@@ -7786,6 +7798,24 @@
 		"source": [],
 		"id": "Blindbox_coin_mix2"
 	},
+	"Blindbox_coin_mix3": {
+		"name": "ตั๋วกล่องปริศนา (สตาร์ไลท์&แฟนตาซี)",
+		"description": "ซื้อไอเทมกล่องปริศนา เพื่อรับตั๋วกล่องปริศนา ซึ่งสามารถนำไปแลกเปลี่ยนสินค้าที่ร้านค้ากล่องปริศนา",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Activity/ThemeActivity/BlindBox_Reimu/Fashion/liuguanghuobi03.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Blindbox_coin_mix3"
+	},
+	"Blindbox_coin_PS": {
+		"name": "คูปองกล่องปริศนา (พาหนะ)",
+		"description": "ซื้อไอเทมกล่องปริศนา เพื่อรับตั๋วกล่องปริศนา ซึ่งสามารถนำไปแลกเปลี่ยนสินค้าที่ร้านค้ากล่องปริศนา",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanghuobi04.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Blindbox_coin_PS"
+	},
 	"Item_Condiment_01": {
 		"name": "โซดา",
 		"description": "ค่อนข้างจืด แต่มีความซ่า อาจจะอร่อยกว่าถ้าผสมกับอย่างอื่น",
@@ -9082,7 +9112,7 @@
 		"id": "EquipFragment_UP52"
 	},
 	"EquipFragment_UP53": {
-		"name": "ชิปโอเวอร์คล็อก",
+		"name": "ชิปโอเวอร์คล็อก (กุหลาบขาว)",
 		"description": "วัตถุดิบที่ถูกแปรรูปผ่านกระบวนการอันซับซ้อนเพื่อนำไปใช้ในการผลิตชิปชนิดพิเศษบางอย่าง",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/matrixfragment_up.webp",
@@ -10182,7 +10212,7 @@
 		"id": "WeaponFragment_UP52"
 	},
 	"WeaponFragment_UP53": {
-		"name": "ทองเปลวเพลิง",
+		"name": "ทองเปลวเพลิง (กุหลาบขาว)",
 		"description": "เหรียญที่ช่างตีเหล็กสร้างขึ้นจากอาวุธออมเนียมที่ถูกรีไซเคิลบางอย่าง ของสิ่งนี้ดูเหมือนสมบัติมากกว่าสกุลเงินที่ถูกแลกเปลี่ยนหมุนเวียนในช่องทางพิเศษ",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
@@ -11788,6 +11818,15 @@
 		"source": [],
 		"id": "choose_dressbox3"
 	},
+	"choose_dressbox_mix3": {
+		"name": "กล่องชุดเลือกเอง",
+		"description": "ไอเท็มกล่องเลือกเองที่มีชุดอยู่ภายใน หลังจากได้รับแล้วสามารถเลือกชุดจากในกล่องได้",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Activity/ThemeActivity/BlindBox_Reimu/icon_shizhuang_manghe_Starlight.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_dressbox_mix3"
+	},
 	"choose_hat_sr_1": {
 		"name": "กล่องเครื่องประดับเลือกเอง I",
 		"description": "กล่องเลือกเอง",
@@ -11805,6 +11844,24 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_hat_ssr_1"
+	},
+	"choose_hat_sr_2": {
+		"name": "กล่องเครื่องประดับเลือกเอง III",
+		"description": "กล่องเลือกเอง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_choose_hat_sr_01.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_hat_sr_2"
+	},
+	"choose_hat_ssr_2": {
+		"name": "กล่องเครื่องประดับเลือกเอง IV",
+		"description": "กล่องเลือกเอง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_choose_hat_ssr_01.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_hat_ssr_2"
 	},
 	"choose_sr": {
 		"name": "กล่องรีลิค SR",
@@ -11931,6 +11988,15 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_frag_BP21"
+	},
+	"choose_frag_BP24": {
+		"name": "กล่องเศษรีลิคบัตรพาส IX",
+		"description": "กล่องเลือกเอง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gift_artifact_frag_ssr.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_frag_BP24"
 	},
 	"choose_frag_sr": {
 		"name": "กล่องเศษรีลิค SR",
@@ -13346,10 +13412,10 @@
 		"id": "choose_matrix_SSR48"
 	},
 	"choose_matrix_SSR49": {
-		"name": "กล่องเมทริกซ์หยานั่ว",
-		"description": "กล่องที่มีเมทริกซ์ทุกประเภทของหยานั่ว",
+		"name": "กล่องเมทริกซ์เมอริล ไอรอนฮาร์ท",
+		"description": "กล่องที่มีเมทริกซ์ทุกประเภทของเมอริล ไอรอนฮาร์ท",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_matrix_ssr42.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_matrix_ssr49.webp",
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_matrix_SSR49"
@@ -15115,6 +15181,26 @@
 		"source": [],
 		"id": "Blindbox_mix2"
 	},
+	"Blindbox_mix3": {
+		"name": "กล่องสุ่มชุด",
+		"description": "กล่องปริศนาที่มีชุดอยู่ภายใน ขอให้คุณสามารถจับได้ชุดที่คุณต้องการจากกล่องนี้นะคะ",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_mix3"
+	},
+	"Blindbox_PS": {
+		"name": "กล่องปริศนาพาหนะวินด์รันเนอร์",
+		"description": "ไอเทมกล่องปริศนาที่มีพาหนะอยู่ภายใน ขอให้คุณสามารถดึงพาหนะที่คุณต้องการจากกล่องนี้ได้",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"source": [
+			"ได้รับจากกิจกรรมกล่องปริศนาวินด์รันเนอร์"
+		],
+		"id": "Blindbox_PS"
+	},
 	"Blindbox_03_pack": {
 		"name": "กล่องของขวัญดวงตะวันอ่อนโยน",
 		"description": "กล่องของขวัญแบบจำกัดระยะเวลา ซึ่งจะมีมาเพื่อเฉลิมฉลองการมาถึงของฤดูใบไม้ผลิ ในยามที่เปิดกล่อง คุณจะรู้สึกได้ถึงความคาดหวังและความลุ้นระทึกปะปนกันทุกครั้งไป",
@@ -15168,6 +15254,24 @@
 		"type": "GIFT",
 		"source": [],
 		"id": "Blindbox_mix2_pack"
+	},
+	"Blindbox_mix3_pack": {
+		"name": "กล่องสุ่มชุด",
+		"description": "กล่องปริศนาที่มีชุดอยู่ภายใน ขอให้คุณสามารถจับได้ชุดที่คุณต้องการจากกล่องนี้นะคะ",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_mix3_pack"
+	},
+	"Blindbox_PS_pack": {
+		"name": "กล่องปริศนาพาหนะวินด์รันเนอร์",
+		"description": "ไอเทมกล่องปริศนาที่มีพาหนะอยู่ภายใน ขอให้คุณสามารถดึงพาหนะที่คุณต้องการจากกล่องนี้ได้",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "Blindbox_PS_pack"
 	},
 	"gift_BigClient_01": {
 		"name": "แพ็กต้อนรับของนักพเนจร",
@@ -16094,7 +16198,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_1"
 	},
@@ -16105,7 +16209,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_2"
 	},
@@ -16116,7 +16220,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_3"
 	},
@@ -16127,7 +16231,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_4"
 	},
@@ -16138,7 +16242,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Anniversary_2_logingift_5"
 	},
@@ -16248,7 +16352,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_SpringFestivalSign.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Ann_choosegift"
 	},
@@ -16435,6 +16539,15 @@
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_MidAutumnFestival_12"
+	},
+	"bag_equip8_ssr_autouse": {
+		"name": "กล่องอุปกรณ์รบป้อมปราการ",
+		"description": "หีบ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange.webp",
+		"type": "GIFT",
+		"source": [],
+		"id": "bag_equip8_ssr_autouse"
 	},
 	"gift_equip_white": {
 		"name": "กล่องอุปกรณ์แบบสุ่ม",
@@ -16863,7 +16976,7 @@
 		"name": "แพ็กสเตลลาร์เวย์ IV",
 		"description": "ผู้ปฏิบัติการที่กลับมาจากการพักผ่อน ฉันหวังว่าพวกคุณทุกคนจะไม่ลืมวิธีต่อสู้ และจงเชื่อว่าความพยายามทั้งหมดจะได้รับการตอบแทน",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_3.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_operation_2.webp",
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_GreatRegression_4"
@@ -16872,7 +16985,7 @@
 		"name": "แพ็กสเตลลาร์เวย์ V",
 		"description": "ผู้ปฏิบัติการที่กลับมาจากการพักผ่อน ฉันหวังว่าพวกคุณทุกคนจะไม่ลืมวิธีต่อสู้ และจงเชื่อว่าความพยายามทั้งหมดจะได้รับการตอบแทน",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_core_orange.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_gacha_5.webp",
 		"type": "GIFT",
 		"source": [],
 		"id": "bag_GreatRegression_5"
@@ -17469,6 +17582,15 @@
 		"source": [],
 		"id": "item_ticket_Nora_superpower"
 	},
+	"item_ticket_MerylX_thunder": {
+		"name": "วอชเชอร์พิเศษ: ความดีความชั่วละลายลง",
+		"description": "คำสั่งซื้อของจากบริษัท Tower of Fantasy อินดีสตรีส์ พร้อมชิปเมทริกซ์ส่งตรงถึงหน้าบ้านคุณ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/item_ticket_meilierkai.webp",
+		"type": "MATERIAL",
+		"source": [],
+		"id": "item_ticket_MerylX_thunder"
+	},
 	"fragment_artifact_ssr_001": {
 		"name": "เศษแขนคอลอสซัส",
 		"description": "รวบรวมเศษให้ครบ 30 ชิ้น เพื่อรวมเป็นรีลิค SSR แขนคอลอสซัส เศษที่เกินจำนวนมานั้นสามารถนำไปใช้เลื่อนขั้นรีลิคได้",
@@ -17715,11 +17837,14 @@
 		"id": "fragment_artifact_ssr_023"
 	},
 	"fragment_artifact_ssr_024": {
-		"name": "เศษปืนควบคุมไฟฟ้าชีวภาพ",
-		"description": "รวบรวมเศษให้ครบ 30 ชิ้น เพื่อรวมเป็นปืนควบคุมไฟฟ้าชีวภาพ เศษที่จำนวนเกินมานั้นสามารถนำไปใช้เลื่อนขั้นรีลิคได้",
+		"name": "เศษสนามพลังบัฟ",
+		"description": "รวบรวมเศษให้ครบ 30 ชิ้น เพื่อรวมเป็นรีลิคสนามพลังบัฟ เศษที่เกินจำนวนมานั้นสามารถนำไปใช้เลื่อนขั้นรีลิคได้",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_023.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
 		"type": "FRAGMENT",
+		"source": [
+			"บัตรพาส: รางวัลชั้นสูง"
+		],
 		"id": "fragment_artifact_ssr_024"
 	},
 	"fragment_artifact_sr_001": {
@@ -21716,6 +21841,28 @@
 		],
 		"id": "fashion_dress_72_4"
 	},
+	"fashion_dress_73_4": {
+		"name": "ช่วงเวลาที่สนุกสนาน",
+		"description": "การทำงานหยุด, การเรียนรู้หยุด, ต่อไปคือเวลาพักผ่อน, ก็จะพักผ่อนก่อน... ศตวรรษนึงเถอะ!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมกล่องปริศนาวินด์รันเนอร์"
+		],
+		"id": "fashion_dress_73_4"
+	},
+	"fashion_dress_74_4": {
+		"name": "หมู่มวลบุปผาท่ามกลางนภา",
+		"description": "นกบินผ่านท้องฟ้าที่สดใส ขนปลิวลงมาพร้อมกับดอกไม้ที่ร่วงลงมาเต้นติว ปลุกคนที่กำลังหลับใต้ต้นไม้เพื่อหลบร้อนในเวลาบ่าย",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"รางวัลบัตรพาสเฟสที่ 20"
+		],
+		"id": "fashion_dress_74_4"
+	},
 	"fragment_bag_chat_qipao91": {
 		"name": "เศษ \"ดั่งเพื่อนเก่าหวนคืน\"",
 		"description": "เมฆเปิดออกและจันทร์สว่างไสว",
@@ -22898,7 +23045,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_162.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Hat_79_4_4"
 	},
@@ -22914,13 +23061,13 @@
 		"id": "Hat_80_4_4"
 	},
 	"Hat_81_4_4": {
-		"name": "การสนับสนุนของทาทา",
+		"name": "การสนับสนุนไร้ขีดจำกัดสุดแกร่งของทาทา",
 		"description": "ผู้ปฏิบัติการทุกท่าน! สุขสันต์วันครบรอบ 2 ปี! ทาทารักคุณมากที่สุด แบบไร้ที่ติ แบบไม่มีจักรวาลไหนเทียบได้เลย! ฉันคลั่งไคล้ และหลงคุณหัวปักหัวปำ! ขอให้ผู้ปฏิบัติการจงเจริญ!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_170.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Hat_81_4_4"
 	},
@@ -24145,7 +24292,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_164.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "fashion_decoration_92_4"
 	},
@@ -24346,7 +24493,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_206.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"ได้รับจากกิจกรรมจำกัดเวลา"
+			"รับการเปิดใช้งานการป้องกันอีกครั้ง"
 		],
 		"id": "fashion_decoration_110_4"
 	},
@@ -24491,7 +24638,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Overlooker.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "fashion_glider_3_4"
 	},
@@ -24511,9 +24658,20 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "fashion_glider_5_4"
+	},
+	"fashion_glider_SP": {
+		"name": "สายรุ้งแห่งคืน",
+		"description": "ตำนานเมืองใหม่ล่าสุด - สายรุ้งที่ปรากฏเฉพาะในเวลากลางคืน นั่นก็คืองานชิ้นเอกของเจ็ตแพ็กรุ่นนี้ แล้วก็... คนที่ทำเรื่องนี้ขึ้นมานี่คือใครเนี่ย...",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมกล่องปริศนาวินด์รันเนอร์"
+		],
+		"id": "fashion_glider_SP"
 	},
 	"NPF_Energy": {
 		"name": "พลังงานแตกร้าว",
@@ -24763,6 +24921,15 @@
 		"type": "MATERIAL",
 		"source": [],
 		"id": "Item_Gem_Nora_superpower"
+	},
+	"Item_Gem_MerylX_thunder": {
+		"name": "นิวเคลียสแดง: ความรักและความเกลียดชังละลายลง",
+		"description": "ทรงกลมมืดที่สร้างขึ้นจากอิทธิพลลึกลับของออมเนียม มันส่องแสงสีแดงเข้มน่ากลัว จินตนาการไม่ออกเลยว่าพลังมหาศาลข้างในนั้นมีมากมายเพียงใด",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Gem_meilierkai.webp",
+		"type": "MATERIAL",
+		"source": [],
+		"id": "Item_Gem_MerylX_thunder"
 	},
 	"choose_Gem_JiuYu": {
 		"name": "กล่องเลือกนิวเคลียสแดงสุดพิเศษ",
@@ -31725,16 +31892,38 @@
 		],
 		"id": "bag_chat_qipao156"
 	},
+	"bag_chat_qipao158": {
+		"name": "กล่องของขวัญความงดงามในวันพักผ่อน",
+		"description": "เมอริล ผู้สืบสวนที่เพิ่งจบงานกำลังเพลิดเพลินกับวันหยุดของเธอ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao158.webp",
+		"type": "GIFT",
+		"source": [
+			"ได้รับจากกิจกรรมกาชาปองฤดูร้อนอันเป็นนิรันดร์"
+		],
+		"id": "bag_chat_qipao158"
+	},
 	"bag_chat_qipao161": {
 		"name": "กล่องของขวัญ \"วันที่ไม่มีที่สิ้นสุดในฤดูร้อน\"",
 		"description": "ทุกๆ ก้อนไอศกรีมที่หวานอร่อยนั้นสัญญาให้ฉันรู้ว่า ฤดูร้อนนี้จะไม่มีวันสิ้นสุด",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao161.webp",
 		"type": "GIFT",
 		"source": [
 			"ได้รับจากกิจกรรมกาชาปองสเปเชียลซัมเมอร์"
 		],
 		"id": "bag_chat_qipao161"
+	},
+	"bag_chat_qipao164": {
+		"name": "กล่องของขวัญ \"กุหลาบฟ้าใส\"",
+		"description": "ดอกกุหลาบสีน้ำเงินอมขาวกำลังบานครึ่งทาง ดูเหมือนว่ากำลังรอคาวบอยที่ถูกทำนายจะมาเก็บมันลง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao164.webp",
+		"type": "GIFT",
+		"source": [
+			"ได้รับจากกิจกรรมกาชาปองสเปเชียลซัมเมอร์"
+		],
+		"id": "bag_chat_qipao164"
 	},
 	"CN_bag_1": {
 		"name": "เพลงแห่งแสงอุ่น I",
@@ -31743,7 +31932,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_1.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_bag_1"
 	},
@@ -31754,7 +31943,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_2.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_bag_2"
 	},
@@ -31765,7 +31954,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_3.webp",
 		"type": "CHOOSE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_bag_3"
 	},
@@ -31787,7 +31976,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_1.webp",
 		"type": "FRAGMENT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_bag_1_frag"
 	},
@@ -31798,7 +31987,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_2.webp",
 		"type": "FRAGMENT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_bag_2_frag"
 	},
@@ -31809,7 +31998,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_bag_3.webp",
 		"type": "FRAGMENT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_bag_3_frag"
 	},
@@ -33336,7 +33525,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_29.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "Avatar29"
 	},
@@ -33377,7 +33566,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_33.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "Avatar33"
 	},
@@ -33709,7 +33898,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_017_c.webp",
 		"type": "GIFT",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "Ann_Mount_017"
 	},
@@ -35872,13 +36061,26 @@
 		"id": "chat_Action_zuoyi"
 	},
 	"chat_miaAction_juqi": {
-		"name": "ยก",
-		"description": "การกระทำระหว่างแชท",
+		"name": "ยกขึ้นสูง",
+		"description": "ยกมีอาที่น่ารักที่สุดขึ้นสูงๆ สิ!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/liaotian/dongzuo/action_mi-a_Lift.webp",
 		"type": "CONSUMABLE",
-		"source": [],
+		"source": [
+			"ได้รับจากกิจกรรมยกขึ้นสูง"
+		],
 		"id": "chat_miaAction_juqi"
+	},
+	"frag_chat_miaAction_juqi": {
+		"name": "เศษยกขึ้นสูง",
+		"description": "การกระทำระหว่างแชท",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/liaotian/dongzuo/action_mi-a_Lift.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"ได้รับจากกิจกรรมยกขึ้นสูง"
+		],
+		"id": "frag_chat_miaAction_juqi"
 	},
 	"chat_miaAction_kaiqiang": {
 		"name": "ยิง",
@@ -36685,7 +36887,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_GL.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "imitation_fashion_10"
 	},
@@ -36696,7 +36898,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_GL_weapon.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "imitation_fashion_10_w"
 	},
@@ -37007,7 +37209,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_fenlier.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "imitation_fashion_32"
 	},
@@ -37018,7 +37220,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_fenlier_weapon.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "imitation_fashion_32_w"
 	},
@@ -37219,6 +37421,28 @@
 			"ได้รับจากกิจกรรมกาชาปองลมพัดชายฝั่งทะเล"
 		],
 		"id": "imitation_fashion_62_w"
+	},
+	"imitation_fashion_61": {
+		"name": "ฤดูร้อนอันเป็นนิรันดร์",
+		"description": "ฤดูร้อนยาวนาน นางสาวเมอริลที่กำลังท่องเที่ยวกำลังเลือกชุดว่ายน้ำที่เหมาะสมในร้านขายชุดว่ายน้ำ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมกาชาปองฤดูร้อนอันเป็นนิรันดร์"
+		],
+		"id": "imitation_fashion_61"
+	},
+	"imitation_fashion_61_w": {
+		"name": "โฟรเซนทรีท",
+		"description": "ท่องเที่ยวหรือทำภารกิจ? สำหรับเอเยนต์เมอริล ทั้งสองสามารถทำได้พร้อมกัน",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_mlex_weapon.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมกาชาปองฤดูร้อนอันเป็นนิรันดร์"
+		],
+		"id": "imitation_fashion_61_w"
 	},
 	"imitation_33": {
 		"name": "โมลิเนีย",
@@ -41194,7 +41418,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_46.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "Avatar46"
 	},
@@ -42738,6 +42962,33 @@
 		"source": [],
 		"id": "Title_1_8_0_17"
 	},
+	"Title_1_8_0_18": {
+		"name": "ไนท์แมร์สเคิร์จที่ซ่อนตัว",
+		"description": "ได้รับเมื่ออยู่ใน 8 อันดับแรกในข้อมูลสรุปผลรางวัลเฟสที่ 6 ของเรดจำกัดเวลา",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_18"
+	},
+	"Title_1_8_0_19": {
+		"name": "ไนท์วอล์คภาพลวงตา",
+		"description": "ได้รับเมื่ออยู่ใน 9-24 อันดับแรกในข้อมูลสรุปผลรางวัลเฟสที่ 6 ของเรดจำกัดเวลา",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_19"
+	},
+	"Title_1_8_0_20": {
+		"name": "นักล่าลับ",
+		"description": "ได้รับเมื่ออยู่ใน 25-100 อันดับแรกในข้อมูลสรุปผลรางวัลเฟสที่ 6 ของเรดจำกัดเวลา",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_1_8_0_20"
+	},
 	"Title_0_8_0_1": {
 		"name": "นักล่าอสูรบ้าคลั่ง",
 		"description": "ได้รับเมื่ออยู่ใน 8 อันดับแรกในข้อมูลสรุปผลรางวัลเฟสที่ 1 ของเรดจำกัดเวลา",
@@ -42980,6 +43231,33 @@
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "Title_0_8_0_27"
+	},
+	"Title_0_8_0_28": {
+		"name": "ยับยั้งความชั่วร้าย",
+		"description": "ได้รับเมื่ออยู่ใน 8 อันดับแรกในข้อมูลสรุปผลรางวัลเฟสที่ 9 ของเรดจำกัดเวลา",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_28"
+	},
+	"Title_0_8_0_29": {
+		"name": "กำจัดคาลามิตี้",
+		"description": "ได้รับเมื่ออยู่ใน 9-24 อันดับแรกในข้อมูลสรุปผลรางวัลเฟสที่ 9 ของเรดจำกัดเวลา",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_29"
+	},
+	"Title_0_8_0_30": {
+		"name": "ลบล้างคำสาปแค้น",
+		"description": "ได้รับเมื่ออยู่ในอันดับที่ 25 ถึง 100 ในข้อมูลสรุปผลรางวัลเฟสที่ 9 ของเรดจำกัดเวลา",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Title_0_8_0_30"
 	},
 	"Title_1_6_4_1": {
 		"name": "นักปราชญ์ซิลเวอร์โคสต์",
@@ -43720,7 +43998,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Avatar_Overseas_30i.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_Avatar_1"
 	},
@@ -43731,7 +44009,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Avatar_Overseas_Anniversary01i.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_Avatar_2"
 	},
@@ -43742,7 +44020,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_Avatar_3.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_Avatar_3"
 	},
@@ -43937,7 +44215,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/AvatarFrame_tencent_05i.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_AvatarFrame_1"
 	},
@@ -43948,7 +44226,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/AvatarFrame_Overseas_Anniversary01i.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_AvatarFrame_2"
 	},
@@ -43959,7 +44237,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_AvatarFrame_3.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_AvatarFrame_3"
 	},
@@ -43970,7 +44248,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_AvatarFrame_4.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_AvatarFrame_4"
 	},
@@ -43981,7 +44259,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_CN_AvatarFrame_5.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_AvatarFrame_5"
 	},
@@ -44153,7 +44431,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_tencent_03.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_chat_qipao_1"
 	},
@@ -44164,7 +44442,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_chat_qipao_Overseas_Anniversary01.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_chat_qipao_2"
 	},
@@ -44175,7 +44453,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_CN_qipao_3.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_chat_qipao_3"
 	},
@@ -44186,7 +44464,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_CN_chat_qipao_4.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_chat_qipao_4"
 	},
@@ -44197,7 +44475,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_CN_chat_qipao_5.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"ได้รับจากอีเวนต์ครบรอบ 2 ปี"
 		],
 		"id": "CN_chat_qipao_5"
 	},
@@ -45197,6 +45475,24 @@
 		"source": [],
 		"id": "Item_shellcoin"
 	},
+	"Item_icecreamcoin": {
+		"name": "ไอศกรีม",
+		"description": "อากาศร้อนขนาดนี้ แม้แต่การทานไอศกรีมยังเหมือนกับการแข่งขันกับเวลา! ฉันได้ยินว่าถ้าทานไอศกรีมจำนวนมากพอ ก็สามารถแลกได้รางวัล!",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_icecream.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "Item_icecreamcoin"
+	},
+	"item_TDcoin": {
+		"name": "เศษข้อมูลไวรัส",
+		"description": "ชิ้นส่วนข้อมูลไวรัสที่ตกหล่นหลังจากทำลายไวรัสในระหว่างการป้องกันกริด การเก็บรวบรวมชิ้นส่วนเหล่านี้จะช่วยให้ไฮครอสสามารถศึกษาไวรัสได้ลึกซึ้งยิ่งขึ้น",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/TD_Coin.webp",
+		"type": "BARTER",
+		"source": [],
+		"id": "item_TDcoin"
+	},
 	"Item_IceCrystalCoin": {
 		"name": "เหรียญคริสตัลน้ำแข็ง",
 		"description": "เหรียญที่ระลึกที่ทำขึ้นมาจากแร่คริสตัลที่มาจากพื้นที่เย็นจัด และมีพลังงานธาตุน้ำแข็งเข้มข้น เมื่อถือเอาไว้ในมือจะทำให้รู้สึกเย็น บางคนยังใช้มันแทนก้อนน้ำแข็งในเครื่องดื่มอีกด้วย",
@@ -45754,7 +46050,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_116.webp",
 		"type": "AVATAR",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "Avatar_116"
 	},
@@ -45858,7 +46154,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_116.webp",
 		"type": "FRAME",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "AvatarFrame_116"
 	},
@@ -45980,7 +46276,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_116.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"Obtained from the 2nd anniversary"
+			"2nd Anniversary Perks"
 		],
 		"id": "chat_qipao_116"
 	},
@@ -48760,7 +49056,7 @@
 	},
 	"Item_Norn_ZWY_001": {
 		"name": "เหรียญตราแดนดิไลออน",
-		"description": "เหรียญที่ศูนย์การท่องเที่ยวและวัฒนธรรมชายฝั่งแดนดิไลออนออกแบบมา มีลวดลายแดนดิไลออนที่เป็นสัญลักษณ์เด่นของชายฝั่งแดนดิไลออนบนเหรียญ",
+		"description": "เหรียญที่ระลึกจากศูนย์การท่องเที่ยวและวัฒนธรรมชายฝั่งแดนดิไลออน ซึ่งมีลวดลายแดนดิไลออนที่เป็นสัญลักษณ์ของชายฝั่งแดนดิไลออน สามารถรับได้สูงสุด 50 ต่อสัปดาห์",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/Norn_pugongying.webp",
 		"type": "BARTER",
@@ -50539,8 +50835,8 @@
 		"id": "Avatar_148_male"
 	},
 	"Avatar_149": {
-		"name": "Гурман Анка",
-		"description": "Предложение из совместного проекта с Papa John's. Наша пицца очень вкусная, хотите кусочек?",
+		"name": "นักชิมอังกอร์",
+		"description": "ผลประโยชน์การเชื่อมโยงของพ่อจอห์น มีพิซซ่าอร่อยที่นี่ ทําไมคุณไม่ลองดูล่ะ?",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_149.webp",
 		"type": "AVATAR",
@@ -50635,6 +50931,17 @@
 		],
 		"id": "Avatar_157"
 	},
+	"Avatar_158": {
+		"name": "ความงดงามในวันพักผ่อน",
+		"description": "เมอริล ผู้สืบสวนที่เพิ่งจบงานกำลังเพลิดเพลินกับวันหยุดของเธอ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_158.webp",
+		"type": "AVATAR",
+		"source": [
+			"ได้รับจากกิจกรรมกาชาปองฤดูร้อนอันเป็นนิรันดร์"
+		],
+		"id": "Avatar_158"
+	},
 	"Avatar_159": {
 		"name": "นักดำน้ำผิวน้ำมืออาชีพ",
 		"description": "พกแว่นดำน้ำและท่อหายใจไปด้วย มาชมความงามของทะเลน้ำตื้นกับมีอากันเถอะ!",
@@ -50653,7 +50960,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_160.webp",
 		"type": "AVATAR",
 		"source": [
-			"ได้รับจากกิจกรรมเทศกาลแสงแดดชายฝั่ง"
+			"ล็อกอินเพื่อรับ"
 		],
 		"id": "Avatar_160"
 	},
@@ -50689,6 +50996,28 @@
 			"รางวัลบัตรพาสเฟสที่ 19"
 		],
 		"id": "Avatar_163"
+	},
+	"Avatar_164": {
+		"name": "กุหลาบฟรอสต์บลู",
+		"description": "ดอกกุหลาบสีน้ำเงินอมขาวกำลังบานครึ่งทาง ดูเหมือนว่ากำลังรอคาวบอยที่ถูกทำนายจะมาเก็บมันลง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_164.webp",
+		"type": "AVATAR",
+		"source": [
+			"ได้รับจากกิจกรรมกล่องปริศนาวินด์รันเนอร์"
+		],
+		"id": "Avatar_164"
+	},
+	"Avatar_165": {
+		"name": "โรสทินท์คูลเนส",
+		"description": "นี่คือสัญลักษณ์ของการต่อต้านและการเป็นนำ มันคือโทนของการเดินทางด้วยตัวเอง มีคำพูดว่าอย่างไรนะ — ยิ่งรูปโปรไฟล์สีชมพูยิ่งรุนแรงในการต่อสู้",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Item_Avatar_165.webp",
+		"type": "AVATAR",
+		"source": [
+			"รางวัลบัตรพาสเฟสที่ 20"
+		],
+		"id": "Avatar_165"
 	},
 	"AvatarFrame_147": {
 		"name": "โลกเสมือนจริง",
@@ -50809,6 +51138,17 @@
 		],
 		"id": "AvatarFrame_157"
 	},
+	"AvatarFrame_158": {
+		"name": "ดวงอาทิตย์ที่ลับไป",
+		"description": "สิ่งที่ทำให้ดวงอาทิตย์ลับไปนั้น คือแว่นกันแดดหรือคุณหญิงที่กำลังท่องเที่ยวนั่นเอง?",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_AvatarFrame_158.webp",
+		"type": "FRAME",
+		"source": [
+			"ได้รับจากกิจกรรมกาชาปองฤดูร้อนอันเป็นนิรันดร์"
+		],
+		"id": "AvatarFrame_158"
+	},
 	"AvatarFrame_159": {
 		"name": "ความลึกลับของทะเลลึก",
 		"description": "สิ่งมีชีวิตในทะเลลึกจะไม่ง่าย ๆ แสดงตัวจริงของตัวเอง โปรดมีความอดทนในการสำรวจความลึกลับที่ซ่อนอยู่",
@@ -50827,7 +51167,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_160.webp",
 		"type": "FRAME",
 		"source": [
-			"ได้รับจากกิจกรรมเทศกาลแสงแดดชายฝั่ง"
+			"ล็อกอินเพื่อรับ"
 		],
 		"id": "AvatarFrame_160"
 	},
@@ -50863,6 +51203,28 @@
 			"รางวัลบัตรพาสเฟสที่ 19"
 		],
 		"id": "AvatarFrame_163"
+	},
+	"AvatarFrame_164": {
+		"name": "หัวใจน้ำแข็งสีคราม",
+		"description": "ในพยากรณ์ อัศวินที่มีดอกกุหลาบสีฟ้าแช่แข็งอยู่ที่หน้าอก จะหยุดยั้งการแพร่กระจายของสงคราม และแทนที่ความขัดแย้งด้วยความสงบสุข",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_164.webp",
+		"type": "FRAME",
+		"source": [
+			"ได้รับจากกิจกรรมกล่องปริศนาวินด์รันเนอร์"
+		],
+		"id": "AvatarFrame_164"
+	},
+	"AvatarFrame_165": {
+		"name": "นัยน์ตาแสนสดใสของเจ้าแมวเหมียว",
+		"description": "ได้รับสัญญาณจากฉันหรือยัง? อืม... ฉันหมายความว่า ถ้าครั้งหน้าเธอกล้ามายั่วยุอีก ก็เตรียมตัวให้พร้อมที่จะขอโทษฉันบนพื้นเถอะ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_AvatarFrame_165.webp",
+		"type": "FRAME",
+		"source": [
+			"รางวัลบัตรพาสเฟสที่ 20"
+		],
+		"id": "AvatarFrame_165"
 	},
 	"chat_qipao_147": {
 		"name": "การสื่อสารแบบนิรนาม",
@@ -50983,6 +51345,17 @@
 		],
 		"id": "chat_qipao_157"
 	},
+	"chat_qipao_158": {
+		"name": "ร่มเงาของแสงแดด",
+		"description": "อากาศร้อนจัด ไม่อยากจะพักผ่อนใต้ร่มแสงแดดสักพักเถอะ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_158.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมกาชาปองฤดูร้อนอันเป็นนิรันดร์"
+		],
+		"id": "chat_qipao_158"
+	},
 	"chat_qipao_159": {
 		"name": "เพลงพื้นบ้านของคลื่นลมทะเล",
 		"description": "ลมทะเลและฟองน้ำทะเลสร้างเสียงเพลงที่น่ายินดี ฟังอย่างระมัดระวัง นั่นคือบทเพลงจากทะเล",
@@ -51001,7 +51374,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_160.webp",
 		"type": "CONSUMABLE",
 		"source": [
-			"ได้รับจากกิจกรรมเทศกาลแสงแดดชายฝั่ง"
+			"ล็อกอินเพื่อรับ"
 		],
 		"id": "chat_qipao_160"
 	},
@@ -51037,6 +51410,28 @@
 			"รางวัลบัตรพาสเฟสที่ 19"
 		],
 		"id": "chat_qipao_163"
+	},
+	"chat_qipao_164": {
+		"name": "กระซิบของโรซี่",
+		"description": "ความสงบสุขได้มาถึงแล้ว ดอกกุหลาบสีน้ำเงินอ่อนบานทั่วทั้งแผ่นดิน ในยามค่ำคืนคุณยังสามารถได้ยินการกระซิบของดอกกุหลาบ ส่งเสียงสรรเสริญความสำเร็จของอัศวินไปยังที่ไกลโพ้น",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_164.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมกล่องปริศนาวินด์รันเนอร์"
+		],
+		"id": "chat_qipao_164"
+	},
+	"chat_qipao_165": {
+		"name": "สิ่งที่ขาดไม่ได้ของนักผจญภัย",
+		"description": "สิ่งที่ขาดไม่ได้ของนักผจญภัยที่เป็นไอเทมแฟชั่น น่ารักไหม? แต่ถ้าต่อสู้ก็เท่ห์มากนะครับ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_165.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"รางวัลบัตรพาสเฟสที่ 20"
+		],
+		"id": "chat_qipao_165"
 	},
 	"Hacker_Norn_Power_001": {
 		"name": "สิทธิ์การอนุญาต I ของสำนักงานความมั่นคงสาธารณะ",
@@ -51828,7 +52223,7 @@
 		"id": "Title_2_10_0_3"
 	},
 	"Item_HackerTerminal_Song_10": {
-		"name": "เลิกนอนได้แล้วน่า! ลุกมาจุดพลุด้วยกันเร็วเข้า!",
+		"name": "Wake Up, Let's Set Off Some Fireworks!",
 		"description": "Mi-a จัดส่งด้วยตัวเอง คุณสามารถดาวน์โหลดและเล่นละครวิทยุพิเศษสำหรับฤดูร้อนในเทอร์มินัลผู้อนุมัติ\n\"ฉันรู้ว่าคุณแค่ทำท่านอนหลับ! ตื่นเร็ว มาปล่อยดอกไม้ไฟด้วยกัน!\"",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/Norn_changpian.webp",
@@ -51993,7 +52388,7 @@
 	},
 	"Item_Room_Nora_DZ_01": {
 		"name": "วารสาร",
-		"description": "นิตยสารที่บันทึกเนื้อหาที่หลากหลาย เพื่อให้ผู้คนอ่านหลังจากทานอาหารเสร็จ\r\nปลดล็อก: การโต้ตอบในบาร์",
+		"description": "นิตยสารที่บันทึกเนื้อหาที่หลากหลาย สำหรับการอ่านหลังจากทานอาหารเสร็จ\r\nปลดล็อค: การโต้ตอบในสถานการณ์โซฟา",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
@@ -52020,12 +52415,21 @@
 	},
 	"Item_Room_Nora_DZ_04": {
 		"name": "เหล้ารสเปรี้ยว",
-		"description": "เครื่องดื่มที่เต็มไปด้วยกลิ่นหอมของธรรมชาติ ทำให้คุณรู้สึกสดชื่นเหมือนอยู่กลางแจ้ง\r\nปลดล็อค: การโต้ตอบในสถานการณ์โซฟา",
+		"description": "เครื่องดื่มที่เต็มไปด้วยกลิ่นหอมของธรรมชาติ ทำให้คุณรู้สึกสดชื่นเหมือนอยู่กลางแปลงสนามสีเขียว\r\nปลดล็อค: การโต้ตอบในบรรยากาศบาร์",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
 		"type": "LEISUREROOMDATA",
 		"source": [],
 		"id": "Item_Room_Nora_DZ_04"
+	},
+	"Item_Room_Nora_DZ_05": {
+		"name": "ทำกาแฟด้วยมือ",
+		"description": "กาแฟที่นอร่าชงด้วยมือเอง \r\n ปลดล็อคท่าทาง: ดื่มกาแฟ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_sushe_jiaju_DZ_05.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_Nora_DZ_05"
 	},
 	"Item_Room_Nora_YZ_01": {
 		"name": "เอลฟ์แห่งแสงจันทร์",
@@ -52153,6 +52557,276 @@
 		"source": [],
 		"id": "Item_Room_Nora_SW_405"
 	},
+	"Item_Room_MLR_JJ_01": {
+		"name": "ตู้แสดงคริสตัล",
+		"description": "ตู้แสดงสำหรับวัตถุสะสม",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_01"
+	},
+	"Item_Room_MLR_JJ_02": {
+		"name": "เจ็ตสกีน้ำ",
+		"description": "ใช้สำหรับฝึกขับรถจักรยานน้ำ\r\nปลดล็อกการกระทำ: พักผ่อนบนรถจักรยานน้ำ\r\nเอฟเฟกต์เพิ่มเติม: สามารถร่วมขับพาหนะที่ระบุกับเมอริล ไอรอนฮาร์ท (ต้องมีซิมูลาครัมและการกระทำที่สอดคล้องกัน)",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/LeisureRoom/jiaju/MLR/JJ/icon_sushe_jiaju_SMZJ.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_02"
+	},
+	"Item_Room_MLR_JJ_03": {
+		"name": "กล้องถ่ายภาพอัตโนมัติ",
+		"description": "เครื่องที่สามารถถ่ายรูปด้วยตนเอง และรูปถ่ายที่ได้สามารถพิมพ์ออกมาได้ทันทีโดยไม่ต้องล้างภาพ\r\nปลดล็อคเอฟเฟกต์: สามารถถ่ายภาพสติ๊กเกอร์ขนาดใหญ่ได้โดยการโต้ตอบกับเครื่อง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_03"
+	},
+	"Item_Room_MLR_JJ_04": {
+		"name": "โต๊ะทำเล็บ",
+		"description": "โต๊ะแต่งตัวสำหรับทำเล็บ\r\nการปลดล็อกการกระทำ: ทำเล็บ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_04"
+	},
+	"Item_Room_MLR_JJ_05": {
+		"name": "เตียงโซฟาสำหรับคนเดียว",
+		"description": "โซฟาเตียงสำหรับคนเดียวที่สบายและทันสมัย\r\nการปลดล็อคการกระทำ: พักผ่อน",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_05"
+	},
+	"Item_Room_MLR_JJ_06": {
+		"name": "ห้องแยกเปลี่ยนชุด",
+		"description": "ห้องแยกสำหรับการเปลี่ยนเสื้อผ้าอย่างรวดเร็วและสะดวก",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_06"
+	},
+	"Item_Room_MLR_JJ_07": {
+		"name": "อควาเรียม",
+		"description": "อควาเรียมสำหรับใช้ในบ้าน สามารถรักษาระบบนิเวศน้ำขนาดกลางและเล็กเพื่อชมความงาม",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_07"
+	},
+	"Item_Room_MLR_JJ_08": {
+		"name": "ตู้ลิ้นชักขนาดเล็ก",
+		"description": "ขนาดเล็ก ความจุใหญ่",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_08"
+	},
+	"Item_Room_MLR_JJ_09": {
+		"name": "โต๊ะกลมขนาดเล็ก",
+		"description": "โต๊ะกลมขนาดเล็กที่มีหลากหลายการใช้งาน",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_09"
+	},
+	"Item_Room_MLR_JJ_10": {
+		"name": "ภาพแขวนตกแต่ง",
+		"description": "ภาพวาดแต่งที่มีลายแมลง ดูเหมือนว่าเป็นตัวอย่างที่ถูกจัดแสดง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_10"
+	},
+	"Item_Room_MLR_JJ_11": {
+		"name": "เครื่องประดับจากไม้แกะสลัก",
+		"description": "เครื่องประดับที่แกะสลักจากไม้คุณภาพสูง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_11"
+	},
+	"Item_Room_MLR_JJ_12": {
+		"name": "ของตกแต่งบ้าน",
+		"description": "เครื่องประดับบ้านที่พบเห็นได้ทั่วไป",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_JJ_12"
+	},
+	"Item_Room_MLR_DZ_01": {
+		"name": "เปลี่ยนชุดรอสักครู่",
+		"description": "เปลี่ยนชุดว่ายน้ำในห้องเปลี่ยนชุด (ต้องได้รับห้องเปลี่ยนชุดก่อนจึงจะสามารถซื้อได้)\r\nปลดล็อก: การโต้ตอบในสถานการณ์การเปลี่ยนชุดว่ายน้ำ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_01"
+	},
+	"Item_Room_MLR_DZ_02": {
+		"name": "เบรกยามบ่าย",
+		"description": "เบรกหลังช่วงบ่าย\r\nปลดล็อก: การโต้ตอบในสถานการณ์การงีบหลังช่วงบ่าย",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_02"
+	},
+	"Item_Room_MLR_DZ_03": {
+		"name": "ทดลองทำเล็บ",
+		"description": "ทำเล็บทดลอง\r\nปลดล็อค: การทดลองสถานการณ์การทำเล็บ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_DZ_03"
+	},
+	"Item_Room_MLR_YZ_01": {
+		"name": "เอลฟ์แห่งแสงจันทร์",
+		"description": "บลิงก์แสงจันทราที่สว่างสวาท ส่องสว่างทางที่จะเดินต่อไป",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_YZ_01"
+	},
+	"Item_Room_MLR_YZ_02": {
+		"name": "จุดดาว",
+		"description": "ดาวเต็มฟ้ายามค่ำคืน, นำคุณเข้าสู่ฝัน.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_YZ_02"
+	},
+	"Item_Room_MLR_XZ_01": {
+		"name": "แสงจันทร์สีขาว",
+		"description": "แสงจันทร์คืนนี้สวยงามจริงๆ ลมก็อ่อนโยนเช่นกัน",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_01"
+	},
+	"Item_Room_MLR_XZ_02": {
+		"name": "ช่วงเวลาแชมเปญ",
+		"description": "ฟองน้ำได้ประดับเวลาทองคำของเรา",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_02"
+	},
+	"Item_Room_MLR_XZ_03": {
+		"name": "ดาวเต็มฟ้า",
+		"description": "เดินทางทั่วทั้งกาแล็กซี่ เพื่อเธอเท่านั้น",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_XZ_03"
+	},
+	"Item_Room_Nora_SW_MLR": {
+		"name": "ความมืด",
+		"description": "คืนยาวนาน ความรู้สึกยังไม่มีที่สิ้นสุด",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_Nora_SW_MLR"
+	},
+	"Item_Room_MLR_SW_001": {
+		"name": "นักรบ",
+		"description": "รวบรวมความกล้าหาญและเผชิญหน้าไปข้างหน้า",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_001"
+	},
+	"Item_Room_MLR_SW_002": {
+		"name": "จันทร์สีเงิน",
+		"description": "เหมือนกับแสงจันทร์เสี้ยวที่ส่องสว่างลงบนพื้นดิน",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_002"
+	},
+	"Item_Room_MLR_SW_101": {
+		"name": "สมูทตี้",
+		"description": "สีเหมือนกับนมปั่น และรสชาติก็เหมือนกับนมปั่นเช่นกัน",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_101"
+	},
+	"Item_Room_MLR_SW_102": {
+		"name": "แฟนตาซีสีขาว",
+		"description": "ผ้าม่านสีขาวกระจายแสงสีฝัน",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_102"
+	},
+	"Item_Room_MLR_SW_202": {
+		"name": "สีแดงและขาว",
+		"description": "สีแดงและสีขาว ทั้งมีความบริสุทธิ์และมีไฟที่ร้อนแรง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_202"
+	},
+	"Item_Room_MLR_SW_301": {
+		"name": "พลบค่ำ",
+		"description": "ฟ้าเริ่มมืดลง ค่ำคืนกำลังจะมาถึง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_301"
+	},
+	"Item_Room_MLR_SW_304": {
+		"name": "เฉินซี",
+		"description": "เหมือนกับแสงสีที่อยู่ที่ขอบฟ้า ซึ่งเป็นสัญลักษณ์ของการเริ่มต้นของวันใหม่",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_304"
+	},
+	"Item_Room_MLR_SW_401": {
+		"name": "แหนมปลา",
+		"description": "ไม่มีปลาตัวใดสามารถหนีออกจากรูถ้ำนี้ได้",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_401"
+	},
+	"Item_Room_MLR_SW_402": {
+		"name": "หยดๆ",
+		"description": "เหมือนกับความทรงจำที่อยู่ด้วยกัน ทีละเล็กทีละน้อย",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/avatar_Ace.webp",
+		"type": "LEISUREROOMDATA",
+		"source": [],
+		"id": "Item_Room_MLR_SW_402"
+	},
 	"Hotta_Ornament_1": {
 		"name": "เพลงกล่อมนอนที่ดี",
 		"description": "ชู้ว อย่ารบกวนมันนะ แม้ว่าจะเป็นนักเดินทางที่ไม่รู้จักความเหนื่อยล้า ก็ควรได้รับเวลาที่จะฝันดีบ้าง",
@@ -52249,6 +52923,72 @@
 		],
 		"id": "Hotta_Ornament_9"
 	},
+	"Hotta_Ornament_10": {
+		"name": "การผจญภัยในอควาเรียม",
+		"description": "การผจญภัยใต้ทะเลโดยการขับเคลื่อนด้วยกระแสน้ำ มีเพื่อนสัตว์น้ำที่ใจดีส่งข้อความมาเตือน ระวังด้านหน้า ที่ลึกของห้วงทะเลที่น่าตื่นเต้น มีร่างจักรกลขนาดใหญ่ซ่อนอยู่!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_226.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมจำกัดเวลา"
+		],
+		"id": "Hotta_Ornament_10"
+	},
+	"Hotta_Ornament_11": {
+		"name": "ความรักที่บริสุทธิ์",
+		"description": "นี่ไม่ใช่กุหลาบสีขาวทั่วไป แต่เป็นกุหลาบสีขาวบริสุทธิ์ที่ใบพืชยังเป็นสีขาวเช่นกัน เมื่อฝนตก ดอกไม้ทั้งดอกจะกลายเป็นสีใส ซึ่งเป็นสัญลักษณ์ของความรักพรั่งพรูที่สุด",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_227.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมกล่องปริศนาวินด์รันเนอร์"
+		],
+		"id": "Hotta_Ornament_11"
+	},
+	"Hotta_Ornament_12": {
+		"name": "ที่คาดผมทองคำของวุซู",
+		"description": "ในฐานข้อมูลวัฒนธรรมดวงดาวแม่ของมนุษย์ มีตัวละครทางวรรณกรรมที่ชื่อว่า \"วู่กง\" แต่น่าเสียดายที่ข้อมูลทางตัวอักษรที่เกี่ยวข้องกับมันเหลือน้อยมาก สิ่งที่เหลืออยู่เพียงแค่ภาพบันทึกของคิมกุญแจเท่านั้น",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_228.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมจำกัดเวลา"
+		],
+		"id": "Hotta_Ornament_12"
+	},
+	"Hotta_Ornament_13": {
+		"name": "ฮาร์ทโฟลว์: ความบริสุทธิ์",
+		"description": "โบว์ผ้าซาตินสีขาวบริสุทธิ์ ตรงกลางฝังเครื่องประดับรูปดาวห้าเหลี่ยมสีทอง ดีไซน์ที่เรียบง่ายและมีความสง่างาม",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_229.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมจำกัดเวลา"
+		],
+		"id": "Hotta_Ornament_13"
+	},
+	"Hotta_Ornament_14": {
+		"name": "ฮาร์ทโฟลว์: ริบบิ้น",
+		"description": "โบว์ผ้าซาตินสีขาวบริสุทธิ์ ตรงกลางฝังเครื่องประดับดาวห้าจังหวะสีทอง พร้อมกับการตกแต่งด้วยเลซและริบบิ้น ทำให้ดูนุ่มนวลและน่ารักยิ่งขึ้น",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_230.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมจำกัดเวลา"
+		],
+		"id": "Hotta_Ornament_14"
+	},
+	"Hotta_Ornament_15": {
+		"name": "กระต่ายจันทราเริงร่า",
+		"description": "คืนที่ฟ้าใสและมีพระจันทร์เต็มดวง วันนี้ดูเหมือนกระต่ายแห่งจันทราที่มักจะทำยาก็ได้หยุดงาน ถ้าไม่เชื่อลองมาดูสิ กระต่ายน้อยๆ นั่นกำลังเกียจคร้านอยู่นั่นเอง!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/fashion_icon_shipin_231.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมจำกัดเวลา"
+		],
+		"id": "Hotta_Ornament_15"
+	},
 	"fragment_Hotta_Ornament_8": {
 		"name": "เศษโล่หัวกราวด์คอนโทรลเลอร์",
 		"description": "หัวโบว์ที่ปรับแต่งจากตาจักรกลที่ตกจากกราวด์คอนโทรลเลอร์ ตาจักรกลที่สูญเสียทักษะการมองเห็นยังคงมีความสามารถในการส่องสว่างอยู่",
@@ -52263,27 +53003,45 @@
 	},
 	"ActorBackground_1": {
 		"name": "ประวัติส่วนตัวใต้หอคอยแฟนตาซี",
-		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg01.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "ActorBackground_1"
 	},
+	"ActorBackground_2": {
+		"name": "มินิมัล: มหัศจรรย์พันธุ์ม่วง: พื้นหลังส่วนบุคคล",
+		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorBackground_2"
+	},
 	"ActorBackground_3": {
 		"name": "เย็นฉ่ำฤดูร้อน: ภาพพื้นหลังส่วนบุคคล",
 		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
 		"rarity": 3,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_ModelBgSummer.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_ModelBgSummer.webp",
 		"type": "CONSUMABLE",
 		"source": [
 			"ได้รับจากกิจกรรมเทศกาลแสงแดดชายฝั่ง"
 		],
 		"id": "ActorBackground_3"
 	},
+	"ActorBackground_4": {
+		"name": "จอมโจรยามค่ำคืน: ประวัติส่วนตัว",
+		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_ModelBgACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorBackground_4"
+	},
 	"ActorBackground_5": {
 		"name": "อควาเรียม · พื้นหลังส่วนบุคคล",
-		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
+		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Decoration/icon_ModelBgHaiyang256.webp",
 		"type": "CONSUMABLE",
@@ -52291,6 +53049,72 @@
 			"วิธีการเล่นวอลเลย์บอลชายหาดที่ได้รับ"
 		],
 		"id": "ActorBackground_5"
+	},
+	"ActorBackground_6": {
+		"name": "พลังชีวิตส้ม: ประวัติส่วนตัว",
+		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "ActorBackground_6"
+	},
+	"ActorBackground_7": {
+		"name": "สุดเรียบง่าย · เรียวฤดูร้อนสีเขียว · พื้นหลังส่วนบุคคล",
+		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"วิธีการเล่นวอลเลย์บอลชายหาดที่ได้รับ"
+		],
+		"id": "ActorBackground_7"
+	},
+	"ActorBackground_8": {
+		"name": "หรูหราสีแดง · พื้นหลังส่วนบุคคล",
+		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "ActorBackground_8"
+	},
+	"ActorBackground_9": {
+		"name": "มินิมัล · สายรุ้งนีออนชมพู · พื้นหลังส่วนบุคคล",
+		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelBg06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"วิธีการเล่นวอลเลย์บอลชายหาดที่ได้รับ"
+		],
+		"id": "ActorBackground_9"
+	},
+	"ActorBackground_10": {
+		"name": "ความผันผวนของวิญญาณ· ประวัติส่วนบุคคล",
+		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_ModelBgGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"รับการเปิดใช้งานการป้องกันอีกครั้ง"
+		],
+		"id": "ActorBackground_10"
+	},
+	"ActorBackground_11": {
+		"name": "แช่แข็งเวลา · พื้นหลังส่วนบุคคล",
+		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_ModelBgXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"วิธีการเล่นวอลเลย์บอลชายหาดที่ได้รับ"
+		],
+		"id": "ActorBackground_11"
 	},
 	"CardBackground_1": {
 		"name": "พื้นหลังของการ์ดชื่อใต้หอคอยแฟนตาซี",
@@ -52301,9 +53125,18 @@
 		"source": [],
 		"id": "CardBackground_1"
 	},
+	"CardBackground_2": {
+		"name": "พื้นหลังนามบัตรส่วนตัวแบบเรียบง่าย·มหัศจรรย์พันธุ์ม่วง",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_2"
+	},
 	"CardBackground_3": {
 		"name": "เย็นฉ่ำฤดูร้อน · ภาพพื้นหลังของนามบัตร",
-		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_NmCardSummer.webp",
 		"type": "CONSUMABLE",
@@ -52312,18 +53145,96 @@
 		],
 		"id": "CardBackground_3"
 	},
+	"CardBackground_4": {
+		"name": "จอมโจรแห่งราตรีสีดำ: ภาพพื้นหลังของนามบัตร",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_NmCardACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_4"
+	},
+	"CardBackground_6": {
+		"name": "พื้นหลังนามบัตรส่วนตัวสีส้มพลังชีวิต",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "CardBackground_6"
+	},
+	"CardBackground_7": {
+		"name": "สุดยอดความเรียบง่าย · ฤดูร้อนสีเขียว · พื้นหลังนามบัตรส่วนตัว",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_7"
+	},
+	"CardBackground_8": {
+		"name": "พื้นหลังนามบัตรสีแดงหรูหรา",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "CardBackground_8"
+	},
+	"CardBackground_9": {
+		"name": "พื้นหลังนามบัตรสีชมพูเนออนแบบง่ายๆ",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCard06.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_9"
+	},
+	"CardBackground_10": {
+		"name": "การสั่นสะเทือนของวิญญาณ · ภาพพื้นหลังนามบัตร",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_NmCardGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"รับการเปิดใช้งานการป้องกันอีกครั้ง"
+		],
+		"id": "CardBackground_10"
+	},
+	"CardBackground_11": {
+		"name": "ภาพพื้นหลังนามบัตรส่วนตัว · ชะลอเวลา",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_NmCardXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardBackground_11"
+	},
 	"CardFrame_1": {
 		"name": "กรอบการ์ดชื่อที่ฐานหอคอยแฟนตาซี",
-		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบการ์ดชื่อ",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame01.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "CardFrame_1"
 	},
+	"CardFrame_2": {
+		"name": "กรอบนามบัตรส่วนตัวสไตล์มินิมอลสีม่วงลึกลับ",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_2"
+	},
 	"CardFrame_3": {
 		"name": "เย็นฉ่ำฤดูร้อน · กรอบการ์ดชื่อ",
-		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบการ์ดชื่อ",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_NmCardFrameSummer.webp",
 		"type": "CONSUMABLE",
@@ -52332,18 +53243,96 @@
 		],
 		"id": "CardFrame_3"
 	},
+	"CardFrame_4": {
+		"name": "กรอบการ์ดจอมโจรแห่งราตรี",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_NmCardFrameACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_4"
+	},
+	"CardFrame_6": {
+		"name": "พลังชีวิตสีส้ม·นามบัตรส่วนตัวชายแดน",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "CardFrame_6"
+	},
+	"CardFrame_7": {
+		"name": "สุดยอดความเรียบง่าย · รีเฟรชฤดูร้อนสีเขียว · กรอบนามบัตรส่วนตัว",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_7"
+	},
+	"CardFrame_8": {
+		"name": "กรอบนามบัตรสีแดงหรูหรา",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "CardFrame_8"
+	},
+	"CardFrame_9": {
+		"name": "กรอบนามบัตรสีชมพูเนออนแบบเรียบง่าย",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_NmCardFrame06.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_9"
+	},
+	"CardFrame_10": {
+		"name": "การสั่นสะเทือนของวิญญาณ · กรอบนามบัตรส่วนตัว",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_NmCardFrameGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"รับการเปิดใช้งานการป้องกันอีกครั้ง"
+		],
+		"id": "CardFrame_10"
+	},
+	"CardFrame_11": {
+		"name": "ชะลอเวลา · กรอบนามบัตรส่วนตัว",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบการ์ดชื่อ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_NmCardFrameXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "CardFrame_11"
+	},
 	"ActorFrame_1": {
 		"name": "หอคอยแฟนตาซี · กรอบรูปส่วนบุคคล",
-		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**พื้นหลังการ์ดชื่อ",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame01.webp",
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "ActorFrame_1"
 	},
+	"ActorFrame_2": {
+		"name": "กรอบรูปส่วนบุคคลแบบเรียบง่าย·มหัศจรรย์พันธุ์ม่วง",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame02.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorFrame_2"
+	},
 	"ActorFrame_3": {
 		"name": "เย็นฉ่ำฤดูร้อน · กรอบรูปส่วนบุคคล",
-		"description": "สามารถใช้ในการปลดล็อกนามบัตร**•** พื้นหลังส่วนบุคคล",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/IconBag_ModelFrameSummer.webp",
 		"type": "CONSUMABLE",
@@ -52351,6 +53340,15 @@
 			"ได้รับจากกิจกรรมเทศกาลแสงแดดชายฝั่ง"
 		],
 		"id": "ActorFrame_3"
+	},
+	"ActorFrame_4": {
+		"name": "จอมโจรยามค่ำ: กรอบรูปส่วนบุคคล",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_ModelFrameACE.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "ActorFrame_4"
 	},
 	"ActorFrame_5": {
 		"name": "อควาเรียม·กรอบรูปส่วนบุคคล",
@@ -52362,6 +53360,72 @@
 			"วิธีการเล่นวอลเลย์บอลชายหาดที่ได้รับ"
 		],
 		"id": "ActorFrame_5"
+	},
+	"ActorFrame_6": {
+		"name": "พลังชีวิตสีส้ม·กรอบรูปส่วนบุคคล",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "ActorFrame_6"
+	},
+	"ActorFrame_7": {
+		"name": "กรอบรูปส่วนบุคคล \"เรียวฤดูร้อนสีเขียวแบบเรียบง่าย\"",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"วิธีการเล่นวอลเลย์บอลชายหาดที่ได้รับ"
+		],
+		"id": "ActorFrame_7"
+	},
+	"ActorFrame_8": {
+		"name": "กรอบรูปส่วนบุคคลหรูหราสีแดง",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "ActorFrame_8"
+	},
+	"ActorFrame_9": {
+		"name": "กรอบรูปส่วนบุคคลสีชมพูเนอร์อนแบบเรียบง่าย",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/default/Icon_ModelFrame06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"วิธีการเล่นวอลเลย์บอลชายหาดที่ได้รับ"
+		],
+		"id": "ActorFrame_9"
+	},
+	"ActorFrame_10": {
+		"name": "การสั่นสะเทือนของวิญญาณ · กรอบรูปส่วนบุคคล",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Ghost/Icon_ModelFrameGhost.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"รับการเปิดใช้งานการป้องกันอีกครั้ง"
+		],
+		"id": "ActorFrame_10"
+	},
+	"ActorFrame_11": {
+		"name": "ชะลอเวลา: กรอบรูปส่วนบุคคล",
+		"description": "สามารถใช้เพื่อปลดล็อกการ์ดชื่อ **•**กรอบรูปส่วนบุคคล",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_ModelFrameXJ.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"วิธีการเล่นวอลเลย์บอลชายหาดที่ได้รับ"
+		],
+		"id": "ActorFrame_11"
 	},
 	"Frag_Fruit_Watermelon": {
 		"name": "แตงโมตัดเป็นชิ้น",
@@ -52489,9 +53553,7 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss01.webp",
 		"type": "EMBLEM",
-		"source": [
-			"ได้รับจากกิจกรรมฟรุตตี้โจมตี"
-		],
+		"source": [],
 		"id": "Badge_1_1_1"
 	},
 	"Badge_1_1_2": {
@@ -52500,9 +53562,7 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss02.webp",
 		"type": "EMBLEM",
-		"source": [
-			"ได้รับจากกิจกรรมฟรุตตี้โจมตี"
-		],
+		"source": [],
 		"id": "Badge_1_1_2"
 	},
 	"Badge_1_1_3": {
@@ -52511,10 +53571,35 @@
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_stamps_boss03.webp",
 		"type": "EMBLEM",
-		"source": [
-			"ได้รับจากกิจกรรมฟรุตตี้โจมตี"
-		],
+		"source": [],
 		"id": "Badge_1_1_3"
+	},
+	"Badge_1_1_4": {
+		"name": "อิงเจา·เหรียญตราแห่งความกล้าหาญ",
+		"description": "เปิดหีบสมบัติอิงเจา 40 ครั้งเพื่อรับได้",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss01.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_4"
+	},
+	"Badge_1_1_5": {
+		"name": "เฟยเหลียน·เหรียญตราแห่งความกล้าหาญ",
+		"description": "เปิดหีบสมบัติเฟยเหลียน 40 ครั้งเพื่อรับรางวัล",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss02.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_5"
+	},
+	"Badge_1_1_6": {
+		"name": "สิงเทียน·เหรียญตราแห่งความกล้าหาญ",
+		"description": "เปิดหีบสมบัติสิงเทียน 40 ครั้งเพื่อรับได้",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Memory/icon_Stamps_jiuyuboss03.webp",
+		"type": "EMBLEM",
+		"source": [],
+		"id": "Badge_1_1_6"
 	},
 	"MountWater8": {
 		"name": "ฝันฤดูร้อน",
@@ -52703,6 +53788,50 @@
 		],
 		"id": "Sticks_Part_1_15"
 	},
+	"Sticks_Part_2_1": {
+		"name": "ยูยู อังคา",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals16.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"รับการเปิดใช้งานการป้องกันอีกครั้ง"
+		],
+		"id": "Sticks_Part_2_1"
+	},
+	"Sticks_Part_2_2": {
+		"name": "เมอริลที่ลึกลับ",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals17.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"รับการเปิดใช้งานการป้องกันอีกครั้ง"
+		],
+		"id": "Sticks_Part_2_2"
+	},
+	"Sticks_Part_2_3": {
+		"name": "นอร่าที่เงียบงัน",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals18.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"รับการเปิดใช้งานการป้องกันอีกครั้ง"
+		],
+		"id": "Sticks_Part_2_3"
+	},
+	"Sticks_Part_2_4": {
+		"name": "โรสลินที่ลึกลับ",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Parts/Stickers/Icon_Decals19.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"รับการเปิดใช้งานการป้องกันอีกครั้ง"
+		],
+		"id": "Sticks_Part_2_4"
+	},
 	"Sticks_All_1_1": {
 		"name": "จอมโจรผู้สวมหน้ากาก",
 		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
@@ -52731,6 +53860,15 @@
 		"type": "CONSUMABLE",
 		"source": [],
 		"id": "Sticks_All_1_3"
+	},
+	"Sticks_All_1_4": {
+		"name": "ลูกอมเด้งดึ๋ง",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/ank/icon_DecalsACE04.webp",
+		"type": "CONSUMABLE",
+		"source": [],
+		"id": "Sticks_All_1_4"
 	},
 	"Sticks_All_1_5": {
 		"name": "โน้ตดนตรีที่เต็มเปี่ยมด้วยความสุข",
@@ -52845,6 +53983,17 @@
 		],
 		"id": "Sticks_choose_3"
 	},
+	"Sticks_choose_4": {
+		"name": "กล่องสติกเกอร์ IV",
+		"description": "หลังจากใช้งาน คุณสามารถเลือกจากต้นมะพร้าว แตงโม ก้อนน้ำแข็ง หรือไอศกรีมผลไม้หวาน",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_BoxNmcard.webp",
+		"type": "CHOOSE",
+		"source": [
+			"ได้รับจากกิจกรรมเกลบอร์นเวฟส์"
+		],
+		"id": "Sticks_choose_4"
+	},
 	"frag_Sticks_choose_3": {
 		"name": "กล่องเลือกสติกเกอร์ III เศษ",
 		"description": "เศษกล่องสติกเกอร์เลือกเอง",
@@ -52855,6 +54004,17 @@
 			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
 		],
 		"id": "frag_Sticks_choose_3"
+	},
+	"frag_Sticks_choose_4": {
+		"name": "กล่องสติกเกอร์เลือกเอง IV เศษ",
+		"description": "เศษกล่องสติกเกอร์เลือกเอง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/Icon_BoxNmcard.webp",
+		"type": "FRAGMENT",
+		"source": [
+			"ได้รับจากกิจกรรมเกลบอร์นเวฟส์"
+		],
+		"id": "frag_Sticks_choose_4"
 	},
 	"Sticks_All_2_1": {
 		"name": "หอยเชลล์",
@@ -52888,6 +54048,281 @@
 			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
 		],
 		"id": "Sticks_All_2_3"
+	},
+	"Sticks_All_2_4": {
+		"name": "ต้นมะพร้าว",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมเกลบอร์นเวฟส์"
+		],
+		"id": "Sticks_All_2_4"
+	},
+	"Sticks_All_2_5": {
+		"name": "แตงโม",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมเกลบอร์นเวฟส์"
+		],
+		"id": "Sticks_All_2_5"
+	},
+	"Sticks_All_2_6": {
+		"name": "น้ำแข็งก้อน",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมเกลบอร์นเวฟส์"
+		],
+		"id": "Sticks_All_2_6"
+	},
+	"Sticks_All_2_7": {
+		"name": "น้ำผลไม้หวานเย็น",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer07.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมเกลบอร์นเวฟส์"
+		],
+		"id": "Sticks_All_2_7"
+	},
+	"Sticks_All_2_8": {
+		"name": "บี๊บ!",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer08.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "Sticks_All_2_8"
+	},
+	"Sticks_All_2_9": {
+		"name": "บี๊บ~บี๊บ!",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer09.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "Sticks_All_2_9"
+	},
+	"Sticks_All_2_10": {
+		"name": "บี๊บ บี๊บ บี๊บ บี๊บ~",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer010.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "Sticks_All_2_10"
+	},
+	"Sticks_All_2_11": {
+		"name": "นากดื่มชา",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer011.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "Sticks_All_2_11"
+	},
+	"Sticks_All_2_12": {
+		"name": "กาลอวกาศแอสเพอเรีย",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer012.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "Sticks_All_2_12"
+	},
+	"Sticks_All_2_13": {
+		"name": "เขตวีร่า",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer013.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมสวนสนุกสุดหรรษา"
+		],
+		"id": "Sticks_All_2_13"
+	},
+	"Sticks_All_2_14": {
+		"name": "กาลอวกาศแห่งอาณาเขตที่ 9",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer014.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_2_14"
+	},
+	"Sticks_All_2_15": {
+		"name": "เครือข่ายกาลอวกาศ",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/summer/Icon_DecalsSummer015.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_2_15"
+	},
+	"Sticks_All_3_1": {
+		"name": "ช่อดอกไม้สีฟ้าอ่อน",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_01.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_1"
+	},
+	"Sticks_All_3_2": {
+		"name": "ดอกไม้แห้ง · กิเลนมรกต",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_02.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_2"
+	},
+	"Sticks_All_3_3": {
+		"name": "ตราประทับด้ามไม้",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_3"
+	},
+	"Sticks_All_3_4": {
+		"name": "ตราสีแดงหอคอยแฟนตาซี",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_04.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_4"
+	},
+	"Sticks_All_3_5": {
+		"name": "เครื่องฉายภาพ",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_5"
+	},
+	"Sticks_All_3_6": {
+		"name": "เชิงเทียนยุคกลาง",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_07.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_6"
+	},
+	"Sticks_All_3_7": {
+		"name": "โคมไฟแบบพกพาสไตล์วินเทจ",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_08.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_7"
+	},
+	"Sticks_All_3_8": {
+		"name": "กล้องดิจิตอล",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_09.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_8"
+	},
+	"Sticks_All_3_9": {
+		"name": "ตราประทับย้อนยุค",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_10.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_9"
+	},
+	"Sticks_All_3_10": {
+		"name": "แทงระเบิดแล้ว",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_11.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_10"
+	},
+	"Sticks_All_3_11": {
+		"name": "จดหมายจากแดนไกล",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_13.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_11"
+	},
+	"Sticks_All_3_12": {
+		"name": "ฟิล์มย่อยส่วน",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Icon_Decals_XJ_06.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_12"
+	},
+	"Sticks_All_3_13": {
+		"name": "ฟิล์มกล้อง",
+		"description": "สามารถใช้ปลดล็อกนามบัตร**•** สติกเกอร์",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/All/Camera/Img_Decals_XJ_13.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "Sticks_All_3_13"
 	},
 	"Hacker_Norn_Power_021": {
 		"name": "ลูกสมุนโปร่งใส",
@@ -55074,7 +56509,7 @@
 		"name": "ใบเสร็จที่สูญหาย",
 		"description": "ใบเสร็จที่ตกอยู่บนทางเดิน รวบรวมมันแล้วไปแลกรางวัลกับพนักงานขายของแอสเพอเรียสีเขียวกันเถอะ!",
 		"rarity": 4,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/item_hide_yaxianew_trade03.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Norn/item_hide_yaxianew_trade05.webp",
 		"type": "QUEST",
 		"source": [
 			"ค้นหาด้วยเซนเซอร์ทอง"
@@ -55252,8 +56687,8 @@
 		"id": "item_hide_yaxianew_fenweibox04"
 	},
 	"item_hide_yaxianew_nuoyuan01": {
-		"name": "บัตรแลกเปลี่ยนทั่วไป",
-		"description": "บัตรแลกเปลี่ยนที่ดูเรียบง่าย หลังจากแลกเปลี่ยนบัตรนี้ที่ร้านค้า การใช้งานจะได้รับนอร์นเล็กน้อย",
+		"name": "บัตรแลกเปลี่ยนขั้นสูง",
+		"description": "การ์ดแลกเปลี่ยนที่ส่องสว่าง หลังจากแลกเปลี่ยนการ์ดนี้ที่ร้านค้า การใช้งานจะได้รับนอร์นจำนวนมาก",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_red.webp",
 		"type": "GIFT",
@@ -55274,8 +56709,8 @@
 		"id": "item_hide_yaxianew_nuoyuan02"
 	},
 	"item_hide_yaxianew_nuoyuan03": {
-		"name": "บัตรแลกเปลี่ยนขั้นสูง",
-		"description": "การ์ดแลกเปลี่ยนที่ส่องสว่าง หลังจากแลกเปลี่ยนการ์ดนี้ที่ร้านค้า การใช้งานจะได้รับนอร์นจำนวนมาก",
+		"name": "บัตรแลกเปลี่ยนทั่วไป",
+		"description": "บัตรแลกเปลี่ยนที่ดูเรียบง่าย หลังจากแลกเปลี่ยนบัตรนี้ที่ร้านค้า การใช้งานจะได้รับนอร์นเล็กน้อย",
 		"rarity": 2,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_greener.webp",
 		"type": "GIFT",
@@ -55327,13 +56762,97 @@
 		"id": "Title_2_8_0_6"
 	},
 	"Mount_Racing_003_guo": {
-		"name": "นักเดินทางแห่งสายลม",
+		"name": "วินด์รันเนอร์",
 		"description": "\"ฉันคือเรือ\" คือประกาศของมัน มันท้าลมพายุว่าใครจะเป็นผู้ครองความเร็ว",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/zuoqi_saiche_128.webp",
 		"type": "MOUNT",
-		"source": [],
+		"source": [
+			"ได้รับจากกิจกรรมกล่องปริศนาวินด์รันเนอร์"
+		],
 		"id": "Mount_Racing_003_guo"
+	},
+	"Item_norn_sidequest_v431101": {
+		"name": "ตุ๊กตาน่ารัก",
+		"description": "ตุ๊กตาน่ารักที่ชื่อดอโรธี มีตาสีน้ำตาลใหญ่ๆ และขนนุ่มนิ่ม ซึ่งเป็นเพื่อนที่ดีสำหรับเด็กๆ",
+		"rarity": 1,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/ImitationGift/UI_jingdu_icon_tuzi_256.webp",
+		"type": "QUEST",
+		"source": [],
+		"id": "Item_norn_sidequest_v431101"
+	},
+	"meilierx": {
+		"name": "เมอริล ไอรอนฮาร์ท",
+		"description": "เมอริลที่ติดอาวุธเต็มที่ปรากฏตัวอีกครั้งในกริดเน็ต พบกับเพื่อนเก่า",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_meilierkai.webp",
+		"type": "AVATAR",
+		"source": [],
+		"id": "meilierx"
+	},
+	"meilierx_lv2": {
+		"name": "เมอริล ไอรอนฮาร์ท: ปลุกพลัง",
+		"description": "ฉันได้หาเจอสิ่งที่ต้องการแล้ว...",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_meilierkai2.webp",
+		"type": "AVATAR",
+		"source": [],
+		"id": "meilierx_lv2"
+	},
+	"SelfCardParticle_1": {
+		"name": "ปีที่ผ่านไป",
+		"description": "ใช้ในการปลดล็อกนามบัตรส่วนตัว**•** เอฟเฟกต์พิเศษ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_345.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "SelfCardParticle_1"
+	},
+	"SelfCardParticle_2": {
+		"name": "แฟนตาซี",
+		"description": "ใช้ในการปลดล็อกนามบัตรส่วนตัว**•** เอฟเฟกต์พิเศษ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_346.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "SelfCardParticle_2"
+	},
+	"SelfCardParticle_3": {
+		"name": "จอแฟลชแบบเก่า",
+		"description": "ใช้ในการปลดล็อกนามบัตรส่วนตัว**•** เอฟเฟกต์พิเศษ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_346_1.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "SelfCardParticle_3"
+	},
+	"SelfCardParticle_4": {
+		"name": "คลื่นไฟฟ้าวิญญาณ",
+		"description": "ใช้ในการปลดล็อกนามบัตรส่วนตัว**•** เอฟเฟกต์พิเศษ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_347.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ชนแก้ว! รับจากกิจกรรมซัมเมอร์แดนซ์!"
+		],
+		"id": "SelfCardParticle_4"
+	},
+	"SelfCardParticle_5": {
+		"name": "ดาวประกาย",
+		"description": "ใช้ในการปลดล็อกนามบัตรส่วนตัว**•** เอฟเฟกต์พิเศษ",
+		"rarity": 3,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/mingpian/Particle/icon_effect_348.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรมความน่าจะเป็นแห่งการปะทะ"
+		],
+		"id": "SelfCardParticle_5"
 	},
 	"fragment_chat_Action_km3_os": {
 		"name": "กระต่ายสุดน่ารัก",
@@ -57882,6 +59401,15 @@
 		"source": [],
 		"id": "Nora_superpower_trial_OS"
 	},
+	"MerylX_thunder_trial_OS": {
+		"name": "ซีจเอดจ์ \"24H\"",
+		"description": "อาวุธที่สามารถเปลี่ยนรูปทรงที่ไฮครอสพัฒนาขึ้น มีการออกแบบที่ละเอียดยิบ และประสิทธิภาพที่ยอดเยี่ยม แต่เนื่องจากโครงสร้างที่ซับซ้อน ทำให้ยากต่อการผลิตจำนวนมาก \"ระเบิดเมือง โจมตีป้อมปราการ ดาบเพียงเล่มเดียวก็เพียงพอ\" นี่คือคำวิจารณ์ที่ทีมผู้ออกแบบให้มา",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Icon/item_Weapon_SSR_meilierkai.webp",
+		"type": "WEAPON",
+		"source": [],
+		"id": "MerylX_thunder_trial_OS"
+	},
 	"bag_LizhouOpenSign_1_OS": {
 		"name": "กล่องของขวัญทะเลเมฆ I",
 		"description": "ของขวัญพิเศษสำหรับผู้ปฏิบัติการที่จวนหลีโจวเตรียมไว้ให้",
@@ -58007,6 +59535,15 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_frag_BP17_OS"
+	},
+	"choose_frag_BP20_OS": {
+		"name": "กล่องเศษรีลิคบัตรพาส IX",
+		"description": "กล่องเลือกเอง",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/gift_artifact_frag_ssr.webp",
+		"type": "CHOOSE",
+		"source": [],
+		"id": "choose_frag_BP20_OS"
 	},
 	"choose_frag_ssr_2_OS": {
 		"name": "กล่องเศษรีลิค SSR II",
@@ -58289,7 +59826,7 @@
 		"description": "นุ่มนวล, เบา และที่สำคัญที่สุดคือสวย!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Mount/Mount_022.webp",
-		"type": "MOUNT",
+		"type": "MATERIAL",
 		"source": [
 			"From events"
 		],
@@ -60088,7 +61625,7 @@
 		"id": "Blindbox_4_OS_pack"
 	},
 	"Blindbox_coin_5_OS": {
-		"name": "แสตมป์กล่องปริศนาริมทะเล",
+		"name": "แสตมป์กล่องปริศนา·ลมทะเล",
 		"description": "ซื้อกล่องปริศนาและรับแสตมป์ฟรี การสะสมแสตมป์และการใช้มันเป็นเหมือนกับการทำพิธีกรรมอย่างหนึ่งที่ต้องทำเสมอๆ",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Blindbox_coin_01.webp",
@@ -60115,7 +61652,7 @@
 		"id": "Blindbox_5_OS_pack"
 	},
 	"Blindbox_coin_6_OS": {
-		"name": "แสตมป์กล่องปริศนา · ฤดูร้อน",
+		"name": "แสตมป์กล่องปริศนา·แฟชั่นฤดูร้อน",
 		"description": "ซื้อกล่องปริศนาและรับแสตมป์ฟรี การสะสมแสตมป์และการใช้มันเป็นเหมือนกับการทำพิธีกรรมอย่างหนึ่งที่ต้องทำเสมอๆ",
 		"rarity": 3,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/Blindbox_coin_01.webp",
@@ -60124,7 +61661,7 @@
 		"id": "Blindbox_coin_6_OS"
 	},
 	"Blindbox_6_OS": {
-		"name": "กล่องสุ่มชุด · แฟชั่นฤดูร้อน",
+		"name": "กล่องสุ่มชุด·แฟชั่นฤดูร้อน",
 		"description": "กล่องของขวัญแบบลิมิเต็ดที่ได้รับความนิยมมากที่สุด ในยามที่เปิดกล่องของขวัญ คุณจะรู้สึกได้ถึงความคาดหวังและความลุ้นระทึกปะปนกันทุกครั้งไป",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
@@ -60133,7 +61670,7 @@
 		"id": "Blindbox_6_OS"
 	},
 	"Blindbox_6_OS_pack": {
-		"name": "กล่องสุ่มชุด · แฟชั่นฤดูร้อน",
+		"name": "กล่องสุ่มชุด·แฟชั่นฤดูร้อน",
 		"description": "กล่องของขวัญแบบลิมิเต็ดที่ได้รับความนิยมมากที่สุด ในยามที่เปิดกล่องของขวัญ คุณจะรู้สึกได้ถึงความคาดหวังและความลุ้นระทึกปะปนกันทุกครั้งไป",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
@@ -60142,7 +61679,7 @@
 		"id": "Blindbox_6_OS_pack"
 	},
 	"Blindbox_5_hazx_OS": {
-		"name": "ดาวของชายหาด",
+		"name": "ดวงดาวชายฝั่ง",
 		"description": "ให้แสงแดดส่องสว่างในหัวใจของคุณ ของที่ระลึกจากปาร์ตี้ที่ชายหาด ทุกๆ ช่วงเวลาเต็มไปด้วยความประหลาดใจ!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",
@@ -60151,7 +61688,7 @@
 		"id": "Blindbox_5_hazx_OS"
 	},
 	"Blindbox_5_hazx_OS_pack": {
-		"name": "ดาวของชายหาด",
+		"name": "ดวงดาวชายฝั่ง",
 		"description": "ให้แสงแดดส่องสว่างในหัวใจของคุณ ของที่ระลึกจากปาร์ตี้ที่ชายหาด ทุกๆ ช่วงเวลาเต็มไปด้วยความประหลาดใจ!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",
@@ -60190,6 +61727,17 @@
 		],
 		"id": "Avatar_Overseas_42"
 	},
+	"Avatar_ps_03": {
+		"name": "ขอบคุณที่ร่วมทาง",
+		"description": "สำหรับการร่วมทางไปกับเราในทุกช่วงเวลา!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/icon_Avatar_Ps_03.webp",
+		"type": "AVATAR",
+		"source": [
+			"ได้รับในกิจกรรม"
+		],
+		"id": "Avatar_ps_03"
+	},
 	"AvatarFrame_tencent_09": {
 		"name": "หมากกระดานนี้ยังคงเดินต่อ",
 		"description": "ยังไม่รู้ผลแพ้ชนะ",
@@ -60212,6 +61760,17 @@
 		],
 		"id": "AvatarFrame_tencent_10"
 	},
+	"AvatarFrame_PlayStation_03": {
+		"name": "ขอบคุณสำหรับความทุ่มเท",
+		"description": "สำหรับความทุ่มเทของคุณ ที่ทำให้โลกของเราช่างแสนสดใสและน่าตื่นเต้น!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_PlayStation_03i.webp",
+		"type": "FRAME",
+		"source": [
+			"ได้รับจากกิจกรรม"
+		],
+		"id": "AvatarFrame_PlayStation_03"
+	},
 	"chat_qipao_tencent_04": {
 		"name": "มิตรภาพที่เบ่งบาน ",
 		"description": "พวกเรามาปลูกดอกไม้ด้วยกันเถอะ! พวกมันจะต้องเบ่งบานไปทั่วทั้งไอดาแน่นอน",
@@ -60222,6 +61781,17 @@
 			"ได้รับจากกิจกรรม"
 		],
 		"id": "chat_qipao_tencent_04"
+	},
+	"chat_qipao_ps_03": {
+		"name": "ขอบคุณที่อยู่เคียงข้าง",
+		"description": "สำหรับการอยู่เคียงข้างเรา มามุ่งสู่อนาคตไปด้วยกันเถอะนะ!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_ps_03.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรม"
+		],
+		"id": "chat_qipao_ps_03"
 	},
 	"Title_KoreaAnniversary07": {
 		"name": "หัวหน้าทีม",
@@ -60289,6 +61859,149 @@
 		"type": "CHOOSE",
 		"source": [],
 		"id": "choose_chat_miaaction_4_OS"
+	},
+	"Avatar_Overseas_44": {
+		"name": "นอร่ายิ้ม",
+		"description": "นอร่า, ฟันยาว, บอส, คุณต้องการเรียกอย่างไรก็ตามคุณต้องการ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/icon_Avatar_Overseas_44.webp",
+		"type": "AVATAR",
+		"source": [
+			"From events"
+		],
+		"id": "Avatar_Overseas_44"
+	},
+	"Avatar_Overseas_45": {
+		"name": "ความประหลาดใจวันเกิดของมีอา",
+		"description": "Mi-a ชอบปาร์ตี้วันเกิดที่มีความรื่นเริงมากที่สุด คุณสัญญาว่าจะมาเข้าร่วมด้วยนะ?",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/icon_Avatar_Overseas_45.webp",
+		"type": "AVATAR",
+		"source": [
+			"From events"
+		],
+		"id": "Avatar_Overseas_45"
+	},
+	"AvatarFrame_tencent_12": {
+		"name": "ขโมยหัวใจ",
+		"description": "ถ้าไม่ซ่อนไว้ดีๆ ฉันจะขโมยมันไปนะ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_12.webp",
+		"type": "FRAME",
+		"source": [
+			"ได้รับจากกิจกรรม"
+		],
+		"id": "AvatarFrame_tencent_12"
+	},
+	"AvatarFrame_tencent_13": {
+		"name": "ผู้บุกเบิกไอดา 6",
+		"description": "รางวัลครีเอเตอร์ยอดเยี่ยมผู้บุกเบิกไอดาเฟสที่หก",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_13.webp",
+		"type": "FRAME",
+		"source": [
+			"ได้รับจากกิจกรรม"
+		],
+		"id": "AvatarFrame_tencent_13"
+	},
+	"AvatarFrame_tencent_14": {
+		"name": "มีอาที่ปรบมือดีใจ",
+		"description": "มาจับคันเฟอร์เนียออนไปด้วยกับมิอากันเถอะ แล้วมาร่วมอวยพรวันเกิดครบรอบ 2 ปีของหอคอยแฟนตาซีด้วยกัน!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_14.webp",
+		"type": "FRAME",
+		"source": [
+			"ได้รับจากกิจกรรม"
+		],
+		"id": "AvatarFrame_tencent_14"
+	},
+	"chat_qipao_tencent_05": {
+		"name": "ความอบอุ่นในการคอยครบรอบสองปี",
+		"description": "ขอบคุณที่เดินทางไปกับ Mi-a ในการเดินทางที่อบอุ่นนี้มาตลอดเวลา",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/chat/qipao/icon_qipao_tencent_05.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"ได้รับจากกิจกรรม"
+		],
+		"id": "chat_qipao_tencent_05"
+	},
+	"Title_iwshare_os_8": {
+		"name": "ฉันอายุสองปีในปีนี้",
+		"description": "1, 2... (นับด้วยนิ้วมือ, สุขสันต์วันครบรอบสองปีหอคอยแฟนตาซี~",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"นำไปเผยแพร่ในคอมมูนิตี้ปฏิบัติการ"
+		],
+		"id": "Title_iwshare_os_8"
+	},
+	"Title_tencentshare_os_12": {
+		"name": "เหงื่อหอมระเหย",
+		"description": "ปลดล็อกจบของวิดีโอโต้ตอบครบรอบ 2 ปี: เมอริลที่เหงื่อตก",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_12"
+	},
+	"Title_tencentshare_os_13": {
+		"name": "ชอบกินไอศกรีม",
+		"description": "ปลดล็อควิดีโอโต้ตอบในครบรอบ 2 ปี: แน่นอนว่าฤดูร้อนต้องเพลิดเพลินกับไอศกรีม",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_13"
+	},
+	"Title_tencentshare_os_14": {
+		"name": "สาวป่าของฉัน",
+		"description": "ปลดล็อกวิดีโอโต้ตอบในครบรอบ 2 ปี: ถูกตีแต่รู้สึกมีความสุขมาก",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_14"
+	},
+	"Title_tencentshare_os_15": {
+		"name": "พระจันทร์บอกฉัน",
+		"description": "ปลดล็อควิดีโอโต้ตอบในครบรอบ 2 ปี: ความจริงจากใจของฉัน, การผจญภัยใหญ่ของเธอ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_15"
+	},
+	"Title_tencentshare_os_16": {
+		"name": "ToF&u",
+		"description": "ปลดล็อกกิจกรรมชุมชนพิเศษ",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/pet/pet_chip_0101.webp",
+		"type": "CONSUMABLE",
+		"source": [
+			"From events"
+		],
+		"id": "Title_tencentshare_os_16"
+	},
+	"AvatarFrame_tencent_15": {
+		"name": "ฤดูร้อนเย็นสบาย",
+		"description": "แสงแดด, ชายหาด, ปาร์ตี้, ฉันมาแล้ว!",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_i_15.webp",
+		"type": "FRAME",
+		"source": [
+			"ได้รับจากกิจกรรม"
+		],
+		"id": "AvatarFrame_tencent_15"
 	},
 	"artifact_ssr_001": {
 		"name": "แขนคอลอสซัส",
@@ -60471,6 +62184,15 @@
 		"type": "ARTIFACT",
 		"source": [],
 		"id": "artifact_ssr_023"
+	},
+	"artifact_ssr_024": {
+		"name": "สนามพลังบัฟ",
+		"description": "",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"type": "ARTIFACT",
+		"source": [],
+		"id": "artifact_ssr_024"
 	},
 	"artifact_sr_001": {
 		"name": "ปืนใหญ่บินร่อน",

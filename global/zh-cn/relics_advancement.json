@@ -356,7 +356,7 @@
 		"id": "artifact_adv_016"
 	},
 	"1107": {
-		"description": "每**100**秒恢复1次充能，滑翔不消耗耐力",
+		"description": "每**20**秒恢复1次充能，滑翔不消耗耐力",
 		"id": "artifact_adv_015"
 	},
 	"1109": {
@@ -364,7 +364,7 @@
 		"id": "artifact_adv_015"
 	},
 	"1110": {
-		"description": "每**60**秒恢复1次充能",
+		"description": "每**15**秒恢复1次充能",
 		"id": "artifact_adv_015"
 	},
 	"1111": {
@@ -1140,23 +1140,23 @@
 		"id": "artifact_adv_047"
 	},
 	"1327": {
-		"description": "dasd",
+		"description": "防御形态下减伤效果提升至**20%**。",
 		"id": "artifact_adv_048"
 	},
 	"1328": {
-		"description": "ggsfds",
+		"description": "进攻形态下增伤效果提升至**11%**。",
 		"id": "artifact_adv_048"
 	},
 	"1329": {
-		"description": "asdaw",
+		"description": "防御形态下抵挡致死效果的触发间隔缩短至每隔**120**秒至多触发一次。",
 		"id": "artifact_adv_048"
 	},
 	"1330": {
-		"description": "wwedqd",
+		"description": "提升**2%**异能抗性，不上阵也生效，巅峰联赛中不生效。",
 		"id": "artifact_adv_048"
 	},
 	"1331": {
-		"description": "adasdasdas",
+		"description": "进攻形态下增伤效果提升至**16%**。",
 		"id": "artifact_adv_048"
 	}
 }

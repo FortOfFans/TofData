@@ -265,13 +265,13 @@
 	},
 	"WeaponFragmentUP1": {
 		"name": "Or ardent : Lotus rouge",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP1"
 	},
 	"WeaponFragmentUP2": {
 		"name": "Or de feu : Brasier",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP2"
 	},
@@ -301,109 +301,109 @@
 	},
 	"WeaponFragmentUP3": {
 		"name": "Or ardent : Lune blanche",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP3"
 	},
 	"WeaponFragmentUP4": {
 		"name": "Or ardent : Aube",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP4"
 	},
 	"WeaponFragmentUP5": {
 		"name": "Or ardent : Renaissance",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP5"
 	},
 	"WeaponFragmentUP6": {
 		"name": "Or ardent : Cœur de fer",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP6"
 	},
 	"WeaponFragmentUP7": {
 		"name": "Or ardent : Soleil",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP7"
 	},
 	"WeaponFragmentUP8": {
 		"name": "Or ardent : Flux",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP8"
 	},
 	"WeaponFragmentUP9": {
 		"name": "Or ardent : Ombre",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale. Échangeable contre des armes en quantité limitée.\r\nLes lumières éblouissantes qui sont réfractées semblent ne jamais s'éteindre.",
+		"description": "Jeton forgé par des forgerons à partir d'armes à omnium recyclées spécifiques. Plus comme des œuvres d'art qu'une monnaie, celles-ci peuvent être échangées contre des armes exclusives. Échangeable contre des armes en quantité limitée.\r\nLes lumières éblouissantes réfractées sans fin mais effrayamment ne s'éteignent jamais.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP9"
 	},
 	"WeaponFragmentUP10": {
 		"name": "Or ardent : Supercherie",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP10"
 	},
 	"WeaponFragmentUP11": {
 		"name": "Or ardent : Cireux",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP11"
 	},
 	"WeaponFragmentUP12": {
 		"name": "Or ardent : Étoiles",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP12"
 	},
 	"WeaponFragmentUP13": {
 		"name": "Or ardent : Décret",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP13"
 	},
 	"WeaponFragmentUP14": {
 		"name": "Or ardent : Fusion",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP14"
 	},
 	"WeaponFragmentUP15": {
 		"name": "Or ardent (Millet à thé)",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP15"
 	},
 	"WeaponFragmentUP16": {
 		"name": "Or ardent : Mouvement",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP16"
 	},
 	"WeaponFragmentUP17": {
 		"name": "Or ardent : Plume vermillon",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP17"
 	},
 	"WeaponFragmentUP18": {
 		"name": "Or ardent",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP18"
 	},
 	"WeaponFragmentUP19": {
 		"name": "Or ardent",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP19"
 	},
 	"WeaponFragmentUP20": {
 		"name": "Or ardent : Constante",
-		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
+		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. Plus comme des œuvres d'art qu'une monnaie, ceux-ci peuvent être échangés contre des armes exclusives.",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/huobi/weaponfragment_up.webp",
 		"id": "WeaponFragmentUP20"
 	},

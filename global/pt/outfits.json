@@ -1,8 +1,25 @@
 {
+	"fashion_dress_73": {
+		"name": "Momentos Ociosos",
+		"description": "Pause todas as atividades de trabalho e estudo. Está na hora de descansar. Vamos fazer uma pausa por... um século!",
+		"type": "Dress",
+		"source": "Em eventos",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"id": "fashion_dress_73"
+	},
+	"fashion_dress_74": {
+		"name": "Flores no Céu Limpo",
+		"description": "Um pássaro dispara pelo céu claro, penas espiralando para baixo com as flores caindo, despertando o viajante adormecido sob a árvore.",
+		"type": "Dress",
+		"source": "Disponível temporariamente no Passe Avançado",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"id": "fashion_dress_74"
+	},
 	"fashion_dress_72": {
 		"name": "Especial de Verão",
 		"description": "Qual é a sua impressão do verão: doce ou azedo? É quente e ensolarado ou relaxante como uma brisa do mar? É difícil definir, então por que não misturar todos esses sentimentos, vê-los se transformar em bolhas rosas e engolir tudo?",
 		"type": "Dress",
+		"source": "Obtido no evento gachapon Especial de Verão",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_Swim_2024.webp",
 		"id": "fashion_dress_72"
 	},
@@ -1266,9 +1283,17 @@
 		"name": "Asas Mecânicas Néon",
 		"description": "Abra as asas e voe alto. Um arco-íris corta a noite chuvosa, proclamando o rei da cidade.",
 		"type": "Glider",
-		"source": "Edição Limitada de 2.º Aniversário",
+		"source": "Obtido no 2º aniversário",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"id": "fashion_glider_5"
+	},
+	"fashion_glider_SP": {
+		"name": "Arco Noturno",
+		"description": "A última lenda urbana, um arco-íris que só aparece à noite, é na verdade a criação desta mochila a jato. Quanto a quem está por trás disso... isso continua um mistério.",
+		"type": "Glider",
+		"source": "Em eventos",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"id": "fashion_glider_SP"
 	},
 	"fashion_skateboard_1": {
 		"name": "Prancha a Jato 2",

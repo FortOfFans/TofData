@@ -1,8 +1,25 @@
 {
+	"fashion_dress_73": {
+		"name": "Moments d'inactivité",
+		"description": "Mettez en pause toutes les activités de travail et d'étude. Il est temps de se reposer. Faisons une pause pour … un siècle !",
+		"type": "Dress",
+		"source": "À partir des événements",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"id": "fashion_dress_73"
+	},
+	"fashion_dress_74": {
+		"name": "Floraisons célestes",
+		"description": "Un oiseau file à travers le ciel clair, des plumes spirales descendant avec les fleurs tombantes, réveillant le voyageur somnolant sous l'arbre.",
+		"type": "Dress",
+		"source": "Disponible pour une durée limitée via le Pass avancé",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"id": "fashion_dress_74"
+	},
 	"fashion_dress_72": {
 		"name": "Tenue estivale",
-		"description": "Quelle est votre impression de l'été : doux ou acidulé ? Est-il chaud et ensoleillé ou décontracté comme une brise marine ? C'est difficile à définir, alors pourquoi ne pas mélanger tous ces sentiments ensemble, les regarder se transformer en bulles roses, et tout avaler ?",
+		"description": "Quelle est votre impression de l'été : doux ou acidulé ? Est-il chaud et ensoleillé ou décontracté comme une brise marine ? C'est difficile à définir, alors pourquoi ne pas mélanger tous ces sentiments, les regarder se transformer en bulles roses, et tout avaler ?",
 		"type": "Dress",
+		"source": "S'obtient lors de l'événement gachapon Tenue estivale",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_Swim_2024.webp",
 		"id": "fashion_dress_72"
 	},
@@ -1266,9 +1283,17 @@
 		"name": "Ailes mécha-néon",
 		"description": "Déployez vos ailes et prenez votre envol. Un arc-en-ciel traverse la nuit pluvieuse, annonçant la nomination du roi de la ville.",
 		"type": "Glider",
-		"source": "Édition limitée du 2e anniversaire",
+		"source": "S'obtient lors du 2ème anniversaire",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"id": "fashion_glider_5"
+	},
+	"fashion_glider_SP": {
+		"name": "Arc de nuit",
+		"description": "La dernière légende urbaine, un arc-en-ciel qui n'apparaît que la nuit, est en réalité la création de ce jetpack. Quant à savoir qui est derrière tout ça … cela reste un mystère.",
+		"type": "Glider",
+		"source": "À partir des événements",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"id": "fashion_glider_SP"
 	},
 	"fashion_skateboard_1": {
 		"name": "Jetboard : 2",

@@ -437,7 +437,7 @@
 		"array": [
 			{
 				"title": "Vôlei de praia",
-				"description": "Após o início da competição, por favor, vá para a quadra de vôlei de praia para se preparar. Cada equipe nesta competição tem um número fixo de dois membros, e não são permitidas substituições durante a partida. A competição adota o sistema de pontuação por rally e o sistema de pontuação por side-out. A equipe que pontua ganha o direito de sacar a próxima bola, e os dois jogadores da mesma equipe alternam o saque.",
+				"description": "Após o início da competição, por favor, vá para a quadra de vôlei de praia para se preparar. Cada equipe nesta competição tem um número fixo de dois membros, e não são permitidas substituições durante a partida. A competição adota o sistema de pontuação por rally e o sistema de pontuação por side-out. A equipe que marca ganha o direito de sacar a próxima bola, e os dois jogadores da mesma equipe alternam o saque.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info1.webp"
 			},
 			{
@@ -457,12 +457,12 @@
 			},
 			{
 				"title": "Vôlei de praia",
-				"description": "Se você quiser adotar uma estratégia ofensiva mais agressiva, você pode usar o botão Espeto. Neste caso, você deve estar bem preparado, julgar a direção da bola, pular com antecedência e então pressionar o botão espeto no ar para entrar no estado Espeto, e a velocidade da bola se tornará mais rápida durante o espeto. É necessário prestar atenção na direção do salto e no momento do espeto, caso contrário, o espeto não pode ser concluído. Depois que um colega passa a bola, quando a distância da bola é apropriada, você vai acender. Neste momento, saltar vai acionar a assistência do espeto. Quando entrar com sucesso na área de espeto, um espeto será acionado automaticamente.",
+				"description": "Se você deseja adotar uma estratégia ofensiva mais agressiva, pode usar o botão Espeto. Nesse caso, você deve estar bem preparado, julgar a direção da bola, pular com antecedência e, em seguida, pressionar o botão Espeto no ar para entrar no estado de Espeto, e a velocidade da bola se tornará mais rápida durante o espeto. É necessário prestar atenção na direção do salto e no momento do espeto, caso contrário, o espeto não pode ser concluído. Depois que um colega passa a bola, quando a distância da bola é apropriada, você vai acender. Neste momento, saltar vai acionar a assistência do espeto. Quando entrar com sucesso na área de espeto, um espeto será acionado automaticamente.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info5.webp"
 			},
 			{
 				"title": "Vôlei de praia",
-				"description": "Quando o adversário acerta a bola e você está na quadra da frente, tocar para pular exibirá o botão Bloquear. Pressioná-lo acionará a ação de bloqueio, que pode interceptar a bola acertada pelo adversário no ar. Bloquear requer que você preveja a trajetória do golpe do adversário e o tempo de bloqueio.",
+				"description": "Quando o adversário acerta a bola e você está na quadra da frente, tocar para pular exibirá o botão de bloqueio. Pressioná-lo acionará a ação de bloqueio, que pode interceptar a bola acertada pelo adversário no ar. Bloquear requer que você preveja a trajetória do golpe do adversário e o tempo de bloqueio.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info6.webp"
 			}
 		],
@@ -2598,7 +2598,7 @@
 		"array": [
 			{
 				"title": "Nola: Estrondo",
-				"description": "Desbloqueie o Estrondo para se aventurar no mundo da Torre da Fantasia como Nola, o Simulacro da arma.",
+				"description": "Desbloqueie o Estrondo para se aventurar no mundo de Tower of Fantasy como Nola, o Simulacro da arma.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/pt/Resources/UI/Scenery/monster/UI_Nitai_nuola_SSR_L10N.webp"
 			},
 			{
@@ -2724,6 +2724,25 @@
 		"menuId": "imitate_role",
 		"menuType": "Weapon",
 		"id": "Nitai_Loslyn_SSR"
+	},
+	"Nitai_MerylX_SSR": {
+		"name": "Meryl Coração de Ferro",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
+		"array": [
+			{
+				"title": "Meryl Coração de Ferro: Gume de Cerco",
+				"description": "Desbloqueie o Gume de Cerco para se aventurar no mundo de Tower of Fantasy como Meryl Coração de Ferro, o Simulacro da arma.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/pt/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "Meryl Coração de Ferro: Gume de Cerco",
+				"description": "Instruções para Gume de Cerco. Aprenda a usar as habilidades deste tipo de arma.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/pt/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"menuId": "imitate_role",
+		"menuType": "Weapon",
+		"id": "Nitai_MerylX_SSR"
 	},
 	"Nitai_tianlang_SSR": {
 		"name": "Tian Lang",
@@ -3010,6 +3029,20 @@
 		"menuType": "WorldExploration",
 		"id": "Guide_MoveShoot"
 	},
+	"Guide_Norn_Bicycle": {
+		"name": "Bicicleta",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
+		"array": [
+			{
+				"title": "Bicicleta",
+				"description": "Alugue uma bicicleta na estação de bicicletas. Use as teclas A/D ou os botões esquerdo/direito para pedalar e acelerar. Mova o mouse ou toque e segure os botões esquerdo/direito no controle para virar. Use a tecla S ou segure o botão para baixo no controle para frear e a tecla V para descer da bicicleta.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_Bicycle.webp"
+			}
+		],
+		"menuId": "WorldExplore",
+		"menuType": "WorldExploration",
+		"id": "Guide_Norn_Bicycle"
+	},
 	"Guide_Norn_CD": {
 		"name": "Projetor de batalhas",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
@@ -3133,7 +3166,7 @@
 		"array": [
 			{
 				"title": "Conchas na areia",
-				"description": "Conchas especiais com funções monetárias. O antigo método de troca será reproduzido nesta praia. Depois de coletar conchas especiais, o Coletor de Valvas irá calcular cuidadosamente o valor delas e negociar com você usando os itens disponíveis.",
+				"description": "Conchas especiais com funções monetárias. O antigo método de troca será reproduzido nesta praia. Depois de coletar conchas especiais, o Coletor de Conchas calculará cuidadosamente o valor delas e negociará com você usando os itens disponíveis.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/WorldShellSummon.webp"
 			}
 		],
@@ -3175,7 +3208,7 @@
 		"array": [
 			{
 				"title": "Conflito torrencial",
-				"description": "Aumente a diversão do parque aquático: Toque no Arranjo e participe de um emocionante duelo na água! Tenha cuidado com os oponentes astutos à espreita.",
+				"description": "Aumente a diversão do parque aquático: Toque no Arranjo e participe de um emocionante duelo aquático! Tenha cuidado com os oponentes astutos à espreita.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Worldwaterbattle.webp"
 			}
 		],
@@ -3184,11 +3217,11 @@
 		"id": "Guide_Norn_waterbattle"
 	},
 	"Guide_Norn_WaterFlower": {
-		"name": "Broto da Pedra Gravidade",
+		"name": "Broto da Pedra da Gravidade",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
 		"array": [
 			{
-				"title": "Broto da Pedra Gravidade",
+				"title": "Broto da Pedra da Gravidade",
 				"description": "Um dispositivo mecânico em forma de botão de flor, projetado com bionica e responsivo à gravidade. O botão da flor só abrirá após experimentar força descendente suficiente.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_WaterFlower.webp"
 			}
@@ -3203,7 +3236,7 @@
 		"array": [
 			{
 				"title": "Corrida aquática",
-				"description": "Prepare-se para um espetáculo aquático que vai acelerar seu coração! Use seu skate ou voe dentro do tempo limite designado, manobrando por todos os círculos de dados. O vencedor aguarda uma recompensa emocionante na linha de chegada.",
+				"description": "Prepare-se para um espetáculo aquático emocionante! Use seu skate ou voe dentro do tempo limite designado, manobrando por todos os círculos de dados. O vencedor aguarda uma recompensa emocionante na linha de chegada.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Worldwaterjump.webp"
 			}
 		],
@@ -6118,6 +6151,13 @@
 		"menuType": "All",
 		"id": "Loslyn_ice"
 	},
+	"MerylX_thunder": {
+		"name": "Gume de Cerco",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_wfjq02.webp",
+		"menuId": "EQUIPMENT_SLOT_WEAPON",
+		"menuType": "All",
+		"id": "MerylX_thunder"
+	},
 	"Nitai_mimi_SSR": {
 		"name": "Huang",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -6550,7 +6590,7 @@
 		"array": [
 			{
 				"title": "Vírus de Alteração α",
-				"description": "Uma unidade básica do Vírus de Alteração do tipo terrestre. É a causa raiz da anormalidade na rede Gesthos, causando estragos na camada inferior do sistema da rede. O módulo de firewall não consegue eliminá-lo efetivamente.",
+				"description": "Uma unidade básica do Vírus de Alteração do tipo terrestre. É a causa raiz da anormalidade na rede Gesthos, causando estragos na camada inferior do sistema da rede. O módulo de Firewall não consegue eliminá-lo efetivamente.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/monster/mon_hum_191.webp"
 			}
 		],
@@ -6634,7 +6674,7 @@
 		"array": [
 			{
 				"title": "Mecha de Combate Avançado",
-				"description": "Armamento de combate de alto nível e propósito geral configurado pela Força de Defesa Conjunta, adequado para cenários de extremo risco, como guerras contra o terrorismo, para manter a regra da Federação Nornas.",
+				"description": "Armamento de combate de propósito geral de alto nível configurado pela Força de Defesa Conjunta, adequado para cenários de extremo risco, como guerras contra o terrorismo, para manter a regra da Federação Nornas.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/monster/mon_hum_198.webp"
 			}
 		],

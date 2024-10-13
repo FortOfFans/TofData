@@ -4226,8 +4226,8 @@
 		"id": "Mark_physic_ssr_star_6"
 	},
 	"MerylX_thunder_ssr_star_0": {
-		"advancement": "<shuzhi>Fusion of Frost and Volt</>: Saat senjata menimpakan DMG, DMG dihitung menggunakan ATK Dasar Frost/Volt tertinggi yang terpasang, persentase ATK Frost/Volt tertinggi yang terpasang, dan Frost/Volt DMG Boost tertinggi yang terpasang, dan senjata akan dianggap sebagai senjata Frost dan senjata Volt.\r\n<shuzhi>Resonansi Frost</>: Meningkatkan Frost ATK sebesar <shuzhi>20%</> dan Frost Resistance sebesar <shuzhi>40%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Frost atau lebih. Efek set ini berfungsi pada slot sampingan. Tidak bisa ditumpuk dengan Resonansi Frost atau efek Frost Reaction lainnya, dengan Resonansi Frost sebagai prioritas.\r\n<shuzhi>Resonansi Volt</>: Volt ATK meningkat <shuzhi>20%</> dan Volt Resistance meningkat <shuzhi>40%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Volt atau lebih. Efek set ini berfungsi saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan Resonansi Volt atau efek Volt Reaction lainnya, dengan Resonansi Volt sebagai prioritas.\r\n<shuzhi>Frost Edge: Swift Cut</>: Saat <shuzhi>Calm Waters</> digunakan, skill Discharge senjata apa pun akan menimpakan DMG setara dengan <shuzhi>{0}%</> dari Max HP Wanderer plus <shuzhi>{1}%</> dari Frost ATK plus <shuzhi>{2}%</> dari jumlah seluruh tipe Resistance Wanderer plus <shuzhi>{3}%</> dari crit ke target di sekitar. Saat dalam pertempuran, setelah setiap <shuzhi>0,5</> detik, DMG Swift Cut berikutnya akan bertambah dengan serangan <shuzhi>1</> kali lagi, hingga maks sebanyak <shuzhi>30</> kali. Saat beberapa DMG Swift Cut diberikan, nilai awal tertinggilah yang digunakan dalam perhitungan. DMG Swift Cut juga digolongkan sebagai DMG Skill Discharge. Jika terdapat 1 senjata physical/flame jenis apa pun yang digunakan, DMG Frost Edge bertambah hingga <shuzhi>2,5</> kali. Sebagai tambahan, DMG Frost Edge tidak terpengaruh oleh efek DMG Boost apa pun kecuali dari stat langka Perlengkapan Titan, dan tidak akan memicu efek serangan tambahan.\r\nSetelah Calm Waters dipindahkan ke slot sampingan, menimpakan Burst DMG 1 kali. Jika ada musuh yang memiliki Flashfreeze, serangan ini akan menghapus efek tersebut dan menimpakan DMG slot sampingan terus-menerus selama <shuzhi>{4}</> detik.",
-		"numbermap": "LoslynEffectFigure",
+		"advancement": "<shuzhi>Fusion of Volt and Frost</>: Saat senjata menimpakan DMG, DMG dihitung menggunakan ATK Dasar Volt/Frost tertinggi yang terpasang, persentase ATK Volt/Frost tertinggi yang terpasang, dan Volt/Frost DMG Boost tertinggi yang terpasang, dan senjata akan dianggap sebagai senjata Volt dan senjata Frost.\r\n<shuzhi>Resonansi Volt</>: Meningkatkan Volt ATK sebesar <shuzhi>15%</> dan Volt Resistance sebesar <shuzhi>25%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Volt atau lebih. Efek set ini berfungsi pada slot sampingan. Tidak bisa ditumpuk dengan Resonansi Volt atau efek Volt Reaction lainnya, dengan Resonansi Volt sebagai prioritas.\r\n<shuzhi>Resonansi Frost</>: Meningkatkan Frost ATK sebesar <shuzhi>15%</> dan Frost Resistance sebesar <shuzhi>25%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Frost atau lebih. Efek set ini berfungsi pada slot sampingan. Tidak bisa ditumpuk dengan Resonansi Frost atau efek Frost Reaction lainnya, dengan Resonansi Frost sebagai prioritas.\r\n<shuzhi>Electroblade: Swift Cut</>: Saat menggunakan <shuzhi>Siege Edge</>, Skill Discharge senjata akan menimpakan DMG sebesar <shuzhi>{0}%</> Max HP plus <shuzhi>{1}%</> Volt ATK, plus <shuzhi>{2}%</> jumlah seluruh tipe Resistance Wanderer plus <shuzhi>{3}%</> Crit pada target di sekitar. Saat bertempur, setiap <shuzhi>0,5</> detik, DMG Swift Cut berikutnya akan meningkat <shuzhi>1</> kali lagi, hingga <shuzhi>30</> kali. Jika terdapat beberapa DMG Swift Cut, nilai awal tertinggi akan digunakan untuk perhitungan DMG. DMG Swift Cut dianggap sebagai Discharge Damage. Jika ada Senjata Physical atau Senjata Flame yang terpasang, Volt DMG akan dikalikan <shuzhi>1,3</>. Selain itu, Volt DMG tidak terpengaruh oleh efek DMG Boost apa pun kecuali dari stat langka Equipment Titan, dan tidak akan memicu efek serangan tambahan.\r\n<shuzhi>Sensory Transformation</>:Ketika menyerang selagi <shuzhi>Siege Edge</> terpasang, senjata ini memiliki Greatsword Form dan Longsword Form. Serangan Greatsword Form memberikan Shield sebesar <shuzhi>2%</> Max HP, bertahan selama <shuzhi>5</> detik dan bisa ditumpuk hingga <shuzhi>5</> kali. Serangan Longsword Form memberikan tumpukan Electroblade; kalau sudah mencapai <shuzhi>5</> tumpukan, Electroblade Enhancement aktif, DMG dari skill berikutnya meningkat <shuzhi>100%</>. Electroblade dan Electroblade Enhancement dihapus setelah keluar dari pertempuran.",
+		"numbermap": "MerylXEffectFigure",
 		"multiplicators": [
 			{
 				"PropName": "CommonAtkAdded",
@@ -4248,23 +4248,23 @@
 		],
 		"numbers": [
 			{
-				"key": "LoslynEXChangeWeaponCoefficientMaxHp",
+				"key": "MerylXEXChangeWeaponCoefficientMaxHp",
 				"value": 1
 			},
 			{
-				"key": "LoslynEXChangeWeaponCoefficientIceAttack",
+				"key": "MerylXEXChangeWeaponCoefficientThunderAttack",
 				"value": 1
 			},
 			{
-				"key": "LoslynEXChangeWeaponCoefficientDef",
+				"key": "MerylXEXChangeWeaponCoefficientDef",
 				"value": 1
 			},
 			{
-				"key": "LoslynEXChangeWeaponCoefficientCrit",
+				"key": "MerylXEXChangeWeaponCoefficientCrit",
 				"value": 1
 			},
 			{
-				"key": "LoslynSpecChangeWeaponDotDuration",
+				"key": "MerylXEXChangeWeaponCoefficientCrit",
 				"value": 1
 			}
 		],
@@ -4278,8 +4278,8 @@
 		"id": "MerylX_thunder_ssr_star_0"
 	},
 	"MerylX_thunder_ssr_star_1": {
-		"advancement": "Setelah menggunakan <shuzhi>Frostlink Aura</>, Wanderer akan menerima perisai setara <shuzhi>{0}%</> dari Max HP selama <shuzhi>{1}</> detik.",
-		"numbermap": "LoslynEffectFigure",
+		"advancement": "Ketika <shuzhi>Siege Edge</> terpasang di slot utama, <shuzhi>Chain Static</> berpeluang <shuzhi>{0}%</> untuk memicu Magnetic Tempest, menimpakan DMG sebesar 500% ATK (dianggap sebagai Damage Skill). Efek ini hanya bisa dipicu 1 kali tiap <shuzhi>{1}</> detik.\r\nKetika <shuzhi>Siege Edge</> dipindahkan ke slot sampingan selagi dalam keadaan <shuzhi>Electromagnetic Disruption</>, efek Charge akan terpicu dan bertahan selama <shuzhi>{2}</> detik, menghasilkan <shuzhi>{3}</> Charge Senjata tiap detik.",
+		"numbermap": "MerylXEffectFigure",
 		"multiplicators": [
 			{
 				"PropName": "CommonAtkAdded",
@@ -4300,16 +4300,24 @@
 		],
 		"numbers": [
 			{
-				"key": "LoslynShieldMaxHp",
+				"key": "MerylX_ThunderStorm_ProbabilityL1",
 				"value": 1
 			},
 			{
-				"key": "LoslynShieldDuration",
+				"key": "Buff_MerylX_ThunderStorm_CD",
+				"value": 1
+			},
+			{
+				"key": "Buff_MerylX_WeaponChargeL1_Add_Duration",
+				"value": 1
+			},
+			{
+				"key": "Buff_MerylX_WeaponChargeL1",
 				"value": 1
 			}
 		],
 		"cost": 1000,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -4339,7 +4347,7 @@
 		],
 		"numbers": [],
 		"cost": 2000,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -4348,8 +4356,7 @@
 		"id": "MerylX_thunder_ssr_star_2"
 	},
 	"MerylX_thunder_ssr_star_3": {
-		"advancement": "Saat serangan dengan <shuzhi>Chilling Strike</> mengenai target, menimpakan DMG tambahan sebesar jumlah tumpukan <shuzhi>Chilling Strike</> dikali <shuzhi>{0}%</> ATK.",
-		"numbermap": "LoslynEffectFigure",
+		"advancement": "Skill atau discharge apa pun dari senjata volt, <shuzhi>Solar Shot</>, <shuzhi>Step-Back Shot</>, dan <shuzhi>Magnetoelectric Artillery</> bisa memberikan Energi Spesial. Setelah charge penuh, penggunaan <shuzhi>Magnetic Ray Cannon</> akan menguras habis Energi Spesial dan memperkuat <shuzhi>Electromagnetic Disruption</>: Peluang memicu <shuzhi>Chain Static</> dan <shuzhi>Magnetic Tempest</> meningkat <shuzhi>100%</>.\r\nEnergi Spesial penuh saat memasuki Kondisi Tempur.",
 		"multiplicators": [
 			{
 				"PropName": "CommonAtkAdded",
@@ -4368,14 +4375,9 @@
 				"PropCoefficient": 1.5
 			}
 		],
-		"numbers": [
-			{
-				"key": "LoslynFrozenAddStackDmgMult",
-				"value": 1
-			}
-		],
+		"numbers": [],
 		"cost": 4000,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -4405,7 +4407,7 @@
 		],
 		"numbers": [],
 		"cost": 6000,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -4414,8 +4416,8 @@
 		"id": "MerylX_thunder_ssr_star_4"
 	},
 	"MerylX_thunder_ssr_star_5": {
-		"advancement": "Memperpanjang durasi <shuzhi>Icebound</> menjadi <shuzhi>{0}</> detik. Meningkatkan efek ATK Reduction pada target yang terkena <shuzhi>Flashfrozen</> menjadi <shuzhi>{1}%</>.",
-		"numbermap": "LoslynEffectFigure",
+		"advancement": "Final DMG meningkat <shuzhi>{0}%</>. Efek ini juga berfungsi di slot sampingan.",
+		"numbermap": "MerylXEffectFigure",
 		"multiplicators": [
 			{
 				"PropName": "CommonAtkAdded",
@@ -4436,16 +4438,12 @@
 		],
 		"numbers": [
 			{
-				"key": "Buff_Loslyn_SpecFrozenL1",
+				"key": "Buff_MerylX_DmgUp_L5",
 				"value": 1
-			},
-			{
-				"key": "LoslynSkillDebuffAtkDownL5",
-				"value": -100
 			}
 		],
 		"cost": 9000,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -4454,8 +4452,8 @@
 		"id": "MerylX_thunder_ssr_star_5"
 	},
 	"MerylX_thunder_ssr_star_6": {
-		"advancement": "Setelah menggunakan <shuzhi>Frostlink Aura</>, Wanderer akan mengabaikan <shuzhi>{0}%</> dari Frost Resistance target (Resistansi total setiap elemen yang diabaikan tidak boleh melebihi <shuzhi>50%</>). Sekaligus, meningkatkan Final DMG sebesar <shuzhi>{1}%</> selama <shuzhi>{2}</> detik.",
-		"numbermap": "LoslynEffectFigure",
+		"advancement": "Dalam keadaan <shuzhi>Electromagnetic Disruption</> diperkuat, pengganda damage <shuzhi>Chain Static</> dan <shuzhi>Magnetic Tempest</> meningkat <shuzhi>100%</>.\r\nKetika <shuzhi>Resonansi Fortitude</> terpicu, penggunaan <shuzhi>Cosmic Thunder</> selagi <shuzhi>Electroblade Enhancement</> aktif akan memberi penggunanya dan rekan tim di sekitarnya DMG Reduction <shuzhi>{1}%</> selama <shuzhi>{0}</> detik dan Shield sebesar <shuzhi>{3}%</> Max HP penggunanya, bertahan selama <shuzhi>{2}</> detik.",
+		"numbermap": "MerylXEffectFigure",
 		"multiplicators": [
 			{
 				"PropName": "CommonAtkAdded",
@@ -4476,20 +4474,24 @@
 		],
 		"numbers": [
 			{
-				"key": "Buff_Loslyn_Skill_DmgUp_IgnoreIceDef",
+				"key": "Buff_MerylX_TankSkill_DmgedDown_Duration",
 				"value": 1
 			},
 			{
-				"key": "Buff_Loslyn_Skill_DmgUp",
+				"key": "Buff_MerylX_TankSkill_DmgedDown",
 				"value": 1
 			},
 			{
-				"key": "Buff_Loslyn_Skill_DmgUp_Duration",
+				"key": "Buff_MerylX_TankSkillShield_Duration",
+				"value": 1
+			},
+			{
+				"key": "Buff_MerylX_TankSkillShield_Coff",
 				"value": 1
 			}
 		],
 		"cost": 13500,
-		"need": "Loslyn_ice_plasm",
+		"need": "MerylX_thunder_plasm",
 		"needamt": 1,
 		"stats": {
 			"shatter": 16,
@@ -8797,6 +8799,270 @@
 		},
 		"id": "tianlang_thunder_ssr_star_6"
 	},
+	"Tkatana_fire_ssr_star_0": {
+		"advancement": "<shuzhi>Fusion of Mass and Flame</>: Saat menimpakan DMG dengan Senjata, DMG akan dihitung dengan ATK Dasar tertinggi Senjata Physical/Flame yang terpasang, persentase ATK tertinggi Senjata Physical/Flame yang terpasang, dan DMG Boost tertinggi Senjata Physical/Flame yang terpasang. Senjata akan dianggap Senjata Physical sekaligus Senjata Flame.\r\n<shuzhi>Resonansi Physical</>: Physical ATK meningkat <shuzhi>20%</> dan Physical Resistance meningkat <shuzhi>40%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Physical atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Physical atau efek Physical Reaction lainnya, dengan Resonansi Physical akan diutamakan.\r\n<shuzhi>Resonansi Flame</>: Flame ATK meningkat <shuzhi>20%</> dan Flame Resistance meningkat <shuzhi>40%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Flame atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Flame atau efek Flame Reaction lain, di mana Resonansi Flame akan diutamakan.\r\n<shuzhi>Central Nexus: On-Field</>: Saat menghantam target dengan <shuzhi>Freeflow</>, menimpakan DMG sebesar <shuzhi>{0}%</> Flame ATK plus <shuzhi>{1}%</> Max HP plus <shuzhi>{2}%</> dari jumlah seluruh tipe Resistance Wanderer plus <shuzhi>{3}%</> Crit ke target di sekitar. Bisa terpicu maksimal 1 kali setiap <shuzhi>1,5</> detik. DMG dari Central Nexus dianggap sebagai DMG Serangan Biasa. Jika setidaknya ada <shuzhi>1</> senjata Frost atau Volt yang sedang digunakan, DMG Central Nexus akan dikali <shuzhi>{4}</>. Selain itu, DMG Central Nexus tidak terpengaruh oleh efek DMG Boost apa pun, kecuali dari stat langka Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
+		"numbermap": "DFishChessEffectFigure",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 1
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1
+			}
+		],
+		"numbers": [
+			{
+				"key": "DFishChessSpecialATKCoefficient",
+				"value": 1
+			},
+			{
+				"key": "DFishChessSpecialMaxHPCoefficient",
+				"value": 1
+			},
+			{
+				"key": "DFishChessSpecialDEFCoefficient",
+				"value": 1
+			},
+			{
+				"key": "DFishChessSpecialCritCoefficient",
+				"value": 1
+			},
+			{
+				"key": "DFishChessSpecialFinCoefficient",
+				"value": 1
+			}
+		],
+		"cost": 0,
+		"need": "None",
+		"needamt": null,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_0"
+	},
+	"Tkatana_fire_ssr_star_1": {
+		"advancement": "N/A",
+		"numbermap": "DFishChessEffectFigure",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 1.166667
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1.166667
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1.166667
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1.166667
+			}
+		],
+		"numbers": [
+			{
+				"key": "GameTheory_PerChessDMGUp_Level1",
+				"value": 1
+			},
+			{
+				"key": "GameTheory_MaxChessCount_Level1",
+				"value": 1
+			}
+		],
+		"cost": 1000,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_1"
+	},
+	"Tkatana_fire_ssr_star_2": {
+		"advancement": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <shuzhi>16%</>.",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 1.493333
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1.333333
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1.333333
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1.333333
+			}
+		],
+		"numbers": [],
+		"cost": 2000,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_2"
+	},
+	"Tkatana_fire_ssr_star_3": {
+		"advancement": "N/A",
+		"numbermap": "DFishChessEffectFigure",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 1.66
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1.5
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1.5
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1.5
+			}
+		],
+		"numbers": [
+			{
+				"key": "IgnoreDef_Fire_Level3",
+				"value": 1
+			}
+		],
+		"cost": 4000,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_3"
+	},
+	"Tkatana_fire_ssr_star_4": {
+		"advancement": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <shuzhi>32%</>.",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 2.146667
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1.666667
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1.666667
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1.666667
+			}
+		],
+		"numbers": [],
+		"cost": 6000,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_4"
+	},
+	"Tkatana_fire_ssr_star_5": {
+		"advancement": "N/A",
+		"numbermap": "DFishChessEffectFigure",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 2.313333
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 1.833333
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 1.833333
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 1.833333
+			}
+		],
+		"numbers": [
+			{
+				"key": "BeDMGDown_InGameTheory_Level5",
+				"value": 1
+			},
+			{
+				"key": "FirstAid_Recover_InGameTheory_Level5",
+				"value": 1
+			}
+		],
+		"cost": 9000,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_5"
+	},
+	"Tkatana_fire_ssr_star_6": {
+		"advancement": "N/A",
+		"numbermap": "DFishChessEffectFigure",
+		"multiplicators": [
+			{
+				"PropName": "CommonAtkAdded",
+				"PropCoefficient": 2.48
+			},
+			{
+				"PropName": "ElementDef",
+				"PropCoefficient": 2
+			},
+			{
+				"PropName": "MaxHealthAdded",
+				"PropCoefficient": 2
+			},
+			{
+				"PropName": "CritAdded",
+				"PropCoefficient": 2
+			}
+		],
+		"numbers": [
+			{
+				"key": "FireDMGUp_PerAreaStackCount_Level6",
+				"value": 1
+			}
+		],
+		"cost": 13500,
+		"need": "Tkatana_Fire_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 12
+		},
+		"id": "Tkatana_fire_ssr_star_6"
+	},
 	"umbrella_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Flame</>: Flame ATK meningkat <shuzhi>15%</> dan Flame Resistance meningkat <shuzhi>25%</>. Aktifkan dengan cara memakai <shuzhi>2</> Senjata Flame atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.",
 		"numbermap": "UmbrellaEffectFigure",
@@ -12583,7 +12849,7 @@
 		"id": "Nanyin_superpower_ssr_star_6"
 	},
 	"Nora_superpower_ssr_star_0": {
-		"advancement": "<shuzhi>Shifting</>: Saat memasang <shuzhi>3</> senjata Altered, Semua DMG Elemental meningkat <shuzhi>{0}%</>. Efek set ini berfungsi pada slot sampingan.\r\n<shuzhi>Elemental Engine</>: Jenis elemen <shuzhi>Rumble</> bisa diganti (selagi dalam keadaan non-tempur). Buka halaman Skill > Pengaturan untuk mengganti elemen.\r\n<shuzhi>Explosive Energy: On-Field</>: Saat menghantam lawan dengan Serangan Biasa <shuzhi>Rumble</>, ia akan menimpakan damage kepada target di sekitar sebesar <shuzhi>{1}%</> Altered ATK plus <shuzhi>{2}%</> Max HP Wanderer plus <shuzhi>{3}%</> dari jumlah seluruh tipe Resistance Wanderer plus <shuzhi>{4}%</> Crit. Efek ini dapat terpicu maks 1 kali setiap <shuzhi>1,5</> detik. DMG Explosive Energy dianggap sebagai DMG Serangan Biasa. Jika ada <shuzhi>1</> Senjata Frost/Volt/Physical/Flame jenis apa pun yang terpasang, DMG Explosive Energy akan dikalikan <shuzhi>{5}</>. Sebagai tambahan, DMG Explosive Energy tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
+		"advancement": "<shuzhi>Shifting</>: Saat memasang <shuzhi>3</> senjata Altered, Semua DMG Elemental meningkat <shuzhi>{0}%</>. Efek set ini berfungsi pada slot sampingan.\r\n<shuzhi>Elemental Engine</>: Jenis elemen <shuzhi>Rumble</> bisa diganti (selagi dalam keadaan non-tempur). Buka halaman Skill > Pengaturan untuk mengganti elemen.\r\n<shuzhi>Explosive Energy: On-Field</>: Saat menghantam lawan dengan Serangan Biasa <shuzhi>Rumble</>, Wanderer akan menimpakan damage kepada target di sekitar sebesar <shuzhi>{1}%</> Altered ATK plus <shuzhi>{2}%</> Max HP Wanderer plus <shuzhi>{3}%</> dari jumlah seluruh tipe Resistance Wanderer plus <shuzhi>{4}%</> Crit. Efek ini dapat terpicu maks 1 kali setiap <shuzhi>1,5</> detik. DMG Explosive Energy dianggap sebagai DMG Serangan Biasa. Jika ada <shuzhi>1</> Senjata Frost/Volt/Physical/Flame jenis apa pun yang terpasang, DMG Explosive Energy akan dikalikan <shuzhi>{5}</>. Sebagai tambahan, DMG Explosive Energy tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
 		"numbermap": "NoraEffectFigure",
 		"multiplicators": [
 			{

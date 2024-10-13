@@ -437,12 +437,12 @@
 		"array": [
 			{
 				"title": "Voli Pantai",
-				"description": "Setelah kompetisi dimulai, silakan pergi ke lapangan voli pantai untuk bersiap. Setiap tim dalam kompetisi ini memiliki jumlah anggota tetap yaitu dua orang, dan tidak diperbolehkan penggantian selama pertandingan. Kompetisi ini menerapkan sistem penilaian rally point dan sistem penilaian side-out. Tim yang mencetak poin mendapatkan hak untuk memukul bola berikutnya, dan dua pemain dalam tim yang sama bergantian melakukan servis.",
+				"description": "Setelah kompetisi dimulai, silakan pergi ke lapangan voli pantai untuk bersiap. Setiap tim dalam kompetisi ini memiliki jumlah anggota tetap yaitu dua orang, dan tidak diperbolehkan ada penggantian selama pertandingan. Kompetisi ini menerapkan sistem penilaian rally point dan sistem penilaian side-out. Tim yang mencetak poin mendapatkan hak untuk memukul bola berikutnya, dan dua pemain dalam tim yang sama bergantian melakukan servis.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info1.webp"
 			},
 			{
 				"title": "Voli Pantai",
-				"description": "Saat melayani setiap ronde, ketuk dan tahan tombol Hit untuk menampilkan titik jatuh seperti yang ditunjukkan pada gambar. Anda dapat mengendalikan dan menyesuaikan posisi titik jatuh spesifik melalui joystick. Setelah mengkonfirmasi posisi titik jatuh spesifik, lepaskan tombol servis untuk melakukan servis. Jika pemain belum melakukan servis setelah hitungan mundur servis berakhir, bola akan diservis secara otomatis.",
+				"description": "Saat melayani setiap ronde, ketuk dan tahan tombol Hit untuk menampilkan titik jatuh seperti yang ditunjukkan pada gambar. Anda dapat mengontrol dan menyesuaikan posisi titik jatuh spesifik melalui joystick. Setelah mengkonfirmasi posisi titik jatuh spesifik, lepaskan tombol servis untuk melakukan servis. Jika pemain belum melakukan servis setelah hitungan mundur servis berakhir, bola akan diservis secara otomatis.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info2.webp"
 			},
 			{
@@ -457,12 +457,12 @@
 			},
 			{
 				"title": "Voli Pantai",
-				"description": "Jika kamu ingin menerapkan strategi ofensif yang lebih agresif, kamu bisa menggunakan tombol Spike. Dalam hal ini, kamu harus siap dengan baik, menilai arah bola, melompat lebih awal, dan kemudian tekan tombol spike di udara untuk masuk ke mode Spike, dan kecepatan bola akan menjadi lebih cepat selama spike. Penting untuk memperhatikan arah lompatan dan waktu Spike, jika tidak, Spike tidak dapat diselesaikan. Setelah rekan tim melempar bola, ketika jarak dari bola sudah tepat, Anda akan menyala. Pada saat itu, melompat akan memicu bantuan Spike. Ketika berhasil masuk ke dalam jangkauan Spike, Spike akan secara otomatis dipicu.",
+				"description": "Jika Anda ingin menerapkan strategi ofensif yang lebih agresif, Anda dapat menggunakan tombol Spike. Dalam hal ini, Anda harus mempersiapkan diri dengan baik, menilai arah bola, melompat lebih awal, dan kemudian tekan tombol spike di udara untuk memasuki mode Spike, dan kecepatan bola akan menjadi lebih cepat selama spike. Penting untuk memperhatikan arah lompatan dan waktu Spike, jika tidak, Spike tidak dapat diselesaikan. Setelah rekan tim melempar bola, ketika jarak dari bola sudah tepat, Anda akan menyala. Pada saat ini, melompat akan memicu bantuan Spike. Ketika berhasil masuk ke dalam jangkauan Spike, Spike akan otomatis dipicu.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info5.webp"
 			},
 			{
 				"title": "Voli Pantai",
-				"description": "Ketika lawan memukul bola dan kamu berada di lapangan depan, mengetuk untuk melompat akan menampilkan tombol Block. Menekannya akan memicu tindakan block, yang dapat mencegat bola yang dipukul oleh lawan di udara. Blocking memerlukan kamu untuk memprediksi lintasan pukulan lawan dan waktu block.",
+				"description": "Ketika lawan memukul bola dan kamu berada di lapangan depan, mengetuk untuk melompat akan menampilkan tombol Block. Menekannya akan memicu tindakan block, yang dapat mencegat bola yang dipukul oleh lawan di udara. Blocking memerlukan kamu untuk memprediksi lintasan pukulan lawan dan waktu blocking.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info6.webp"
 			}
 		],
@@ -2725,6 +2725,25 @@
 		"menuType": "Weapon",
 		"id": "Nitai_Loslyn_SSR"
 	},
+	"Nitai_MerylX_SSR": {
+		"name": "Meryl Ironheart",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
+		"array": [
+			{
+				"title": "Meryl Ironheart: Siege Edge",
+				"description": "Buka Siege Edge untuk menjelajahi dunia Tower of Fantasy sebagai Meryl Ironheart, Simulacrum senjata ini.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/id/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "Meryl Ironheart: Siege Edge",
+				"description": "Petunjuk senjata untuk Siege Edge. Pelajari cara menggunakan skill untuk senjata tipe ini.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/id/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"menuId": "imitate_role",
+		"menuType": "Weapon",
+		"id": "Nitai_MerylX_SSR"
+	},
 	"Nitai_tianlang_SSR": {
 		"name": "Tian Lang",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -3010,6 +3029,20 @@
 		"menuType": "WorldExploration",
 		"id": "Guide_MoveShoot"
 	},
+	"Guide_Norn_Bicycle": {
+		"name": "Sepeda",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
+		"array": [
+			{
+				"title": "Sepeda",
+				"description": "Sewa sepeda di stasiun sepeda. Gunakan tombol A/D atau tombol kiri/kanan untuk mengayuh dan mempercepat. Gerakkan mouse atau tekan dan tahan tombol kiri/kanan pada kontrol untuk berbelok. Gunakan tombol S atau tahan tombol bawah pada kontrol untuk mengerem dan tombol V untuk turun dari sepeda.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_Bicycle.webp"
+			}
+		],
+		"menuId": "WorldExplore",
+		"menuType": "WorldExploration",
+		"id": "Guide_Norn_Bicycle"
+	},
 	"Guide_Norn_CD": {
 		"name": "Proyektor Pertempuran",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
@@ -3119,7 +3152,7 @@
 		"array": [
 			{
 				"title": "Peringatan Anomali",
-				"description": "Keamanan Publik membutuhkan bantuanmu! Robot keamanan yang dilengkapi dengan modul penyamaran dan terinfeksi virus bersembunyi di sekitarmu. Gunakan kamera khusus untuk mengamati status infeksi robot keamanan di sekitar. Semakin lama kamu menunggu, robot akan menjadi semakin berbahaya. Tumbangkan mereka dengan cepat sebelum mereka menjadi berserk untuk mencegah krisis semakin memburuk!",
+				"description": "Keamanan Publik membutuhkan bantuanmu! Robot keamanan yang dilengkapi dengan modul penyamaran dan terinfeksi virus bersembunyi di sekitarmu. Gunakan kamera khusus untuk mengamati status infeksi robot keamanan di sekitar. Semakin lama kamu menunggu, semakin berbahaya robot tersebut akan menjadi. Tumbangkan mereka dengan cepat sebelum mereka menjadi berserk untuk mencegah krisis semakin memburuk!",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/WorldPhotoMonster.webp"
 			}
 		],
@@ -3133,7 +3166,7 @@
 		"array": [
 			{
 				"title": "Menyisir Pantai",
-				"description": "Cangkang khusus dengan fungsi moneter. Metode barter kuno akan direproduksi di pantai ini. Setelah Anda mengumpulkan cangkang khusus, Pengumpul Cangkang akan menghitung nilai mereka dengan hati-hati dan berdagang dengan Anda menggunakan item yang ada di tangan.",
+				"description": "Cangkang khusus dengan fungsi moneter. Metode barter kuno akan direproduksi di pantai ini. Setelah Anda mengumpulkan cangkang khusus, Kolektor Cangkang akan menghitung nilai mereka dengan hati-hati dan berdagang dengan Anda menggunakan item yang ada di tangan.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/WorldShellSummon.webp"
 			}
 		],
@@ -3189,7 +3222,7 @@
 		"array": [
 			{
 				"title": "Gravity Stonebud",
-				"description": "Perangkat mekanis berbentuk kuncup bunga yang dirancang dengan bionik dan responsif terhadap gravitasi. Kuncup bunga hanya akan membuka setelah mengalami gaya menurun yang cukup.",
+				"description": "Perangkat mekanis berbentuk kuncup bunga yang dirancang dengan bionik dan responsif terhadap gravitasi. Kuncup bunga hanya akan membuka setelah mengalami gaya ke bawah yang cukup.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_WaterFlower.webp"
 			}
 		],
@@ -3203,7 +3236,7 @@
 		"array": [
 			{
 				"title": "Balapan Permukaan Air",
-				"description": "Bersiaplah untuk pertunjukan air yang memacu adrenalin! Gunakan papan seluncurmu atau terbang dalam batas waktu yang ditentukan, manuver melalui semua lingkaran data. Pemenang akan mendapatkan hadiah menarik di garis finis.",
+				"description": "Bersiaplah untuk pertunjukan air yang memacu adrenalin! Gunakan papan seluncurmu atau terbang dalam batas waktu yang ditentukan, manuver melalui semua lingkaran data. Pemenang menanti hadiah menarik di garis finis.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Worldwaterjump.webp"
 			}
 		],
@@ -6118,6 +6151,13 @@
 		"menuType": "All",
 		"id": "Loslyn_ice"
 	},
+	"MerylX_thunder": {
+		"name": "Siege Edge",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_wfjq02.webp",
+		"menuId": "EQUIPMENT_SLOT_WEAPON",
+		"menuType": "All",
+		"id": "MerylX_thunder"
+	},
 	"Nitai_mimi_SSR": {
 		"name": "Huang",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -6648,7 +6688,7 @@
 		"array": [
 			{
 				"title": "Berat Armor Guard",
-				"description": "Personel elit di antara keamanan yang disumberkan, dilengkapi dengan armor exoskeleton yang diperkuat. Mereka tidak hanya dapat menjaga ketertiban, tetapi juga dapat menangani banyak situasi kekerasan berisiko tinggi.",
+				"description": "Personel elit di antara keamanan yang diserahkan, dilengkapi dengan armor exoskeleton yang diperkuat. Mereka tidak hanya dapat menjaga ketertiban, tetapi juga dapat menangani banyak situasi kekerasan berisiko tinggi.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/monster/mon_hum_199.webp"
 			}
 		],
@@ -6662,7 +6702,7 @@
 		"array": [
 			{
 				"title": "Firewall Tipe Pembasmian",
-				"description": "Firewall tipe pembasmian milik Gesthos sendiri, dengan kinerja yang lebih baik daripada firewall yang difilter. Dirancang untuk cepat mengidentifikasi dan menghilangkan data abnormal untuk memastikan operasi reguler Gesthos. Begitu data yang berpotensi mengancam Gesthos terdeteksi, serangan langsung diluncurkan.",
+				"description": "Firewall jenis pembasmian milik Gesthos sendiri, dengan kinerja yang lebih baik daripada firewall yang difilter. Dirancang untuk cepat mengidentifikasi dan menghilangkan data abnormal untuk memastikan operasi reguler Gesthos. Begitu data yang berpotensi mengancam Gesthos terdeteksi, serangan langsung diluncurkan.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/monster/mon_hum_200.webp"
 			}
 		],

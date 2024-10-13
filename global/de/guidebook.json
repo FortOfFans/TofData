@@ -437,12 +437,12 @@
 		"array": [
 			{
 				"title": "Beach-Volleyball",
-				"description": "Nach Beginn des Wettbewerbs, bitte zum Beach-Volleyball Platz zur Vorbereitung gehen. Jedes Team in diesem Wettbewerb hat eine feste Nummer von zwei Mitgliedern, und während des Matches sind keine Auswechslungen erlaubt. Der Wettbewerb verwendet das Rally-Point-Scoring-System und das Side-Out-Scoring-System. Das punktende Team erhält das Recht, den nächsten Ball zu servieren, und die beiden Spieler im gleichen Team wechseln sich beim Aufschlag ab.",
+				"description": "Nach dem Start des Wettbewerbs, bitte zum Beach-Volleyball Platz gehen, um sich vorzubereiten. Jedes Team in diesem Wettbewerb hat eine feste Nummer von zwei Mitgliedern, und während des Matches sind keine Auswechslungen erlaubt. Der Wettbewerb verwendet das Rally-Point-Scoring-System und das Side-Out-Scoring-System. Das punktende Team erhält das Recht, den nächsten Ball zu servieren, und die beiden Spieler im gleichen Team wechseln sich beim Aufschlag ab.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info1.webp"
 			},
 			{
 				"title": "Beach-Volleyball",
-				"description": "Bei jedem Aufschlag, tippe und halte die Schlag-Taste gedrückt, um den Fallpunkt anzuzeigen, wie im Bild gezeigt. Du kannst die genaue Position des Fallpunkts über den Joystick steuern und anpassen. Nach Bestätigung der genauen Position des Fallpunkts, lasse die Aufschlag-Taste los, um aufzuschlagen. Wenn der Spieler nach dem Ende des Aufschlag-Countdowns nicht aufgeschlagen hat, wird der Ball automatisch aufgeschlagen.",
+				"description": "Beim Aufschlag jeder Runde, tippe und halte die Schlag-Taste gedrückt, um den Fallpunkt anzuzeigen, wie im Bild gezeigt. Du kannst die genaue Position des Fallpunkts über den Joystick kontrollieren und anpassen. Nach Bestätigung der genauen Position des Fallpunkts, lasse die Aufschlag-Taste los, um aufzuschlagen. Wenn der Spieler nach dem Ende des Aufschlag-Countdowns nicht aufgeschlagen hat, wird der Ball automatisch aufgeschlagen.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info2.webp"
 			},
 			{
@@ -452,17 +452,17 @@
 			},
 			{
 				"title": "Beach-Volleyball",
-				"description": "Nachdem Sie die Schlagtaste gedrückt haben, wechselt sie in den Schlagzustand. (Beachten Sie, dass Sie sich im Schlagzustand nicht selbst bewegen können.) Zu diesem Zeitpunkt können die Richtungstasten verwendet werden, um den Landepunkt des Schlages auszuwählen. Wenn sich der Ball im Schlagzustand nähert und der Wanderer die Schlagbedingungen erfüllt, wird automatisch ein Schlag ausgelöst.",
+				"description": "Nachdem Sie auf die Schlagtaste tippen, wechselt sie in den Schlagzustand. (Beachten Sie, dass Sie sich im Schlagzustand nicht selbst bewegen können.) Zu diesem Zeitpunkt können die Richtungstasten verwendet werden, um den Landepunkt des Schlages auszuwählen. Wenn sich der Ball im Schlagzustand nähert und der Wanderer die Schlagbedingungen erfüllt, wird automatisch ein Schlag ausgelöst.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info4.webp"
 			},
 			{
 				"title": "Beach-Volleyball",
-				"description": "Wenn du eine aggressivere Angriffsstrategie verfolgen möchtest, kannst du die Stachel-Taste verwenden. In diesem Fall solltest du gut vorbereitet sein, die Richtung des Balls beurteilen, im Voraus hochspringen und dann die Stachel-Taste in der Luft drücken, um in den Stachel-Sektor zu gelangen. Die Geschwindigkeit des Balls wird während des Stachels schneller. Es ist notwendig, auf die Sprungrichtung und den Zeitpunkt des Stachels zu achten, sonst kann der Stachel nicht abgeschlossen werden. Nachdem ein Teammitglied den Ball weitergegeben hat, leuchtest du auf, wenn der Abstand zum Ball angemessen ist. Zu diesem Zeitpunkt löst ein Sprung die Stachelhilfe aus. Wenn du erfolgreich in den Stachelbereich eintrittst, wird ein Stachel automatisch ausgelöst.",
+				"description": "Wenn du eine aggressivere Angriffsstrategie verfolgen möchtest, kannst du die Stachel-Taste verwenden. In diesem Fall solltest du gut vorbereitet sein, die Richtung des Balls beurteilen, im Voraus hochspringen und dann die Stachel-Taste in der Luft drücken, um den Stachel-Sektor zu betreten, und die Geschwindigkeit des Balls wird während des Stachels schneller. Es ist notwendig, auf die Sprungrichtung und den Zeitpunkt des Stachels zu achten, sonst kann der Stachel nicht ausgeführt werden. Nachdem ein Teammitglied den Ball weitergegeben hat, leuchtest du auf, wenn der Abstand zum Ball angemessen ist. In diesem Moment löst ein Sprung die Stachelhilfe aus. Wenn du erfolgreich in den Stachelbereich eintrittst, wird ein Stachel automatisch ausgelöst.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info5.webp"
 			},
 			{
 				"title": "Beach-Volleyball",
-				"description": "Wenn der Gegner den Ball schlägt und du dich im Vorderfeld befindest, wird durch Tippen zum Springen die Blocken-Taste angezeigt. Durch Drücken wird die Blocken-Aktion ausgelöst, die den vom Gegner in der Luft geschlagenen Ball abfangen kann. Blocken erfordert, dass du die Schlagbahn des Gegners und den richtigen Blockzeitpunkt vorhersagst.",
+				"description": "Wenn der Gegner den Ball schlägt und du dich im Vorderfeld befindest, wird durch das Tippen zum Springen die Blocken-Taste angezeigt. Durch Drücken wird die Blocken-Aktion ausgelöst, die den vom Gegner in der Luft geschlagenen Ball abfangen kann. Blocken erfordert, dass du die Schlagbahn des Gegners und den richtigen Blockzeitpunkt vorhersagst.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/volleyball_info6.webp"
 			}
 		],
@@ -2598,7 +2598,7 @@
 		"array": [
 			{
 				"title": "Nola: Grollen",
-				"description": "Schalte „Grollen“ frei, um dich als Nola, das Simulacrum der Waffe, in die Welt des Tower of Fantasy zu wagen.",
+				"description": "Schalte Grollen frei, um dich als Nola, das Simulacrum der Waffe, in die Welt des Tower of Fantasy zu wagen.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/de/Resources/UI/Scenery/monster/UI_Nitai_nuola_SSR_L10N.webp"
 			},
 			{
@@ -2724,6 +2724,25 @@
 		"menuId": "imitate_role",
 		"menuType": "Weapon",
 		"id": "Nitai_Loslyn_SSR"
+	},
+	"Nitai_MerylX_SSR": {
+		"name": "Meryl Eisenherz",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
+		"array": [
+			{
+				"title": "Meryl Eisenherz: Belagerungsklinge",
+				"description": "Schalte Belagerungsklinge frei, um dich als Meryl Eisenherz, das Simulacrum der Waffe, in die Welt des Tower of Fantasy zu wagen.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/de/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "Meryl Eisenherz: Belagerungsklinge",
+				"description": "Anleitung für Belagerungsklinge. Lerne, wie man die Fähigkeiten für diese Waffenart einsetzt.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/de/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"menuId": "imitate_role",
+		"menuType": "Weapon",
+		"id": "Nitai_MerylX_SSR"
 	},
 	"Nitai_tianlang_SSR": {
 		"name": "Tian Lang",
@@ -3010,6 +3029,20 @@
 		"menuType": "WorldExploration",
 		"id": "Guide_MoveShoot"
 	},
+	"Guide_Norn_Bicycle": {
+		"name": "Fahrrad",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
+		"array": [
+			{
+				"title": "Fahrrad",
+				"description": "Miete ein Fahrrad an der Fahrradstation. Verwende die A/D-Tasten oder die Links/Rechts-Tasten zum Treten und Beschleunigen. Bewege die Maus oder tippe und halte die Links/Rechts-Tasten auf dem Controller gedrückt, um abzubiegen. Verwende die S-Taste oder halte die Abwärts-Taste auf dem Controller gedrückt, um zu bremsen und die V-Taste, um vom Fahrrad abzusteigen.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_Bicycle.webp"
+			}
+		],
+		"menuId": "WorldExplore",
+		"menuType": "WorldExploration",
+		"id": "Guide_Norn_Bicycle"
+	},
 	"Guide_Norn_CD": {
 		"name": "Kampf-Projektor",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
@@ -3044,7 +3077,7 @@
 		"array": [
 			{
 				"title": "Notfallreparaturen",
-				"description": "Notfall in Stufe 1 der Schuder-Elektronik! Eine kleine Omnium-Versorgungsstation befindet sich in einem abnormalen Zustand und benötigt dringend Aufmerksamkeit. Bitte bedienen Sie den Knopf, um die Boje in der Steuerleitung zur vorgesehenen Position zu schieben und die normale Energieversorgung so schnell wie möglich wiederherzustellen.",
+				"description": "Notfall Stufe 1 bei Schuder-Elektronik! Eine kleine Omnium-Versorgungsstation befindet sich in einem abnormalen Sektor und benötigt dringend Aufmerksamkeit. Bitte bedienen Sie den Knopf, um die Boje in der Steuerleitung auf die vorgesehene Position zu schieben und die normale Energieversorgung so schnell wie möglich wiederherzustellen.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Worldenergycharge.webp"
 			}
 		],
@@ -3133,7 +3166,7 @@
 		"array": [
 			{
 				"title": "Strand absuchen",
-				"description": "Spezielle Muscheln mit monetären Funktionen. Die alte Methode des Tauschhandels wird an diesem Strand reproduziert. Nachdem du spezielle Muscheln gesammelt hast, wird der Muschelsammler ihren Wert sorgfältig berechnen und mit dir unter Verwendung der vorhandenen Gegenstände handeln.",
+				"description": "Spezielle Muscheln mit monetären Funktionen. Die alte Methode des Tauschhandels wird an diesem Strand reproduziert. Nachdem du spezielle Muscheln gesammelt hast, wird der Herzmuschel-Sammler ihren Wert sorgfältig berechnen und mit dir unter Verwendung der vorhandenen Gegenstände handeln.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/WorldShellSummon.webp"
 			}
 		],
@@ -3189,7 +3222,7 @@
 		"array": [
 			{
 				"title": "Schwerkraft Stein Knospe",
-				"description": "Ein mechanisches Gerät in Form einer Blütenknospe, das mit Bionik entworfen und auf Schwerkraft reagiert. Die Blütenknospe öffnet sich erst, nachdem sie ausreichendem Abwärtsdruck ausgesetzt war.",
+				"description": "Ein mechanisches Gerät in Form einer Blütenknospe, das mit Bionik entworfen und auf Schwerkraft reagiert. Die Blütenknospe wird sich erst öffnen, nachdem sie ausreichendem Abwärtsdruck ausgesetzt war.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/Minigame/Guide_Norn_WaterFlower.webp"
 			}
 		],
@@ -6118,6 +6151,13 @@
 		"menuType": "All",
 		"id": "Loslyn_ice"
 	},
+	"MerylX_thunder": {
+		"name": "Belagerungsklinge",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_wfjq02.webp",
+		"menuId": "EQUIPMENT_SLOT_WEAPON",
+		"menuType": "All",
+		"id": "MerylX_thunder"
+	},
 	"Nitai_mimi_SSR": {
 		"name": "Huang",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_nitai02.webp",
@@ -6545,12 +6585,12 @@
 		"id": "Guide_mon_hum_190"
 	},
 	"Guide_mon_hum_191": {
-		"name": "Mutationsvirus α",
+		"name": "Veränderungsvirus α",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
 		"array": [
 			{
-				"title": "Mutationsvirus α",
-				"description": "Eine bodenständige, grundlegende Einheit des Veränderungs-Virus. Sie ist die Hauptursache für die Anomalie im Gesthos-Netzwerk und wütet in der untersten Schicht des Netzwerksystems. Das Firewall-Modul kann es nicht effektiv eliminieren.",
+				"title": "Veränderungsvirus α",
+				"description": "Eine bodenbasierte, grundlegende Einheit des Veränderungs-Virus. Sie ist die Ursache für die Anomalie im Gesthos-Netzwerk und wütet in der untersten Schicht des Netzwerksystems. Das Firewall-Modul kann es nicht effektiv eliminieren.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/monster/mon_hum_191.webp"
 			}
 		],
@@ -6643,12 +6683,12 @@
 		"id": "Guide_mon_hum_198"
 	},
 	"Guide_mon_hum_199": {
-		"name": "Schwerer Rüstungswächter",
+		"name": "Schwere Rüstungswächter",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/PlayIntroduce/btn_cz02.webp",
 		"array": [
 			{
-				"title": "Schwerer Rüstungswächter",
-				"description": "Elite-Personal unter ausgelagertem Sicherheitsdienst, ausgestattet mit verstärkter Exoskelett-Rüstung. Sie können nicht nur für Ordnung sorgen, sondern auch viele hochriskante gewalttätige Situationen bewältigen.",
+				"title": "Schwere Rüstungswächter",
+				"description": "Elite-Personal unter ausgelagertem Sicherheitsdienst, ausgestattet mit verstärkter Exoskelett-Rüstung. Sie können nicht nur den Auftrag warten, sondern auch viele hochriskante gewalttätige Situationen bewältigen.",
 				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Scenery/monster/mon_hum_199.webp"
 			}
 		],

@@ -659,6 +659,39 @@
 		"version": "3.7",
 		"id": "artifact_ssr_023"
 	},
+	"artifact_ssr_024": {
+		"name": "Negociante de Efeito Positivo",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "",
+		"source": "",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"rarity": 5,
+		"AttributeID": "artifact_adv_048",
+		"advancement": [
+			{
+				"description": "Aumente o efeito de redução de dano para **20%** enquanto estiver na forma defensiva.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Aumenta o efeito de reforço de dano para **11%** enquanto em forma ofensiva.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Reduz o intervalo de acionamento para bloquear o dano letal para uma vez a cada **120** segundos.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Aumenta a Resistência Alterada em **2%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Aumenta o efeito de reforço de dano para **16%** enquanto na forma ofensiva.",
+				"id": "artifact_adv_048"
+			}
+		],
+		"version": "CN-Only",
+		"id": "artifact_ssr_024"
+	},
 	"artifact_sr_001": {
 		"name": "Canhão Flutuante",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -702,7 +735,7 @@
 		"AttributeID": "artifact_adv_015",
 		"advancement": [
 			{
-				"description": "Reabastece 1 carga a cada **100** segundos. Planar não consome mais vigor.",
+				"description": "Reabastece 1 carga a cada **20** segundos. Planar não consome mais vigor.",
 				"id": "artifact_adv_015"
 			},
 			{
@@ -710,7 +743,7 @@
 				"id": "artifact_adv_015"
 			},
 			{
-				"description": "Reabastece **1** carga a cada 60 segundos.",
+				"description": "Recupere 1 carga a cada **15** segundos.",
 				"id": "artifact_adv_015"
 			},
 			{

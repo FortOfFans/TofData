@@ -442,7 +442,7 @@
 	"WeaponFragment_UP1": {
 		"name": "Flame Gold (Red Lotus)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -453,7 +453,7 @@
 	"WeaponFragment_UP2": {
 		"name": "Flame Gold (Blaze)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -464,7 +464,7 @@
 	"WeaponFragment_UP3": {
 		"name": "Flame Gold (White Moon)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -475,7 +475,7 @@
 	"WeaponFragment_UP4": {
 		"name": "Flame Gold (Dawn)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -486,7 +486,7 @@
 	"WeaponFragment_UP5": {
 		"name": "Flame Gold (Rebirth)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -497,7 +497,7 @@
 	"WeaponFragment_UP6": {
 		"name": "Flame Gold (Ironheart)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -508,7 +508,7 @@
 	"WeaponFragment_UP7": {
 		"name": "Flame Gold (Sun)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -519,7 +519,7 @@
 	"WeaponFragment_UP8": {
 		"name": "Flame Gold (Flow)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -530,7 +530,7 @@
 	"WeaponFragment_UP9": {
 		"name": "Flame Gold (Shadow)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari Senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus. Bisa ditukarkan dengan senjata terbatas.\r\nCahaya menyilaukan terus terpantul tanpa akhir, dan tak pernah pudar.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif. Bisa ditukarkan dengan senjata terbatas.\r\nCahaya menyilaukan terus terpantul tanpa akhir, dan tak pernah pudar.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -541,7 +541,7 @@
 	"WeaponFragment_UP10": {
 		"name": "Flame Gold (Trickery)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -552,7 +552,7 @@
 	"WeaponFragment_UP11": {
 		"name": "Flame Gold (Waxen)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -563,7 +563,7 @@
 	"WeaponFragment_UP12": {
 		"name": "Flame Gold (Star)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -574,7 +574,7 @@
 	"WeaponFragment_UP13": {
 		"name": "Flame Gold (Decree)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -585,7 +585,7 @@
 	"WeaponFragment_UP14": {
 		"name": "Flame Gold (Merger)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -596,7 +596,7 @@
 	"WeaponFragment_UP15": {
 		"name": "Flame Gold (Tea Millet)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -607,7 +607,7 @@
 	"WeaponFragment_UP16": {
 		"name": "Flame Gold (Movement)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -618,7 +618,7 @@
 	"WeaponFragment_UP17": {
 		"name": "Flame Gold (Vermilion Feather)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -629,7 +629,7 @@
 	"WeaponFragment_UP18": {
 		"name": "Flame Gold",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -640,7 +640,7 @@
 	"WeaponFragment_UP19": {
 		"name": "Flame Gold",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Tukarkan dengan senjata edisi terbatas <Red>(dikonversi menjadi Black Gold dengan jumlah yang sama setelah Order Terbatas berakhir)</>."
 		],
@@ -651,7 +651,7 @@
 	"WeaponFragment_UP20": {
 		"name": "Flame Gold (Konstan)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih tepat disebut sebagai artefak daripada mata uang yang beredar di saluran khusus.",
+		"description": "Token yang ditempa oleh pandai besi dari senjata Omnium daur ulang khusus. Lebih seperti karya seni daripada mata uang, ini bisa ditukarkan dengan senjata eksklusif.",
 		"source": [
 			"Bisa ditukarkan dengan senjata di Toko Senjata."
 		],

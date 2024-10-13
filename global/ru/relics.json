@@ -659,6 +659,39 @@
 		"version": "3.7",
 		"id": "artifact_ssr_023"
 	},
+	"artifact_ssr_024": {
+		"name": "Торгаш с баффами",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "",
+		"source": "",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"rarity": 5,
+		"AttributeID": "artifact_adv_048",
+		"advancement": [
+			{
+				"description": "Увеличивает эффект снижения урона до **20%** в оборонительной форме.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Увеличивает эффект усиления урона до **11%** в атакующей форме.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Сокращает интервал между срабатываниями для блокирования смертельного урона до одного раза каждые **120** секунд.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Увеличивает Сопр. измененности на **2%**. Выставлять для этого не обязательно. Недоступно в Высшей лиге.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Увеличивает эффект усиления урона до **16%** в атакующей форме.",
+				"id": "artifact_adv_048"
+			}
+		],
+		"version": "CN-Only",
+		"id": "artifact_ssr_024"
+	},
 	"artifact_sr_001": {
 		"name": "Парящая пушка",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -702,7 +735,7 @@
 		"AttributeID": "artifact_adv_015",
 		"advancement": [
 			{
-				"description": "1 заряд восполняется каждые **100** сек. При планировании больше не расходуется выносливость.",
+				"description": "1 заряд восполняется каждые **20** сек. При планировании больше не расходуется выносливость.",
 				"id": "artifact_adv_015"
 			},
 			{
@@ -710,7 +743,7 @@
 				"id": "artifact_adv_015"
 			},
 			{
-				"description": "Восполняет **1** заряд каждые 60 сек.",
+				"description": "Восстанавливайте 1 заряд каждые **15** секунд.",
 				"id": "artifact_adv_015"
 			},
 			{

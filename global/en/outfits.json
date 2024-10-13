@@ -1,8 +1,25 @@
 {
+	"fashion_dress_73": {
+		"name": "Idle Moments",
+		"description": "Pause all work and study activities. It's time to rest. Let's take a break for... a century!",
+		"type": "Dress",
+		"source": "From events",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"id": "fashion_dress_73"
+	},
+	"fashion_dress_74": {
+		"name": "Clear-sky Blossoms",
+		"description": "A bird darts through the clear sky, feathers spiraling down with the falling blossoms, waking up the traveler dozing beneath the tree.",
+		"type": "Dress",
+		"source": "Available for a limited time from the Advanced Pass",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"id": "fashion_dress_74"
+	},
 	"fashion_dress_72": {
 		"name": "Summer Special",
 		"description": "What's your impression of summer: sweet or tangy? Is it hot and sunny or laid-back like a sea breeze? It's hard to define, so why not blend all those feelings together, watch them turn into pink bubbles, and gulp it all down?",
 		"type": "Dress",
+		"source": "Obtained from the Summer Special gachapon event",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_Swim_2024.webp",
 		"id": "fashion_dress_72"
 	},
@@ -1266,9 +1283,17 @@
 		"name": "Neon Mech Wings",
 		"description": "Spread your wings and soar freely. A rainbow cuts through the rainy night, proclaiming the king of the city.",
 		"type": "Glider",
-		"source": "2nd Anniversary Limited Edition",
+		"source": "Obtained from the 2nd anniversary",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"id": "fashion_glider_5"
+	},
+	"fashion_glider_SP": {
+		"name": "Nightbow",
+		"description": "The latest urban legend, a rainbow that only appears at night, is actually the creation of this jetpack. As for who's behind it... that remains a mystery.",
+		"type": "Glider",
+		"source": "From events",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"id": "fashion_glider_SP"
 	},
 	"fashion_skateboard_1": {
 		"name": "Jetboard 2",

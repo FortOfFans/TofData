@@ -659,6 +659,39 @@
 		"version": "3.7",
 		"id": "artifact_ssr_023"
 	},
+	"artifact_ssr_024": {
+		"name": "Buff Dealer",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "",
+		"source": "",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"rarity": 5,
+		"AttributeID": "artifact_adv_048",
+		"advancement": [
+			{
+				"description": "Increase the damage reduction effect to **20%** while in defensive form.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Increase the damage boost effect to **11%** while in offensive form.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Reduce the trigger interval for blocking lethal damage to once every **120** seconds.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Increase Altered Resistance by **2%**, even if not deployed. Unavailable in Apex League.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Increase the damage boost effect to **16%** while in offensive form.",
+				"id": "artifact_adv_048"
+			}
+		],
+		"version": "CN-Only",
+		"id": "artifact_ssr_024"
+	},
 	"artifact_sr_001": {
 		"name": "Hovering Cannon",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -702,7 +735,7 @@
 		"AttributeID": "artifact_adv_015",
 		"advancement": [
 			{
-				"description": "Replenish 1 charge every **100** seconds. Gliding no longer expends endurance.",
+				"description": "Replenish 1 charge every **20** seconds. Gliding no longer expends endurance.",
 				"id": "artifact_adv_015"
 			},
 			{
@@ -710,7 +743,7 @@
 				"id": "artifact_adv_015"
 			},
 			{
-				"description": "Replenish **1** charge every 60 seconds.",
+				"description": "Regain 1 charge every **15** seconds.",
 				"id": "artifact_adv_015"
 			},
 			{

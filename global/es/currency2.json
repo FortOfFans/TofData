@@ -442,7 +442,7 @@
 	"WeaponFragment_UP1": {
 		"name": "Oro Llameante (Loto Rojo)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -453,7 +453,7 @@
 	"WeaponFragment_UP2": {
 		"name": "Oro Llameante (Llamarada)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -464,7 +464,7 @@
 	"WeaponFragment_UP3": {
 		"name": "Oro Llameante (Luna Blanca)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -475,7 +475,7 @@
 	"WeaponFragment_UP4": {
 		"name": "Oro Llameante (Amanecer)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -486,7 +486,7 @@
 	"WeaponFragment_UP5": {
 		"name": "Oro Llameante (Renacimiento)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -497,7 +497,7 @@
 	"WeaponFragment_UP6": {
 		"name": "Oro Llameante (Corazón de Hierro)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -508,7 +508,7 @@
 	"WeaponFragment_UP7": {
 		"name": "Oro Llameante (Sol)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -519,7 +519,7 @@
 	"WeaponFragment_UP8": {
 		"name": "Oro Llameante (Flujo)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -530,7 +530,7 @@
 	"WeaponFragment_UP9": {
 		"name": "Oro Llameante (Sombra)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial. Canjeable por armas limitadas.\r\nLas luces refractadas nunca desaparecen, cegadoras, interminables y aterradoras.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas. Canjeable por armas limitadas.\r\nLas luces deslumbrantes refractadas interminablemente pero aterradoramente nunca se desvanecen.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -541,7 +541,7 @@
 	"WeaponFragment_UP10": {
 		"name": "Oro Llameante (Truco)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -552,7 +552,7 @@
 	"WeaponFragment_UP11": {
 		"name": "Oro Llameante (Cera)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -563,7 +563,7 @@
 	"WeaponFragment_UP12": {
 		"name": "Oro Llameante (Estrellas)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -574,7 +574,7 @@
 	"WeaponFragment_UP13": {
 		"name": "Oro Llameante (Decreto)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -585,7 +585,7 @@
 	"WeaponFragment_UP14": {
 		"name": "Oro Llameante (Fusión)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -596,7 +596,7 @@
 	"WeaponFragment_UP15": {
 		"name": "Oro Llameante (Mijo de Té)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -607,7 +607,7 @@
 	"WeaponFragment_UP16": {
 		"name": "Oro Llameante (Movimiento)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -618,7 +618,7 @@
 	"WeaponFragment_UP17": {
 		"name": "Oro Llameante (Pluma Bermellón)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -629,7 +629,7 @@
 	"WeaponFragment_UP18": {
 		"name": "Oro llameante",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -640,7 +640,7 @@
 	"WeaponFragment_UP19": {
 		"name": "Oro llameante",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Se cambia por armas de edición limitada <Red>(se convierte en oro negro de valor equivalente al final de Pedido Limitado)</>."
 		],
@@ -651,7 +651,7 @@
 	"WeaponFragment_UP20": {
 		"name": "Oro Llameante (Constante)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Ficha forjada por herreros a partir de ciertas armas de Omnio recicladas. Más que una moneda, es un artefacto que circula en un canal especial.",
+		"description": "Ficha forjada por herreros a partir de armas de Omnio recicladas específicas. Más que una moneda, son como piezas de arte que pueden ser intercambiadas por armas exclusivas.",
 		"source": [
 			"Puede canjearse por armas en la Tienda de Armas."
 		],

@@ -1,8 +1,25 @@
 {
+	"fashion_dress_73": {
+		"name": "ช่วงเวลาที่สนุกสนาน",
+		"description": "การทำงานหยุด, การเรียนรู้หยุด, ต่อไปคือเวลาพักผ่อน, ก็จะพักผ่อนก่อน... ศตวรรษนึงเถอะ!",
+		"type": "Dress",
+		"source": "จากกิจกรรม",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"id": "fashion_dress_73"
+	},
+	"fashion_dress_74": {
+		"name": "หมู่มวลบุปผาท่ามกลางนภา",
+		"description": "นกบินผ่านท้องฟ้าที่สดใส ขนปลิวลงมาพร้อมกับดอกไม้ที่ร่วงลงมาเต้นติว ปลุกคนที่กำลังหลับใต้ต้นไม้เพื่อหลบร้อนในเวลาบ่าย",
+		"type": "Dress",
+		"source": "บัตรพาสขั้นสูงรับได้ในช่วงเวลาจำกัด",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"id": "fashion_dress_74"
+	},
 	"fashion_dress_72": {
 		"name": "สเปเชียลซัมเมอร์",
 		"description": "คุณรู้สึกถึงฤดูร้อนอย่างไร: หวานหรือเปรี้ยว, ร้อนแรงเหมือนแสงอาทิตย์หรือเฉื่อยชาเหมือนลมทะเล? มันดูเหมือนว่าไม่สามารถนิยามได้ง่าย ๆ  ดังนั้น ทำไมไม่ผสมความรู้สึกเหล่านี้เข้าด้วยกัน รอจนกว่ามันจะเป็นฟองสีชมพู แล้วก็ดื่มมันหมดเลย",
 		"type": "Dress",
+		"source": "ได้รับจากกิจกรรมกาชาปองสเปเชียลซัมเมอร์",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_Swim_2024.webp",
 		"id": "fashion_dress_72"
 	},
@@ -1266,9 +1283,17 @@
 		"name": "ปีกจักรกลเรืองแสง",
 		"description": "สยายปีกแล้วโบยบินไปให้สุด แสงสีรุ้งตัดค่ำคืนที่ฝนพรำ ประกาศกร้าวว่าใครคือราชาแห่งเมือง",
 		"type": "Glider",
-		"source": "รุ่นลิมิเต็ดฉลองครบรอบ 2 ปี",
+		"source": "ได้รับจากอีเวนต์ครบรอบ 2 ปี",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"id": "fashion_glider_5"
+	},
+	"fashion_glider_SP": {
+		"name": "สายรุ้งแห่งคืน",
+		"description": "ตำนานเมืองใหม่ล่าสุด - สายรุ้งที่ปรากฏเฉพาะในเวลากลางคืน นั่นก็คืองานชิ้นเอกของเจ็ตแพ็กรุ่นนี้ แล้วก็... คนที่ทำเรื่องนี้ขึ้นมานี่คือใครเนี่ย...",
+		"type": "Glider",
+		"source": "จากกิจกรรม",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"id": "fashion_glider_SP"
 	},
 	"fashion_skateboard_1": {
 		"name": "เจ็ตบอร์ด 2",

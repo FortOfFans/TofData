@@ -1949,6 +1949,22 @@
 		"type": "GIFT",
 		"id": "Blindbox_mix2"
 	},
+	"Blindbox_mix3": {
+		"name": "Outfit-Geheimnistruhe",
+		"description": "Geheimnistruhe mit Outfits. Mögest du darin dein Lieblingsoutfit finden.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3"
+	},
+	"Blindbox_PS": {
+		"name": "Geheimnistruhe „Fahrzeug“ (Windläufer)",
+		"description": "Geheimnistruhe mit Fahrzeugen. Mögest du dein Lieblingsfahrzeug darin finden.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS"
+	},
 	"Blindbox_03_pack": {
 		"name": "Geschenktruhe „Sonnenwärme“",
 		"description": "Befristete Geschenktruhe, um die Ankunft des Frühlings zu feiern. Beim Öffnen einer Truhe stellt sich immer eine Mischung aus Vorfreude und Nervosität ein.",
@@ -1996,6 +2012,22 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
 		"type": "GIFT",
 		"id": "Blindbox_mix2_pack"
+	},
+	"Blindbox_mix3_pack": {
+		"name": "Outfit-Geheimnistruhe",
+		"description": "Geheimnistruhe mit Outfits. Mögest du darin dein Lieblingsoutfit finden.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/liuguanglihe01.webp",
+		"type": "GIFT",
+		"id": "Blindbox_mix3_pack"
+	},
+	"Blindbox_PS_pack": {
+		"name": "Geheimnistruhe „Fahrzeug“ (Windläufer)",
+		"description": "Geheimnistruhe mit Fahrzeugen. Mögest du dein Lieblingsfahrzeug darin finden.",
+		"rarity": 4,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/dressbox2.webp",
+		"type": "GIFT",
+		"id": "Blindbox_PS_pack"
 	},
 	"gift_BigClient_01": {
 		"name": "Willkommenspaket für den Wanderer",
@@ -3101,6 +3133,22 @@
 		"type": "GIFT",
 		"id": "bag_MidAutumnFestival_12"
 	},
+	"bag_equip8_ssr_autouse": {
+		"name": "Festungs-Kampfausrüstungssatz",
+		"description": "Truhe",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_equip_orange.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_ssr_autouse"
+	},
+	"bag_equip8_T2_autouse": {
+		"name": "N/A",
+		"description": "",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/Equip_Balance/cloth_orange_T2.webp",
+		"type": "GIFT",
+		"id": "bag_equip8_T2_autouse"
+	},
 	"gift_equip_white": {
 		"name": "Zufällige Ausrüstungstruhe",
 		"description": "Zufällige Truhe",
@@ -3481,7 +3529,7 @@
 		"name": "Sternenweg-Paket IV",
 		"description": "Von der Pause zurückgekehrte Vollstrecker, ich hoffe, ihr habt nicht vergessen, wie man kämpft, und wisst, dass all eure Bemühungen belohnt werden.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_3.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_GreatRegression_operation_2.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_4"
 	},
@@ -3489,7 +3537,7 @@
 		"name": "Sternenweg-Paket V",
 		"description": "Von der Pause zurückgekehrte Vollstrecker, ich hoffe, ihr habt nicht vergessen, wie man kämpft, und wisst, dass all eure Bemühungen belohnt werden.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_core_orange.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/treasure_gacha_5.webp",
 		"type": "GIFT",
 		"id": "bag_GreatRegression_5"
 	},
@@ -4670,7 +4718,7 @@
 		"id": "bag_chat_qipao154"
 	},
 	"bag_chat_qipao155": {
-		"name": "Geschenktruhe „Urlaubsufer“",
+		"name": "Geschenktruhe „Urlaubsküste“",
 		"description": "Den heimkehrenden Graufuchs zu einer Freudenfeuerparty zu schleppen, ist keine leichte Aufgabe. Aber sobald alle versammelt sind, kann der Unfug und die Ausgelassenheit beginnen!",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao155.webp",
@@ -4678,20 +4726,36 @@
 		"id": "bag_chat_qipao155"
 	},
 	"bag_chat_qipao156": {
-		"name": "Geschenktruhe „Ozean Glanz“",
+		"name": "Geschenktruhe „Meeresglanz“",
 		"description": "Diese flüchtige, lebendige Gestalt gleitet schnell durch die Tiefen des Meeres.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
 		"type": "GIFT",
 		"id": "bag_chat_qipao156"
 	},
+	"bag_chat_qipao158": {
+		"name": "Geschenktruhe „Urlaubsschönheit“",
+		"description": "Meryl hat endlich Dienstfrei und genießt einige wohlverdiente Urlaubszeit.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao158.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao158"
+	},
 	"bag_chat_qipao161": {
 		"name": "Geschenktruhe „Endloser Sommer“",
 		"description": "Jede köstliche Kugel Eiscreme versichert mir, dass dieser Sommer niemals vergehen wird.",
 		"rarity": 5,
-		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao156.webp",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao161.webp",
 		"type": "GIFT",
 		"id": "bag_chat_qipao161"
+	},
+	"bag_chat_qipao164": {
+		"name": "Eisige Blaue Rose Geschenktruhe",
+		"description": "Die eisig blaue Rose blüht halb auf, als würde sie den Ritter aus der Prophezeiung erwarten, der sie pflücken kommt.",
+		"rarity": 5,
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/bag_chat_qipao164.webp",
+		"type": "GIFT",
+		"id": "bag_chat_qipao164"
 	},
 	"bag_emoji_1": {
 		"name": "„Tower of Fantasy“-Simulacrum-Forschung I",
@@ -5348,7 +5412,7 @@
 		"id": "item_hide_yaxianew_fenweibox03"
 	},
 	"item_hide_yaxianew_fenweibox04": {
-		"name": "Zivilen Anti-Luft Verteidigungsmörser Gutschein",
+		"name": "Ziviler-Anti-Luft-Verteidigungsmörser-Gutschein",
 		"description": "Kann verwendet werden, um 50 Norn Rabatt zu erhalten, wenn Sie online für zivile Flugabwehr-Mörser und deren Munition bezahlen, sofern die tatsächliche Zahlung nicht weniger als 8,888,888 Norn beträgt. Sie können auch den untenstehenden Einlösungscode eingeben, um einzulösen. Der Gutschein wird ungültig, nachdem der Einlösungscode verwendet wurde!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/zujian/rechargegift.webp",
@@ -5356,8 +5420,8 @@
 		"id": "item_hide_yaxianew_fenweibox04"
 	},
 	"item_hide_yaxianew_nuoyuan01": {
-		"name": "Gewöhnliche Tauschkarte",
-		"description": "Eine unauffällige Tauschkarte. Verwenden Sie sie nach dem Einlösen im Shop, um eine kleine Menge Norn zu erhalten.",
+		"name": "Fortgeschrittene Austauschkarte",
+		"description": "Eine glorreiche Austauschkarte. Verwenden Sie es nach dem Einlösen im Shop, um eine große Menge Norn zu erhalten.",
 		"rarity": 5,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_red.webp",
 		"type": "GIFT",
@@ -5372,8 +5436,8 @@
 		"id": "item_hide_yaxianew_nuoyuan02"
 	},
 	"item_hide_yaxianew_nuoyuan03": {
-		"name": "Fortgeschrittene Austauschkarte",
-		"description": "Eine glorreiche Austauschkarte. Verwenden Sie es nach dem Einlösen im Shop, um eine große Menge Norn zu erhalten.",
+		"name": "Gewöhnliche Tauschkarte",
+		"description": "Eine unauffällige Tauschkarte. Verwenden Sie sie nach dem Einlösen im Shop, um eine kleine Menge Norn zu erhalten.",
 		"rarity": 2,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_Lipingka_greener.webp",
 		"type": "GIFT",
@@ -5956,7 +6020,7 @@
 		"id": "Blindbox_6_OS_pack"
 	},
 	"Blindbox_5_hazx_OS": {
-		"name": "Strandstern",
+		"name": "Seestern",
 		"description": "Fülle dein Herz mit Sonnenschein, genieße Strandparty-Leckereien und mache jeden Moment zu einer Überraschung!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",
@@ -5964,7 +6028,7 @@
 		"id": "Blindbox_5_hazx_OS"
 	},
 	"Blindbox_5_hazx_OS_pack": {
-		"name": "Strandstern",
+		"name": "Seestern",
 		"description": "Fülle dein Herz mit Sonnenschein, genieße Strandparty-Leckereien und mache jeden Moment zu einer Überraschung!",
 		"rarity": 4,
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/haianzhixing.webp",

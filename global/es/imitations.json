@@ -1,4 +1,116 @@
 {
+	"imitation_61": {
+		"name": "Meryl Corazón de Hierro",
+		"rarity": 5,
+		"advanceId": "imitation_61L1",
+		"weaponId": "merylx_thunder",
+		"assetsA0": {
+			"avatar": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_meilierkai.webp",
+			"titlePicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_61.webp",
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/meilierkai2.webp",
+			"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_imitation_61.webp",
+			"namePicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/es/Resources/UI/shizhuang/nitai/imitation_name_61.webp",
+			"grayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_imitation_61_2.webp",
+			"thumbPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_61_xiangqing.webp",
+			"weaponShowPicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/equiptips/weapon_imitation/tips_avatar_ssr_meilierkai.webp",
+			"activeImitation": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61.webp",
+			"inactiveImitation": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61_2.webp",
+			"advancePainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61.webp",
+			"advanceGrayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61_2.webp",
+			"backPhoto": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_Details_bg.webp",
+			"rarityIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/ssr.webp",
+			"lotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/chouka/Card/Weapon/UI_meilierkai.webp",
+			"matrixPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/SuitAvatar/avatar_yizhitips_meilierkai_big.webp",
+			"descPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/es/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_61.webp"
+		},
+		"assetsA3": {
+			"avatar": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_meilierkai.webp",
+			"titlePicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_61.webp",
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/meilierkai2.webp",
+			"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_imitation_61.webp",
+			"namePicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/es/Resources/UI/shizhuang/nitai/imitation_name_61.webp",
+			"grayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_imitation_61_2.webp",
+			"thumbPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_61_xiangqing.webp",
+			"weaponShowPicture": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/equiptips/weapon_imitation/tips_avatar_ssr_meilierkai.webp",
+			"activeImitation": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61.webp",
+			"inactiveImitation": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/imitation_touxiang_61_2.webp",
+			"advancePainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/erjie_imitation_touxiang_61.webp",
+			"advanceGrayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/erjie_imitation_touxiang_61_2.webp",
+			"backPhoto": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/imitation_Details_bg.webp",
+			"rarityIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/xiangqing/ssr.webp",
+			"lotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/chouka/Card/Weapon/UI_meilierkai.webp",
+			"matrixPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/SuitAvatar/avatar_yizhitips_meilierkai_big.webp",
+			"descPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/es/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_61.webp"
+		},
+		"avatarId": "meilierx",
+		"age": "10 de octubre",
+		"height": "170 cm",
+		"gender": "Femenino",
+		"state": "Federación de Norns",
+		"city": "",
+		"like": [
+			"collection",
+			"decorate",
+			"Genet"
+		],
+		"dislike": [
+			"Jiuyu",
+			"Vera",
+			"Asshai"
+		],
+		"unlockInfo": "Depósito limitado",
+		"va": {
+			"cn": "秦紫翼",
+			"jp": "和久井",
+			"en": "Kira",
+			"kr": "이다은",
+			"pt": "N/A"
+		},
+		"awakening": [
+			{
+				"name": "Sensorial",
+				"description": "Aumenta el daño final en un **14%**.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/meilierkai_2x.webp",
+				"need": 1200
+			},
+			{
+				"name": "Frecuencia",
+				"description": "Aumenta el daño final en **18%** y otorga **1000** de carga de arma al entrar en estado de combate. Cuando **Filo de Asedio** está equipado, aumenta el daño eléctrico en **15%**. Cuando **Filo de Asedio** está en la ranura principal, inflige un daño adicional igual al **250%** del ATQ cada seg a los enemigos cercanos. Cuando Resonancia de Fortaleza se activa, aumenta la destrucción en **50%**.",
+				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/4X/meilierkai.webp",
+				"need": 4000
+			}
+		],
+		"fashion": [
+			{
+				"name": "Verano Eterno",
+				"description": "Es un largo día de verano. La señorita Meryl, actualmente de vacaciones, está eligiendo un traje de baño en una tienda de ropa de baño.",
+				"rarity": 5,
+				"source": "De los eventos",
+				"simulacrumId": "imitation_61",
+				"assets": {
+					"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX.webp",
+					"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MLEX_Lock.webp"
+				},
+				"weaponId": "Paradox_fire_fashion_imitationUI",
+				"id": "imitation_fashion_61"
+			}
+		],
+		"nitai": [
+			{
+				"title": "Meryl Corazón de Hierro: Filo de Asedio",
+				"description": "Desbloquea Filo de Asedio para aventurarte en el mundo de Tower of Fantasy como Meryl Corazón de Hierro, el Simulacrum del arma.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/es/Resources/UI/Scenery/monster/UI_Nitai_meilierkai_SSR_L10N.webp"
+			},
+			{
+				"title": "Meryl Corazón de Hierro: Filo de Asedio",
+				"description": "Instrucciones para Filo de Asedio. Aprende cómo usar las habilidades de este tipo de arma.",
+				"photo": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/L10N/es/Resources/UI/Scenery/Minigame/UI_operate_pochengzhifeng_L10N.webp"
+			}
+		],
+		"version": "CN-Only",
+		"limited": true,
+		"id": "imitation_61"
+	},
 	"imitation_62": {
 		"name": "Nola",
 		"rarity": 5,
@@ -188,7 +300,7 @@
 			},
 			{
 				"name": "Nuevo Comienzo",
-				"description": "Aumenta el daño final en un **18%**.\r\nAl equipar **Bate Potente**, aumenta adicionalmente el daño final en un **25%** y también aumenta adicionalmente el daño físico infligido a los jefes en un **20%**.",
+				"description": "Aumenta el daño final en un **18%**.\r\nAl equipar **Bate Potente**, aumenta adicionalmente el daño final en un **15%** y también aumenta adicionalmente el daño físico infligido a los jefes en un **12%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/anke_2x.webp",
 				"need": 4000
 			}
@@ -530,7 +642,7 @@
 			},
 			{
 				"name": "Guardia",
-				"description": "Aumenta el daño final en un **18%**. Si **Resonancia de Ataque** está activa, aumenta el daño eléctrico en un **22%**. Si **cualquier tipo de Resonancia distinta a Resonancia de Ataque** está activa, aumenta el efecto de bloqueo de los **Disparos Cargados** a un **12%** de los PS Máx. del nómada y aumenta la duración del **campo magnético ralentizador** de **Arco Rápido** y **Asalto Aéreo** a **4** seg.",
+				"description": "Aumenta el daño final en un **18%**. Si **Resonancia de Ataque** está activa, aumenta el daño eléctrico en un **8%**. Si **cualquier tipo de Resonancia distinta a Resonancia de Ataque** está activa, aumenta el efecto de bloqueo de los **Disparos Cargados** a un **12%** de los PS Máx. del Nómada y aumenta la duración del **campo magnético ralentizador** de **Arco Rápido** y **Asalto Aéreo** a **4** seg.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/lingboli_2x.webp",
 				"need": 4000
 			}
@@ -1391,13 +1503,13 @@
 		"awakening": [
 			{
 				"name": "Danza de Loto",
-				"description": "Aumenta el daño final un **0%**.\r\nDespués de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** durante **30**seg.",
+				"description": "Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **4.5%** por **30**seg.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/feise_2x.webp",
 				"need": 1200
 			},
 			{
 				"name": "Sombra Oscura",
-				"description": "Aumenta el daño final un **0%**.\r\nDespués de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** durante **30**seg.",
+				"description": "Después de usar **Remolino**, por **cada** arma de fuego equipada, aumenta el daño final un **9%** por **30**seg.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/feise.webp",
 				"need": 4000
 			}
@@ -1495,7 +1607,7 @@
 			},
 			{
 				"name": "Jade Lustroso",
-				"description": "Aumenta el daño final un **18%**.\r\nCuando se equipa con **3** armas eléctricas, aumenta el daño eléctrico un **6%**. La duración de la mejora de la tasa crítica se amplía en **25**seg. Tras activar este efecto, aumenta el daño crítico un **0%** durante **30**seg.",
+				"description": "Aumenta el daño final un **18%**.\r\nCuando se equipa con **3** armas eléctricas, aumenta el daño eléctrico un **6%** y la duración de la mejora de la tasa crítica se amplía por **25**seg.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/mimi.webp",
 				"need": 4000
 			}
@@ -1700,7 +1812,7 @@
 			"Asshai",
 			"Vera"
 		],
-		"unlockInfo": "Depósito limitado",
+		"unlockInfo": "Unidad",
 		"va": {
 			"cn": "秦文静",
 			"jp": "柚木",
@@ -1711,13 +1823,13 @@
 		"awakening": [
 			{
 				"name": "Qi Estable",
-				"description": "Aumenta el daño final un **13%**.\r\nMientras estés en la forma de **Artista Marcial**, aumenta tu daño final un **7%**. Tras impactar con **Impacto Certero**, aumenta el daño de escarcha que los objetivos impactados reciben un **0%** por **20**seg.\r\nMientras estés en la forma de **Fuerza Arrolladora**, **cada** arma de escarcha equipada, aumenta el daño infligido al consumir **Espíritu de Pelea** un **9%**. Al equipar **3** armas de escarcha, aumenta el daño de escarcha un **8%**.",
+				"description": "Aumenta el daño final un **13%**.\r\nMientras estés en forma de **Artista Marcial**, aumenta el daño final un **7%**.\r\nEn la forma de **Fuerza Arrolladora**, por **cada** arma de escarcha equipada, aumenta el daño infligido al consumir **Espíritu de Pelea** un **9%**. Al equipar **3** armas de escarcha, aumenta el daño de escarcha un **8%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yulan_2x.webp",
 				"need": 1200
 			},
 			{
 				"name": "Atención",
-				"description": "Aumenta el daño final un **18%**.\r\nMientras estés en la forma de **Artista Marcial**, aumenta tu daño final un **7%**. Tras impactar con **Impacto Certero**, aumenta el daño de escarcha que los objetivos impactados reciben un **0%** por **20**seg.\r\nMientras estés en la forma de **Fuerza Arrolladora**, **cada** arma de escarcha equipada, aumenta el daño infligido al consumir **Espíritu de Pelea** un **9%**. Al equipar **3** armas de escarcha, aumenta el daño de escarcha un **8%**.",
+				"description": "Aumenta el daño final un **18%**.\r\nMientras estés en forma de **Artista Marcial**, aumenta el daño final un **7%**.\r\nEn la forma de **Fuerza Arrolladora**, por **cada** arma de escarcha equipada, aumenta el daño infligido al consumir **Espíritu de Pelea** un **9%**. Al equipar **3** armas de escarcha, aumenta el daño de escarcha un **8%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yulan.webp",
 				"need": 4000
 			}
@@ -1736,7 +1848,7 @@
 			}
 		],
 		"version": "3.0",
-		"limited": true,
+		"limited": false,
 		"id": "imitation_38"
 	},
 	"imitation_37": {
@@ -2136,7 +2248,7 @@
 			},
 			{
 				"name": "Reflejo de Luna",
-				"description": "Aumenta el daño final un **18%**.\r\n**Potenciación de Técnica de Dispersión:**\r\nPotenciación de Enfoque Hídrico: Aumenta todo el daño elemental un **20%**.\r\nPotenciación de Vórtice: Si **Brazalete Lunaestrella** está en la ranura principal, el daño causado por Vórtice aumenta un **150%**. El daño causado por Vórtice aumenta otro **100%** cuando Resonancia Alterada está activa.\r\nPotenciación de Fuerza Torrencial: Aumenta el daño de habilidad y el daño de descarga un **45%**.\r\nPotenciación de Torbellino: Al infligir daño físico mientras Torbellino está en efecto, obtienes un refuerzo de daño final adicional, hasta **64%** (se maximiza a los 10seg).\r\nPotenciación de Grilletes de Agua: Extiende la duración de Prisión de Agua a **5**seg mientras Resonancia de Sacramento está activa, y potencia la reducción de resistencia base de Prisión de Agua un **15%**.\r\nPotenciación de Manantial: Aumenta la resistencia un (**PS Máx.**/**50000**)% mientras Resonancia de Fortaleza está activa, hasta un máximo del **20%**.",
+				"description": "Aumenta el daño final un **18%**.\r\n**Potenciación de Técnica de Dispersión:**\r\nPotenciación de Enfoque Hídrico: aumenta todo el daño elemental un **12%**.\r\nPotenciación de Vórtice: si **Brazalete Lunaestrella** está en la ranura principal, aumenta el daño causado por Vórtice un **30%**.\r\nPotenciación de Fuerza Torrencial: aumenta el daño de descarga un **12%**.\r\nPotenciación de Torbellino: al infligir daño físico mientras Torbellino está en efecto, obtienes un refuerzo de daño final, hasta un **33%** (se maximiza a los 10seg).\r\nPotenciación de Grilletes de Agua: amplía la duración de Prisión de Agua a **5**seg mientras Resonancia de Sacramento está activa, y la reducción de resistencia base de Prisión de Agua aumenta a **10%**.\r\nPotenciación de Manantial: aumenta la resistencia un (**PS Máx.**/**100000**)% mientras Resonancia de Fortaleza está activa, hasta un máximo del **10%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/4X/feiouna.webp",
 				"need": 4000
 			}
@@ -3561,7 +3673,7 @@
 		],
 		"fashion": [
 			{
-				"name": "Shirli",
+				"name": "¡Shirli!",
 				"description": "Es una imagen extraída de recuerdos... Es solo una ilusión.",
 				"rarity": 5,
 				"source": "De los eventos",

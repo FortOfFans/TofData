@@ -8,7 +8,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_02.webp"
 	},
 	"Avatar03": {
-		"name": "Shirli",
+		"name": "Shirli!",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_shali.webp"
 	},
 	"Avatar04": {
@@ -25,6 +25,14 @@
 	},
 	"meilier_lv2": {
 		"name": "Meryl: Awakened",
+		"icon": "None.webp"
+	},
+	"meilierx": {
+		"name": "Meryl Ironheart",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_meilierkai.webp"
+	},
+	"meilierx_lv2": {
+		"name": "Meryl Ironheart: Bangkit",
 		"icon": "None.webp"
 	},
 	"mimi": {
@@ -867,6 +875,10 @@
 		"name": "Waktunya Pesta",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_157.webp"
 	},
+	"Avatar_158": {
+		"name": "Piknik Cantik",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_158.webp"
+	},
 	"Avatar_159": {
 		"name": "Ahli Snorkel",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_159.webp"
@@ -886,6 +898,14 @@
 	"Avatar_163": {
 		"name": "Master Tanah",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_163.webp"
+	},
+	"Avatar_164": {
+		"name": "Mawar Sedingin Es",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_164.webp"
+	},
+	"Avatar_165": {
+		"name": "Nuansa Mawar Sejuk",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_165.webp"
 	},
 	"Avatar_2nd_Anni": {
 		"name": "Deklarasi Ulang Tahun",
@@ -1504,7 +1524,7 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_42.webp"
 	},
 	"Avatar_ps_03": {
-		"name": "N/A",
+		"name": "Syukur atas Pendampinganmu",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Ps_03.webp"
 	},
 	"Ace": {
@@ -1520,11 +1540,15 @@
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_43.webp"
 	},
 	"Avatar_Overseas_44": {
-		"name": "N/A",
+		"name": "Nola yang tersenyum",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_44.webp"
 	},
 	"Avatar_Overseas_45": {
-		"name": "N/A",
+		"name": "Kejutan B-Day Mi-a",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_45.webp"
+	},
+	"Avatar_Overseas_46": {
+		"name": "N/A",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/ResourcesOverSea/Icon/Avatar/Avatar_Overseas_46.webp"
 	}
 }

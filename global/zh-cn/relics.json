@@ -659,6 +659,39 @@
 		"version": "3.7",
 		"id": "artifact_ssr_023"
 	},
+	"artifact_ssr_024": {
+		"name": "增益力场",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "",
+		"source": "增益力场分为进攻/防御两种形态，不同形态提供不同增益效果，可通过使用源器进行切换(战斗状态中才可使用及生效)。\r\n进攻形态下，获得**7%**增伤。\r\n防御形态下，获得**10%**减伤，自身受到致命伤害时，抵挡一次致死伤害并免疫伤害一小段时间，该效果每**240**秒至多触发一次。\r\n**考恩特**、**考恩特Ⅱ型**上阵时不可使用**增益力场**。",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"rarity": 5,
+		"AttributeID": "artifact_adv_048",
+		"advancement": [
+			{
+				"description": "防御形态下减伤效果提升至**20%**。",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "进攻形态下增伤效果提升至**11%**。",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "防御形态下抵挡致死效果的触发间隔缩短至每隔**120**秒至多触发一次。",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "提升**2%**异能抗性，不上阵也生效，巅峰联赛中不生效。",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "进攻形态下增伤效果提升至**16%**。",
+				"id": "artifact_adv_048"
+			}
+		],
+		"version": "CN-Only",
+		"id": "artifact_ssr_024"
+	},
 	"artifact_sr_001": {
 		"name": "浮游冰炮",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -702,7 +735,7 @@
 		"AttributeID": "artifact_adv_015",
 		"advancement": [
 			{
-				"description": "每**100**秒恢复1次充能，滑翔不消耗耐力",
+				"description": "每**20**秒恢复1次充能，滑翔不消耗耐力",
 				"id": "artifact_adv_015"
 			},
 			{
@@ -710,7 +743,7 @@
 				"id": "artifact_adv_015"
 			},
 			{
-				"description": "每**60**秒恢复1次充能",
+				"description": "每**15**秒恢复1次充能",
 				"id": "artifact_adv_015"
 			},
 			{

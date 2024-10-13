@@ -442,7 +442,7 @@
 	"WeaponFragment_UP1": {
 		"name": "Flame gold (Red Lotus)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -453,7 +453,7 @@
 	"WeaponFragment_UP2": {
 		"name": "Flame Gold (Blaze)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -464,7 +464,7 @@
 	"WeaponFragment_UP3": {
 		"name": "Flame gold (White Moon)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -475,7 +475,7 @@
 	"WeaponFragment_UP4": {
 		"name": "Flame gold (Dawn)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -486,7 +486,7 @@
 	"WeaponFragment_UP5": {
 		"name": "Flame gold (Rebirth)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -497,7 +497,7 @@
 	"WeaponFragment_UP6": {
 		"name": "Flame gold (Ironheart)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -508,7 +508,7 @@
 	"WeaponFragment_UP7": {
 		"name": "Flame Gold (Sun)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -519,7 +519,7 @@
 	"WeaponFragment_UP8": {
 		"name": "Flame Gold (Flow)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -530,7 +530,7 @@
 	"WeaponFragment_UP9": {
 		"name": "Flame Gold (Shadow)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel. Redeemable for limited weapons.\r\nDazzling lights refracted endlessly yet frighteningly never fade away.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons. Redeemable for limited weapons.\r\nDazzling lights refracted endlessly yet frighteningly never fade away.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -541,7 +541,7 @@
 	"WeaponFragment_UP10": {
 		"name": "Flame Gold (Trickery)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -552,7 +552,7 @@
 	"WeaponFragment_UP11": {
 		"name": "Flame Gold (Waxen)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -563,7 +563,7 @@
 	"WeaponFragment_UP12": {
 		"name": "Flame Gold (Stars)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -574,7 +574,7 @@
 	"WeaponFragment_UP13": {
 		"name": "Flame Gold (Decree)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -585,7 +585,7 @@
 	"WeaponFragment_UP14": {
 		"name": "Flame Gold (Merger)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -596,7 +596,7 @@
 	"WeaponFragment_UP15": {
 		"name": "Flame Gold (Tea Millet)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -607,7 +607,7 @@
 	"WeaponFragment_UP16": {
 		"name": "Flame Gold (Movement)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -618,7 +618,7 @@
 	"WeaponFragment_UP17": {
 		"name": "Flame Gold (Vermilion Feather)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -629,7 +629,7 @@
 	"WeaponFragment_UP18": {
 		"name": "Flame Gold",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -640,7 +640,7 @@
 	"WeaponFragment_UP19": {
 		"name": "Flame Gold",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Exchange for limited-edition weapons <Red>(converted to black gold in equal value after Limited Order is over)</>."
 		],
@@ -651,7 +651,7 @@
 	"WeaponFragment_UP20": {
 		"name": "Flame Gold (Constant)",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+		"description": "Token forged by smiths from specific recycled Omnium weapons. More like pieces of art than a currency, these can be exchanged for exclusive weapons.",
 		"source": [
 			"Can be used to exchange for weapons at the Weapon Store."
 		],

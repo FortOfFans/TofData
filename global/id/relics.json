@@ -659,6 +659,39 @@
 		"version": "3.7",
 		"id": "artifact_ssr_023"
 	},
+	"artifact_ssr_024": {
+		"name": "Buff Dealer",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "",
+		"source": "",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Artifact/itemicon/artifact_ssr_024.webp",
+		"rarity": 5,
+		"AttributeID": "artifact_adv_048",
+		"advancement": [
+			{
+				"description": "Meningkatkan efek DMG Reduction menjadi **20%** saat dalam bentuk defensif.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Meningkatkan efek Damage Boost menjadi **11%** saat dalam bentuk ofensif.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Mengurangi interval pemicu untuk memblokir Damage Mematikan menjadi satu kali setiap **120** detik.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Meningkatkan Altered Resistance sebesar **2%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+				"id": "artifact_adv_048"
+			},
+			{
+				"description": "Meningkatkan efek Damage Boost menjadi **16%** saat dalam bentuk ofensif.",
+				"id": "artifact_adv_048"
+			}
+		],
+		"version": "CN-Only",
+		"id": "artifact_ssr_024"
+	},
 	"artifact_sr_001": {
 		"name": "Hovering Cannon",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -702,7 +735,7 @@
 		"AttributeID": "artifact_adv_015",
 		"advancement": [
 			{
-				"description": "Mengisi 1 Charge setiap **100** detik. Glide tidak lagi butuh Stamina.",
+				"description": "Mengisi 1 Charge setiap **20** detik. Meluncur tidak lagi menghabiskan stamina.",
 				"id": "artifact_adv_015"
 			},
 			{
@@ -710,7 +743,7 @@
 				"id": "artifact_adv_015"
 			},
 			{
-				"description": "Mengisi **1** Charge setiap 60 detik.",
+				"description": "Dapatkan kembali 1 isi daya setiap **15** detik.",
 				"id": "artifact_adv_015"
 			},
 			{

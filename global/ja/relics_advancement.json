@@ -356,7 +356,7 @@
 		"id": "artifact_adv_016"
 	},
 	"1107": {
-		"description": "**100**秒ごとにエナジー注入を1回回復する。滑空はスタミナを消費しない",
+		"description": "**20**秒ごとに、エナジー注入が1回回復。グライダーはスタミナを消費しない",
 		"id": "artifact_adv_015"
 	},
 	"1109": {
@@ -364,7 +364,7 @@
 		"id": "artifact_adv_015"
 	},
 	"1110": {
-		"description": "**60**秒ごとにエナジー注入を1回回復する",
+		"description": "**15**秒ごとに、エナジー注入が1回回復",
 		"id": "artifact_adv_015"
 	},
 	"1111": {
@@ -1140,23 +1140,23 @@
 		"id": "artifact_adv_047"
 	},
 	"1327": {
-		"description": "",
+		"description": "防御形態時、ダメージ軽減効果+**20%**",
 		"id": "artifact_adv_048"
 	},
 	"1328": {
-		"description": "",
+		"description": "攻撃形態では、ダメージUP効果が**11%**まで上昇。",
 		"id": "artifact_adv_048"
 	},
 	"1329": {
-		"description": "",
+		"description": "防御形態では、致死効果をブロックする効果の発動時間が**120**秒ごとに1回のみの発動に短縮される。",
 		"id": "artifact_adv_048"
 	},
 	"1330": {
-		"description": "",
+		"description": "異能耐性+**2%**。セットしていなくても有効、トップリーグでは無効。",
 		"id": "artifact_adv_048"
 	},
 	"1331": {
-		"description": "",
+		"description": "攻撃形態では、ダメージUP効果が**16%**まで上昇。",
 		"id": "artifact_adv_048"
 	}
 }

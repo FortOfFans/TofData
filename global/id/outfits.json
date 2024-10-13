@@ -1,8 +1,25 @@
 {
+	"fashion_dress_73": {
+		"name": "Waktu Senggang",
+		"description": "Hentikan semua aktivitas kerja dan belajar. Waktunya beristirahat. Mari kita istirahat sejenak... selama satu abad!",
+		"type": "Dress",
+		"source": "Dari event",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55.webp",
+		"id": "fashion_dress_73"
+	},
+	"fashion_dress_74": {
+		"name": "Flora Cerah",
+		"description": "Sebuah burung meluncur melintasi langit yang cerah, bulu-bulu berputar turun bersama bunga yang jatuh, membangunkan pelancong yang tertidur di bawah pohon.",
+		"type": "Dress",
+		"source": "Tersedia untuk waktu terbatas dari Advanced Pass",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_QKLY.webp",
+		"id": "fashion_dress_74"
+	},
 	"fashion_dress_72": {
 		"name": "Edisi Musim Panas",
 		"description": "Bagaimana kesanmu tentang musim panas: manis atau asam? Apakah panas dan cerah atau santai seperti angin laut? Sulit untuk didefinisikan, jadi mengapa tidak mencampur semua perasaan itu bersama-sama, lihat mereka berubah menjadi gelembung pink, dan telan semuanya?",
 		"type": "Dress",
+		"source": "Diperoleh dari event gachapon Edisi Musim Panas",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_icon_shipin_Swim_2024.webp",
 		"id": "fashion_dress_72"
 	},
@@ -1266,9 +1283,17 @@
 		"name": "Neon Mech Wing",
 		"description": "Kembangkan sayapmu dan terbanglah dengan abadi. Pelangi menembus langit hujan kelabu, memproklamasikan raja yang sejati.",
 		"type": "Glider",
-		"source": "Edisi Terbatas Anniversary Kedua",
+		"source": "Diperoleh dari Anniversary ke-2",
 		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/Glider_2nd_anni.webp",
 		"id": "fashion_glider_5"
+	},
+	"fashion_glider_SP": {
+		"name": "Pita Temaram",
+		"description": "Legenda urban terbaru, pelangi yang hanya muncul di malam hari, sebenarnya adalah ciptaan dari jetpack ini. Sedangkan siapa yang berada di baliknya... itu masih menjadi misteri.",
+		"type": "Glider",
+		"source": "Dari event",
+		"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/Fashion_icon/s_glider.webp",
+		"id": "fashion_glider_SP"
 	},
 	"fashion_skateboard_1": {
 		"name": "Jetboard 2",
